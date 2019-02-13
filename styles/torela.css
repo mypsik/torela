@@ -32,6 +32,10 @@ nav a {
   padding: 50px 10px;
 }
 
+nav .lang {
+  float: right;
+}
+
 main {
   clear: both;
 }
