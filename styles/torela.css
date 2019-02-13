@@ -1,5 +1,5 @@
 html {
-  font-size: 16px;
+  font-size: 18px;
   font-family: sans-serif;
 }
 
@@ -27,7 +27,7 @@ a:hover {
 }
 
 nav {
-  font-size: 150%;
+  font-size: 1.3rem;
   line-height: 50px;
   padding: 95px 0;
 }
@@ -36,15 +36,24 @@ nav a {
   padding: 0 10px;
 }
 
+nav a.active {
+  color: black;
+  text-decoration: underline;
+}
+
 nav .lang {
   float: right;
 }
 
 main {
   clear: both;
+}
+
+.block {
   border: 1px dashed lightgray;
-  border-radius: 10px;
-  padding: 20px;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin-bottom: 2rem;
 }
 
 main > h1 {
@@ -53,4 +62,18 @@ main > h1 {
 
 main > p:last-child {
   margin-bottom: 0;
+}
+
+input:not([type=checkbox]):not([type=radio]), button, textarea, select {
+  font-size: 1rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+}
+
+input:not([type=checkbox]):not([type=radio]) {
+  border: 1px solid lightgray;
+}
+
+.form-row {
+  padding: 0.5rem 0;
 }
