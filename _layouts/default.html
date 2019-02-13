@@ -14,6 +14,8 @@
 <body>
   <header>
     <img src="/img/logo.png" class="logo" alt="Torela">
+
+    {%if page.lang == 'et'%}
     <nav>
       <a href="/">Tutvustus</a>
       <a href="">Galerii</a>
@@ -27,6 +29,40 @@
         <a href="/ru/">RU</a>
       </span>
     </nav>
+    {%endif%}
+
+    {%if page.lang == 'en'%}
+    <nav>
+      <a href="/en/">About</a>
+      <a href="">Gallery</a>
+      <a href="">Prices</a>
+      <a href="">Booking</a>
+      <a href="">Events</a>
+      <!--<a href="">Rules</a>-->
+      <a href="">Contact</a>
+      <span class="lang">
+        <a href="/">EE</a>
+        <a href="/ru/">RU</a>
+      </span>
+    </nav>
+    {%endif%}
+
+    {%if page.lang == 'ru'%}
+    <nav>
+      <a href="/ru/">Об игровой комнате</a>
+      <a href="">Галерея</a>
+      <a href="">Цены</a>
+      <a href="">Бронировать</a>
+      <a href="">События</a>
+      <!--<a href="">Правила</a>-->
+      <a href="">Контакт</a>
+      <span class="lang">
+        <a href="/">ET</a>
+        <a href="/en/">EN</a>
+      </span>
+    </nav>
+    {%endif%}
+
     <script>
       var menuItems = document.querySelectorAll('nav > a');
       for (var i = 0; i < menuItems.length; i++) {
