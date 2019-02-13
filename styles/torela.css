@@ -25,11 +25,12 @@ a:hover {
 
 nav {
   font-size: 150%;
-  line-height: 100px;
+  line-height: 50px;
+  padding: 95px 0;
 }
 
 nav a {
-  padding: 50px 10px;
+  padding: 0 10px;
 }
 
 nav .lang {
