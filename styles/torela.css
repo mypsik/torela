@@ -1,0 +1,37 @@
+html {
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+nav {
+  font-size: 150%;
+  line-height: 100px;
+}
+
+nav a {
+  padding: 50px 10px;
+}
+
+main {
+  clear: both;
+}
