@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | remove:'index.html' }}">
+  <title>{{ site.name }} - {{ page.title }}</title>
+  {%if page.keywords != null%}<meta name="keywords" content="{{ page.keywords }}">{%endif%}
+  {%if page.description != null%}<meta name="description" content="{{ page.description }}">{%endif%}
+  <link rel="stylesheet" href="/styles/torela.css">
+  <link rel="shortcut icon" href="/img/logo.png">
+</head>
+<body>
+  <header>
+    <img src="/img/logo.png" class="logo" alt="Torela">
+    <nav>
+      <a href="">Tutvustus</a>
+      <a href="">Galerii</a>
+      <a href="">Hinnakiri</a>
+      <a href="">Broneerimine</a>
+      <a href="">Sündmused</a>
+      <!--<a href="">Kodukord</a>-->
+      <a href="">Kontakt</a>
+      <span class="lang">
+        <a href="/en/">EN</a>
+        <a href="/ru/">RU</a>
+      </span>
+    </nav>
+    <script>
+      var menuItems = document.querySelectorAll('nav > a');
+      for (var i = 0; i < menuItems.length; i++) {
+        if (location.href.indexOf(menuItems[i].href) === 0) menuItems[i].parentNode.classList.add('active');
+      }
+    </script>
+  </header>
+
+  <main class="{{ page.title | downcase }}">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+  </main>
+
+  <footer></footer>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', '{{ site.ga }}', 'torela.ee');
+    ga('send', 'pageview');
+  </script>
+</body>
+</html>
