@@ -2,14 +2,13 @@
 layout: default
 lang: et
 title: Kontakt
-keywords: mängutuba,mängumaa,sünnipäevad,ruumi rent,ruumide rent
-description: Mängutuba
 priority: 1.0
 ---
-Mirjam: 56 955 722
 
-Sirli: 56 931 179
+Mirjam: [56 955 722](tel:+37256955722)
 
-tore@torela.ee
+Sirli: [56 931 179](tel:+37256931179)
+
+[tore@torela.ee](tel:tore@torela.ee)
 
 Ristiku 12, Tallinn, 2. korrus
