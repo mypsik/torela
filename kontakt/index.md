@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: et
-title: Tutvustus
+title: Kontakt
 keywords: mängutuba,mängumaa,sünnipäevad,ruumi rent,ruumide rent
 description: Mängutuba
 priority: 1.0
