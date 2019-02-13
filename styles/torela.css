@@ -10,10 +10,12 @@ body {
 
 a {
   text-decoration: none;
+  color: #bde265;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #a3c459;
 }
 
 .logo {
@@ -40,4 +42,15 @@ nav .lang {
 
 main {
   clear: both;
+  border: 1px dashed lightgray;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+main > h1 {
+  margin-top: 0;
+}
+
+main > p:last-child {
+  margin-bottom: 0;
 }
