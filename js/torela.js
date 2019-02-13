@@ -9,3 +9,7 @@ $('nav > a').each(function(i, a) {
   if (location.pathname === a.getAttribute('href'))
     a.classList.add('active')
 })
+
+$(document).on('submit', function() {
+  $(this).find('button').prop('disabled', true)
+})

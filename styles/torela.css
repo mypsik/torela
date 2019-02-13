@@ -10,12 +10,12 @@ body {
 
 a {
   text-decoration: none;
-  color: #bde265;
+  color: #849f4b;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #a3c459;
+  color: #849f4b;
 }
 
 .logo {
@@ -34,10 +34,11 @@ nav {
 
 nav a {
   padding: 0 10px;
+  color: black;
 }
 
 nav a.active {
-  color: black;
+  color: #849f4b;
   text-decoration: underline;
 }
 
