@@ -7,4 +7,4 @@ description: Mängutuba
 priority: 1.0
 ---
 
-Hello
+Torela on uus mängutuba Kalamaja ja Pelgulinna vahel
