@@ -5,7 +5,7 @@ $('a[href=mailto]').each(function(i, a) {
   a.href = 'mailto:' + a.textContent
 })
 
-document.querySelectorAll('nav > a').forEach(function(a) {
+$('nav > a').each(function(i, a) {
   if (location.pathname === a.getAttribute('href'))
     a.classList.add('active')
 })
