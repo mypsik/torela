@@ -7,6 +7,3 @@ description: Mängutuba
 priority: 1.0
 ---
 
-Torela on uus mängutuba Kalamaja ja Pelgulinna vahel.
-
-Me avame oma uksed 1. aprillil, ja see pole nali!
