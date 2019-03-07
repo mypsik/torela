@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contact
 lang: en
 title: Contact
 priority: 1.0
