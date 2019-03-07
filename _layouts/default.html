@@ -13,10 +13,12 @@
 </head>
 <body>
   <header>
-    <img src="/img/logo.png" class="logo" alt="Torela logo">
+    <a href="{%if page.lang == 'et'%}/{%else%}/{{ page.lang }}{%endif%}">
+      <img src="/img/logo.png" class="logo" alt="Torela logo">
+    </a>
 
     {%if page.lang == 'et'%}
-    <div class="tagline">Laste mängutuba <a href="/kontakt/">kalamaja ja pelgulinna vahel</a></div>
+    <div class="tagline">Laste mängutuba <a href="/kontakt/">Kalamaja ja Pelgulinna vahel</a></div>
     <nav>
       <a href="/">Tutvustus</a>
       <a href="/galerii/">Galerii</a>
@@ -33,7 +35,7 @@
     {%endif%}
 
     {%if page.lang == 'en'%}
-    <div class="tagline">Children's playroom on the <a href="/en/contact/">border of Kalamaja and Pelgulinn</a></div>
+    <div class="tagline">Children's playroom between <a href="/en/contact/">Kalamaja and Pelgulinn</a></div>
     <nav>
       <a href="/en/">About</a>
       <a href="/en/gallery/">Gallery</a>
@@ -50,7 +52,7 @@
     {%endif%}
 
     {%if page.lang == 'ru'%}
-    <div class="tagline">Игровая комната на <a href="/ru/contact/">границе Каламая и Пельгулинна</a></div>
+    <div class="tagline">Игровая комната между <a href="/ru/contact/">Каламая и Пельгулинна</a></div>
     <nav>
       <a href="/ru/">О нас</a>
       <a href="/ru/gallery/">Галерея</a>
