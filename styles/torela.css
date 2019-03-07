@@ -83,40 +83,6 @@ nav .lang a {
   padding-right: 0;
 }
 
-@media screen and (max-width: 1100px) {
-  .tagline {
-    top: 3rem;
-    font-size: 1.5rem;
-  }
-
-  .lang {
-    position: absolute;
-    top: 0;
-    right: 0;
-  }
-}
-
-@media screen and (max-width: 900px) {
-  .tagline {
-    font-size: 1rem;
-  }
-}
-
-@media screen and (max-width: 590px) {
-  .logo {
-    width: 140px;
-    height: 140px;
-  }
-
-  .tagline {
-    margin-left: 160px;
-  }
-
-  nav {
-    padding-top: 160px;
-  }
-}
-
 .timify-button {
   float: right;
   margin-top: -4.5rem;
@@ -130,7 +96,9 @@ nav .lang a {
   opacity: 0.8;
 }
 
-main {
+main::after {
+  content: '';
+  display: block;
   clear: both;
 }
 
@@ -161,4 +129,68 @@ input:not([type=checkbox]):not([type=radio]) {
 
 .form-row {
   padding: 0.5rem 0;
+}
+
+#subscribe {
+  width: 540px;
+  height: 305px;
+  margin: -12px;
+  overflow: hidden;
+}
+
+#map {
+  width: 600px;
+  height: 500px;
+  float: right;
+  margin-top: -3rem;
+}
+
+@media screen and (max-width: 1100px) {
+  .tagline {
+    top: 3rem;
+    font-size: 1.5rem;
+  }
+
+  .lang {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .tagline {
+    font-size: 1rem;
+  }
+
+  .block {
+    padding: 0;
+    border: none;
+  }
+
+  #subscribe {
+    width: 100%;
+  }
+
+  #map {
+    float: none;
+    margin-top: 0;
+    width: 100%;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .logo {
+    width: 140px;
+    height: 140px;
+  }
+
+  .tagline {
+    margin-left: 160px;
+  }
+
+  nav {
+    padding-top: 160px;
+  }
 }
