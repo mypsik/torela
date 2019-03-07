@@ -46,6 +46,19 @@ nav .lang {
   float: right;
 }
 
+.timify-button {
+  float: right;
+  margin-top: -4.5rem;
+  font-size: 1.3rem;
+  background: #bde265;
+  border: none;
+  cursor: pointer;
+}
+
+.timify-button:hover {
+  opacity: 0.8;
+}
+
 main {
   clear: both;
 }
