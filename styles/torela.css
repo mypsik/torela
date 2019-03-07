@@ -5,6 +5,7 @@ html {
 
 body {
   max-width: 1160px;
+  padding: 1rem;
   margin: 0 auto;
 }
 
@@ -23,8 +24,9 @@ header {
 }
 
 .logo {
-  padding: 20px;
-  margin-left: -20px;
+  padding: 1rem;
+  margin-left: -1rem;
+  margin-top: -1rem;
   width: 200px;
   height: 200px;
   float: left;
