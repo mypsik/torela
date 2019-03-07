@@ -140,6 +140,12 @@ input:not([type=checkbox]):not([type=radio]) {
   overflow: hidden;
 }
 
+.fb-page {
+  float: right;
+  width: 300px;
+  margin-top: -3em;
+}
+
 #map {
   width: 600px;
   height: 500px;
@@ -198,5 +204,9 @@ input:not([type=checkbox]):not([type=radio]) {
 
   .timify-button {
     width: 100%;
+  }
+
+  .fb-page {
+    display: none !important;
   }
 }

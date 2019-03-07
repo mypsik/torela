@@ -9,6 +9,10 @@ ru: /ru/
 priority: 1.0
 ---
 
+<div id="fb-root"></div>
+<script async defer src="https://connect.facebook.net/et_EE/sdk.js#xfbml=1&version=v3.2&appId=207997096039685&autoLogAppEvents=1"></script>
+<div class="fb-page" data-href="https://www.facebook.com/Torelamangutuba/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Torelamangutuba/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Torelamangutuba/">Torela Mängutuba</a></blockquote></div>
+
 Torela on uus mängutuba Kesklinna lähedal, Kalamaja ja Pelgulinna vahel.
 
 Me avame oma uksed 1. mail 2019!
