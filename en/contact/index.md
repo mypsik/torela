@@ -3,6 +3,8 @@ layout: contact
 lang: en
 title: Contact
 priority: 1.0
+et: /kontakt/
+ru: /ru/contact/
 ---
 
 Mirjam: [56 955 722](tel:+37256955722)

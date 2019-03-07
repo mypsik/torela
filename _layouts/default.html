@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="canonical" href="{{ site.url }}{{ page.url | remove:'index.html' }}">
+  {%if page.et %}<link rel="alternate" href="{{ site.url }}{{ page.et }}" hreflang="et">{%endif%}
+  {%if page.en %}<link rel="alternate" href="{{ site.url }}{{ page.en }}" hreflang="en">{%endif%}
+  {%if page.ru %}<link rel="alternate" href="{{ site.url }}{{ page.ru }}" hreflang="ru">{%endif%}
   <title>{{ site.name }} - {{ page.title }}</title>
   {%if page.keywords != null%}<meta name="keywords" content="{{ page.keywords }}">{%endif%}
   {%if page.description != null%}<meta name="description" content="{{ page.description }}">{%endif%}
@@ -27,8 +30,8 @@
       <!--<a href="/kodukord/">Kodukord</a>-->
       <a href="/kontakt/">Kontakt</a>
       <span class="lang">
-        <a href="/en/" hreflang="en">EN</a>
-        <a href="/ru/" hreflang="ru">RU</a>
+        <a href="{% if page.en %}{{page.en}}{%else%}/en/{%endif%}" hreflang="en">EN</a>
+        <a href="{% if page.ru %}{{page.ru}}{%else%}/ru/{%endif%}" hreflang="ru">RU</a>
       </span>
     </nav>
     <button class="timify-button" data-id="{{ site.timify }}">Broneeri nüüd</button>
@@ -44,8 +47,8 @@
       <!--<a href="/en/rules/">Rules</a>-->
       <a href="/en/contact/">Contact</a>
       <span class="lang">
-        <a href="/" hreflang="et">EE</a>
-        <a href="/ru/" hreflang="ru">RU</a>
+        <a href="{% if page.et %}{{page.et}}{%else%}/{%endif%}" hreflang="et">EE</a>
+        <a href="{% if page.ru %}{{page.ru}}{%else%}/ru/{%endif%}" hreflang="ru">RU</a>
       </span>
     </nav>
     <button class="timify-button" data-id="{{ site.timify }}">Book now</button>
@@ -61,8 +64,8 @@
       <!--<a href="/ru/rules/">Правила</a>-->
       <a href="/ru/contact/">Контакт</a>
       <span class="lang">
-        <a href="/" hreflang="et">ET</a>
-        <a href="/en/" hreflang="en">EN</a>
+        <a href="{% if page.et %}{{page.et}}{%else%}/{%endif%}" hreflang="et">EE</a>
+        <a href="{% if page.en %}{{page.en}}{%else%}/en/{%endif%}" hreflang="en">EN</a>
       </span>
     </nav>
     <button class="timify-button" data-id="{{ site.timify }}">Бронировать</button>

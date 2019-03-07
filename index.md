@@ -4,6 +4,8 @@ lang: et
 title: Tutvustus
 keywords: mängutuba,mängumaa,sünnipäevad,ruumi rent,ruumide rent
 description: Mängutuba
+en: /en/
+ru: /ru/
 priority: 1.0
 ---
 
