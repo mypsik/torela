@@ -14,3 +14,5 @@ Sirli: [56 931 179](tel:+37256931179)
 [Ristiku 12, Tallinn](https://goo.gl/maps/7bTMkBvk7YN2), 2nd Floor, entrance from the street.
 
 Torela OÜ, reg. no 14641895
+
+Bank account: {{ site.iban }} (LHV)

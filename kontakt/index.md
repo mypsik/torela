@@ -16,3 +16,5 @@ Sirli: [56 931 179](tel:+37256931179)
 Parkimine on tasuta tänaval või sissehoovis.
 
 Torela OÜ, registrikood 14641895
+
+Pangakonto: {{ site.iban }} (LHV)
