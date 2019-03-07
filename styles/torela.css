@@ -18,12 +18,30 @@ a:hover {
   color: #849f4b;
 }
 
+header {
+  position: relative;
+}
+
 .logo {
   padding: 20px;
   margin-left: -20px;
   width: 200px;
   height: 200px;
   float: left;
+}
+
+.tagline {
+  position: absolute;
+  top: 2rem;
+  width: 100%;
+  text-align: right;
+  color: lightgray;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.tagline a {
+  color: inherit;
 }
 
 nav {

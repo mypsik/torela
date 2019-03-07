@@ -7,8 +7,8 @@ description: Mängutuba
 priority: 1.0
 ---
 
-Torela on uus mängutuba Kalamaja ja Pelgulinna vahel.
+Torela on uus mängutuba Kesklinna lähedal, Kalamaja ja Pelgulinna vahel.
 
-Me avame oma uksed 1. mail!
+Me avame oma uksed 1. mail 2019!
 
 <iframe id="subscribe" width="540" height="305" src="https://sibforms.com/serve/MUIEACBo9kqTSg3hOBGm6lvVM1i_B95-TaL_tGYa4M-dklkw_t7PVwjF5_hdOuqZRC2jD1OpQnpHYggVxHbKXoxftx_YqC9ByQ_i2rBtKeX_ZyZdEH-c5MmUmPkdI4HdFBVizHYSF531FmDJ07t_KbFZpq0VvdLzAd2nNJhdmXjovTjsi0xkS_EU3YHLtUjByNXLZ75bC7KcBYRD" frameborder="0" scrolling="auto"></iframe>
