@@ -32,16 +32,18 @@ header {
   float: left;
   border-radius: 50%;
   transition: 2s transform;
-  animation: 2s rotateY;
+  animation: 500ms logo-initial ease-in-out;
 }
 
 .logo:hover {
   transform: rotateZ(360deg);
 }
 
-@keyframes rotateY {
-  0% { transform: rotateY(0deg); }
-  100% { transform: rotateY(360deg); }
+@keyframes logo-initial {
+  0% { transform: rotateZ(0deg); }
+  40% { transform: rotateZ(30deg); }
+  80% { transform: rotateZ(-10deg); }
+  100% { transform: rotateZ(0deg); }
 }
 
 .tagline {
