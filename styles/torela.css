@@ -28,6 +28,18 @@ header {
   width: 200px;
   height: 200px;
   float: left;
+  border-radius: 50%;
+  transition: 2s transform;
+  animation: 2s rotateY;
+}
+
+.logo:hover {
+  transform: rotateZ(360deg);
+}
+
+@keyframes rotateY {
+  0% { transform: rotateY(0deg); }
+  100% { transform: rotateY(360deg); }
 }
 
 .tagline {
