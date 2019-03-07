@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  width: 1200px;
+  max-width: 1160px;
   margin: 0 auto;
 }
 
@@ -45,7 +45,8 @@ header {
 .tagline {
   position: absolute;
   top: 2rem;
-  width: 100%;
+  right: 0;
+  margin-left: 200px;
   text-align: right;
   color: lightgray;
   font-weight: bold;
@@ -54,6 +55,22 @@ header {
 
 .tagline a {
   color: inherit;
+}
+
+@media screen and (max-width: 1000px) {
+  .tagline {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .logo {
+    width: 150px;
+    height: 150px;
+  }
+  .tagline {
+    font-size: 1rem;
+  }
 }
 
 nav {
