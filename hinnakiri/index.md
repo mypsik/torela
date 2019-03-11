@@ -18,6 +18,6 @@ Ruum tuleb vabastada kokkulepitud ajal. Kui pidu ei lõpetata ettenähtud ajaks,
 
 Kohapeal saab tasuda ainult sularahas.
 
-* Riigipühadel kehtib nädalavahetuse hind.
+Riigipühadel kehtib nädalavahetuse hind.
 
 [Kodukord](/kodukord/)
