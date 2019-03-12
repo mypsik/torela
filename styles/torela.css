@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
 html {
   font-size: 18px;
   font-family: sans-serif;
@@ -7,6 +9,14 @@ body {
   max-width: 1160px;
   padding: 1rem;
   margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+  font-size: 2.5rem;
 }
 
 a {
@@ -70,11 +80,14 @@ nav {
 nav a {
   padding: 0 10px;
   color: black;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2.5rem;
 }
 
-nav a.active {
+nav a.active, nav a:hover {
   color: #849f4b;
-  text-decoration: underline;
+  border-bottom: 1px dashed;
+  text-decoration: none;
 }
 
 nav .lang {
