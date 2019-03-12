@@ -17,11 +17,10 @@
 <body>
   <header>
     <a href="{%if page.lang == 'et'%}/{%else%}/{{ page.lang }}{%endif%}">
-      <img src="/img/logo.png" class="logo" alt="Torela logo">
+      <img src="/img/logo.png" class="logo" alt="Torela mängumaa">
     </a>
 
     {%if page.lang == 'et'%}
-    <div class="tagline">Laste mängutuba <a href="/kontakt/">Kalamaja ja Pelgulinna vahel</a></div>
     <nav>
       <a href="/">Tutvustus</a>
       <a href="/galerii/">Galerii</a>
@@ -38,7 +37,6 @@
     {%endif%}
 
     {%if page.lang == 'en'%}
-    <div class="tagline">Children's playroom between <a href="/en/contact/">Kalamaja and Pelgulinn</a></div>
     <nav>
       <a href="/en/">About</a>
       <a href="/en/gallery/">Gallery</a>
@@ -55,7 +53,6 @@
     {%endif%}
 
     {%if page.lang == 'ru'%}
-    <div class="tagline">Игровая комната между <a href="/ru/contact/">Каламая и Пельгулинна</a></div>
     <nav>
       <a href="/ru/">О нас</a>
       <a href="/ru/gallery/">Галерея</a>
@@ -77,7 +74,27 @@
     {{ content }}
   </main>
 
-  <footer>
+  <footer class="block">
+    <div style="float: right">
+      {{ site.address }} |
+
+      <a href="mailto">{{ site.email | replace: '@', '$'}}</a> |
+
+      <a href="tel:+372 {{ site.phone1 }}">{{ site.phone1 }}</a> |
+      <a href="tel:+372 {{ site.phone2 }}">{{ site.phone2 }}</a>
+    </div>
+
+    {%if page.lang == 'et'%}
+      <div class="tagline">Torela OÜ - Laste mängutuba <a href="/kontakt/">Kalamaja ja Pelgulinna vahel</a></div>
+    {%endif%}
+
+    {%if page.lang == 'en'%}
+      <div class="tagline">Torela OÜ - Children's playroom between <a href="/en/contact/">Kalamaja and Pelgulinn</a></div>
+    {%endif%}
+
+    {%if page.lang == 'ru'%}
+      <div class="tagline">Torela OÜ - Игровая комната между <a href="/ru/contact/">Каламая и Пельгулинна</a></div>
+    {%endif%}
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" defer></script>

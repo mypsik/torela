@@ -7,13 +7,13 @@ en: /en/contact/
 et: /kontakt/
 ---
 
-Mirjam: [56 955 722](tel:+37256955722)
+Mirjam: [{{ site.phone1 }}](tel:+372 {{ site.phone1 }})
 
-Sirli: [56 931 179](tel:+37256931179)
+Sirli: [{{ site.phone2 }}](tel:+372 {{ site.phone2 }})
 
 [{{ site.email | replace: '@', '$'}}](mailto)
 
-[Ristiku 12, Tallinn](https://goo.gl/maps/7bTMkBvk7YN2), 2 этаж, вход со стороны улицы.
+[{{ site.address }}](https://goo.gl/maps/7bTMkBvk7YN2), 2 этаж, вход со стороны улицы.
 
 Парковка бесплатная вдоль улицы и во дворе.
 

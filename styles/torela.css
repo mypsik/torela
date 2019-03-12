@@ -56,21 +56,6 @@ header {
   100% { transform: rotateZ(0deg); }
 }
 
-.tagline {
-  position: absolute;
-  top: 1.5rem;
-  right: 0;
-  margin-left: 200px;
-  text-align: right;
-  color: lightgray;
-  font-weight: bold;
-  font-size: 2rem;
-}
-
-.tagline a {
-  color: inherit;
-}
-
 nav {
   font-size: 1.3rem;
   line-height: 50px;
@@ -96,6 +81,10 @@ nav .lang {
 
 nav .lang a {
   padding-right: 0;
+}
+
+footer {
+  background: #f9f9f9;
 }
 
 .timify-button {
@@ -167,11 +156,6 @@ input:not([type=checkbox]):not([type=radio]) {
 }
 
 @media screen and (max-width: 1100px) {
-  .tagline {
-    top: 2.6rem;
-    font-size: 1.5rem;
-  }
-
   .lang {
     position: absolute;
     top: 0;
@@ -180,10 +164,6 @@ input:not([type=checkbox]):not([type=radio]) {
 }
 
 @media screen and (max-width: 900px) {
-  .tagline {
-    font-size: 1rem;
-  }
-
   .block {
     padding: 0;
     border: none;
@@ -205,10 +185,6 @@ input:not([type=checkbox]):not([type=radio]) {
   .logo {
     width: 140px;
     height: 140px;
-  }
-
-  .tagline {
-    margin-left: 160px;
   }
 
   nav {
