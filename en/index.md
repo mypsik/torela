@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 lang: en
 title: About
 keywords: play,room,birthday,rental
@@ -11,7 +11,7 @@ ru: /ru/
 
 Torela is a new and exciting playroom in North Tallinn.
 
-We are opening our doors on May 1st!
+We are opening our doors on **May 1st**!
 
 You can celebrate children birthdays, come play morning playtime and join us in theme-nights. From autumn children can take part of different hobby-classes.
 

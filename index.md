@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 lang: et
 title: Tutvustus
 keywords: mängutuba,mängumaa,sünnipäevad,ruumi rent,ruumide rent
@@ -9,13 +9,9 @@ ru: /ru/
 priority: 1.0
 ---
 
-<div id="fb-root"></div>
-<script async defer src="https://connect.facebook.net/et_EE/sdk.js#xfbml=1&version=v3.2&appId=207997096039685&autoLogAppEvents=1"></script>
-<div class="fb-page" data-href="https://www.facebook.com/Torelamangutuba/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Torelamangutuba/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Torelamangutuba/">Torela Mängutuba</a></blockquote></div>
-
 Torela on uus ja põnev mängumaa Põhja-Tallinnas.
 
-Me avame oma uksed 1. mail 2019!
+Me avame oma uksed **1. mail 2019**!
 
 Meil saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel ning osa võtta põnevatest huviringidest. 
 
@@ -30,6 +26,3 @@ Ruumis on kööginurk külmkapi, ahju, pliidi, mikrolaineahju ja veekeetjaga. K�
 
 Söögilaua taha mahub korraga 14 täiskasvanut ja 14 last.
 Mängutoas toimub üks pidu korraga.
-
-
-<iframe id="subscribe" scrolling="no" src="https://sibforms.com/serve/MUIEACBo9kqTSg3hOBGm6lvVM1i_B95-TaL_tGYa4M-dklkw_t7PVwjF5_hdOuqZRC2jD1OpQnpHYggVxHbKXoxftx_YqC9ByQ_i2rBtKeX_ZyZdEH-c5MmUmPkdI4HdFBVizHYSF531FmDJ07t_KbFZpq0VvdLzAd2nNJhdmXjovTjsi0xkS_EU3YHLtUjByNXLZ75bC7KcBYRD" frameborder="0" scrolling="auto"></iframe>
