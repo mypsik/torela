@@ -84,12 +84,10 @@ nav a.active {
   border-bottom: 1px dashed;
 }
 
-nav .lang {
-  float: right;
-}
-
-nav .lang a {
-  padding-right: 0;
+.lang {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 footer {
@@ -162,14 +160,6 @@ input:not([type=checkbox]):not([type=radio]) {
   height: 500px;
   float: right;
   margin-top: -3rem;
-}
-
-@media screen and (max-width: 1100px) {
-  .lang {
-    position: absolute;
-    top: 0;
-    right: 0;
-  }
 }
 
 @media screen and (max-width: 900px) {
