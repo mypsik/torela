@@ -33,7 +33,7 @@
         <a href="{% if page.ru %}{{page.ru}}{%else%}/ru/{%endif%}" hreflang="ru">RU</a>
       </span>
     </nav>
-    <button class="timify-button" data-id="{{ site.timify }}">Broneeri nüüd</button>
+    <button class="timify-button book-now" data-id="{{ site.timify }}">Broneeri nüüd</button>
     {%endif%}
 
     {%if page.lang == 'en'%}
@@ -49,7 +49,7 @@
         <a href="{% if page.ru %}{{page.ru}}{%else%}/ru/{%endif%}" hreflang="ru">RU</a>
       </span>
     </nav>
-    <button class="timify-button" data-id="{{ site.timify }}">Book now</button>
+    <button class="timify-button book-now" data-id="{{ site.timify }}">Book now</button>
     {%endif%}
 
     {%if page.lang == 'ru'%}
@@ -65,7 +65,7 @@
         <a href="{% if page.en %}{{page.en}}{%else%}/en/{%endif%}" hreflang="en">EN</a>
       </span>
     </nav>
-    <button class="timify-button" data-id="{{ site.timify }}">Бронировать</button>
+    <button class="timify-button book-now" data-id="{{ site.timify }}">Бронировать</button>
     {%endif%}
   </header>
 
