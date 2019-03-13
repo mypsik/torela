@@ -41,19 +41,11 @@ header {
   height: 200px;
   float: left;
   border-radius: 50%;
-  transition: 2s transform;
-  animation: 500ms logo-initial ease-in-out;
+  transition: 0.3s transform;
 }
 
 .logo:hover {
-  transform: rotateZ(360deg);
-}
-
-@keyframes logo-initial {
-  0% { transform: rotateZ(0deg); }
-  40% { transform: rotateZ(30deg); }
-  80% { transform: rotateZ(-10deg); }
-  100% { transform: rotateZ(0deg); }
+  transform: rotateZ(-25deg);
 }
 
 nav {
