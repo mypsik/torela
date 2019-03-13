@@ -8,6 +8,6 @@ ru: /ru/services/
 ---
 
 * Videograaf
-* Fotograaf
+* Pildistamine
 * Peojuht
 * Mustkunstnik
