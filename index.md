@@ -1,7 +1,7 @@
 ---
 layout: home
 lang: et
-title: Tutvustus
+title: Meist
 keywords: mängutuba,mängumaa,sünnipäevad,ruumi rent,ruumide rent
 description: Mängutuba
 en: /en/
