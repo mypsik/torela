@@ -15,7 +15,7 @@ Me avame oma uksed **1. mail 2019**!
 
 Meil saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel ning osa võtta põnevatest huviringidest. 
 
-Lõbutsemiseks on ruumi 185m2.
+Lõbutsemiseks on ruumi 185 m<sup>2</sup>.
 
 Torela mänguasjad on lapsesõbralikud ja soodustavad arengut. Lapsed saavad kasutada nii oma loovust kui ka tugevdada musklit.
 Mängutoas saab ronida mööda seina ja vurada ringi autodega.
