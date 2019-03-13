@@ -11,11 +11,13 @@ Mirjam: [{{ site.phone1 }}](tel:+372 {{ site.phone1 }})
 
 Sirli: [{{ site.phone2 }}](tel:+372 {{ site.phone2 }})
 
-[{{ site.email | replace: '@', '$'}}](mailto)
+E-post: [{{ site.email | replace: '@', '$'}}](mailto)
 
-[{{ site.address }}](https://goo.gl/maps/7bTMkBvk7YN2), 2. korrus
+Aadress: [{{ site.address }}](https://goo.gl/maps/7bTMkBvk7YN2), 2. korrus
 
 Parkimine on tasuta tänaval või sissehoovis.
+
+Ühistranspordiga buss nr 40 ja 59 Telliskivi peatusesse. 
 
 Torela OÜ, registrikood 14641895
 
