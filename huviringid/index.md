@@ -8,4 +8,5 @@ ru: /ru/hobby-classes/
 ---
 
 Alates sügisest saavad lapsed osaleda erinevates huviringides. 
+
 Täpsem info saabub peagi.
