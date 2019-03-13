@@ -9,7 +9,7 @@ ru: /ru/
 priority: 1.0
 ---
 
-Torela on uus ja põnev mängumaa Põhja-Tallinnas.
+Torela on uus ja põnev mängumaa Põhja-Tallinnas, Kalamaja ja Pelgulinna vahel.
 
 Me avame oma uksed **1. mail 2019**!
 

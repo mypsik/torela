@@ -9,7 +9,7 @@ et: /
 ru: /ru/
 ---
 
-Torela is a new and exciting playroom in North Tallinn.
+Torela is a new and exciting playroom in Põhja-Tallinn, between Kalamaja and Pelgulinna.
 
 We are opening our doors on **May 1st**!
 
