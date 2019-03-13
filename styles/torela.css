@@ -106,10 +106,15 @@ footer {
   opacity: 0.8;
 }
 
+main {
+  background: url(/img/footer.png) center bottom no-repeat;
+}
+
 main::after {
   content: '';
   display: block;
   clear: both;
+  height: 240px;
 }
 
 .block {
