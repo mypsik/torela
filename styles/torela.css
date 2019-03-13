@@ -129,6 +129,12 @@ main > p:last-child {
   margin-bottom: 0;
 }
 
+footer .icon {
+  height: 1.5rem;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+
 input:not([type=checkbox]):not([type=radio]), button, textarea, select {
   font-size: 1rem;
   padding: 0.5rem 0.75rem;
