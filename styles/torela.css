@@ -7,8 +7,9 @@ html {
 
 body {
   max-width: 1160px;
-  padding: 1rem;
+  padding: 0 1rem 1rem;
   margin: 0 auto;
+  background: url(/img/tropical_bg.jpg);
 }
 
 h1, h2, h3, h4 {
@@ -31,6 +32,8 @@ a:hover {
 
 header {
   position: relative;
+  padding-top: 1rem;
+  background: radial-gradient(rgba(255,255,255,0.8) 30%, transparent);
 }
 
 .logo {
@@ -59,7 +62,7 @@ nav a {
   padding: 0 10px;
   color: black;
   display: inline-block;
-  transition: transform 0.1s;
+  transition: transform 0.2s;
 }
 
 nav a:hover {
@@ -67,18 +70,19 @@ nav a:hover {
 }
 
 nav a.active, nav a:hover {
-  color: #849f4b;
   text-decoration: none;
 }
 
 nav a.active {
+  font-weight: bold;
   border-bottom: 1px dashed;
 }
 
 .lang {
   position: absolute;
-  top: 0;
+  top: 1rem;
   right: 0;
+  font-weight: bold;
 }
 
 footer {
@@ -114,6 +118,7 @@ main::after {
   border-radius: 1rem;
   padding: 2rem;
   margin-bottom: 2rem;
+  background-color: rgba(255,255,255,0.9);
 }
 
 main > h1 {
@@ -160,8 +165,7 @@ input:not([type=checkbox]):not([type=radio]) {
 
 @media screen and (max-width: 900px) {
   .block {
-    padding: 0;
-    border: none;
+    padding: 1rem;
   }
 
   #subscribe {
