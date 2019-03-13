@@ -20,6 +20,10 @@ h1 {
   font-size: 2.5rem;
 }
 
+:focus {
+  outline: 1px dotted lightgray;
+}
+
 a {
   text-decoration: none;
   color: #849f4b;
