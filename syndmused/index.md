@@ -7,4 +7,6 @@ en: /en/events/
 ru: /ru/events/
 ---
 
-Meil tuleb palju toredat
+Iga nädal peetakse mängutoas mänguhommikuid. Pakume maitsvat näksi ja kuuma kohvi. 
+
+Osalustasu on 7€ (lapsevanem+laps). Sama pere 2 last 10€.
