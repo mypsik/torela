@@ -7,4 +7,5 @@ en: /en/hobby-classes/
 ru: /ru/hobby-classes/
 ---
 
-Hakkavad toimuma argipäeviti
+Alates sügisest saavad lapsed osaleda erinevates huviringides. 
+Täpsem info saabub peagi.
