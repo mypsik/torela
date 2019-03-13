@@ -13,7 +13,7 @@ E-R, 18-21:00 - ? €/3h
 
 L-P ? - €/3h
 
-<a href="javascript:document.querySelector('.book-now').click()">**Broneerimine**</a>
+<a href="javascript:document.querySelector('.book-now').click()">**BRONEERIMINE**</a>
 
 Broneerimistasu on 40€ eurot, mis arvestatakse lõppsummast maha. Makse selgitusse märkida ürituse kuupäev, kellaaeg ja lapse nimi.
 
