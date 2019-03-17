@@ -13,3 +13,11 @@ $('nav > a').each(function(i, a) {
 $(document).on('submit', function() {
   $(this).find('button').prop('disabled', true)
 })
+
+$(window).on('hashchange', function() {
+  document.body.style.backgroundImage = 'url(/img/' + location.hash.substring(1) + ')'
+})
+
+if (location.hash) {
+  $(window).trigger('hashchange')
+}
