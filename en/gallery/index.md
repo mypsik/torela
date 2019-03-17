@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: gallery
 lang: en
 title: Gallery
 priority: 1.0
