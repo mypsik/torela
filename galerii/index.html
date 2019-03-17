@@ -7,7 +7,11 @@ en: /en/gallery/
 ru: /ru/gallery/
 ---
 
-<img id="big-image" src="gallery1.jpg">
+<div id="big-image">
+  <div class="prev">&lt;</div>
+  <img src="gallery1.jpg">
+  <div class="next">&gt;</div>
+</div>
 
 <div class="thumbs">
   <img src="gallery1.jpg" class="active">
@@ -18,7 +22,33 @@ ru: /ru/gallery/
 
 <style>
   #big-image {
+    position: relative;
+  }
+
+  #big-image img {
     width: 100%;
+  }
+
+  #big-image .prev, #big-image .next {
+    position: absolute;
+    display: block;
+    top: 45%;
+    left: -1rem;
+    width: 2rem;
+    line-height: 2rem;
+    text-align: center;
+    background: rgba(255,255,255,0.6);
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  #big-image .prev:hover, #big-image .next:hover {
+    background: rgba(255,255,255,0.9);
+  }
+
+  #big-image .next {
+    left: initial;
+    right: -1rem;
   }
 
   .thumbs {
@@ -35,10 +65,20 @@ ru: /ru/gallery/
   }
 </style>
 
-<script defer>
+<script>
   $('.thumbs img').on('click', function() {
     var thumb = $(this)
     thumb.addClass('active').siblings().removeClass('active')
-    $('#big-image').attr('src', thumb.attr('src'))
+    $('#big-image img').attr('src', thumb.attr('src'))
+  })
+  $('#big-image .prev').on('click', function() {
+    var prev = $('.thumbs img.active').prev()
+    if (!prev.length) prev = $('.thumbs img').last()
+    prev.trigger('click')
+  })
+  $('#big-image .next').on('click', function() {
+    var next = $('.thumbs img.active').next()
+    if (!next.length) next = $('.thumbs img').first()
+    next.trigger('click')
   })
 </script>
