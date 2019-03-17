@@ -171,10 +171,12 @@ input:not([type=checkbox]):not([type=radio]) {
 
 #big-image {
   position: relative;
+  text-align: center;
 }
 
 #big-image img {
-  width: 100%;
+  max-width: 100%;
+  max-height: 80vh;
 }
 
 #big-image .prev, #big-image .next {
