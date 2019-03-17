@@ -9,7 +9,7 @@ body {
   max-width: 1160px;
   padding: 0 1rem 1rem;
   margin: 0 auto;
-  background: url(/img/tropical_bg.jpg);
+  background: #064c27 url(/img/taust-mets-1.png) top center no-repeat;
 }
 
 h1, h2, h3, h4 {
@@ -37,7 +37,6 @@ a:hover {
 header {
   position: relative;
   padding-top: 1rem;
-  background: radial-gradient(rgba(255,255,255,0.8) 30%, transparent);
 }
 
 .logo {
