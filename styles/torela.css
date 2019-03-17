@@ -9,7 +9,7 @@ body {
   max-width: 1160px;
   padding: 0 1rem 1rem;
   margin: 0 auto;
-  background: #064c27 url(/img/taust-mets-1.png) top center no-repeat;
+  background: #064c27 url(/img/taust-mets-1.png) center -200px no-repeat;
 }
 
 h1, h2, h3, h4 {
