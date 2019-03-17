@@ -182,7 +182,7 @@ input:not([type=checkbox]):not([type=radio]) {
   position: absolute;
   display: block;
   top: 45%;
-  left: -1.25rem;
+  left: 0;
   width: 2.5rem;
   font-size: 1.25rem;
   line-height: 2.5rem;
@@ -199,7 +199,7 @@ input:not([type=checkbox]):not([type=radio]) {
 
 #big-image .next {
   left: initial;
-  right: -1.25rem;
+  right: 0;
 }
 
 .thumbs {
