@@ -1,0 +1,44 @@
+---
+layout: default
+lang: et
+title: Galerii
+priority: 1.0
+en: /en/gallery/
+ru: /ru/gallery/
+---
+
+<img id="big-image" src="gallery1.jpg">
+
+<div class="thumbs">
+  <img src="gallery1.jpg" class="active">
+  <img src="gallery2.jpg">
+  <img src="gallery3.jpg">
+  <img src="gallery4.jpg">
+</div>
+
+<style>
+  #big-image {
+    width: 100%;
+  }
+
+  .thumbs {
+    text-align: center;
+  }
+
+  .thumbs img {
+    cursor: pointer;
+    height: 80px;
+  }
+
+  .thumbs img.active {
+    outline: 2px solid green;
+  }
+</style>
+
+<script defer>
+  $('.thumbs img').on('click', function() {
+    var thumb = $(this)
+    thumb.addClass('active').siblings().removeClass('active')
+    $('#big-image').attr('src', thumb.attr('src'))
+  })
+</script>

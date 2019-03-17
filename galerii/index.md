@@ -1,8 +1,0 @@
----
-layout: default
-lang: et
-title: Galerii
-priority: 1.0
-en: /en/gallery/
-ru: /ru/gallery/
----
