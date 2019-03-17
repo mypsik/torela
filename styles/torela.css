@@ -181,13 +181,15 @@ input:not([type=checkbox]):not([type=radio]) {
   position: absolute;
   display: block;
   top: 45%;
-  left: -1rem;
-  width: 2rem;
-  line-height: 2rem;
+  left: -1.25rem;
+  width: 2.5rem;
+  font-size: 1.25rem;
+  line-height: 2.5rem;
   text-align: center;
   background: rgba(255,255,255,0.6);
   cursor: pointer;
   font-weight: bold;
+  border-radius: 50%;
 }
 
 #big-image .prev:hover, #big-image .next:hover {
@@ -196,7 +198,7 @@ input:not([type=checkbox]):not([type=radio]) {
 
 #big-image .next {
   left: initial;
-  right: -1rem;
+  right: -1.25rem;
 }
 
 .thumbs {
