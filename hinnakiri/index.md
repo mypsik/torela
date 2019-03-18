@@ -7,15 +7,18 @@ en: /en/prices/
 ru: /ru/prices/
 ---
 
-E-R, 10-13:00 - ? €/3h
+E-R 10-13:00 - 95€/3h
 
-E-R, 18-21:00 - ? €/3h
+E-R 18-21:00 - 125€/3h
 
-L-P ? - €/3h
+L-P 10-21:00 - 150€/3h
+
+Riigipühadel kehtib nädalavahetuse hind.
+Kohapeal on võimalik tasuda ainult sularahas.
 
 <a href="javascript:document.querySelector('.book-now').click()">**BRONEERIMINE**</a>
 
-Broneerimistasu on 40€ eurot, mis arvestatakse lõppsummast maha. Makse selgitusse märkida ürituse kuupäev, kellaaeg ja lapse nimi.
+Broneerimistasu on 40€, mis arvestatakse lõppsummast maha. Makse selgitusse märkida ürituse kuupäev, kellaaeg ja lapse nimi.
 
 Pärast broneeringu tegemist saate kinnituskirja oma e-postile koos makse rekvisiitidega. 
 Broneerimistasu tuleb tasuda 3 päeva jooksul Torela OÜ pangakontole EE477700771003581431. Kui ülekanne ei ole tähtaegselt laekunud tühistatakse broneering.
