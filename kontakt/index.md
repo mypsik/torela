@@ -15,7 +15,7 @@ E-post: [{{ site.email | replace: '@', '$'}}](mailto)
 
 Aadress: [{{ site.address }}](https://goo.gl/maps/7bTMkBvk7YN2), 2. korrus
 
-Parkimine on tasuta tänaval või sissehoovis.
+Parkimine on tasuta tänaval või sisehoovis.
 
 Ühistranspordiga buss nr 40 ja 59 Telliskivi peatusesse. 
 
