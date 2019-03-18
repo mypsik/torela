@@ -31,4 +31,4 @@ Broneerimistasu ei ole tagastatav.
 
 Broneeringu kinnitamisel olete nõustunud mängutoa kodukorraga.
 
-[KODUKORD](/kodukord/)
+[Kodukord](/kodukord/)
