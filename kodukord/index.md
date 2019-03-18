@@ -13,6 +13,8 @@ Torela ruumides viibijad kohustuvad järgima kõiki mängutoa reegleid.
 
 
 
+
+
 Mängutoas vastutab lapse ohutuse eest täielikult tema vanem või saatja.
 
 Torela ei vastuta külastajate riiete ja isiklike asjade eest.
