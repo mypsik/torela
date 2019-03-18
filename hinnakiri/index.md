@@ -21,7 +21,7 @@ Kohapeal on võimalik tasuda ainult sularahas.
 Broneerimistasu on 40€, mis arvestatakse lõppsummast maha. Makse selgitusse märkida ürituse kuupäev, kellaaeg ja lapse nimi.
 Broneerimistasu tuleb tasuda 3 päeva jooksul Torela OÜ pangakontole EE477700771003581431.  Kui ülekanne ei ole tähtaegselt laekunud, broneering tühistatakse.
 
-Ülejäänud summa saate tasuda ülekandega enne ürituse algust või kohapeal sularahas. Koahpeal saab maksta ainult sularahas!
+Ülejäänud summa saate tasuda ülekandega enne ürituse algust või kohapeal sularahas. Kohapeal saab maksta ainult sularahas!
 
 Sünnipäevapidu kestab 3 tundi. Ettevalmistusi saab tulla tegema 15 minutit enne peo algust ja ruumid palume vabastada kokkulepitud ajal.
 
