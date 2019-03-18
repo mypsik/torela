@@ -19,20 +19,16 @@ Kohapeal on võimalik tasuda ainult sularahas.
 <a href="javascript:document.querySelector('.book-now').click()">**BRONEERIMINE**</a>
 
 Broneerimistasu on 40€, mis arvestatakse lõppsummast maha. Makse selgitusse märkida ürituse kuupäev, kellaaeg ja lapse nimi.
+Broneerimistasu tuleb tasuda 3 päeva jooksul Torela OÜ pangakontole EE477700771003581431.  Kui ülekanne ei ole tähtaegselt laekunud, broneering tühistatakse.
 
-Pärast broneeringu tegemist saate kinnituskirja oma e-postile koos makse rekvisiitidega. 
-Broneerimistasu tuleb tasuda 3 päeva jooksul Torela OÜ pangakontole EE477700771003581431. Kui ülekanne ei ole tähtaegselt laekunud tühistatakse broneering.
+Ülejäänud summa saate tasuda ülekandega enne ürituse algust või kohapeal sularahas. Koahpeal saab maksta ainult sularahas!
 
-Pärast broneeringu eest tasumist saate e-postile sellekohase kinnituskirja.
-
-Ülejäänud summa saate tasuda ülekandega enne ürituse algust või kohapeal sularahas.
-
-Sünnipäevapidu kestab 3 tundi. Ettevalmistusi saab tulla tegema 15 minutit enne peo algust. Ruumid tuleb vabastada kokkulepitud ajal. Kui pidu ei lõpetata ettenähtud ajaks, on Torelal õigus küsida hüvitist.
+Sünnipäevapidu kestab 3 tundi. Ettevalmistusi saab tulla tegema 15 minutit enne peo algust ja ruumid palume vabastada kokkulepitud ajal.
 
 Ürituse mittetoimumisest palume teatada esimesel võimalusel (hiljemalt 24h enne peo algust). Sellisel juhul saab kokku leppida vabade aegade olemasolul uue aja. Broneeringut saab muuta vaid ühe korra. Uue broneeringu saate teha aasta jooksul.
 
 Broneerimistasu ei ole tagastatav.
 
-Broneeringu kinnitamisel olete nõustunud mängutoa kodukorras olevate reeglitega.
+Broneeringu kinnitamisel olete nõustunud mängutoa kodukorraga.
 
 [Kodukord](/kodukord/)
