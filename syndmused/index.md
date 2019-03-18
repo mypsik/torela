@@ -7,8 +7,6 @@ en: /en/events/
 ru: /ru/events/
 ---
 
-Iga nädal peetakse mängutoas mänguhommikuid. Pakume maitsvat näksi ja kuuma kohvi. 
+Kord nädalas toimub mängutoas mänguhommik, kuhu ootame kõiki uusi ja vanu sõpru! Pakume maitsvat näksi ja kuuma kohvi. Osaluspanus on 7€ (lapsevanem+laps). 
+Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!
 
-Osalustasu on 7€ (lapsevanem+laps). Sama pere 2 last 10€.
-
-Täpsem info saabub peagi.
