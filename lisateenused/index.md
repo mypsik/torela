@@ -7,7 +7,7 @@ en: /en/services/
 ru: /ru/services/
 ---
 
-* Videograaf
-* Pildistamine
+* Videograaf Marge Prints
+* Fotograaf
 * Peojuht
 * Mustkunstnik
