@@ -8,4 +8,28 @@ layout: default
 
 {{ content }}
 
-<iframe id="subscribe" scrolling="no" src="https://sibforms.com/serve/MUIEACBo9kqTSg3hOBGm6lvVM1i_B95-TaL_tGYa4M-dklkw_t7PVwjF5_hdOuqZRC2jD1OpQnpHYggVxHbKXoxftx_YqC9ByQ_i2rBtKeX_ZyZdEH-c5MmUmPkdI4HdFBVizHYSF531FmDJ07t_KbFZpq0VvdLzAd2nNJhdmXjovTjsi0xkS_EU3YHLtUjByNXLZ75bC7KcBYRD" frameborder="0" scrolling="auto"></iframe>
+<form id="subscribe" class="block">
+  <label for="email">Tahad saada rohkem infot avamise hetkel?</label>
+  <div class="form-row">
+    <input id="email" name="email" type="email" placeholder="E-post" required>
+    <button>Liitu</button>
+  </div>
+  <small>Me ei spämmi!</small>
+</form>
+
+<script>
+  $(function() {
+    var form = $('#subscribe').on('submit', function(e) {
+      e.preventDefault()
+      $.post({
+        url: 'https://api.jsonbin.io/b',
+        headers: {'secret-key': '$2a$10$/6tZDpUbNTJDx1Osv5dvF.NrpUuSR7k0FTntPkM1wIx0WwIVnqY6G', 'collection-id': '5c9beaa2da12e364adfa562e'},
+        contentType: 'application/json',
+        crossDomain: true,
+        data: JSON.stringify({email: $('#email', form).val()})
+      }).then(function() {
+        form.slideUp()
+      })
+    })
+  })
+</script>

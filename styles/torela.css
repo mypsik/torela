@@ -150,9 +150,6 @@ input:not([type=checkbox]):not([type=radio]) {
 
 #subscribe {
   width: 540px;
-  height: 305px;
-  margin: -12px;
-  overflow: hidden;
 }
 
 .fb-page {
