@@ -11,3 +11,6 @@ ru: /ru/services/
 * Fotograaf
 * Peojuht
 * Mustkunstnik
+*Teadusteater
+*Näomaalingud+õhupallid
+*Kaetud peolaud "Laste lemmikud"
