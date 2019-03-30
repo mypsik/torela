@@ -13,5 +13,10 @@ layout: default
       {start: '14:00', end: '17:00', weekendOnly: true},
       {start: '18:00', end: '21:00'}
     ]
-  var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents)
+  var booked = {
+    '2019-03-29 10:00': {},
+    '2019-03-30 14:00': {},
+    '2019-03-30 18:00': {}
+  }
+  var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, booked)
 </script>

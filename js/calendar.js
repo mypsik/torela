@@ -1,8 +1,9 @@
 class Calendar {
 
-  constructor(id, lang, bookableEvents) {
+  constructor(id, lang, bookableEvents, booked) {
     this.lang = lang || 'en'
     this.bookableEvents = bookableEvents || []
+    this.booked = booked || {}
     this.displayed_date = new Date()                    //date wich calendar displays now
     this.current_day = this.displayed_date.getDate() //current world time
     this.selected_date = this.displayed_date           //date that user's selected
@@ -138,6 +139,10 @@ class Calendar {
     return days_array
   }
 
+  zeroPad(n) {
+    return n > 9 ? `${n}` : `0${n}`
+  }
+
   //returns a  fulfilled and styled table DOM element
   createCalendarBody(date, current_month = false) {
     let
@@ -151,6 +156,7 @@ class Calendar {
       for (let k = 0; k < 7; ++k) {
         let td = document.createElement('td')
         td.dataset.day = days_array[i].number
+        td.id = `${date.getFullYear()}-${this.zeroPad(date.getMonth()+1)}-${this.zeroPad(days_array[i].number)}`
         td.innerHTML = `<div class="calendar__day">${days_array[i].number}</div>`
         tr.appendChild(td)
 
@@ -161,7 +167,6 @@ class Calendar {
         } else {
           if (current_month && this.selected_date.getDate() == days_array[i].number) {
             td.classList.add('calendar-cell-selected')
-            td.id = 'selected_date'
           }
 
           if (days_array[i].weekend)
@@ -238,11 +243,10 @@ class Calendar {
     if (e.target.classList.contains('calendar-cell-gray')) return //only days of current month can be selected
     if (!e.target.classList.contains('calendar-cell')) return //if it wasn't a click on a cell
 
-    let prev_selected = document.getElementById('selected_date')
+    let prev_selected = this.body_node.querySelector('.calendar-cell-selected')
 
     if (prev_selected) {
       prev_selected.classList.remove('calendar-cell-selected')
-      prev_selected.id = ''
     }
 
     this.selected_date = new Date(
@@ -251,7 +255,6 @@ class Calendar {
       e.target.dataset.day
     )
 
-    e.target.id = 'selected_date'
     e.target.classList.add('calendar-cell-selected')
   }
 
@@ -262,7 +265,9 @@ class Calendar {
       for (let event of events) {
         if (event.weekendOnly && !dayNode.classList.contains('calendar-cell-weekend')) continue
         const e = document.createElement('div')
-        e.className = 'event'
+        e.id = dayNode.id + ' ' + event.start
+        e.classList.add('event')
+        if (this.booked[e.id]) e.classList.add('booked')
         e.innerHTML = `◴ ${event.start} - ${event.end}`
         dayNode.appendChild(e)
       }

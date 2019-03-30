@@ -78,3 +78,7 @@
   color: white;
   background-color: green;
 }
+
+.calendar .event.booked {
+  background-color: lightcoral;
+}
