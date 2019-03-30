@@ -4,9 +4,14 @@ layout: default
 
 {{ content }}
 
-<style>@import '/styles/calendar.css'</style>
+<style>@import '/styles/calendar.css';</style>
 <div id="calendar-wrap" class="block"></div>
 <script src="/js/calendar.js"></script>
 <script>
-  new Calendar('calendar-wrap')
+  var calendar = new Calendar('calendar-wrap')
+  calendar.addBookableEvents([
+    {start: '10:00', end: '13:00'},
+    {start: '14:00', end: '17:00', weekendOnly: true},
+    {start: '18:00', end: '21:00'}
+  ])
 </script>

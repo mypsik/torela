@@ -264,4 +264,8 @@ class Calendar {
         e.target.id = 'selected_date'
         e.target.classList.add('calendar-cell-selected')
     }
+
+    addBookableEvents(events) {
+
+    }
 }

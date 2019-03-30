@@ -20,3 +20,7 @@
 #calendar-body td {
   text-align: left;
 }
+
+.calendar-cell-gray {
+  color: gray;
+}
