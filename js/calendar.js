@@ -149,7 +149,8 @@ class Calendar {
 
       for (let k = 0; k < 7; ++k) {
         let td = document.createElement('td')
-        td.innerHTML = `<div class="calendar__day ${days_array[i].number}">${days_array[i].number}</div>`
+        td.dataset.day = days_array[i].number
+        td.innerHTML = `<div class="calendar__day">${days_array[i].number}</div>`
         tr.appendChild(td)
 
         //add the styles that depend on what month the day belongs to
@@ -244,7 +245,7 @@ class Calendar {
     this.selected_date = new Date(
       this.displayed_date.getFullYear(),
       this.displayed_date.getMonth(),
-      e.target.innerHTML
+      e.target.dataset.day
     )
 
     e.target.id = 'selected_date'
@@ -252,7 +253,16 @@ class Calendar {
   }
 
   addBookableEvents(events) {
-
+    for (let d = 1; d <= 31; d++) {
+      const dayNode = this.body_node.querySelector(`[data-day="${d}"]`)
+      if (!dayNode) break
+      for (let event of events) {
+        const e = document.createElement('div')
+        e.classList = 'event'
+        e.innerHTML = `◴ ${event.start} - ${event.end}`
+        dayNode.appendChild(e)
+      }
+    }
   }
 
   weekday_names = {
