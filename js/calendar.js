@@ -38,14 +38,14 @@ class Calendar {
                 <header class="calendar__head">
                     <div class="calendar__nav">
                         <div id='calendar-left-btn' class="calendar__btn">
-                            <span class="icon-arrow-left"></span>
+                            <span class="icon-arrow-left">&lt;</span>
                         </div>
                         <div class="calendar__head-text">
                             <span id='calendar-month' class="calender-header-text-month">${month}</span>
                             <span id='calendar-year' class="calender-header-text-year">${year}</span>
                         </div>
                         <div id='calendar-right-btn' class="calendar__btn">
-                            <span class="icon-arrow-right"></span>
+                            <span class="icon-arrow-right">&gt;</span>
                         </div>
                     </div>
                     <table class="calendar__head-days">

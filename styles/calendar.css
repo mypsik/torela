@@ -24,3 +24,17 @@
 .calendar-cell-gray {
   color: gray;
 }
+
+.calendar__nav {
+  line-height: 2;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.calendar__btn {
+  background: lightgray;
+  width: 2em;
+  border-radius: 50%;
+  cursor: pointer;
+}
