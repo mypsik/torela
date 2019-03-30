@@ -12,6 +12,7 @@
 .calendar table td {
   width: 14.28%;
   border: 1px solid lightgray;
+  vertical-align: top;
 }
 
 .calendar__head-days {

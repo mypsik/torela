@@ -164,7 +164,7 @@ class Calendar {
           }
 
           if (days_array[i].weekend)
-            td.classList.add('calendar-cell-green')
+            td.classList.add('calendar-cell-weekend')
 
           if (current_month && this.current_day == days_array[i].number) {
             td.classList.add('calendar-cell-today')
@@ -257,8 +257,9 @@ class Calendar {
       const dayNode = this.body_node.querySelector(`[data-day="${d}"]`)
       if (!dayNode) break
       for (let event of events) {
+        if (event.weekendOnly && !dayNode.classList.contains('calendar-cell-weekend')) continue
         const e = document.createElement('div')
-        e.classList = 'event'
+        e.className = 'event'
         e.innerHTML = `◴ ${event.start} - ${event.end}`
         dayNode.appendChild(e)
       }
