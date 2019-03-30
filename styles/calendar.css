@@ -65,9 +65,16 @@
 }
 
 .calendar .event {
-  background: lightgreen;
+  background-color: lightgreen;
   border-radius: 6px;
   font-size: 0.8em;
   margin: 0.5em 0;
   padding: 0 0.5em;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.calendar .event:hover {
+  color: white;
+  background-color: green;
 }
