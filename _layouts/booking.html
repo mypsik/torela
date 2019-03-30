@@ -8,10 +8,10 @@ layout: default
 <div id="calendar-wrap" class="block"></div>
 <script src="/js/calendar.js"></script>
 <script>
-  var calendar = new Calendar('calendar-wrap', '{{page.lang}}')
-  calendar.addBookableEvents([
-    {start: '10:00', end: '13:00'},
-    {start: '14:00', end: '17:00', weekendOnly: true},
-    {start: '18:00', end: '21:00'}
-  ])
+  var bookableEvents = [
+      {start: '10:00', end: '13:00'},
+      {start: '14:00', end: '17:00', weekendOnly: true},
+      {start: '18:00', end: '21:00'}
+    ]
+  var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents)
 </script>

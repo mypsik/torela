@@ -1,7 +1,8 @@
 class Calendar {
 
-  constructor(id, lang) {
+  constructor(id, lang, bookableEvents) {
     this.lang = lang || 'en'
+    this.bookableEvents = bookableEvents || []
     this.displayed_date = new Date()                    //date wich calendar displays now
     this.current_day = this.displayed_date.getDate() //current world time
     this.selected_date = this.displayed_date           //date that user's selected
@@ -176,6 +177,8 @@ class Calendar {
       table.appendChild(tr)
     }
 
+    this.addBookableEvents(table, this.bookableEvents)
+
     return table
   }
 
@@ -252,9 +255,9 @@ class Calendar {
     e.target.classList.add('calendar-cell-selected')
   }
 
-  addBookableEvents(events) {
+  addBookableEvents(table, events) {
     for (let d = 1; d <= 31; d++) {
-      const dayNode = this.body_node.querySelector(`[data-day="${d}"]:not(.calendar-cell-gray)`)
+      const dayNode = table.querySelector(`[data-day="${d}"]:not(.calendar-cell-gray)`)
       if (!dayNode) break
       for (let event of events) {
         if (event.weekendOnly && !dayNode.classList.contains('calendar-cell-weekend')) continue
