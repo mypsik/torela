@@ -119,7 +119,7 @@ class Calendar {
     for (let k = 1; k <= current_month_last_day; ++k) {
       days_array[i] = {
         number: k,
-        from: 'currnet month',
+        from: 'current month',
         weekend: i % 7 > 4
       }
       i++
@@ -149,12 +149,12 @@ class Calendar {
 
       for (let k = 0; k < 7; ++k) {
         let td = document.createElement('td')
-        td.innerHTML = `<div class="calendar__day">${days_array[i].number}</div>`
+        td.innerHTML = `<div class="calendar__day ${days_array[i].number}">${days_array[i].number}</div>`
         tr.appendChild(td)
 
         //add the styles that depend on what month the day belongs to
         td.classList.add('calendar-cell')
-        if (days_array[i].from !== 'currnet month') {
+        if (days_array[i].from !== 'current month') {
           td.classList.add('calendar-cell-gray')
         } else {
           if (current_month && this.selected_date.getDate() == days_array[i].number) {

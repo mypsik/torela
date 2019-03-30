@@ -26,13 +26,19 @@
 .calendar__day {
   width: 1.5em;
   text-align: center;
-  background: lightgray;
+  background: #ddd;
   border-radius: 50%;
   display: inline-block;
 }
 
-.calendar-cell-gray {
-  color: gray;
+.calendar-cell-gray .calendar__day {
+  color: grey;
+  background: none;
+}
+
+.calendar-cell-today .calendar__day {
+  background: grey;
+  color: white;
 }
 
 .calendar__nav {
