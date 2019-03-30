@@ -10,6 +10,7 @@
   width: 100%;
   border-spacing: 0;
   border: 1px solid grey;
+  line-height: 1.5;
 }
 
 .calendar table td {
@@ -19,6 +20,15 @@
 
 #calendar-body td {
   text-align: left;
+  padding: 0.5em;
+}
+
+.calendar__day {
+  width: 1.5em;
+  text-align: center;
+  background: lightgray;
+  border-radius: 50%;
+  display: inline-block;
 }
 
 .calendar-cell-gray {

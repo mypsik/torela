@@ -149,7 +149,7 @@ class Calendar {
 
       for (let k = 0; k < 7; ++k) {
         let td = document.createElement('td')
-        td.innerHTML = days_array[i].number
+        td.innerHTML = `<div class="calendar__day">${days_array[i].number}</div>`
         tr.appendChild(td)
 
         //add the styles that depend on what month the day belongs to
