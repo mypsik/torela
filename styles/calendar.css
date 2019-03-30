@@ -9,13 +9,25 @@
 .calendar table {
   width: 100%;
   border-spacing: 0;
-  border: 1px solid grey;
+  border: 1px solid lightgray;
   line-height: 1.5;
 }
 
 .calendar table td {
   width: 14.28%;
-  border: 1px solid grey;
+  border: 1px solid lightgray;
+}
+
+.calendar__head-days {
+  border-radius: 4px 4px 0 0;
+}
+
+.calendar__head-days td {
+  background: lightgray;
+}
+
+#calendar-body {
+  border-radius: 0 0 4px 4px;
 }
 
 #calendar-body td {
