@@ -49,13 +49,13 @@ class Calendar {
                         </div>
                     </div>
                     <table class="calendar__head-days">
-                        <td class='calendar__head-days-item'>MON</td>
-                        <td class='calendar__head-days-item'>TUE</td>
-                        <td class='calendar__head-days-item'>WED</td>
-                        <td class='calendar__head-days-item'>THU</td>
-                        <td class='calendar__head-days-item'>FRI</td>
-                        <td class='calendar__head-days-item'>SAT</td>
-                        <td class='calendar__head-days-item'>SUN</td>
+                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][0]}</td>
+                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][1]}</td>
+                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][2]}</td>
+                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][3]}</td>
+                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][4]}</td>
+                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][5]}</td>
+                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][6]}</td>
                     </table>
                 </header>
                 <table id="calendar-body" class='calendar__body'></table>
@@ -253,6 +253,36 @@ class Calendar {
 
   addBookableEvents(events) {
 
+  }
+
+  weekday_names = {
+    en: [
+      'Mon',
+      'Tue',
+      'Wed',
+      'Thu',
+      'Fri',
+      'Sat',
+      'Sun'
+    ],
+    et: [
+      'E',
+      'T',
+      'K',
+      'N',
+      'R',
+      'L',
+      'P'
+    ],
+    ru: [
+      'Пн',
+      'Вт',
+      'Ср',
+      'Чт',
+      'Пт',
+      'Сб',
+      'Вс'
+    ]
   }
 
   month_names = {
