@@ -1,7 +1,7 @@
 class Calendar {
 
-  constructor(id, locale) {
-    this.locale = locale
+  constructor(id, lang) {
+    this.lang = lang || 'en'
     this.displayed_date = new Date()                    //date wich calendar displays now
     this.current_day = this.displayed_date.getDate() //current world time
     this.selected_date = this.displayed_date           //date that user's selected
@@ -180,22 +180,7 @@ class Calendar {
 
   //returns month name from date
   getMonthName(date) {
-    const month_names = [
-      'January',
-      'February',
-      'March',
-      'April',
-      'May',
-      'June',
-      'July',
-      'August',
-      'September',
-      'October',
-      'November',
-      'December'
-    ]
-
-    return month_names[date.getMonth()]
+    return this.month_names[this.lang][date.getMonth()]
   }
 
   //if the received date corresponds to the current month and year returns true
@@ -268,5 +253,50 @@ class Calendar {
 
   addBookableEvents(events) {
 
+  }
+
+  month_names = {
+    en: [
+      'January',
+      'February',
+      'March',
+      'April',
+      'May',
+      'June',
+      'July',
+      'August',
+      'September',
+      'October',
+      'November',
+      'December'
+    ],
+    et: [
+      'Jaanuar',
+      'Veebruar',
+      'Märts',
+      'Aprill',
+      'Mai',
+      'Juuni',
+      'Juuli',
+      'August',
+      'September',
+      'Oktoober',
+      'November',
+      'Detsember'
+    ],
+    ru: [
+      'Январь',
+      'Февраль',
+      'Март',
+      'Апрель',
+      'Май',
+      'Июнь',
+      'Июль',
+      'Август',
+      'Сентябрь',
+      'Октябрь',
+      'Ноябрь',
+      'Декабрь'
+    ]
   }
 }
