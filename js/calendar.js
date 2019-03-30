@@ -254,7 +254,7 @@ class Calendar {
 
   addBookableEvents(events) {
     for (let d = 1; d <= 31; d++) {
-      const dayNode = this.body_node.querySelector(`[data-day="${d}"]`)
+      const dayNode = this.body_node.querySelector(`[data-day="${d}"]:not(.calendar-cell-gray)`)
       if (!dayNode) break
       for (let event of events) {
         if (event.weekendOnly && !dayNode.classList.contains('calendar-cell-weekend')) continue
