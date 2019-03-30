@@ -1,0 +1,22 @@
+#calendar-wrap {
+  /*padding: 0;*/
+}
+
+.calendar {
+  text-align: center;
+}
+
+.calendar table {
+  width: 100%;
+  border-spacing: 0;
+  border: 1px solid grey;
+}
+
+.calendar table td {
+  width: 14.28%;
+  border: 1px solid grey;
+}
+
+#calendar-body td {
+  text-align: left;
+}

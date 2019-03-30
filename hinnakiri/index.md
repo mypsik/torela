@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: booking
 lang: et
 title: Hinnakiri
 priority: 1.0

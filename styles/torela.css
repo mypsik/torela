@@ -34,7 +34,7 @@ a:hover {
   color: #849f4b;
 }
 
-header {
+body > header {
   position: relative;
   padding-top: 1rem;
 }
@@ -128,7 +128,7 @@ main > p:last-child {
   margin-bottom: 0;
 }
 
-footer .icon {
+body > footer .icon {
   height: 1.5rem;
   vertical-align: middle;
   margin-left: 1rem;
