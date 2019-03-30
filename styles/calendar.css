@@ -19,7 +19,7 @@
 }
 
 .calendar__head-days {
-  border-radius: 4px 4px 0 0;
+  border-radius: 6px 6px 0 0;
 }
 
 .calendar__head-days td {
@@ -27,7 +27,7 @@
 }
 
 #calendar-body {
-  border-radius: 0 0 4px 4px;
+  border-radius: 0 0 6px 6px;
 }
 
 #calendar-body td {
