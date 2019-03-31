@@ -15,12 +15,12 @@ layout: default
 <form class="booking-dialog block">
   <a class="close">×</a>
   <label><b id="when"></b> <span id="time"></span></label>
-  <input id="childName" type="text" maxlength="64" required>
-  <input id="ownName" type="text" maxlength="64" required>
-  <input id="email" type="email" maxlength="64" required>
-  <input id="phone" type="tel" maxlength="64" required>
+  <input name="childName" type="text" maxlength="64" required>
+  <input name="ownName" type="text" maxlength="64" required>
+  <input name="email" type="email" maxlength="64" required>
+  <input name="phone" type="tel" maxlength="64" required>
   <label><b id="services"></b></label>
-  <label><input type="checkbox"> <span id="photographer"></span></label>
+  <label><input type="checkbox" name="photographer"> <span id="photographer"></span></label>
   <button id="book"></button>
 </form>
 
@@ -37,7 +37,7 @@ layout: default
   }
   new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, booked)
 
-  var bookingDialog = new BookingDialog('.booking-dialog', '{{page.lang}}')
+  var bookingDialog = new BookingDialog('.booking-dialog', '{{page.lang}}', booked)
 
   $(document).on('click', '.event', function() {
     bookingDialog.open(this.id)

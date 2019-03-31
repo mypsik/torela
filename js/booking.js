@@ -5,13 +5,17 @@ class BookingDialog {
     this.dialog = $(selector)
 
     this.dialog.find('.close').on('click', this.close.bind(this))
+    this.addLabels()
+    this.dialog.on('submit', this.submit.bind(this))
+  }
 
+  addLabels() {
     for (let key of Object.keys(this.msg)) {
       const el = $('#' + key, this.dialog)
-      if (el.is('input'))
-        el.attr('placeholder', this.msg[key])
-      else
+      if (el.length)
         el.text(this.msg[key])
+      else
+        $(`[name="${key}"]`, this.dialog).attr('placeholder', this.msg[key])
     }
   }
 
@@ -22,6 +26,11 @@ class BookingDialog {
 
   close() {
     this.dialog.hide()
+  }
+
+  submit(e) {
+    e.preventDefault()
+    alert(this.dialog.serialize())
   }
 
   messages = {
@@ -37,7 +46,7 @@ class BookingDialog {
     },
     et: {
       when: 'Aeg',
-      book: 'Broneeri',
+      book: 'Broneeri (veel ei tööta)',
       childName: 'Lapse nimi',
       ownName: 'Vanema nimi',
       email: 'E-post',
