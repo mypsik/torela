@@ -1,0 +1,34 @@
+.booking-dialog {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+  max-width: 100%;
+  background: white;
+  box-shadow: 0 0 30px rgba(0,0,0,0.3);
+}
+
+.booking-dialog .close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  cursor: pointer;
+}
+
+.booking-dialog input:not([type=checkbox]),
+.booking-dialog button,
+.booking-dialog label {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 1rem;
+}
+
+.booking-dialog button {
+  margin: 0;
+}
+
+.booking-dialog label {
+  display: block;
+}

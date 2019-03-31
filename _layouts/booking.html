@@ -4,9 +4,26 @@ layout: default
 
 {{ content }}
 
-<style>@import '/styles/calendar.css';</style>
+<style>
+  @import '/styles/calendar.css';
+  @import '/styles/booking.css';
+</style>
 <div id="calendar-wrap" class="block"></div>
 <script src="/js/calendar.js"></script>
+<script src="/js/booking.js"></script>
+
+<form class="booking-dialog block">
+  <a class="close">×</a>
+  <label><b id="when"></b> <span id="time"></span></label>
+  <input id="childName" type="text" maxlength="64" required>
+  <input id="ownName" type="text" maxlength="64" required>
+  <input id="email" type="email" maxlength="64" required>
+  <input id="phone" type="tel" maxlength="64" required>
+  <label><b id="services"></b></label>
+  <label><input type="checkbox"> <span id="photographer"></span></label>
+  <button id="book"></button>
+</form>
+
 <script>
   var bookableEvents = [
       {start: '10:00', end: '13:00'},
@@ -18,5 +35,11 @@ layout: default
     '2019-03-30 14:00': {},
     '2019-03-30 18:00': {}
   }
-  var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, booked)
+  new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, booked)
+
+  var bookingDialog = new BookingDialog('.booking-dialog', '{{page.lang}}')
+
+  $(document).on('click', '.event', function() {
+    bookingDialog.open(this.id)
+  })
 </script>
