@@ -270,7 +270,7 @@ class Calendar {
         e.id = dayNode.id + ' ' + event.start
         e.classList.add('event')
         if (this.booked[e.id]) e.classList.add('booked')
-        e.innerHTML = `◴ ${event.start} - ${event.end}`
+        e.innerHTML = `◴\u00A0${event.start} -\u00A0${event.end}`
         dayNode.appendChild(e)
       }
     }

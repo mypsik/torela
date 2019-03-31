@@ -95,8 +95,11 @@ table.calendar tbody td {
   background-color: lightcoral;
 }
 
-@media screen and (max-width: 600px) {
-  table {
+@media screen and (max-width: 700px) {
+  #calendar-wrap {
+    margin: 0 -1rem;
+    border: none;
+    border-radius: 0;
     overflow-x: scroll;
   }
 }
