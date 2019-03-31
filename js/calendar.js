@@ -36,32 +36,34 @@ class Calendar {
       month = this.getMonthName(date)
 
     document.getElementById(id).innerHTML = `
-            <div id='calendar' class="calendar">
-                <header class="calendar__head">
-                    <div class="calendar__nav">
+            <table id='calendar' class="calendar">
+                <thead class="calendar__head">
+                    <tr class="calendar__nav">
+                      <td colspan="7">
                         <div id='calendar-left-btn' class="calendar__btn">
                             <span class="icon-arrow-left">&lt;</span>
+                        </div>
+                        <div id='calendar-right-btn' class="calendar__btn">
+                            <span class="icon-arrow-right">&gt;</span>
                         </div>
                         <div class="calendar__head-text">
                             <span id='calendar-month' class="calender-header-text-month">${month}</span>
                             <span id='calendar-year' class="calender-header-text-year">${year}</span>
                         </div>
-                        <div id='calendar-right-btn' class="calendar__btn">
-                            <span class="icon-arrow-right">&gt;</span>
-                        </div>
-                    </div>
-                    <table class="calendar__head-days">
-                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][0]}</td>
-                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][1]}</td>
-                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][2]}</td>
-                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][3]}</td>
-                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][4]}</td>
-                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][5]}</td>
-                        <td class='calendar__head-days-item'>${this.weekday_names[this.lang][6]}</td>
-                    </table>
-                </header>
-                <table id="calendar-body" class='calendar__body'></table>
-            </div>`
+                      </td>  
+                    </tr>
+                    <tr class="calendar__head-days">
+                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][0]}</th>
+                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][1]}</th>
+                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][2]}</th>
+                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][3]}</th>
+                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][4]}</th>
+                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][5]}</th>
+                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][6]}</th>
+                    </tr>
+                </thead>
+                <tbody id="calendar-body" class='calendar__body'></tbody>
+            </table>`
 
     let body = this.createCalendarBody(
       this.displayed_date,
@@ -143,7 +145,7 @@ class Calendar {
     return n > 9 ? `${n}` : `0${n}`
   }
 
-  //returns a  fulfilled and styled table DOM element
+  //returns a filled and styled table DOM element
   createCalendarBody(date, current_month = false) {
     let
       days_array = this.createDaysArray(date),

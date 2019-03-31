@@ -1,33 +1,36 @@
-.calendar {
+table.calendar {
   text-align: center;
-}
-
-.calendar table {
   width: 100%;
   border-spacing: 0;
-  border: 1px solid lightgray;
   line-height: 1.5;
 }
 
-.calendar table td {
-  width: 14.28%;
+table.calendar tbody {
+  border-radius: 0 0 6px 6px;
   border: 1px solid lightgray;
+}
+
+table.calendar tbody td {
+  width: 14.28%;
   vertical-align: top;
+  border: 2px solid lightgray;
+  border-right: 0;
+  border-top: 0;
+}
+
+table.calendar tbody td:last-of-type {
+  border-right: 2px solid lightgrey;
 }
 
 .calendar__head-days {
   border-radius: 6px 6px 0 0;
 }
 
-.calendar__head-days td {
+.calendar__head-days th {
   background: lightgray;
 }
 
-#calendar-body {
-  border-radius: 0 0 6px 6px;
-}
-
-#calendar-body td {
+table.calendar tbody td {
   text-align: left;
   padding: 0.5em;
 }
@@ -52,9 +55,10 @@
 
 .calendar__nav {
   line-height: 2;
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 1rem;
+}
+
+.calendar__nav td {
+  padding-bottom: 1rem;
 }
 
 .calendar__btn {
@@ -62,6 +66,14 @@
   width: 2em;
   border-radius: 50%;
   cursor: pointer;
+}
+
+#calendar-left-btn {
+  float: left;
+}
+
+#calendar-right-btn {
+  float: right;
 }
 
 .calendar .event {
@@ -81,4 +93,10 @@
 
 .calendar .event.booked {
   background-color: lightcoral;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    overflow-x: scroll;
+  }
 }
