@@ -27,6 +27,10 @@ mongoClient.connect().then(() => {
     return db.collection('bookings').insertOne(req.body).then(result => res.send(result.insertedId))
   })
 
+  app.post('/api/contacts', (req, res) => {
+    return db.collection('contacts').insertOne(req.body).then(result => res.send(result.insertedId))
+  })
+
   app.use(express.static('../_site'))
 
   app.listen(config.port, () => console.log(`Listening on port ${config.port}`))
