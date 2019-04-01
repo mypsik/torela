@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: booking
 lang: en
 title: Prices
 priority: 1.0
@@ -14,8 +14,6 @@ Mo-Fr, 18-21 - ? € / 3h
 Sa-Su - € / 3h
 
 Booking fee 40 €
-
-<a href="javascript:document.querySelector('.book-now').click()">**Booking**</a>
 
 Preparations can be made 15 minutes before the start of the party.
 By prior arrangement it is possible to extend the duration of the event, the extra hour is 25 €.
