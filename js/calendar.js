@@ -274,8 +274,12 @@ class Calendar {
         e.dataset.time = event.start
         e.dataset.until = event.end
         e.classList.add('event')
-        if (this.bookings[e.id]) e.classList.add('booked')
         e.innerText = `◴\u00A0${event.start.replace(':00', '')} - ${event.end}`
+        const booking = this.bookings[e.id]
+        if (booking) {
+          e.classList.add('booked')
+          e.innerText += ' ' + booking.childName
+        }
         dayNode.appendChild(e)
       }
     })
