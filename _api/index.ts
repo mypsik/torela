@@ -15,7 +15,7 @@ app.use((req, res, next) => {
   next();
 });
 
-const mongoClient = new MongoClient('mongodb://172.22.0.2:27017', {auth: {user: 'torela', password: 't0relas3cret'}})
+const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth: {user: 'torela', password: 't0relas3cret'}})
 mongoClient.connect().then(() => {
   const db = mongoClient.db('torela')
 
