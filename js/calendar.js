@@ -1,8 +1,9 @@
 class Calendar {
 
-  constructor(id, lang, bookableEvents) {
+  constructor(id, lang, bookableEvents, firstDay) {
     this.lang = lang || 'en'
     this.bookableEvents = bookableEvents || []
+    this.firstDay = firstDay
     this.bookings = {}
     this.displayed_date = new Date()                    //date wich calendar displays now
     this.current_day = this.displayed_date.getDate() //current world time
@@ -90,23 +91,15 @@ class Calendar {
   ]*/
   createDaysArray(date) {
     let
-      prev_month_last_day = new Date( //number of the last day of the previous month
-        date.getFullYear(),
-        date.getMonth(),
-        0
-      ).getDate(),
+      prev_month_last_day = new Date(date.getFullYear(), date.getMonth(), 0).getDate(),
+      prev_month = new Date(date.getFullYear(), date.getMonth(), 0).getMonth() + 1,
 
       first_week_day = new Date( //number of the first day of the current month f.e. monday->1, wednesday->3
-        date.getFullYear(),
-        date.getMonth(),
-        1
-      ).getDay(),
+        date.getFullYear(), date.getMonth(), 1).getDay(),
+      current_month = date.getMonth() + 1,
 
-      current_month_last_day = new Date(
-        date.getFullYear(),
-        date.getMonth() + 1,
-        0
-      ).getDate(),
+      current_month_last_day = new Date(date.getFullYear(), date.getMonth() + 1, 0).getDate(),
+      next_month = new Date(date.getFullYear(), date.getMonth() + 1, 1).getMonth() + 1,
 
       days_array = new Array(42),
 
@@ -116,29 +109,31 @@ class Calendar {
 
     let first_array_element = prev_month_last_day - first_week_day + 2
 
-    //adds last days of previous month
     for (i = 0; i < first_week_day - 1; ++i) {
       days_array[i] = {
         number: first_array_element + i,
-        from: 'prev month'
+        from: 'prev month',
+        month: prev_month,
+        weekend: i % 7 > 4
       }
     }
 
-    //adds days of current month
     for (let k = 1; k <= current_month_last_day; ++k) {
       days_array[i] = {
         number: k,
         from: 'current month',
+        month: current_month,
         weekend: i % 7 > 4
       }
       i++
     }
 
-    //adds days of next month
     for (let k = 0; i < days_array.length; ++k) {
       days_array[i] = {
         number: k + 1,
-        from: 'next month'
+        month: next_month,
+        from: 'next month',
+        weekend: i % 7 > 4
       }
       i++
     }
@@ -163,7 +158,7 @@ class Calendar {
       for (let k = 0; k < 7; ++k) {
         let td = document.createElement('td')
         td.dataset.day = days_array[i].number
-        td.id = `${date.getFullYear()}-${this.zeroPad(date.getMonth()+1)}-${this.zeroPad(days_array[i].number)}`
+        td.id = `${date.getFullYear()}-${this.zeroPad(days_array[i].month)}-${this.zeroPad(days_array[i].number)}`
         td.innerHTML = `<div class="calendar__day">${days_array[i].number}</div>`
         tr.appendChild(td)
 
@@ -171,18 +166,21 @@ class Calendar {
         td.classList.add('calendar-cell')
         if (days_array[i].from !== 'current month') {
           td.classList.add('calendar-cell-gray')
-        } else {
+        }
+        else {
           if (current_month && this.selected_date.getDate() == days_array[i].number) {
             td.classList.add('calendar-cell-selected')
           }
-
-          if (days_array[i].weekend)
-            td.classList.add('calendar-cell-weekend')
 
           if (current_month && this.current_day == days_array[i].number) {
             td.classList.add('calendar-cell-today')
           }
         }
+
+        if (days_array[i].weekend)
+          td.classList.add('calendar-cell-weekend')
+
+
         ++i
       }
       tr.classList.add('calendar-body-row')
@@ -266,10 +264,9 @@ class Calendar {
   }
 
   addBookableEvents(table, events) {
-    for (let d = 1; d <= 31; d++) {
-      const dayNode = table.querySelector(`[data-day="${d}"]:not(.calendar-cell-gray)`)
-      if (!dayNode) break
+    table.querySelectorAll('.calendar-cell').forEach(dayNode => {
       for (let event of events) {
+        if (dayNode.id < this.firstDay) continue
         if (event.weekendOnly && !dayNode.classList.contains('calendar-cell-weekend')) continue
         const e = document.createElement('div')
         e.id = dayNode.id + ' ' + event.start
@@ -281,7 +278,7 @@ class Calendar {
         e.innerText = `◴\u00A0${event.start.replace(':00', '')} - ${event.end}`
         dayNode.appendChild(e)
       }
-    }
+    })
   }
 
   weekday_names = {

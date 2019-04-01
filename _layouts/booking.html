@@ -38,7 +38,7 @@ layout: default
       {start: '18:00', end: '21:00'}
     ]
 
-  var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents)
+  var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, '2019-04-27')
   var api = new API()
   api.bookings().then(bookings => calendar.setBookings(bookings))
 
