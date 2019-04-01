@@ -29,7 +29,7 @@ a {
   color: #849f4b;
 }
 
-a:hover {
+a:not(.button):hover {
   text-decoration: underline;
   color: #849f4b;
 }
@@ -88,7 +88,7 @@ nav a.active {
   font-weight: bold;
 }
 
-.timify-button {
+.book-now {
   float: right;
   margin-top: -75px;
   font-size: 1.3rem;
@@ -97,7 +97,7 @@ nav a.active {
   cursor: pointer;
 }
 
-.timify-button:hover {
+.book-now:hover {
   opacity: 0.8;
 }
 
@@ -134,7 +134,8 @@ body > footer .icon {
   margin-left: 1rem;
 }
 
-input:not([type=checkbox]):not([type=radio]), button, textarea, select {
+input:not([type=checkbox]):not([type=radio]), button, .button, textarea, select {
+  color: black;
   font-size: 1rem;
   font-family: sans-serif;
   padding: 0.5rem 0.75rem;
@@ -241,7 +242,7 @@ input:not([type=checkbox]):not([type=radio]), textarea {
     padding-top: 160px;
   }
 
-  .timify-button {
+  .book-now {
     width: 100%;
   }
 

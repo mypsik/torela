@@ -16,14 +16,6 @@ $(function () {
   })
 
   initGallery()
-
-  $(window).on('hashchange', function() {
-    document.body.style.backgroundImage = 'url(/img/' + location.hash.substring(1) + ')'
-  })
-
-  if (location.hash) {
-    $(window).trigger('hashchange')
-  }
 })
 
 function initGallery() {
