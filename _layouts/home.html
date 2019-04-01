@@ -17,19 +17,13 @@ layout: default
   <small>Me ei spämmi!</small>
 </form>
 
+<script src="/js/api.js"></script>
 <script>
   $(function() {
     var form = $('#subscribe').on('submit', function(e) {
       e.preventDefault()
-      $.post({
-        url: 'https://api.jsonbin.io/b',
-        headers: {'secret-key': '$2a$10$/6tZDpUbNTJDx1Osv5dvF.NrpUuSR7k0FTntPkM1wIx0WwIVnqY6G', 'collection-id': '5c9beaa2da12e364adfa562e'},
-        contentType: 'application/json',
-        crossDomain: true,
-        data: JSON.stringify({email: $('#email', form).val()})
-      }).then(function() {
-        form.slideUp()
-      })
+      new API().saveContact({email: $('#email', form).val()})
+        .then(() => form.slideUp())
     })
   })
 </script>
