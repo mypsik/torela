@@ -9,10 +9,14 @@ class API {
   }
 
   book(booking) {
-    return $.post(this.url + '/api/bookings', JSON.stringify(booking))
+    return this.post('/api/bookings', booking)
   }
 
   saveContact(contact) {
-    return $.post(this.url + '/api/contacts', JSON.stringify(contact))
+    return this.post('/api/contacts', contact)
+  }
+
+  post(path, data) {
+    return $.post({url: this.url + path, data: JSON.stringify(data), contentType: 'application/json'})
   }
 }
