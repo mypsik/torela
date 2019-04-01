@@ -1,5 +1,5 @@
 class BookingDialog {
-  constructor(selector, lang) {
+  constructor(selector, api, lang) {
     this.lang = lang
     this.msg = this.messages[lang]
     this.dialog = $(selector)

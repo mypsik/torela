@@ -1,9 +1,9 @@
 class Calendar {
 
-  constructor(id, lang, bookableEvents, booked) {
+  constructor(id, lang, bookableEvents) {
     this.lang = lang || 'en'
     this.bookableEvents = bookableEvents || []
-    this.booked = booked || {}
+    this.bookings = {}
     this.displayed_date = new Date()                    //date wich calendar displays now
     this.current_day = this.displayed_date.getDate() //current world time
     this.selected_date = this.displayed_date           //date that user's selected
@@ -27,6 +27,11 @@ class Calendar {
     document
       .getElementById('calendar-right-btn')
       .addEventListener('click', this.moveRight)
+  }
+
+  setBookings(bookings) {
+    this.bookings = bookings
+    this.setDateTo(this.displayed_date)
   }
 
   //draws the calendar when the document is loaded
@@ -269,8 +274,8 @@ class Calendar {
         const e = document.createElement('div')
         e.id = dayNode.id + ' ' + event.start
         e.classList.add('event')
-        if (this.booked[e.id]) e.classList.add('booked')
-        e.innerHTML = `◴\u00A0${event.start} -\u00A0${event.end}`
+        if (this.bookings[e.id]) e.classList.add('booked')
+        e.innerText = `◴\u00A0${event.start.replace(':00', '')} - ${event.end}`
         dayNode.appendChild(e)
       }
     }

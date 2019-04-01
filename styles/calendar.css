@@ -93,6 +93,7 @@ table.calendar tbody td {
 
 .calendar .event.booked {
   background-color: lightcoral;
+  cursor: not-allowed;
 }
 
 @media screen and (max-width: 700px) {

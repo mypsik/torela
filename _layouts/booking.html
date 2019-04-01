@@ -9,6 +9,7 @@ layout: default
   @import '/styles/booking.css';
 </style>
 <div id="calendar-wrap" class="block"></div>
+<script src="/js/api.js"></script>
 <script src="/js/calendar.js"></script>
 <script src="/js/booking.js"></script>
 
@@ -31,12 +32,14 @@ layout: default
       {start: '14:00', end: '17:00', weekendOnly: true},
       {start: '18:00', end: '21:00'}
     ]
-  var bookings = {}
-  new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, bookings)
 
-  var bookingDialog = new BookingDialog('.booking-dialog', '{{page.lang}}', bookings)
+  var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents)
+  var api = new API()
+  api.bookings().then(bookings => calendar.setBookings(bookings))
 
-  $(document).on('click', '.event', function() {
+  var bookingDialog = new BookingDialog('.booking-dialog', api, '{{page.lang}}')
+
+  $(document).on('click', '.event:not(.booked)', function() {
     bookingDialog.open(this.id)
   })
 </script>
