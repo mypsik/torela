@@ -13,7 +13,7 @@ mongoClient.connect().then(() => {
   const db = mongoClient.db('torela')
 
   app.get('/api/bookings', (req, res) => {
-    db.collection('bookings').find().toArray().then(bookings => res.json(bookings))
+    return db.collection('bookings').find().toArray().then(bookings => res.json(bookings))
   })
 
   app.post('/api/bookings', (req, res) => {
