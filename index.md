@@ -23,7 +23,7 @@ Torela mänguasjad on lapsesõbralikud ja soodustavad lapse arengut. Lapsed saav
 Mängutoas saab hullata mängumajas, ronida mööda seina ja sõita ringi autodega.
 Lapsed saavad ehitada kuuliradasid ja legotorne, joonistada kriitidega, luua mägesid liitreaalsuse liivakastis ja veel palju muud põnevat. 
 
-Mängutoas on kööginurk külmkapi, ahju, pliidi, mikrolaineahju ja veekeetjaga. Köögitarvikutest on olemas presskannud, morsikannud, salatikausid, kandikud, tassid, noad, tordilabidas ja vaasid. Köögis on olemas ka kohv, tee, suhkur.
+Mängutoas on kööginurk külmkapi, ahju, pliidi, mikrolaineahju ja veekeetjaga. Köögitarvikutest on olemas presskannud, morsikannud, salatikausid, kandikud, tassid, noad, tordilabidas ja vaasid. 
 
 Suurte söögilaudade taha mahub korraga 14 täiskasvanut ja väikeste laudade taha 14 last.
 Mängutoas toimub üks pidu korraga.
