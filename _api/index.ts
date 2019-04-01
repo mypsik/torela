@@ -19,6 +19,8 @@ const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth
 mongoClient.connect().then(() => {
   const db = mongoClient.db('torela')
 
+  app.get('/', (req, res) => res.redirect('https://torela.ee/'))
+
   app.get('/api/bookings', (req, res) => {
     return db.collection('bookings').find().toArray().then(bookings => res.json(bookings))
   })
