@@ -5,8 +5,15 @@ import config from './config'
 
 const app = express()
 app.use(express.json())
+
 const logger = morgan('[:date] :method :url :status :res[content-length] - :response-time ms')
 app.use(logger)
+
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', config.allowedCorsHost);
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  next();
+});
 
 const mongoClient = new MongoClient('mongodb://172.22.0.2:27017', {auth: {user: 'torela', password: 't0relas3cret'}})
 mongoClient.connect().then(() => {
