@@ -40,7 +40,7 @@ class BookingDialog {
       if (input.name)
         booking[input.name] = input.value
     })
-    this.api.book(booking).then(this.success)
+    this.api.book(booking).then(this.success.bind(this))
   }
 
   success() {
