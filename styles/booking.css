@@ -4,8 +4,10 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 300px;
+  width: 450px;
   max-width: 100%;
+  max-height: 90%;
+  overflow-y: auto;
   background: white;
   box-shadow: 0 0 30px rgba(0,0,0,0.3);
 }
@@ -32,4 +34,8 @@
 
 .booking-dialog label {
   display: block;
+}
+
+.booking-dialog .services label {
+  margin-bottom: 0.5rem;
 }

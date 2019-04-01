@@ -61,7 +61,11 @@ class BookingDialog {
       comments: 'Comments',
       success: 'Thank you for booking! Please pay the booking fee to our bank account',
       services: 'Additional services',
-      photographer: 'Photographer'
+      photographer: 'Photographer',
+      videographer: 'Video',
+      facePainting: 'Face painting',
+      icecreamMachine: 'Icecream machine',
+      cleaning: 'Cleaning'
     },
     et: {
       book: 'Broneeri',
@@ -74,7 +78,11 @@ class BookingDialog {
       success: 'Täname broneerimise eest, ootame teid külla! Palun tasuge broneerimistasu meie kontole',
       comments: 'Lisainfo',
       services: 'Lisateenused',
-      photographer: 'Fotograaf'
+      photographer: 'Fotograaf',
+      videographer: 'Videograaf',
+      facePainting: 'Näomaalingud',
+      icecreamMachine: 'Jäätise masin',
+      cleaning: 'Koristus'
     },
     ru: {
       book: 'Бронировать',
@@ -87,7 +95,11 @@ class BookingDialog {
       success: 'Спасибо за бронировку, ждём вас в гости! Не забудьте перевести предоплату на наш счёт',
       comments: 'Комментарии',
       services: 'Дополнительные услуги',
-      photographer: 'Фотограф'
+      photographer: 'Фотограф',
+      videographer: 'Видеограф',
+      facePainting: 'Крашенье лица',
+      icecreamMachine: 'Машина для изготовления мороженного',
+      cleaning: 'Уборка'
     }
   }
 }
