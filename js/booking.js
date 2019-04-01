@@ -38,7 +38,8 @@ class BookingDialog {
       when: 'When',
       book: 'Book',
       childName: 'Child\'s name',
-      ownName: 'Parent\'s name',
+      childAge: 'Child\'s age',
+      parentName: 'Parent\'s name',
       email: 'Email',
       phone: 'Phone',
       services: 'Additional services',
@@ -47,12 +48,24 @@ class BookingDialog {
     et: {
       when: 'Aeg',
       book: 'Broneeri (veel ei tööta)',
-      childName: 'Lapse nimi',
-      ownName: 'Vanema nimi',
+      childName: 'Lapse eesnimi',
+      childAge: 'Lapse vanus',
+      parentName: 'Vanema täisnimi',
       email: 'E-post',
       phone: 'Telefon',
       services: 'Lisateenused',
       photographer: 'Fotograaf'
+    },
+    ru: {
+      when: 'Когда',
+      book: 'Бронировать',
+      childName: 'Имя ребёнка',
+      childAge: 'Возраст ребёнка',
+      parentName: 'Полное имя родителя',
+      email: 'E-mail',
+      phone: 'Телефон',
+      services: 'Дополнительные услуги',
+      photographer: 'Фотограф'
     }
   }
 }

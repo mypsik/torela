@@ -16,7 +16,8 @@ layout: default
   <a class="close">×</a>
   <label><b id="when"></b> <span id="time"></span></label>
   <input name="childName" type="text" maxlength="64" required>
-  <input name="ownName" type="text" maxlength="64" required>
+  <input name="childAge" type="number" min="0" max="100" required>
+  <input name="parentName" type="text" maxlength="64" required>
   <input name="email" type="email" maxlength="64" required>
   <input name="phone" type="tel" maxlength="64" required>
   <label><b id="services"></b></label>
@@ -30,14 +31,10 @@ layout: default
       {start: '14:00', end: '17:00', weekendOnly: true},
       {start: '18:00', end: '21:00'}
     ]
-  var booked = {
-    '2019-03-29 10:00': {},
-    '2019-03-30 14:00': {},
-    '2019-03-30 18:00': {}
-  }
-  new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, booked)
+  var bookings = {}
+  new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, bookings)
 
-  var bookingDialog = new BookingDialog('.booking-dialog', '{{page.lang}}', booked)
+  var bookingDialog = new BookingDialog('.booking-dialog', '{{page.lang}}', bookings)
 
   $(document).on('click', '.event', function() {
     bookingDialog.open(this.id)
