@@ -18,6 +18,7 @@
 }
 
 .booking-dialog input:not([type=checkbox]),
+.booking-dialog textarea,
 .booking-dialog button,
 .booking-dialog label {
   width: 100%;

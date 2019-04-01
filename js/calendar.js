@@ -273,6 +273,9 @@ class Calendar {
         if (event.weekendOnly && !dayNode.classList.contains('calendar-cell-weekend')) continue
         const e = document.createElement('div')
         e.id = dayNode.id + ' ' + event.start
+        e.dataset.date = dayNode.id
+        e.dataset.time = event.start
+        e.dataset.until = event.end
         e.classList.add('event')
         if (this.bookings[e.id]) e.classList.add('booked')
         e.innerText = `◴\u00A0${event.start.replace(':00', '')} - ${event.end}`

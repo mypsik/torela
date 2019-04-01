@@ -15,14 +15,19 @@ layout: default
 
 <form class="booking-dialog block">
   <a class="close">×</a>
-  <label><b id="when"></b> <span id="time"></span></label>
+  <label><b id="time"></b></label>
+  <input name="date" type="hidden">
+  <input name="time" type="hidden">
+  <input name="until" type="hidden">
   <input name="childName" type="text" maxlength="64" required>
   <input name="childAge" type="number" min="0" max="100" required>
   <input name="parentName" type="text" maxlength="64" required>
   <input name="email" type="email" maxlength="64" required>
   <input name="phone" type="tel" maxlength="64" required>
+  <textarea name="comments" rows="2"></textarea>
   <label><b id="services"></b></label>
   <label><input type="checkbox" name="photographer"> <span id="photographer"></span></label>
+  <br>
   <button id="book"></button>
 </form>
 
@@ -40,6 +45,6 @@ layout: default
   var bookingDialog = new BookingDialog('.booking-dialog', api, '{{page.lang}}')
 
   $(document).on('click', '.event:not(.booked)', function() {
-    bookingDialog.open(this.id)
+    bookingDialog.open(this.dataset)
   })
 </script>
