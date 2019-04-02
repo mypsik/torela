@@ -7,20 +7,27 @@ et: /hinnakiri/
 ru: /ru/prices/
 ---
 
-Mo-Fr, 10-13 - ? € / 3h
+Mo-Fr, 10-13 -  95€ / 3h
 
-Mo-Fr, 18-21 - ? € / 3h
+Mo-Fr, 18-21 - 125€ / 3h
 
-Sa-Su - € / 3h
+Sa-Su - 150€ / 3h
 
-Booking fee 40 €
+If you make a reservation in April, you get a discount of -20%!
 
-Preparations can be made 15 minutes before the start of the party.
-By prior arrangement it is possible to extend the duration of the event, the extra hour is 25 €.
-The room must be released at the agreed time. If the party is not terminated on time, Torela can claim compensation.
+*Weekend rates apply for public holidays. On site you can pay only in cash!
 
-Only cash payments on site.
+The booking fee is 40 €, which will be deducted from the final amount. Enter the date, time and name of the child in the payment explanation. Booking fee must be paid within 3 days to Torela OÜ bank account EE477700771003581431. If the transfer is not received on time, the reservation will be canceled.
 
-On public holidays weekend price is charged.
+You can pay rest of the payment on site in cash or transfer it before the event on our bank account. On site you can pay only in cash!
 
+Birthday party lasts 3 hours. Preparations can be made 15 minutes before the start of the party and the rooms are requested to be released at the agreed time.
+
+If you need to postpone your event, let us know as soon as possible (no later than 24h before the start of the party). If you don't show up or cancel the booking under 24h, then you need to pay the full amount. We can agree on a new time. The booking can only be changed once. You can make a new  booking within a year.
+
+Booking fee is non-refundable.
+
+When confirming your reservation, you have agreed to the rules of the playroom.
 [House rules](/en/rules/)
+
+
