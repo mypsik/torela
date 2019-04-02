@@ -94,7 +94,7 @@ nav a.active {
 .book-now {
   float: right;
   margin-top: -75px;
-  font-size: 1.3rem;
+  font-size: 1.3rem !important;
   background: #bde265;
   text-align: center;
   border: none;
