@@ -18,6 +18,11 @@ class BookingDialog {
       else
         $(`[name="${key}"]`, this.dialog).attr('placeholder', this.msg[key])
     }
+
+    var services = this.dialog.find('.services')
+    for (let service of Object.keys(this.msg.additionalServices)) {
+      services.append(`<label><input type="checkbox" name="${service}"> <span>${this.msg.additionalServices[service]}</span></label>`)
+    }
   }
 
   open(event) {
@@ -62,11 +67,13 @@ const bookingMessages = {
     comments: 'Comments',
     success: 'Thank you for booking! Please pay the booking fee to our bank account',
     services: '<a href="/en/services/" target="_blank">Additional services</a>',
-    photographer: 'Photographer',
-    videographer: 'Video',
-    facePainting: 'Face painting',
-    icecreamMachine: 'Icecream machine',
-    cleaning: 'Cleaning'
+    additionalServices: {
+      photographer: 'Photographer',
+      videographer: 'Video',
+      facePainting: 'Face painting',
+      icecreamMachine: 'Icecream machine',
+      cleaning: 'Cleaning'
+    }
   },
   et: {
     book: 'Broneeri',
@@ -79,11 +86,13 @@ const bookingMessages = {
     success: 'Täname broneeringu eest, ootame teid külla! Palun tasuge broneerimistasu meie kontole',
     comments: 'Lisainfo',
     services: '<a href="/lisateenused/" target="_blank">Lisateenused</a>',
-    photographer: 'Fotograaf',
-    videographer: 'Videograaf (3h/300€)',
-    facePainting: 'Näomaalingud (1,5h/50€)',
-    icecreamMachine: 'Jäätise masin (59€+km)',
-    cleaning: 'Koristus (25€)'
+    additionalServices: {
+      photographer: 'Fotograaf',
+      videographer: 'Videograaf (3h/300€)',
+      facePainting: 'Näomaalingud (1,5h/50€)',
+      icecreamMachine: 'Jäätise masin (59€+km)',
+      cleaning: 'Koristus (25€)'
+    }
   },
   ru: {
     book: 'Бронировать',
@@ -96,10 +105,12 @@ const bookingMessages = {
     success: 'Спасибо за бронировку, ждём вас в гости! Не забудьте перевести предоплату на наш счёт',
     comments: 'Комментарии',
     services: '<a href="/ru/services/" target="_blank">Дополнительные услуги</a>',
-    photographer: 'Фотограф',
-    videographer: 'Видеограф',
-    facePainting: 'Крашенье лица',
-    icecreamMachine: 'Машина для изготовления мороженного',
-    cleaning: 'Уборка'
+    additionalServices: {
+      photographer: 'Фотограф',
+      videographer: 'Видеограф',
+      facePainting: 'Крашенье лица',
+      icecreamMachine: 'Машина для изготовления мороженного',
+      cleaning: 'Уборка'
+    }
   }
 }
