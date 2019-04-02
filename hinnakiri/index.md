@@ -13,7 +13,7 @@ E-R 18-21:00 - 125€/3h
 
 L-P 10-21:00 - 150€/3h
 
-Aprillis broneerijad saavad soodustust 20%!
+**Aprillis broneerijad saavad soodustust 20%!**
 
 *Riigipühadel kehtib nädalavahetuse hind.
 Kohapeal saab maksta ainult sularahas!
