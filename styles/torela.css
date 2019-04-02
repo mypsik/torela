@@ -93,6 +93,7 @@ nav a.active {
   margin-top: -75px;
   font-size: 1.3rem;
   background: #bde265;
+  text-align: center;
   border: none;
   cursor: pointer;
 }
@@ -128,6 +129,13 @@ main > p:last-child {
   margin-bottom: 0;
 }
 
+main video {
+  float: right;
+  margin: 0 0 1rem 1rem;
+  border-radius: 1rem;
+  max-width: 100%;
+}
+
 body > footer .icon {
   height: 1.5rem;
   vertical-align: middle;
@@ -140,6 +148,8 @@ input:not([type=checkbox]):not([type=radio]), button, .button, textarea, select 
   font-family: sans-serif;
   padding: 0.5rem 0.75rem;
   border-radius: 0.5rem;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 input:not([type=checkbox]):not([type=radio]), textarea {
@@ -151,13 +161,15 @@ input:not([type=checkbox]):not([type=radio]), textarea {
 }
 
 #subscribe {
-  width: 540px;
+  width: 420px;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .fb-page {
+  clear: right;
   float: right;
   width: 300px;
-  margin-top: -4em;
 }
 
 #map {
