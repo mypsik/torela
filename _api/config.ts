@@ -3,5 +3,5 @@ export default {
   mongoHost: 'mongo',
   allowedCorsHost: '*',
   adminEmail: 'torela@torela.ee',
-  smtpHost: 'mail.codeborne.com'
+  smtpHost: 'codeborne.com'
 }
