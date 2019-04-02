@@ -9,6 +9,18 @@ class Calendar {
     this.current_day = this.displayed_date.getDate() //current world time
     this.selected_date = this.displayed_date           //date that user's selected
 
+    this.weekday_names = {
+      en: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+      et: ['E', 'T', 'K', 'N', 'R', 'L', 'P'],
+      ru: ['Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб', 'Вс']
+    }
+
+    this.month_names = {
+      en: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+      et: ['Jaanuar', 'Veebruar', 'Märts', 'Aprill', 'Mai', 'Juuni', 'Juuli', 'August', 'September', 'Oktoober', 'November', 'Detsember'],
+      ru: ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь']
+    }
+
     this.drawToDom(this.displayed_date, id)
 
     this.body_node = document.getElementById('calendar-body')
@@ -283,80 +295,5 @@ class Calendar {
         dayNode.appendChild(e)
       }
     })
-  }
-
-  weekday_names = {
-    en: [
-      'Mon',
-      'Tue',
-      'Wed',
-      'Thu',
-      'Fri',
-      'Sat',
-      'Sun'
-    ],
-    et: [
-      'E',
-      'T',
-      'K',
-      'N',
-      'R',
-      'L',
-      'P'
-    ],
-    ru: [
-      'Пн',
-      'Вт',
-      'Ср',
-      'Чт',
-      'Пт',
-      'Сб',
-      'Вс'
-    ]
-  }
-
-  month_names = {
-    en: [
-      'January',
-      'February',
-      'March',
-      'April',
-      'May',
-      'June',
-      'July',
-      'August',
-      'September',
-      'October',
-      'November',
-      'December'
-    ],
-    et: [
-      'Jaanuar',
-      'Veebruar',
-      'Märts',
-      'Aprill',
-      'Mai',
-      'Juuni',
-      'Juuli',
-      'August',
-      'September',
-      'Oktoober',
-      'November',
-      'Detsember'
-    ],
-    ru: [
-      'Январь',
-      'Февраль',
-      'Март',
-      'Апрель',
-      'Май',
-      'Июнь',
-      'Июль',
-      'Август',
-      'Сентябрь',
-      'Октябрь',
-      'Ноябрь',
-      'Декабрь'
-    ]
   }
 }
