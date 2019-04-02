@@ -286,7 +286,7 @@ class Calendar {
         e.dataset.time = event.start
         e.dataset.until = event.end
         e.classList.add('event')
-        e.innerText = `◴\u00A0${event.start.replace(':00', '')} - ${event.end}`
+        e.innerText = `◴\u00A0${event.start.replace(':00', '')}\u00A0- ${event.end}`
         const booking = this.bookings[e.id]
         if (booking) {
           e.classList.add('booked')
