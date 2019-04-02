@@ -161,7 +161,7 @@ input:not([type=checkbox]):not([type=radio]), textarea {
 }
 
 #subscribe {
-  width: 420px;
+  width: 440px;
   max-width: 100%;
   box-sizing: border-box;
 }
@@ -170,6 +170,7 @@ input:not([type=checkbox]):not([type=radio]), textarea {
   clear: right;
   float: right;
   width: 300px;
+  margin: 0 0 1rem 1rem;
 }
 
 #map {
