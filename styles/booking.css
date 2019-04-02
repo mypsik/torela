@@ -18,6 +18,9 @@
   top: 1rem;
   right: 1rem;
   cursor: pointer;
+  font-size: 1.8rem;
+  color: black;
+  text-decoration: none !important;
 }
 
 .booking-dialog input:not([type=checkbox]),
@@ -39,4 +42,14 @@
 
 .booking-dialog .services label {
   margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 450px) {
+  .booking-dialog {
+    border-radius: 0;
+  }
+
+  .booking-dialog .close {
+    top: 0.5rem;
+  }
 }

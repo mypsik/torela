@@ -5,7 +5,7 @@ class BookingDialog {
     this.msg = bookingMessages[lang]
     this.dialog = $(selector)
 
-    this.dialog.find('.close').on('click', this.close.bind(this))
+    this.dialog.find('.close').on('click', () => history.back())
     this.addLabels()
     this.dialog.on('submit', this.submit.bind(this))
   }
@@ -32,6 +32,8 @@ class BookingDialog {
     this.dialog.find('[name=until]').val(event.until)
     this.dialog.show()
     this.dialog.find('input:visible:first').focus()
+    history.pushState('booking', 'Booking');
+    $(window).one('popstate', () => this.close());
   }
 
   close() {
