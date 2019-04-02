@@ -46,7 +46,6 @@ body > header {
   width: 200px;
   height: 200px;
   float: left;
-  border-radius: 50%;
   transition: 0.3s transform;
 }
 
