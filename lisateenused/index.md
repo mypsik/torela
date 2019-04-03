@@ -26,9 +26,14 @@ Eesti ühe parima näomaalija käe all saavad lapsed endale teha lasta fantaasia
 -**LAETUD PEOLAUD "Laste lemmikud"** - 80€
 Kaetud laud 14 lapsele. 
 Helluse jogurtid, kartulisalat, puuvili-juurvili, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
+
 -JÄÄTISEMASIN
+
 -SUHKRUVATIMASIN
+
 -**PEOJÄRGNE KORISTAMINE** - 20€
 Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise. 
+
 -FOTOGRAAF
+
 -PEOJUHT
