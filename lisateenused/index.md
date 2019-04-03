@@ -14,9 +14,12 @@ Peost valmib korralikult kokku monteeritud, helindatud, parimate hetkedega 5 min
 Valmis video saab sünnipäevalaps endale USB mälupulgal 4K kvaliteedis.
 Peokülalised saavad filmi vaadata privaatselt lingilt internetis.
 www.kuulidmuuvid.ee
+
 -MUSTKUNSTNIK
+
 -**NÄOMAALIJA Ursula** - 45€/1H
 Eesti ühe parima näomaalija käe all saavad lapsed endale teha lasta fantaasiarikkaid näomaalinguid! 
+
 -**ÕHUPALLILOOMAD Meelika** - 65€/1H
 Õhupalliloomadele lisaks saab võtta ka vesitätoveeringuid, igale lapsele 1 pilt - 25€. 
 
