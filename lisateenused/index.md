@@ -40,7 +40,7 @@ Kaetud laud 14 lapsele.
 Helluse jogurtid, kartulisalat, puuvili-juurvili, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
 
 
--JÄÄTISEMASIN - 71€
+-**JÄÄTISEMASIN** - 71€
 
 
 
