@@ -44,7 +44,7 @@ class BookingDialog {
     e.preventDefault()
     const booking = {}
     this.dialog.find(':input').each((i, input) => {
-      if (input.name)
+      if (input.name && (input.type !== 'checkbox' || input.checked))
         booking[input.name] = input.value
     })
     this.api.book(booking).then(this.success.bind(this))
