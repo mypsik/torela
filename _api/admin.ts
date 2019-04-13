@@ -1,12 +1,13 @@
 import {Router} from 'express'
 import * as basicAuth from 'express-basic-auth'
 import {Db} from "mongodb";
+import config from './config'
 
 export default function admin(db: Db): Router {
   const admin = Router()
 
   admin.use(basicAuth({
-    users: {'admin': 'supersecret'}
+    users: {'torela': config.password}
   }))
 
   admin.get('/contacts', (req, res) => {

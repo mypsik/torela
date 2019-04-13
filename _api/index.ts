@@ -22,7 +22,7 @@ const mailTransport = nodemailer.createTransport({
   port: 25
 });
 
-const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth: {user: 'torela', password: 't0relas3cret'}, useNewUrlParser: true})
+const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth: {user: 'torela', password: config.password}, useNewUrlParser: true})
 mongoClient.connect().then(() => {
   const db = mongoClient.db('torela')
 

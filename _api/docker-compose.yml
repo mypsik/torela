@@ -6,11 +6,13 @@ services:
     restart: always
     environment:
       MONGO_INITDB_ROOT_USERNAME: torela
-      MONGO_INITDB_ROOT_PASSWORD: t0relas3cret
+      MONGO_INITDB_ROOT_PASSWORD: ${PASSWORD}
 
   torela:
     build: .
     restart: always
+    environment:
+      - PASSWORD
     networks:
       - proxy
       - default

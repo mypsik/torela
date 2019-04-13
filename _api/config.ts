@@ -3,5 +3,6 @@ export default {
   mongoHost: '172.22.0.4',
   allowedCorsHost: '*',
   adminEmail: 'torela@torela.ee',
-  smtpHost: 'codeborne.com'
+  smtpHost: 'codeborne.com',
+  password: process.env.PASSWORD || 't0relas3cret'
 }
