@@ -12,10 +12,10 @@ const logger = morgan('[:date] :method :url :status :res[content-length] - :resp
 app.use(logger)
 
 app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', config.allowedCorsHost);
-  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
-  next();
-});
+  res.header('Access-Control-Allow-Origin', config.allowedCorsHost)
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept')
+  next()
+})
 
 const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth: {user: 'torela', password: config.password}, useNewUrlParser: true})
 mongoClient.connect().then(() => {
@@ -30,7 +30,7 @@ mongoClient.connect().then(() => {
   app.post('/api/bookings', (req, res) => {
     const booking = req.body
     return db.collection('bookings').insertOne(booking).then(result => {
-      mailer.sendBooking(booking);
+      mailer.sendBooking(booking)
       res.send(result.insertedId)
     })
   })
@@ -39,7 +39,7 @@ mongoClient.connect().then(() => {
     return db.collection('contacts').insertOne(req.body).then(result => res.send(result.insertedId))
   })
 
-  app.use('/admin', admin(db));
+  app.use('/admin', admin(db))
 
   app.use(express.static('../_site'))
 
