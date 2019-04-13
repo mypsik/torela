@@ -14,6 +14,7 @@ export default function admin(db: Db): Router {
 
   const style = `<style>
     th, td { text-align: left; vertical-align: top; padding: 5px; }
+    tr:hover { background-color: #f5f5f5; }
   </style>`
 
   const menu = `<p><a href="/admin/contacts">Kontaktid</a> | <a href="/admin/bookings">Broneeringud</a></p>`
