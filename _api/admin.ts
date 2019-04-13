@@ -29,12 +29,12 @@ export default function admin(db: Db): Router {
         <tbody>
           ${result.map(c => `
             <tr>
-              <td>${c.email}</td>
-              <td>${c.lang}</td>
-              <td>${c.createdAt}</td>
-              <td>${c.userAgent}</td>
+              <td><a href="mailto:${e(c.email)}">${e(c.email)}</a></td>
+              <td>${e(c.lang)}</td>
+              <td>${e(c.createdAt)}</td>
+              <td>${e(c.userAgent)}</td>
             </tr>
-          `).join()}
+          `).join('')}
         </tbody>
       </table>
     `))
@@ -69,20 +69,25 @@ export default function admin(db: Db): Router {
               <td>${b.date}</td>
               <td>${b.time}</td>
               <td>${b.lang}</td>
-              <td>${b.childName}</td>
-              <td>${b.childAge}</td>
-              <td>${b.parentName}</td>
-              <td><a href="mailto:${b.email}">${b.email}</a></td>
-              <td><a href="tel:${b.phone}">${b.phone}</a></td>
-              <td>${b.comments}</td>
-              <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${k}</div>`).join()}</td>
-              <td>${b.userAgent}</td>
+              <td>${e(b.childName)}</td>
+              <td>${e(b.childAge)}</td>
+              <td>${e(b.parentName)}</td>
+              <td><a href="mailto:${e(b.email)}">${e(b.email)}</a></td>
+              <td><a href="tel:${e(b.phone)}">${e(b.phone)}</a></td>
+              <td>${e(b.comments)}</td>
+              <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
+              <td>${e(b.userAgent)}</td>
             </tr>
-          `).join()}
+          `).join('')}
         </tbody>
       </table>
     `))
   })
+
+  function e(s: string) {
+    if (!s) return '';
+    return s.replace('<', '&lt;').replace('\'', '&apos;').replace('"', '&quot;');
+  }
 
   return admin
 }
