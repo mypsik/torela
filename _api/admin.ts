@@ -13,7 +13,7 @@ export default function admin(db: Db): Router {
   }))
 
   const style = `<style>
-    th, td { text-align: left; vertical-align: top; }
+    th, td { text-align: left; vertical-align: top; padding: 5px; }
   </style>`
 
   admin.get('/contacts.json', (req, res) => {
@@ -21,7 +21,7 @@ export default function admin(db: Db): Router {
   })
 
   admin.get('/contacts', (req, res) => {
-    db.collection('contacts').find().toArray().then(result => res.send(`${style}
+    db.collection('contacts').find().sort({date: 1, time: 1}).toArray().then(result => res.send(`${style}
       <h1>Contacts</h1>
       <table>
         <thead>
