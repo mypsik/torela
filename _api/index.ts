@@ -39,8 +39,10 @@ mongoClient.connect().then(() => {
 
   app.post('/api/contacts', (req, res) => {
     const contact = getData(req)
-    contact.createdAt = new Date().toISOString()
-    return db.collection('contacts').insertOne(contact).then(result => res.send(result.insertedId))
+    return db.collection('contacts').insertOne(contact).then(result => {
+      mailer.sendContact(contact)
+      res.send(result.insertedId)
+    })
   })
 
   function getData(req) {

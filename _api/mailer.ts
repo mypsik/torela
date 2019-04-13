@@ -1,14 +1,23 @@
 import * as nodemailer from 'nodemailer'
-import config from "./config";
+import config from "./config"
 
 const mailTransport = nodemailer.createTransport({
   host: config.smtpHost,
   port: 25
-});
+})
 
 export class Mailer {
+  sendContact(contact) {
+    this.send({
+      from: `"Torela" <${config.adminEmail}>`,
+      to: config.adminEmail,
+      subject: `Uus kontakt veebilehelt`,
+      text: `${contact.email}<br><br>` + JSON.stringify(contact)
+    })
+  }
+
   sendBooking(booking) {
-    const mail = {
+    this.send({
       from: `"Torela" <${config.adminEmail}>`,
       to: booking.email,
       bcc: config.adminEmail,
@@ -28,11 +37,14 @@ export class Mailer {
       Rohkem infot: https://torela.ee/hinnakiri/
       
       ` + JSON.stringify(booking)
-    };
+    })
+  }
+
+  private send(mail) {
     mailTransport.sendMail(mail, (error, info) => {
-      if (error) console.error(error);
-    });
+      if (error) console.error(error)
+    })
   }
 }
 
-export default new Mailer();
+export default new Mailer()
