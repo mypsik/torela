@@ -68,7 +68,7 @@ mongoClient.connect().then(() => {
     return db.collection('contacts').insertOne(req.body).then(result => res.send(result.insertedId))
   })
 
-  app.use('/admin', admin);
+  app.use('/admin', admin(db));
 
   app.use(express.static('../_site'))
 
