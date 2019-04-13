@@ -16,7 +16,7 @@ export default function admin(db: Db): Router {
     th, td { text-align: left; vertical-align: top; padding: 5px; }
   </style>`
 
-  const menu = `<p><a href="contacts">Kontaktid</a> | <a href="bookings">Broneerimised</a></p>`
+  const menu = `<p><a href="/admin/contacts">Kontaktid</a> | <a href="/admin/bookings">Broneerimised</a></p>`
 
   admin.get('/', (req, res) => {
     res.send(menu)
