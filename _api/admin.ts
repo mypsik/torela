@@ -16,12 +16,18 @@ export default function admin(db: Db): Router {
     th, td { text-align: left; vertical-align: top; padding: 5px; }
   </style>`
 
+  const menu = `<p><a href="contacts">Contacts</a> | <a href="bookings">Booking</a></p>`
+
+  admin.get('/', (req, res) => {
+    res.send(menu)
+  })
+
   admin.get('/contacts.json', (req, res) => {
     db.collection('contacts').find().toArray().then(result => res.json(result))
   })
 
   admin.get('/contacts', (req, res) => {
-    db.collection('contacts').find().sort({date: 1, time: 1}).toArray().then(result => res.send(`${style}
+    db.collection('contacts').find().sort({date: 1, time: 1}).toArray().then(result => res.send(`${style}${menu}
       <h1>Contacts</h1>
       <table>
         <thead>
@@ -49,7 +55,7 @@ export default function admin(db: Db): Router {
   })
 
   admin.get('/bookings', (req, res) => {
-    db.collection('bookings').find().toArray().then(result => res.send(`${style}
+    db.collection('bookings').find().toArray().then(result => res.send(`${style}${menu}
       <h1>Bookings</h1>
       <table>
         <thead>
