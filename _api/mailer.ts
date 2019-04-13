@@ -9,16 +9,16 @@ const mailTransport = nodemailer.createTransport({
 export class Mailer {
   sendContact(contact) {
     this.send({
-      from: `"Torela" <${config.adminEmail}>`,
+      from: `Torela <${config.adminEmail}>`,
       to: config.adminEmail,
       subject: `Uus kontakt veebilehelt`,
-      text: `${contact.email}<br><br>` + JSON.stringify(contact)
+      text: `${contact.email}\n\n` + JSON.stringify(contact)
     })
   }
 
   sendBooking(booking) {
     this.send({
-      from: `"Torela" <${config.adminEmail}>`,
+      from: `Torela <${config.adminEmail}>`,
       to: booking.email,
       bcc: config.adminEmail,
       subject: `Mängutuba broneeritud ${booking.date} ${booking.time} - ${booking.until}`,
