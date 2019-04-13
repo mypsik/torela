@@ -64,6 +64,7 @@ export default function admin(db: Db): Router {
             <th>Telefon</th>
             <th>Lisainfo</th>
             <th>Lisateenused</th>
+            <th>Lisatud</th>
             <th>Brauser</th>
           </tr>
         </thead>
@@ -80,6 +81,7 @@ export default function admin(db: Db): Router {
               <td><a href="tel:${e(b.phone)}">${e(b.phone)}</a></td>
               <td>${e(b.comments)}</td>
               <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
+              <td>${e(b.createdAt)}</td>
               <td>${e(b.userAgent)}</td>
             </tr>
           `).join('')}
