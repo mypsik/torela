@@ -4,5 +4,5 @@ export default {
   allowedCorsHost: '*',
   adminEmail: 'torela@torela.ee',
   smtpHost: 'codeborne.com',
-  password: process.env.PASSWORD || 't0relas3cret'
+  password: process.env.PASSWORD
 }
