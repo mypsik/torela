@@ -7,7 +7,9 @@ export default function admin(db: Db): Router {
   const admin = Router()
 
   admin.use(basicAuth({
-    users: {'torela': config.password}
+    users: {'torela': config.password},
+    challenge: true,
+    realm: 'Torela'
   }))
 
   admin.get('/contacts', (req, res) => {
