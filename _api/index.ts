@@ -12,8 +12,10 @@ const logger = morgan('[:date] :method :url :status :res[content-length] - :resp
 app.use(logger)
 
 app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', config.allowedCorsHost)
-  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept')
+  if (req.header('Origin')) {
+    res.header('Access-Control-Allow-Origin', config.allowedCorsHost)
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept')
+  }
   next()
 })
 
