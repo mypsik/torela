@@ -34,7 +34,7 @@ export default function admin(db: Db): Router {
               <td>${c.createdAt}</td>
               <td>${c.userAgent}</td>
             </tr>
-          `)}
+          `).join()}
         </tbody>
       </table>
     `))
@@ -75,10 +75,10 @@ export default function admin(db: Db): Router {
               <td><a href="mailto:${b.email}">${b.email}</a></td>
               <td><a href="tel:${b.phone}">${b.phone}</a></td>
               <td>${b.comments}</td>
-              <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${k}</div>`)}</td>
+              <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${k}</div>`).join()}</td>
               <td>${b.userAgent}</td>
             </tr>
-          `)}
+          `).join()}
         </tbody>
       </table>
     `))
