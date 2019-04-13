@@ -16,7 +16,7 @@ export default function admin(db: Db): Router {
     th, td { text-align: left; vertical-align: top; padding: 5px; }
   </style>`
 
-  const menu = `<p><a href="contacts">Contacts</a> | <a href="bookings">Booking</a></p>`
+  const menu = `<p><a href="contacts">Kontaktid</a> | <a href="bookings">Broneerimised</a></p>`
 
   admin.get('/', (req, res) => {
     res.send(menu)
@@ -28,7 +28,7 @@ export default function admin(db: Db): Router {
 
   admin.get('/contacts', (req, res) => {
     db.collection('contacts').find().sort({date: 1, time: 1}).toArray().then(result => res.send(`${style}${menu}
-      <h1>Contacts</h1>
+      <h1>Kontaktid</h1>
       <table>
         <thead>
           <th>Email</th>
@@ -56,7 +56,7 @@ export default function admin(db: Db): Router {
 
   admin.get('/bookings', (req, res) => {
     db.collection('bookings').find().toArray().then(result => res.send(`${style}${menu}
-      <h1>Bookings</h1>
+      <h1>Broneerimised</h1>
       <table>
         <thead>
           <tr>
