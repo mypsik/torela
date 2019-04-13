@@ -30,7 +30,7 @@ mongoClient.connect().then(() => {
   })
 
   app.post('/api/bookings', (req, res) => {
-    const booking = req.body
+    const booking = getData(req.body)
     return db.collection('bookings').insertOne(booking).then(result => {
       mailer.sendBooking(booking)
       res.send(result.insertedId)
@@ -38,8 +38,17 @@ mongoClient.connect().then(() => {
   })
 
   app.post('/api/contacts', (req, res) => {
-    return db.collection('contacts').insertOne(req.body).then(result => res.send(result.insertedId))
+    const contact = getData(req)
+    contact.createdAt = new Date().toISOString()
+    return db.collection('contacts').insertOne(contact).then(result => res.send(result.insertedId))
   })
+
+  function getData(req) {
+    const data = req.body
+    data.createdAt = new Date().toISOString()
+    data.userAgent = req.header('User-Agent')
+    return data
+  }
 
   app.use('/admin', admin(db))
 
