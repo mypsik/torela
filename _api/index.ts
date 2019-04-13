@@ -1,9 +1,9 @@
 import * as express from 'express'
 import * as morgan from 'morgan'
 import {MongoClient} from 'mongodb'
-import * as nodemailer from 'nodemailer'
 import config from './config'
 import admin from './admin'
+import mailer from './mailer'
 
 const app = express()
 app.use(express.json())
@@ -15,11 +15,6 @@ app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', config.allowedCorsHost);
   res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
   next();
-});
-
-const mailTransport = nodemailer.createTransport({
-  host: config.smtpHost,
-  port: 25
 });
 
 const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth: {user: 'torela', password: config.password}, useNewUrlParser: true})
@@ -35,31 +30,7 @@ mongoClient.connect().then(() => {
   app.post('/api/bookings', (req, res) => {
     const booking = req.body
     return db.collection('bookings').insertOne(booking).then(result => {
-      let mail = {
-        from: `"Torela" <${config.adminEmail}>`,
-        to: booking.email,
-        bcc: config.adminEmail,
-        subject: `Mängutuba broneeritud ${booking.date} ${booking.time} - ${booking.until}`,
-        text: `
-        Täname! Broneering on tehtud ja ootab ettemaksu.
-        
-        Lapse nimi: ${booking.childName}
-        Lapse vanus: ${booking.childAge}
-        Lapsevanem: ${booking.parentName}
-        Keel: ${booking.lang}
-        Telefon: ${booking.phone}
-        Email: ${booking.email}
-        Lisainfo: ${booking.comments}
-        
-        Palun kandke broneerimistasu Torela kontole.
-        Rohkem infot: https://torela.ee/hinnakiri/
-        
-        ` + JSON.stringify(booking)
-      };
-      mailTransport.sendMail(mail, (error, info) => {
-        if (error) console.error(error);
-      });
-
+      mailer.sendBooking(booking);
       res.send(result.insertedId)
     })
   })
