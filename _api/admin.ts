@@ -12,12 +12,16 @@ export default function admin(db: Db): Router {
     realm: 'Torela'
   }))
 
+  const style = `<style>
+    th, td { text-align: left; vertical-align: top; }
+  </style>`
+
   admin.get('/contacts.json', (req, res) => {
     db.collection('contacts').find().toArray().then(result => res.json(result))
   })
 
   admin.get('/contacts', (req, res) => {
-    db.collection('contacts').find().toArray().then(result => res.send(`
+    db.collection('contacts').find().toArray().then(result => res.send(`${style}
       <h1>Contacts</h1>
       <table>
         <thead>
@@ -45,7 +49,7 @@ export default function admin(db: Db): Router {
   })
 
   admin.get('/bookings', (req, res) => {
-    db.collection('bookings').find().toArray().then(result => res.send(`
+    db.collection('bookings').find().toArray().then(result => res.send(`${style}
       <h1>Bookings</h1>
       <table>
         <thead>
