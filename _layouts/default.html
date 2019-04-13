@@ -10,9 +10,9 @@
   {%if page.ru %}<link rel="alternate" href="{{ site.url }}{{ page.ru }}" hreflang="ru">{%endif%}
   <title>
     {{ site.name }}
-    {% if page.et %}Mängutuba{%endif%}
-    {% if page.en %}Playroom{%endif%}
-    {% if page.ru %}игровая комната{%endif%}
+    {%if page.lang == 'et' %}Mängutuba{%endif%}
+    {%if page.lang == 'en' %}Playroom{%endif%}
+    {%if page.lang == 'ru' %}игровая комната{%endif%}
     - {{ page.title }}
   </title>
   {%if page.keywords != null%}<meta name="keywords" content="{{ page.keywords }}">{%endif%}
