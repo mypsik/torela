@@ -30,7 +30,7 @@ mongoClient.connect().then(() => {
   })
 
   app.post('/api/bookings', (req, res) => {
-    const booking = getData(req.body)
+    const booking = getData(req)
     return db.collection('bookings').insertOne(booking).then(result => {
       mailer.sendBooking(booking)
       res.send(result.insertedId)
