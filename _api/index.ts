@@ -3,6 +3,7 @@ import * as morgan from 'morgan'
 import {MongoClient} from 'mongodb'
 import * as nodemailer from 'nodemailer'
 import config from './config'
+import admin from './admin'
 
 const app = express()
 app.use(express.json())
@@ -21,7 +22,7 @@ const mailTransport = nodemailer.createTransport({
   port: 25
 });
 
-const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth: {user: 'torela', password: 't0relas3cret'}})
+const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth: {user: 'torela', password: 't0relas3cret'}, useNewUrlParser: true})
 mongoClient.connect().then(() => {
   const db = mongoClient.db('torela')
 
@@ -59,13 +60,15 @@ mongoClient.connect().then(() => {
         if (error) console.error(error);
       });
 
-      res.send(result.insertedId);
+      res.send(result.insertedId)
     })
   })
 
   app.post('/api/contacts', (req, res) => {
     return db.collection('contacts').insertOne(req.body).then(result => res.send(result.insertedId))
   })
+
+  app.use('/admin', admin);
 
   app.use(express.static('../_site'))
 
