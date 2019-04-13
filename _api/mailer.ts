@@ -32,11 +32,11 @@ export class Mailer {
       Telefon: ${booking.phone}
       Email: ${booking.email}
       Lisainfo: ${booking.comments}
+      Lisateenused: ${Object.keys(booking).filter(k => k != 'terms' && booking[k] == 'on')}
       
       Palun kandke broneerimistasu Torela kontole.
-      Rohkem infot: https://torela.ee/hinnakiri/
-      
-      ` + JSON.stringify(booking)
+      Rohkem infot: https://torela.ee/hinnakiri/    
+      `
     })
   }
 
