@@ -1,5 +1,5 @@
 ---
-layout: services
+layout: default
 lang: et
 title: Lisateenused
 priority: 1.0
