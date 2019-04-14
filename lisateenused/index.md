@@ -7,60 +7,67 @@ en: /en/services/
 ru: /ru/services/
 ---
 
-<dt>VIDEOGRAAF Marge Prints - 300€/3H</dt>
-<dd>
-Lapse sünnipäeva säravamad ja tähtsamad hetked kvaliteetselt videopildile!
-Videograaf filmib pidu kuni 3 h – alates külaliste saabumistest kuni tordi lõikamiseni.
-Peost valmib korralikult kokku monteeritud, helindatud, parimate hetkedega 5 minutiline video.
-Valmis video saab sünnipäevalaps endale USB mälupulgal 4K kvaliteedis.
-Peokülalised saavad filmi vaadata privaatselt lingilt internetis.
-www.kuulidmuuvid.ee
-</dd>
+VIDEOGRAAF Marge Prints - 300€/3H
 
-<dt>MUSTKUNSTNIK  Richard Samarüütel - 115€/30min</dt>
-<dd>https://www.facebook.com/richard.samaruutel/</dd>
+: Lapse sünnipäeva säravamad ja tähtsamad hetked kvaliteetselt videopildile!
 
-<dt>NÄOMAALIJA Ursula - 45€/1H</dt>
-<dd>
-Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
+  Videograaf filmib pidu kuni 3h – alates külaliste saabumistest kuni tordi lõikamiseni.
+  Peost valmib korralikult kokku monteeritud, helindatud, parimate hetkedega 5 minutiline video.  
+  Valmis video saab sünnipäevalaps endale USB mälupulgal 4K kvaliteedis.
+  
+  Peokülalised saavad filmi vaadata privaatselt lingilt internetis.
+  
+  [www.kuulidmuuvid.ee](http://www.kuulidmuuvid.ee)
 
-Ühes tunnis jõuab näomaalija teha umbes:
-1) hästi lihtsaid ja väikseid -15 nägu tunnis
-2) keskmisi 8-10 nägu tunnis
-3) suuri ja keerukamaid 5-7 nägu tunnis
 
-Glittertätoveeringud on lisaks 45€ tunnis ja kuni 12 last.
-Ursula teiste töödega saab tutvuda: http://uula.ee/naomaalingud
-</dd>
+MUSTKUNSTNIK  Richard Samarüütel - 115€/30min
 
-<dt>ÕHUPALLILOOMAD Meelika - 70€/1H</dt>
-<dd>
-Meelika teeb kõige vahvamaid õhupalliloomi!Õhupalliloomadele lisaks saab võtta ka vesitätoveeringuid, igale lapsele 1 pilt - 20€. 
-</dd>
+: [Facebooki leht](https://www.facebook.com/richard.samaruutel/)
 
-<dt>LAETUD PEOLAUD "Laste lemmikud" - 80€</dt>
-<dd>
-Kaetud laud 14 lapsele. 
-Helluse jogurtid, kartulisalat, puuvili-juurvili, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
-</dd>
 
-<dt>JÄÄTISEMASIN - 71€</dt>
-<dd>
-</dd>
+NÄOMAALIJA Ursula - 45€/1h
 
-<dt>SUHKRUVATIMASIN</dt>
-<dd>
-</dd>
+: Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
 
-<dt>PEOJÄRGNE KORISTAMINE - 20€</dt>
-<dd>
-Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise. 
-</dd>
+  Ühes tunnis jõuab näomaalija teha umbes:
 
-<dt>FOTOGRAAF</dt>
-<dd>
-</dd>
+  1. hästi lihtsaid ja väikseid -15 nägu tunnis
+  2. keskmisi 8-10 nägu tunnis
+  3. suuri ja keerukamaid 5-7 nägu tunnis
 
-<dt>PEOJUHT<dt>
-<dd>
-</dd>
+  Glittertätoveeringud on lisaks 45€ tunnis ja kuni 12 last.
+  Ursula teiste töödega saab tutvuda: [http://uula.ee/naomaalingud](http://uula.ee/naomaalingud)
+
+
+ÕHUPALLILOOMAD Meelika - 70€/1h
+
+: Meelika teeb kõige vahvamaid õhupalliloomi!
+  
+  Õhupalliloomadele lisaks saab võtta ka vesitätoveeringuid, igale lapsele 1 pilt - 20€. 
+
+
+LAETUD PEOLAUD "Laste lemmikud" - 80€
+
+: Kaetud laud 14 lapsele. 
+  
+  Helluse jogurtid, kartulisalat, puuvili-juurvili, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
+
+
+JÄÄTISEMASIN - 71€
+: Lisainfo täienemisel
+
+
+SUHKRUVATIMASIN
+: Lisainfo täienemisel
+
+
+PEOJÄRGNE KORISTAMINE - 20€
+: Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise. 
+
+
+FOTOGRAAF
+: Lisainfo täienemisel
+
+
+PEOJUHT
+: Lisainfo täienemisel
