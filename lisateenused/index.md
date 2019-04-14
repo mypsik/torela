@@ -17,12 +17,12 @@ VIDEOGRAAF Marge Prints - 300€/3H
   
   Peokülalised saavad filmi vaadata privaatselt lingilt internetis.
   
-  [www.kuulidmuuvid.ee](http://www.kuulidmuuvid.ee)
+  [www.kuulidmuuvid.ee](http://www.kuulidmuuvid.ee){:target="_blank"}
 
 
 MUSTKUNSTNIK  Richard Samarüütel - 115€/30min
 
-: [Facebooki leht](https://www.facebook.com/richard.samaruutel/)
+: Lisainfo [mustkunstniku Facebooki lehel](https://www.facebook.com/richard.samaruutel/){:target="_blank"}
 
 
 NÄOMAALIJA Ursula - 45€/1h
@@ -36,7 +36,7 @@ NÄOMAALIJA Ursula - 45€/1h
   3. suuri ja keerukamaid 5-7 nägu tunnis
 
   Glittertätoveeringud on lisaks 45€ tunnis ja kuni 12 last.
-  Ursula teiste töödega saab tutvuda: [http://uula.ee/naomaalingud](http://uula.ee/naomaalingud)
+  Ursula teiste töödega saab tutvuda: [http://uula.ee/naomaalingud](http://uula.ee/naomaalingud){:target="_blank"}
 
 
 ÕHUPALLILOOMAD Meelika - 70€/1h
