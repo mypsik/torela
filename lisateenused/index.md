@@ -46,6 +46,9 @@ NÄOMAALIJA Ursula - 45€/1h
   3. suuri ja keerukamaid 5-7 nägu tunnis
 
   Glittertätoveeringud on lisaks 45€ tunnis ja kuni 12 last.
+  <img alt="Näomaaling Jänes" src="naomaaling1.jpg" width="350"> 
+  <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" width="350"> 
+  
   Ursula teiste töödega saab tutvuda: [http://uula.ee/naomaalingud](http://uula.ee/naomaalingud){:target="_blank"}
 
 
