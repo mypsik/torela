@@ -231,6 +231,45 @@ input:not([type=checkbox]):not([type=radio]), textarea {
   outline-offset: 1px;
 }
 
+dl dt {
+  font-weight: bold;
+  border: 1px dashed gray;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: rgba(255,255,255,0.9);
+  cursor: pointer;
+}
+
+dl dt:hover {
+  color: #849f4b;
+}
+
+dl dt::after {
+  content: '▿';
+  display: inline-block;
+  margin-left: 1rem;
+}
+
+dl dt.open::after {
+  content: '▵';
+}
+
+dl dt:hover::after {
+  color: darkred;
+}
+
+dl dd {
+  display: none;
+}
+
+dl dd.open {
+  display: block;
+}
+
+dl dt, dl dd {
+  margin-bottom: 1rem;
+}
+
 @media screen and (max-width: 900px) {
   .block {
     padding: 1rem;

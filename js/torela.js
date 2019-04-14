@@ -21,6 +21,7 @@ $(function () {
   })
 
   initGallery()
+  initServices()
 })
 
 function initGallery() {
@@ -40,5 +41,11 @@ function initGallery() {
     var next = $('.thumbs img.active').next()
     if (!next.length) next = $('.thumbs img').first()
     next.trigger('click')
+  })
+}
+
+function initServices() {
+  $('dl dt').on('click', function() {
+    $(this).add($(this).next('dd')).toggleClass('open');
   })
 }
