@@ -1,6 +1,6 @@
 import {Router} from 'express'
 import * as basicAuth from 'express-basic-auth'
-import {Db} from "mongodb";
+import {Db, ObjectId} from "mongodb";
 import config from './config'
 
 export default function admin(db: Db): Router {
@@ -73,6 +73,7 @@ export default function admin(db: Db): Router {
             <th>Lisateenused</th>
             <th>Lisatud</th>
             <th>Brauser</th>
+            <th></th>
           </tr>
         </thead>
         <tbody>
@@ -90,11 +91,21 @@ export default function admin(db: Db): Router {
               <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
               <td>${e(b.createdAt)}</td>
               <td>${e(b.userAgent)}</td>
+              <td>
+                <form action="/admin/bookings/${b._id}/delete" method="post" onsubmit="return confirm('Kustutada broneering lapsele ${e(b.childName)}?')">
+                  <button>Kustutada</button>
+                </form>
+              </td>
             </tr>
           `).join('')}
         </tbody>
       </table>
     `))
+  })
+
+  admin.post('/bookings/:id/delete', (req, res) => {
+    db.collection('bookings').deleteOne({_id: new ObjectId(req.params.id)}).then(() =>
+      res.redirect('/admin/bookings'))
   })
 
   function e(s: string) {
