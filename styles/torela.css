@@ -248,14 +248,11 @@ dl dt::after {
   content: '▿';
   display: inline-block;
   margin-left: 1rem;
+  color: darkred;
 }
 
 dl dt.open::after {
   content: '▵';
-}
-
-dl dt:hover::after {
-  color: darkred;
 }
 
 dl dd {
