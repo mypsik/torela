@@ -23,7 +23,9 @@ VIDEOGRAAF Marge Prints - 300€/3H
 MUSTKUNSTNIK  Richard Samarüütel - 115€/30min
 
 : Lisainfo [mustkunstniku Facebooki lehel](https://www.facebook.com/richard.samaruutel/){:target="_blank"}
-
+  
+  <img alt="Richard Samarüütel" src="https://scontent.fhen1-1.fna.fbcdn.net/v/t31.0-8/1074322_1666600350072259_767373963240585599_o.jpg?_nc_cat=108&_nc_ht=scontent.fhen1-1.fna&oh=c5834b8b9cbd9af2486e27abe8b0f4d8&oe=5D3815A8" width="350"> 
+  
 
 NÄOMAALIJA Ursula - 45€/1h
 
