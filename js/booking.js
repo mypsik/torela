@@ -70,11 +70,17 @@ const bookingMessages = {
     success: 'Thank you for booking! Please pay the booking fee to our bank account',
     services: '<a href="/en/services/" target="_blank">Additional services</a>',
     additionalServices: {
-      photographer: 'Photographer',
-      videographer: 'Video',
-      facePainting: 'Face painting',
-      icecreamMachine: 'Icecream machine',
-      cleaning: 'Cleaning'
+      bugsShow: 'Bugs program (125€/45min)',
+      videographer: 'Videographer (300€/3h)',
+      photographer: 'Photographer (135€)',
+      partyAnimator: 'Animator',
+      magician: 'Magician (115€/30min)',
+      facePainting: 'Face paintings (45€/1,5h)',
+      balloonAnimals: 'Balloon Animals (70€/1h)' ,
+      catering: 'Kids' Favorites (80€)',
+      icecreamMachine: 'Icecream machine (71€)',
+      cottoncandy: 'Cottoncandy machine',
+      cleaning: 'Cleaning (25€)'
     }
   },
   et: {
@@ -89,10 +95,16 @@ const bookingMessages = {
     comments: 'Lisainfo',
     services: '<a href="/lisateenused/" target="_blank">Lisateenused</a>',
     additionalServices: {
-      photographer: 'Fotograaf',
-      videographer: 'Videograaf (3h/300€)',
-      facePainting: 'Näomaalingud (1,5h/50€)',
-      icecreamMachine: 'Jäätise masin (59€+km)',
+      bugsShow: 'Putukaprogramm (125€/45min)',
+      videographer: 'Videograaf (300€/3h)',
+      photographer: 'Fotograaf (135€)',
+      partyAnimator: 'Peojuht',
+      magician: 'Mustkunstnik (115€/30min)',
+      facePainting: 'Näomaalingud (45€/1,5h)',
+      balloonAnimals: 'Õhupalliloomad (70€/1h)' ,
+      catering: 'Laste lemmikud (80€)',
+      icecreamMachine: 'Jäätisemasin (71€)',
+      cottoncandy: 'Suhkruvatimasin',
       cleaning: 'Koristus (25€)'
     }
   },
@@ -108,11 +120,17 @@ const bookingMessages = {
     comments: 'Комментарии',
     services: '<a href="/ru/services/" target="_blank">Дополнительные услуги</a>',
     additionalServices: {
-      photographer: 'Фотограф',
-      videographer: 'Видеограф',
-      facePainting: 'Крашенье лица',
-      icecreamMachine: 'Машина для изготовления мороженного',
-      cleaning: 'Уборка'
+      bugsShow: 'Программа с насекомыми (125€/45min)',
+      videographer: 'Видеограф (300€/3h)',
+      photographer: 'Фотограф (135€)',
+      partyAnimator: 'Аниматор',
+      magician: 'Фокусник (115€/30min)',
+      facePainting: 'Крашенье лица (45€/1,5h)',
+      balloonAnimals: 'Животные из воздушных шаров (70€/1h)' ,
+      catering: 'Любимое детей (80€)',
+      icecreamMachine: 'Машина для изготовления мороженного (71€)',
+      cottoncandy: 'Машина сахарной ваты',
+      cleaning: 'Уборка (25€)'
     }
   }
 }
