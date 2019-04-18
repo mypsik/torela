@@ -27,6 +27,15 @@ VIDEOGRAAF Marge Prints - 300€/3H
   
   [www.kuulidmuuvid.ee](http://www.kuulidmuuvid.ee){:target="_blank"}
 
+FOTOGRAAF
+
+: Lisainfo täienemisel
+
+
+PEOJUHT
+
+: Lisainfo täienemisel
+
 
 MUSTKUNSTNIK  Richard Samarüütel - 115€/30min
 
@@ -77,10 +86,3 @@ SUHKRUVATIMASIN
 PEOJÄRGNE KORISTAMINE - 20€
 : Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise. 
 
-
-FOTOGRAAF
-: Lisainfo täienemisel
-
-
-PEOJUHT
-: Lisainfo täienemisel
