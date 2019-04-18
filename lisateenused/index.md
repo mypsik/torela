@@ -6,7 +6,7 @@ priority: 1.0
 en: /en/services/
 ru: /ru/services/
 ---
-PUTUKAPROGRAMM - Mattias Turovski - 45min/125€
+PUTUKAPROGRAMM - Mattias Turovski - 125€/45min
 : Põneva ja erilise programmi raames tutvustatakse nelja erinevat looma - hiidtigu, prussakat, raagritsikat ning 
   hiidtuhatjalaga. 
   
@@ -68,8 +68,7 @@ LAETUD PEOLAUD "Laste lemmikud" - 80€
 
 
 JÄÄTISEMASIN - 71€
-: Lisainfo täienemisel
-
+: Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
 SUHKRUVATIMASIN
 : Lisainfo täienemisel
