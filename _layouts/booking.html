@@ -8,7 +8,31 @@ layout: default
   @import '/styles/calendar.css';
   @import '/styles/booking.css';
 </style>
-<div id="calendar-wrap" class="block"></div>
+
+<div id="calendar-wrap" class="block">
+  <table id="calendar" class="calendar">
+    <thead class="calendar__head">
+    <tr class="calendar__nav">
+      <td colspan="7">
+        <div id="calendar-left-btn" class="calendar__btn">
+          <span class="icon-arrow-left">&lt;</span>
+        </div>
+        <div id="calendar-right-btn" class="calendar__btn">
+          <span class="icon-arrow-right">&gt;</span>
+        </div>
+        <div class="calendar__head-text">
+          <span id="calendar-month" class="calender-header-text-month"></span>
+          <span id="calendar-year" class="calender-header-text-year"></span>
+        </div>
+      </td>
+    </tr>
+    <tr class="calendar__head-days">
+    </tr>
+    </thead>
+    <tbody id="calendar-body" class="calendar__body"></tbody>
+  </table>
+</div>
+
 <script src="/js/api.js"></script>
 <script src="/js/calendar.js"></script>
 <script src="/js/booking.js"></script>
@@ -43,7 +67,7 @@ layout: default
 
   var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, '2019-04-27')
   var api = new API()
-  api.bookings().then(bookings => calendar.setBookings(bookings))
+  api.bookings().then(function (bookings) {calendar.setBookings(bookings)})
 
   var bookingDialog = new BookingDialog('.booking-dialog', api, '{{page.lang}}')
 

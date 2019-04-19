@@ -51,35 +51,18 @@ function Calendar(id, lang, bookableEvents, firstDay) {
     let year = date.getFullYear(),
         month = this.getMonthName(date)
 
-    document.getElementById(id).innerHTML = `
-            <table id='calendar' class="calendar">
-                <thead class="calendar__head">
-                    <tr class="calendar__nav">
-                      <td colspan="7">
-                        <div id='calendar-left-btn' class="calendar__btn">
-                            <span class="icon-arrow-left">&lt;</span>
-                        </div>
-                        <div id='calendar-right-btn' class="calendar__btn">
-                            <span class="icon-arrow-right">&gt;</span>
-                        </div>
-                        <div class="calendar__head-text">
-                            <span id='calendar-month' class="calender-header-text-month">${month}</span>
-                            <span id='calendar-year' class="calender-header-text-year">${year}</span>
-                        </div>
-                      </td>  
-                    </tr>
-                    <tr class="calendar__head-days">
-                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][0]}</th>
-                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][1]}</th>
-                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][2]}</th>
-                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][3]}</th>
-                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][4]}</th>
-                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][5]}</th>
-                        <th class='calendar__head-days-item'>${this.weekday_names[this.lang][6]}</th>
-                    </tr>
-                </thead>
-                <tbody id="calendar-body" class='calendar__body'></tbody>
-            </table>`
+    let calendar = document.getElementById(id);
+    calendar.querySelector('.calender-header-text-month').textContent = month;
+    calendar.querySelector('.calender-header-text-year').textContent = year;
+    let tr = calendar.querySelector('.calendar__head-days')
+    this.weekday_names[this.lang].forEach(function(name) {
+      let td = document.createElement('td')
+      td.className = 'calendar__head-days-item'
+      td.innerText = name
+      tr.appendChild(td)
+    })
+
+    document.getElementById('calendar-body').innerHTML = ''
 
     let body = this.createCalendarBody(
       this.displayed_date,
@@ -152,11 +135,11 @@ function Calendar(id, lang, bookableEvents, firstDay) {
   }
 
   this.zeroPad = function(n) {
-    return n > 9 ? `${n}` : `0${n}`
+    return n > 9 ? '' + n : '0' + n
   }
 
   //returns a filled and styled table DOM element
-  this.createCalendarBody = function(date, current_month = false) {
+  this.createCalendarBody = function(date, current_month) {
     let
       days_array = this.createDaysArray(date),
       table = document.createDocumentFragment(),
@@ -168,8 +151,8 @@ function Calendar(id, lang, bookableEvents, firstDay) {
       for (let k = 0; k < 7; ++k) {
         let td = document.createElement('td')
         td.dataset.day = days_array[i].number
-        td.id = `${date.getFullYear()}-${this.zeroPad(days_array[i].month)}-${this.zeroPad(days_array[i].number)}`
-        td.innerHTML = `<div class="calendar__day">${days_array[i].number}</div>`
+        td.id = date.getFullYear() + '-' + this.zeroPad(days_array[i].month) + '-' + this.zeroPad(days_array[i].number)
+        td.innerHTML = '<div class="calendar__day">' + days_array[i].number + '</div>'
         tr.appendChild(td)
 
         //add the styles that depend on what month the day belongs to
@@ -274,8 +257,11 @@ function Calendar(id, lang, bookableEvents, firstDay) {
   }
 
   this.addBookableEvents = function(table, events) {
-    table.querySelectorAll('.calendar-cell').forEach(dayNode => {
-      for (let event of events) {
+    let cells = table.querySelectorAll('.calendar-cell')
+    for (let i = 0; i < cells.length; i++) {
+      let dayNode = cells[i]
+      for (let i in events) {
+        let event = events[i]
         if (dayNode.id < this.firstDay) continue
         if (event.weekendOnly && !dayNode.classList.contains('calendar-cell-weekend')) continue
         const e = document.createElement('div')
@@ -284,7 +270,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
         e.dataset.time = event.start
         e.dataset.until = event.end
         e.classList.add('event')
-        e.innerText = `◴\u00A0${event.start.replace(':00', '')}\u00A0- ${event.end}`
+        e.innerText = '◴\u00A0' + event.start.replace(':00', '') + '\u00A0- ' + event.end
         const booking = this.bookings[e.id]
         if (booking) {
           e.classList.add('booked')
@@ -292,7 +278,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
         }
         dayNode.appendChild(e)
       }
-    })
+    }
   }
 
   this.draw();

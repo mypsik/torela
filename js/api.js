@@ -1,22 +1,24 @@
-class API {
-  constructor(url) {
-    this.url = url || (location.hostname.startsWith('localhost') ? 'http://172.20.0.2:5000' : 'https://torela.codeborne.com')
+function API(url) {
+  this.url = url || (location.hostname.indexOf('localhost') === 0 ? 'http://172.20.0.2:5000' : 'https://torela.codeborne.com')
+
+  this.bookings = function() {
+    return $.get(this.url + '/api/bookings').then(function(bookings) {
+      return bookings.reduce(function(r, b) {
+        r[b.date + ' ' + b.time] = b
+        return r
+      }, {})
+    })
   }
 
-  bookings() {
-    return $.get(this.url + '/api/bookings').then(bookings =>
-      bookings.reduce((r, b) => {r[`${b.date} ${b.time}`] = b; return r}, {}))
-  }
-
-  book(booking) {
+  this.book = function(booking) {
     return this.post('/api/bookings', booking)
   }
 
-  saveContact(contact) {
+  this.saveContact = function(contact) {
     return this.post('/api/contacts', contact)
   }
 
-  post(path, data) {
+  this.post = function(path, data) {
     return $.post({url: this.url + path, data: JSON.stringify(data), contentType: 'application/json'})
   }
 }

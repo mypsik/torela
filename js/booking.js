@@ -1,31 +1,31 @@
-class BookingDialog {
-  constructor(selector, api, lang) {
-    this.api = api
-    this.lang = lang
-    this.msg = bookingMessages[lang]
-    this.dialog = $(selector)
+function BookingDialog(selector, api, lang) {
+  this.api = api
+  this.lang = lang
+  this.msg = bookingMessages[lang]
+  this.dialog = $(selector)
 
-    this.dialog.find('.close').on('click', () => history.back())
+  this.init = function() {
+    this.dialog.find('.close').on('click', function() {history.back()})
     this.addLabels()
     this.dialog.on('submit', this.submit.bind(this))
   }
 
-  addLabels() {
-    for (let key of Object.keys(this.msg)) {
+  this.addLabels = function() {
+    for (let key in this.msg) {
       const el = $('#' + key, this.dialog)
       if (el.length)
         el.html(this.msg[key])
       else
-        $(`[name="${key}"]`, this.dialog).attr('placeholder', this.msg[key])
+        $('[name="' + key + '"]', this.dialog).attr('placeholder', this.msg[key])
     }
 
     var services = this.dialog.find('.services')
-    for (let service of Object.keys(this.msg.additionalServices)) {
-      services.append(`<label><input type="checkbox" name="${service}"> <span>${this.msg.additionalServices[service]}</span></label>`)
+    for (let service in this.msg.additionalServices) {
+      services.append('<label><input type="checkbox" name="' + service + '"> <span>' + this.msg.additionalServices[service] + '</span></label>')
     }
   }
 
-  open(event) {
+  this.open = function(event) {
     this.dialog.find('#time').text(event.date + ' ' + event.time + ' - ' + event.until)
     this.dialog.find('[name=date]').val(event.date)
     this.dialog.find('[name=time]').val(event.time)
@@ -33,28 +33,30 @@ class BookingDialog {
     this.dialog.show()
     this.dialog.find('input:visible:first').focus()
     history.pushState('booking', 'Booking');
-    $(window).one('popstate', () => this.close());
+    $(window).one('popstate', this.close.bind(this));
   }
 
-  close() {
+  this.close = function() {
     this.dialog.hide()
   }
 
-  submit(e) {
+  this.submit = function(e) {
     e.preventDefault()
     const booking = {}
-    this.dialog.find(':input').each((i, input) => {
+    this.dialog.find(':input').each(function(i, input) {
       if (input.name && (input.type !== 'checkbox' || input.checked))
         booking[input.name] = input.value
     })
     this.api.book(booking).then(this.success.bind(this))
   }
 
-  success() {
+  this.success = function() {
     this.close()
     alert(this.msg.success)
     location.reload()
   }
+
+  this.init()
 }
 
 const bookingMessages = {
