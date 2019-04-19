@@ -106,6 +106,7 @@ nav a.active {
 }
 
 main {
+  display: block;
   background: url(/img/footer.png) center bottom no-repeat;
 }
 
