@@ -27,7 +27,7 @@ layout: default
     var form = $('#subscribe').on('submit', function(e) {
       e.preventDefault()
       new API().saveContact({email: $('#email', form).val(), lang: '{{page.lang}}'})
-        .then(() => form.slideUp())
+        .then(function () {form.slideUp()})
     })
   })
 </script>
