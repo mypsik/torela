@@ -202,7 +202,6 @@ input:not([type=checkbox]):not([type=radio]), textarea {
   position: absolute;
   display: block;
   top: 45%;
-  left: 0;
   width: 2.5rem;
   font-size: 1.25rem;
   line-height: 2.5rem;
@@ -217,8 +216,11 @@ input:not([type=checkbox]):not([type=radio]), textarea {
   background: rgba(255,255,255,0.9);
 }
 
+#big-image .prev {
+  left: 0;
+}
+
 #big-image .next {
-  left: initial;
   right: 0;
 }
 
