@@ -1,10 +1,5 @@
 $(function () {
   var lang = $('html').attr('lang')
-  if (!window.Promise) {
-    alert(lang === 'et' ? 'Kahjuks vanemate brauserite tugi pole veel valmis...' :
-          lang === 'ru' ? 'К сожалению, поддержка старых браузеров еще не готова...' :
-                          'Unfortunately support for older browsers is not yet ready...');
-  }
 
   $('a[href=mailto]').each(function(i, a) {
     a.textContent = a.textContent.replace('$', '@')
