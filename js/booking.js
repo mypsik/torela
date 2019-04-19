@@ -77,7 +77,7 @@ const bookingMessages = {
       magician: 'Magician (115€/30min)',
       facePainting: 'Face paintings (45€/1,5h)',
       balloonAnimals: 'Balloon Animals (70€/1h)' ,
-      catering: 'Kids' Favorites (80€)',
+      catering: 'Kids\' Favorites (80€)',
       icecreamMachine: 'Icecream machine (71€)',
       cottoncandy: 'Cottoncandy machine',
       cleaning: 'Cleaning (25€)'
