@@ -1,13 +1,11 @@
-class Calendar {
-
-  constructor(id, lang, bookableEvents, firstDay) {
+function Calendar(id, lang, bookableEvents, firstDay) {
     this.lang = lang || 'en'
     this.bookableEvents = bookableEvents || []
     this.firstDay = firstDay
     this.bookings = {}
     this.displayed_date = new Date()                    //date wich calendar displays now
-    this.current_day = this.displayed_date.getDate() //current world time
-    this.selected_date = this.displayed_date           //date that user's selected
+    this.current_day = this.displayed_date.getDate()    //current world time
+    this.selected_date = this.displayed_date            //date that user's selected
 
     this.weekday_names = {
       en: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
@@ -21,6 +19,7 @@ class Calendar {
       ru: ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь']
     }
 
+  this.draw = function() {
     this.drawToDom(this.displayed_date, id)
 
     this.body_node = document.getElementById('calendar-body')
@@ -42,16 +41,15 @@ class Calendar {
       .addEventListener('click', this.moveRight)
   }
 
-  setBookings(bookings) {
+  this.setBookings = function(bookings) {
     this.bookings = bookings
     this.setDateTo(this.displayed_date)
   }
 
   //draws the calendar when the document is loaded
-  drawToDom(date, id) {
-    let
-      year = date.getFullYear(),
-      month = this.getMonthName(date)
+  this.drawToDom = function(date, id) {
+    let year = date.getFullYear(),
+        month = this.getMonthName(date)
 
     document.getElementById(id).innerHTML = `
             <table id='calendar' class="calendar">
@@ -101,7 +99,7 @@ class Calendar {
       },
   ...
   ]*/
-  createDaysArray(date) {
+  this.createDaysArray = function(date) {
     let
       prev_month_last_day = new Date(date.getFullYear(), date.getMonth(), 0).getDate(),
       prev_month = new Date(date.getFullYear(), date.getMonth(), 0).getMonth() + 1,
@@ -153,12 +151,12 @@ class Calendar {
     return days_array
   }
 
-  zeroPad(n) {
+  this.zeroPad = function(n) {
     return n > 9 ? `${n}` : `0${n}`
   }
 
   //returns a filled and styled table DOM element
-  createCalendarBody(date, current_month = false) {
+  this.createCalendarBody = function(date, current_month = false) {
     let
       days_array = this.createDaysArray(date),
       table = document.createDocumentFragment(),
@@ -205,12 +203,12 @@ class Calendar {
   }
 
   //returns month name from date
-  getMonthName(date) {
+  this.getMonthName = function(date) {
     return this.month_names[this.lang][date.getMonth()]
   }
 
   //if the received date corresponds to the current month and year returns true
-  isThisMonthCurrent(date) {
+  this.isThisMonthCurrent = function(date) {
     let current = new Date()
     if (
       current.getFullYear() == date.getFullYear() &&
@@ -222,7 +220,7 @@ class Calendar {
   }
 
   //redraws the body according to the received date
-  setDateTo(date) {
+  this.setDateTo = function(date) {
     let
       current_month = this.isThisMonthCurrent(date), //if it is current month, current day will be highlighted
       new_body = this.createCalendarBody(date, current_month)
@@ -234,7 +232,7 @@ class Calendar {
   }
 
   //redraws the calendar a month in backward
-  moveLeft() {
+  this.moveLeft = function() {
     this.displayed_date = new Date( //set the day to prev month
       this.displayed_date.getFullYear(),
       this.displayed_date.getMonth() - 1,
@@ -245,7 +243,7 @@ class Calendar {
   }
 
   //redraws the calendar a month in forward
-  moveRight() {
+  this.moveRight = function() {
     this.displayed_date = new Date( //set the day to next month
       this.displayed_date.getFullYear(),
       this.displayed_date.getMonth() + 1,
@@ -256,7 +254,7 @@ class Calendar {
   }
 
   //handles user clicks on cells
-  selectHandler(e) {
+  this.selectHandler = function(e) {
     if (e.target.classList.contains('calendar-cell-gray')) return //only days of current month can be selected
     if (!e.target.classList.contains('calendar-cell')) return //if it wasn't a click on a cell
 
@@ -275,7 +273,7 @@ class Calendar {
     e.target.classList.add('calendar-cell-selected')
   }
 
-  addBookableEvents(table, events) {
+  this.addBookableEvents = function(table, events) {
     table.querySelectorAll('.calendar-cell').forEach(dayNode => {
       for (let event of events) {
         if (dayNode.id < this.firstDay) continue
@@ -296,4 +294,6 @@ class Calendar {
       }
     })
   }
+
+  this.draw();
 }
