@@ -41,9 +41,11 @@ PEOJUHT
 : Lisainfo täienemisel
 
 
-MUSTKUNSTNIK  Richard Samarüütel - 115€/30min
+MUSTKUNSTNIK Richard - 115€/30min
 
-: Lisainfo [mustkunstniku Facebooki lehel](https://www.facebook.com/richard.samaruutel/){:target="_blank"}
+: Mustkunstnik Richard Samarüütel lisab laste sünnipäevadele maagiat ja unustamatuid trikke.
+
+ Richard teeb klassikalisi trikke rõngaste, topside ja pallidega, kuid lisaks ka uuema ajastu üllatusi. Etendust on huvitav vaadata ka täiskasvanutel. Mustkunst sobib hästi 5-7aastastele lastele.
   
   <img alt="Richard Samarüütel" src="https://scontent.fhen1-1.fna.fbcdn.net/v/t31.0-8/1074322_1666600350072259_767373963240585599_o.jpg?_nc_cat=108&_nc_ht=scontent.fhen1-1.fna&oh=c5834b8b9cbd9af2486e27abe8b0f4d8&oe=5D3815A8" width="350"> 
   
