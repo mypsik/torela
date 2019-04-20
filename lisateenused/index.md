@@ -81,7 +81,7 @@ NÄOMAALIJA Ursula - 45€/1h
   Pildi kandmine nahale võtab aega kuni 1 minut. Valida on võimalik 500 erineva pildi seast. 
   Ei karda vett ega niiskust.
   
-  <img alt="Vesitätoveeringud" src="vesitatoveering.jpg" height="150"> 
+  <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150"> 
 
 LAETUD PEOLAUD "Laste lemmikud" - 80€
 
