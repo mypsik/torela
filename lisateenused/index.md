@@ -80,6 +80,8 @@ NÄOMAALIJA Ursula - 45€/1h
   Vesitätoveeringud ehk vesipildid mis kantakse käele või jalale püsivad mitmeid päevi, isegi kuni üks nädal. 
   Pildi kandmine nahale võtab aega kuni 1 minut. Valida on võimalik 500 erineva pildi seast. 
   Ei karda vett ega niiskust.
+  
+  <img alt="Vesitätoveeringud" src="vesitatoveering.jpg" height="150"> 
 
 LAETUD PEOLAUD "Laste lemmikud" - 80€
 
