@@ -87,7 +87,7 @@ NÄOMAALIJA Ursula - 45€/1h
   
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150"> 
 
-LAETUD PEOLAUD "Laste lemmikud" - 80€
+KAETUD PEOLAUD "Laste lemmikud" - 80€
 
 : Kaetud laud 14 lapsele. 
   
