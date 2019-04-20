@@ -15,11 +15,11 @@ PUTUKAPROGRAMM - Mattias Turovski - 125€/45min
   Programm loob eeldused selgrootute loomadega iseseisvaks tutvumiseks, suhtlemiseks ja käsitlemiseks, märksõnadega austus ja   hool. 
 
 
-VIDEOGRAAF Marge Prints - 300€/3h
+VIDEOGRAAF Marge - 300€/3h
 
 : Lapse sünnipäeva säravamad ja tähtsamad hetked kvaliteetselt videopildile!
 
-  Videograaf filmib pidu kuni 3h – alates külaliste saabumistest kuni tordi lõikamiseni.
+  Videograaf Marge Prints filmib pidu kuni 3h – alates külaliste saabumistest kuni tordi lõikamiseni.
   Peost valmib korralikult kokku monteeritud, helindatud, parimate hetkedega 5 minutiline video.  
   Valmis video saab sünnipäevalaps endale USB mälupulgal 4K kvaliteedis.
   
@@ -27,10 +27,14 @@ VIDEOGRAAF Marge Prints - 300€/3h
   
   [www.kuulidmuuvid.ee](http://www.kuulidmuuvid.ee){:target="_blank"}
 
-FOTOGRAAF
+FOTOGRAAF Helen - 135€/~2h
 
-: Lisainfo täienemisel
+: Lapse sünnipäeva ehediad emotsioone aitab püüda ja jäädvustada Helen Tulp!
 
+  Helen on lastega vaba suhtleja ja teeb pilte peo algusest kuni tordi lahtilõikamiseni. 
+  Pildistab nii üldist mänguhoogu, portreesid ja soovikorral ka perepilte ning grupipilte fotoseina juures. 
+  Kui vanematel on erisoove, siis arvestab nendega alati. Ühest sünnipäevapeost valmib digialbum ~200 pildiga. 
+  Pildid valmivad nädalaga ja albumile ligipääs saadetakse privaatse lingina, kust on võimalik pildid alla laadida või otse sõpradega jagada.
 
 PEOJUHT
 
@@ -59,8 +63,6 @@ NÄOMAALIJA Ursula - 45€/1h
   <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="150"> 
   <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="150"> 
   
-  Ursula teiste töödega saab tutvuda: [http://uula.ee/naomaalingud](http://uula.ee/naomaalingud){:target="_blank"}
-
 
 ÕHUPALLILOOMAD Meelika - 70€/1h
 
