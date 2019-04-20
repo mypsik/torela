@@ -45,7 +45,7 @@ MUSTKUNSTNIK Richard - 115€/30min
 
 : Mustkunstnik Richard Samarüütel lisab laste sünnipäevadele maagiat ja unustamatuid trikke.
 
-  Richard teeb klassikalisi trikke rõngaste, topside ja pallidega, kuid lisaks ka uuema ajastu üllatusi. 
+  Richard teeb klassikalisi trikke rõngaste, topside ja pallidega, kuid on ka ka uuema ajastu üllatusi. 
   Etendust on huvitav vaadata ka täiskasvanutel. 
   Mustkunst sobib hästi 5-7aastastele lastele.
   
