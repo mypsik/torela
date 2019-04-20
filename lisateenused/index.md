@@ -66,7 +66,11 @@ NÄOMAALIJA Ursula - 45€/1h
 
 : Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
 
-Pikkadest õhupallidest valmivad õhupallifiguurid panevad särama iga lapse silmad. Laste silme all valmivad õhupallidest mõõgad, kilbid, autod, lennukid, lilled, liblikad, mesilased, käevõrud, kroonid, kilpkonnad, kaheksajalad, dinosaurused, kalad, ahvid, pingviinid, papagoid, tiigrid, elevandid ja paljud teised tegelased on iga peo tipphetk. Kui kätte jõuab koju minemise aeg on igal lapsel kaasa võtta päris oma õhupallifiguur. Ühe tunni jooksul jõuab õhupallimeister teha 30+ õhupallifiguuri, kasutades selleks ära enamasti 70-80 pikka peenikest õhupalli. Pidudel valmivad üldjuhul ühest kuni neljast pallist koosnevad kujundid. Õhupallimeisterdaja suudab teha üle 300 erineva disainiga õhupallifiguuri. Laske vabalt fantaasial lennata ja pange õhupallimeistri võimed proovile!
+
+Pikkadest õhupallidest valmivad õhupallifiguurid panevad särama iga lapse silmad. Laste silme all valmivad õhupallidest mõõgad, kilbid, autod, lennukid, lilled, liblikad, mesilased, käevõrud, kroonid, kilpkonnad, kaheksajalad, dinosaurused, kalad, ahvid, pingviinid, papagoid, tiigrid, elevandid ja paljud teised tegelased on iga peo tipphetk. 
+Kui kätte jõuab koju minemise aeg on igal lapsel kaasa võtta päris oma õhupallifiguur. 
+Ühe tunni jooksul jõuab õhupallimeister teha 30+ õhupallifiguuri, kasutades selleks ära enamasti 70-80 pikka peenikest õhupalli. Pidudel valmivad üldjuhul ühest kuni neljast pallist koosnevad kujundid. 
+Õhupallimeisterdaja suudab teha üle 300 erineva disainiga õhupallifiguuri. Laske vabalt fantaasial lennata ja pange õhupallimeistri võimed proovile!
   
   Õhupalliloomadele lisaks saab tellida ka vesitätoveeringuid, igale lapsele 1 pilt - kokku 20€. 
 
