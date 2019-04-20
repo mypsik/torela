@@ -45,7 +45,7 @@ MUSTKUNSTNIK Richard - 115€/30min
 
 : Mustkunstnik Richard Samarüütel lisab laste sünnipäevadele maagiat ja unustamatuid trikke.
 
-  Richard teeb klassikalisi trikke rõngaste, topside ja pallidega, kuid on ka ka uuema ajastu üllatusi. 
+  Richard teeb klassikalisi trikke rõngaste, topside ja pallidega, kuid on ka ka uuema ajastu trikke. 
   Etendust on huvitav vaadata ka täiskasvanutel. 
   Mustkunst sobib hästi 5-7aastastele lastele.
   
@@ -99,8 +99,9 @@ KAETUD PEOLAUD "Laste lemmikud" - 80€
 JÄÄTISEMASIN - 71€
 : Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
-SUHKRUVATIMASIN
-: Lisainfo täiendamisel
+SUHKRUVATIMASIN - 50€
+: Laste sünnipäevade tõeline hitt. Suhkruvatt valmib 60 sekundiga ja selle valmistamine on väga lihtne. Suhkru kulu 1 portsioni kohta 12-18 grammi. 
+  Hinnas on: suhkruvatimasin, kuppel, suhkru dosaator, 1kg suhkrut, 50 puidust pulka. Võimalik saada värvilisi erinevate maitsetega suhkruid.
 
 
 PEOJÄRGNE KORISTAMINE - 25€
