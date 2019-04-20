@@ -15,7 +15,7 @@ PUTUKAPROGRAMM - Mattias Turovski - 125€/45min
   Programm loob eeldused selgrootute loomadega iseseisvaks tutvumiseks, suhtlemiseks ja käsitlemiseks, märksõnadega austus ja   hool. 
 
 
-VIDEOGRAAF Marge Prints - 300€/3H
+VIDEOGRAAF Marge Prints - 300€/3h
 
 : Lapse sünnipäeva säravamad ja tähtsamad hetked kvaliteetselt videopildile!
 
@@ -64,25 +64,27 @@ NÄOMAALIJA Ursula - 45€/1h
 
 ÕHUPALLILOOMAD Meelika - 70€/1h
 
-: Meelika teeb kõige vahvamaid õhupalliloomi!
+: Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
+
+Pikkadest õhupallidest valmivad õhupallifiguurid panevad särama iga lapse silmad. Laste silme all valmivad õhupallidest mõõgad, kilbid, autod, lennukid, lilled, liblikad, mesilased, käevõrud, kroonid, kilpkonnad, kaheksajalad, dinosaurused, kalad, ahvid, pingviinid, papagoid, tiigrid, elevandid ja paljud teised tegelased on iga peo tipphetk. Kui kätte jõuab koju minemise aeg on igal lapsel kaasa võtta päris oma õhupallifiguur. Ühe tunni jooksul jõuab õhupallimeister teha 30+ õhupallifiguuri, kasutades selleks ära enamasti 70-80 pikka peenikest õhupalli. Pidudel valmivad üldjuhul ühest kuni neljast pallist koosnevad kujundid. Õhupallimeisterdaja suudab teha üle 300 erineva disainiga õhupallifiguuri. Laske vabalt fantaasial lennata ja pange õhupallimeistri võimed proovile!
   
-  Õhupalliloomadele lisaks saab võtta ka vesitätoveeringuid, igale lapsele 1 pilt - 20€. 
+  Õhupalliloomadele lisaks saab tellida ka vesitätoveeringuid, igale lapsele 1 pilt - kokku 20€. 
 
 
 LAETUD PEOLAUD "Laste lemmikud" - 80€
 
 : Kaetud laud 14 lapsele. 
   
-  Helluse jogurtid, kartulisalat, puuvili-juurvili, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
+  Helluse jogurtid, kartulisalat, puuvilja-juurviljavaagen, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
 
 
 JÄÄTISEMASIN - 71€
 : Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
 SUHKRUVATIMASIN
-: Lisainfo täienemisel
+: Lisainfo täiendamisel
 
 
-PEOJÄRGNE KORISTAMINE - 20€
+PEOJÄRGNE KORISTAMINE - 25€
 : Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise. 
 
