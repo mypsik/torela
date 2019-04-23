@@ -11,7 +11,8 @@ priority: 1.0
 
 Torela on uus ja põnev mängutuba Põhja-Tallinnas, Telliskivi ja Ristiku tänava ristmikul, Kalamaja ja Pelgulinna vahel.
 
-Me avame oma uksed **1. mail 2019**!
+Ootame kõiki mängima mänguhommikultele **aprillis igal hommikul 10.00-13.00**! Osalemissoovist teatada tore@torela.ee.
+Maikuust alates on mänguhommikud esmaspäeviti ja neljapäeviti kell 10.00-13.00. Aprillikuus osalemistasu lapsevanemale ja lapsele 5€. Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
 
 Meil saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel ning sügisest saab osa võtta põnevatest huviringidest. 
 
