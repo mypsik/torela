@@ -81,7 +81,7 @@ NÄOMAALIJA Ursula - 45€/1h
   <img alt="Õhupalliloomad käed" src="ohupalliloomad2.jpg" height="150"> 
   <img alt="Õhupalliloomad koer" src="ohupalliloomad3.jpg" height="150"> 
   
-  Õhupalliloomadele lisaks saab tellida ka vesitätoveeringuid, igale lapsele 1 pilt - kokku 20€. 
+  Õhupalliloomadele lisaks saab tellida ka vesitätoveeringuid, igale lapsele 1 pilt. Vesitätoveeringute hind kokku 20€.
 
   Vesitätoveeringud ehk vesipildid mis kantakse käele või jalale püsivad mitmeid päevi, isegi kuni üks nädal. 
   Pildi kandmine nahale võtab aega kuni 1 minut. Valida on võimalik 500 erineva pildi seast. 
