@@ -7,7 +7,10 @@ en: /en/events/
 ru: /ru/events/
 ---
 
-Kord nädalas toimub mängutoas mänguhommik, kuhu ootame kõiki uusi ja vanu sõpru! Pakume maitsvat näksi ja kuuma kohvi. Osaluspanus on 7€ (lapsevanem+laps). 
+Ootame kõiki mängima mänguhommikultele aprillis igal hommikul 10.00-13.00! Osalemissoovist teatada tore@torela.ee. Maikuust alates on mänguhommikud esmaspäeviti ja neljapäeviti kell 10.00-13.00. Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
+
+Osalemispanus aprillis 5€.
+Pakume maitsvat näksi ja kuuma kohvi.  
 
 Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!
 
