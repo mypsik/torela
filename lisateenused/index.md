@@ -62,7 +62,7 @@ SUHKRUVATIMASIN - 60€
 
 FOTOGRAAF Helen - 135€/~2h
 
-: Lapse sünnipäeva ehediad emotsioone aitab püüda ja jäädvustada Helen Tulp!
+: Lapse sünnipäeva ehedaid emotsioone aitab püüda ja jäädvustada Helen Tulp!
 
   Helen on lastega vaba suhtleja ja teeb pilte peo algusest kuni tordi lahtilõikamiseni. 
   Pildistab nii üldist mänguhoogu, portreesid ja soovikorral ka perepilte ning grupipilte fotoseina juures. 
