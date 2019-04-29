@@ -18,8 +18,8 @@ L-P 10-21:00 - 150€/3h
 *Riigipühadel kehtib nädalavahetuse hind.
 Kohapeal saab maksta ainult sularahas!
 
-Broneerimistasu on 40€, mis arvestatakse lõppsummast maha. Makse selgitusse märkida ürituse kuupäev, kellaaeg ja lapse nimi.
-Broneerimistasu tuleb tasuda 3 päeva jooksul Torela OÜ pangakontole EE477700771003581431. Kui ülekanne ei ole tähtaegselt laekunud, broneering tühistatakse.
+Broneerimistasu on **40€**, mis arvestatakse lõppsummast maha. Makse selgitusse märkida **ürituse kuupäev, kellaaeg ja lapse nimi**.
+Broneerimistasu tuleb tasuda **3 päeva jooksul** Torela OÜ pangakontole **EE477700771003581431**. Kui ülekanne ei ole tähtaegselt laekunud, broneering tühistatakse.
 
 Ülejäänud summa saate tasuda ülekandega enne ürituse algust või kohapeal sularahas. Kohapeal saab maksta ainult sularahas!
 
