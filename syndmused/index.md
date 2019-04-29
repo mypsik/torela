@@ -7,10 +7,11 @@ en: /en/events/
 ru: /ru/events/
 ---
 
-Ootame kõiki mängima mänguhommikultele aprillis igal hommikul 10.00-13.00! Osalemissoovist teatada tore@torela.ee. Maikuust alates on mänguhommikud esmaspäeviti ja neljapäeviti kell 10.00-13.00. Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
+Ootame kõiki mängima mänguhommikultele igal **esmaspäeval ja neljapäeval kell 10.00-13.00**! 
+Osalemissoovist teatada **tore@torela.ee**.
+Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
 
-Osalemispanus aprillis 5€.
-Pakume maitsvat näksi ja kuuma kohvi.  
+Osalemispanus 7€ (lapsevanem+laps), sama pere iga järgnev laps 3€.
+Pakume maitsvat näksi ja kuuma kohvi. :)
 
 Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!
-
