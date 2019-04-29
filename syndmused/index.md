@@ -19,7 +19,7 @@ Vankrid saab jätta 1. korrusele.
 Osalemispanus 7€ (lapsevanem+laps), sama pere iga järgnev laps 3€.
 Pakume maitsvat näksi ja kuuma kohvi. :)
 
-**Mugaviku POP-UP Torelas 4. mail**
+**MUGAVIKU POP-UP 4. MAIL**
 
 
 Kell 10.00-14.00!
