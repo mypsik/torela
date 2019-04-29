@@ -11,6 +11,8 @@ Ootame kõiki mängima mänguhommikultele igal **esmaspäeval ja neljapäeval ke
 Osalemissoovist teatada **tore@torela.ee**.
 Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
 
+Vankrid saab jätta 1. korruse koridori.
+
 Osalemispanus 7€ (lapsevanem+laps), sama pere iga järgnev laps 3€.
 Pakume maitsvat näksi ja kuuma kohvi. :)
 
