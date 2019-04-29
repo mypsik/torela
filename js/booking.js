@@ -69,7 +69,7 @@ const bookingMessages = {
     phone: 'Phone',
     terms: 'Agree with <a href="/en/rules/" target="_blank">house rules</a>',
     comments: 'Comments',
-    success: 'Thank you for booking! Please pay the booking fee to our bank account',
+    success: 'Thank you for your booking!',
     services: '<a href="/en/services/" target="_blank">Additional services</a>',
     additionalServices: {
       cleaning: 'Cleaning (25€)',
@@ -95,7 +95,7 @@ const bookingMessages = {
     email: 'E-post',
     phone: 'Telefon',
     terms: 'Olen nõus mängutoa <a href="/kodukord/" target="_blank">kodukorraga</a>',
-    success: 'Täname broneeringu eest, ootame teid külla! Palun tasuge broneerimistasu meie kontole',
+    success: 'Aitäh broneeringu eest!',
     comments: 'Lisainfo',
     services: '<a href="/lisateenused/" target="_blank">Lisateenused</a>',
     additionalServices: {
@@ -121,7 +121,7 @@ const bookingMessages = {
     email: 'E-mail',
     phone: 'Телефон',
     terms: 'Соглашаюсь соблюдать <a href="/en/rules/" target="_blank">правила игровой комнаты</a>',
-    success: 'Спасибо за бронировку, ждём вас в гости! Не забудьте перевести предоплату на наш счёт',
+    success: 'Спасибо за бронировку!',
     comments: 'Комментарии',
     services: '<a href="/ru/services/" target="_blank">Дополнительные услуги</a>',
     additionalServices: {
