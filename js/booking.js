@@ -72,17 +72,19 @@ const bookingMessages = {
     success: 'Thank you for booking! Please pay the booking fee to our bank account',
     services: '<a href="/en/services/" target="_blank">Additional services</a>',
     additionalServices: {
-      bugsShow: 'Bugs program (125€/45min)',
-      videographer: 'Videographer (300€/3h)',
-      photographer: 'Photographer (135€)',
-      partyAnimator: 'Animator',
-      magician: 'Magician (115€/30min)',
+      cleaning: 'Cleaning (25€)',
       facePainting: 'Face paintings (45€/1,5h)',
-      balloonAnimals: 'Balloon Animals (70€/1h)' ,
+      balloonAnimals: 'Balloon Animals (70€/1h)',
       catering: 'Kids\' Favorites (80€)',
       icecreamMachine: 'Icecream machine (71€)',
-      cottoncandy: 'Cottoncandy machine',
-      cleaning: 'Cleaning (25€)'
+      cottoncandy: 'Cottoncandy machine (60€)',
+      photographer: 'Photographer (135€)',
+      videographer: 'Videographer (300€/3h)',
+      bugsShow: 'Bugs program (125€/45min)',
+      partyAnimator: 'Animator',
+      magician: 'Magician (115€/30min)'
+      
+      
     }
   },
   et: {
@@ -97,17 +99,18 @@ const bookingMessages = {
     comments: 'Lisainfo',
     services: '<a href="/lisateenused/" target="_blank">Lisateenused</a>',
     additionalServices: {
-      bugsShow: 'Putukaprogramm (125€/45min)',
-      videographer: 'Videograaf (300€/3h)',
-      photographer: 'Fotograaf (135€)',
-      partyAnimator: 'Peojuht',
-      magician: 'Mustkunstnik (115€/30min)',
+      cleaning: 'Koristus (25€)',
       facePainting: 'Näomaalingud (45€/1,5h)',
-      balloonAnimals: 'Õhupalliloomad (70€/1h)' ,
+      balloonAnimals: 'Õhupalliloomad (70€/1h)',
       catering: 'Laste lemmikud (80€)',
       icecreamMachine: 'Jäätisemasin (71€)',
-      cottoncandy: 'Suhkruvatimasin',
-      cleaning: 'Koristus (25€)'
+      cottoncandy: 'Suhkruvatimasin (60€)',
+      photographer: 'Fotograaf (135€)',
+      videographer: 'Videograaf (300€/3h)',
+      bugsShow: 'Putukaprogramm (125€/45min)',
+      partyAnimator: 'Peojuht',
+      magician: 'Mustkunstnik (115€/30min)'
+      
     }
   },
   ru: {
@@ -122,17 +125,19 @@ const bookingMessages = {
     comments: 'Комментарии',
     services: '<a href="/ru/services/" target="_blank">Дополнительные услуги</a>',
     additionalServices: {
-      bugsShow: 'Программа с насекомыми (125€/45min)',
-      videographer: 'Видеограф (300€/3h)',
-      photographer: 'Фотограф (135€)',
-      partyAnimator: 'Аниматор',
-      magician: 'Фокусник (115€/30min)',
+      cleaning: 'Уборка (25€)',
       facePainting: 'Крашенье лица (45€/1,5h)',
-      balloonAnimals: 'Животные из воздушных шаров (70€/1h)' ,
+      balloonAnimals: 'Животные из воздушных шаров (70€/1h)',
       catering: 'Любимое детей (80€)',
       icecreamMachine: 'Машина для изготовления мороженного (71€)',
-      cottoncandy: 'Машина сахарной ваты',
-      cleaning: 'Уборка (25€)'
+      cottoncandy: 'Машина сахарной ваты (60€)',
+      photographer: 'Фотограф (135€)',
+      videographer: 'Видеограф (300€/3h)',
+      bugsShow: 'Программа с насекомыми (125€/45min)',
+      partyAnimator: 'Аниматор',
+      magician: 'Фокусник (115€/30min)'
+      
+      
     }
   }
 }
