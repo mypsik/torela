@@ -8,6 +8,7 @@ ru: /ru/events/
 ---
 
 **MÄNGUHOMMIKUD**
+
 Ootame kõiki mängima mänguhommikultele igal **esmaspäeval ja neljapäeval kell 10.00-13.00**! 
 Osalemissoovist teatada **tore@torela.ee**.
 Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
