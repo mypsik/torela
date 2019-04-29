@@ -9,6 +9,7 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
+
 Ootame kõiki mängima mänguhommikultele igal **esmaspäeval ja neljapäeval kell 10.00-13.00**! 
 Osalemissoovist teatada **tore@torela.ee**.
 Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
@@ -19,6 +20,7 @@ Osalemispanus 7€ (lapsevanem+laps), sama pere iga järgnev laps 3€.
 Pakume maitsvat näksi ja kuuma kohvi. :)
 
 **Mugaviku POP-UP Torelas**
+
 
 4. mail kell 10.00-14.00!
 
