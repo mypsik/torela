@@ -12,7 +12,7 @@ import Contact from './domain/Contact'
 
 const app = express()
 app.use(express.json())
-app.use(express.urlencoded())
+app.use(express.urlencoded({extended: true}))
 
 const logger = morgan('[:date] :method :url :status :res[content-length] - :response-time ms')
 app.use(logger)
