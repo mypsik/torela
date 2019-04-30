@@ -14,7 +14,9 @@ export default function ical(db: Db): Router {
 VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 X-WR-CALNAME:Torela
+NAME:Torela
 X-WR-TIMEZONE:Europe/Tallinn    
+TIMEZONE:Europe/Tallinn    
 ${result.map(b =>
 `BEGIN:VEVENT
 UID:${b._id}@torela.ee
