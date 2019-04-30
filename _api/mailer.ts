@@ -38,7 +38,7 @@ export class Mailer {
       Lisainfo: ${booking.comments}
       Lisateenused: ${Object.keys(booking).filter(k => k != 'terms' && booking[k] == 'on')}
       
-      Broneerimistasu 40€ tuleb tasuda 3 päeva jooksul. Kui ülekanne ei ole tähtaegselt laekunud, siis broneering tühistatakse.
+      Broneerimistasu ${config.bookingFee.amount}€ tuleb tasuda ${config.bookingFee.days} päeva jooksul. Kui ülekanne ei ole tähtaegselt laekunud, siis broneering tühistatakse.
       
       Ülekande andmed:
       Torela OÜ

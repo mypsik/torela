@@ -76,6 +76,7 @@ export default function admin(db: Db): Router {
             <th>Lisainfo</th>
             <th>Lisateenused</th>
             <th>Lisatud</th>
+            <th>Makstud</th>
             <th></th>
           </tr>
         </thead>
@@ -92,10 +93,16 @@ export default function admin(db: Db): Router {
               <td><a href="tel:${e(b.phone)}">${e(b.phone)}</a></td>
               <td>${e(b.comments)}</td>
               <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
-              <td title="${e(b.userAgent)}">${e(b.createdAt)}</td>
+              <td title="${e(b.userAgent)}">${new Date(b.createdAt).toDateString()}</td>
+              <td>
+                ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${p.dateTime.toDateString()}</div>`)}
+                <form action="/admin/bookings/${b._id}/payment" method="post">               
+                  <button name="amount" onclick="this.value = prompt('Summa', '${config.bookingFee.amount}'); return !!parseFloat(this.value)">+€</button>
+                </form>            
+              </td>
               <td>
                 <form action="/admin/bookings/${b._id}/delete" method="post" onsubmit="return confirm('Kustutada broneering lapsele ${e(b.childName)}?')">
-                  <button>Kustutada</button>
+                  <button>❌</button>
                 </form>
               </td>
             </tr>
@@ -105,9 +112,14 @@ export default function admin(db: Db): Router {
     `))
   })
 
-  admin.post('/bookings/:id/delete', (req, res) => {
-    bookingService.delete(req.params.id).then(() =>
-      res.redirect('/admin/bookings'))
+  admin.post('/bookings/:id/payment', async (req, res) => {
+    await bookingService.addPayment(req.params.id, parseFloat(req.body.amount))
+    res.redirect('/admin/bookings')
+  })
+
+  admin.post('/bookings/:id/delete', async (req, res) => {
+    await bookingService.delete(req.params.id)
+    res.redirect('/admin/bookings')
   })
 
   function e(s: string) {

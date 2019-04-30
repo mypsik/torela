@@ -19,4 +19,8 @@ export default class BookingService {
   delete(id: string): Promise<any> {
     return this.data.deleteOne({_id: new ObjectId(id)})
   }
+
+  addPayment(id: string, amount: number): Promise<any> {
+    return this.data.updateOne({_id: new ObjectId(id)}, {$set: {payments: [{amount, dateTime: new Date()}]}})
+  }
 }

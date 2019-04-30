@@ -4,5 +4,9 @@ export default {
   allowedCorsHost: '*',
   adminEmail: 'torela@torela.ee',
   smtpHost: 'codeborne.com',
-  password: process.env.PASSWORD
+  password: process.env.PASSWORD,
+  bookingFee: {
+    amount: 40,
+    days: 3
+  }
 }
