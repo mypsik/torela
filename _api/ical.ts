@@ -12,7 +12,9 @@ export default function ical(db: Db): Router {
     return bookingService.bookings().then(result => res.send(
 `BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//hacksw/handcal//NONSGML v1.0//EN    
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+X-WR-CALNAME:Torela
+X-WR-TIMEZONE:Europe/Tallinn    
 ${result.map(b =>
 `BEGIN:VEVENT
 UID:${b._id}@torela.ee
