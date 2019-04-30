@@ -12,11 +12,11 @@ export default function ical(db: Db): Router {
     return bookingService.bookings().then(result => res.send(
 `BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//hacksw/handcal//NONSGML v1.0//EN
-X-WR-CALNAME:Torela
+PRODID:-//Torela//EN
 NAME:Torela
-X-WR-TIMEZONE:Europe/Tallinn    
-TIMEZONE:Europe/Tallinn    
+X-WR-CALNAME:Torela
+X-WR-TIMEZONE:Europe/Tallinn
+TIMEZONE:Europe/Tallinn
 ${result.map(b =>
 `BEGIN:VEVENT
 UID:${b._id}@torela.ee
@@ -25,9 +25,9 @@ ORGANIZER;CN="${b.parentName}":MAILTO:${b.email}
 DTSTART:${ts(b.date + ' ' + b.time)}
 DTEND:${ts(b.date + ' ' + b.until)}
 SUMMARY:"${b.childName}/${b.childAge}"
-DESCRIPTION:"${b.parentName} ${b.phone} ${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').join(', ')}${b.comments ? ' - ' + b.comments.replace('\n', '\\n') : ''}"
+DESCRIPTION:"${b.parentName} ${b.phone} ${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').join(', ')}${b.comments ? ' - ' + b.comments.replace(/\n/g, '\\n') : ''}"
 END:VEVENT
-`).join('')}`.replace('\n', '\r\n')))
+`).join('')}`.replace(/\n/g, '\r\n')))
   })
 
   function ts(dateTime: string|Date) {
