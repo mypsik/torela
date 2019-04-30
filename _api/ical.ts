@@ -8,7 +8,7 @@ export default function ical(db: Db): Router {
   const bookingService = new BookingService(db)
 
   ical.get('/' + config.password + '.ics', (req, res) => {
-    res.contentType('text/calendar; charset=UTF-8')
+    res.contentType('text/calendar')
     res.header('Content-Disposition', 'attachment; filename="torela.ics"')
     return bookingService.bookings().then(result => res.send(
 `BEGIN:VCALENDAR
