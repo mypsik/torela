@@ -28,8 +28,8 @@ END:VEVENT
 `).join('')}`.replace('\n', '\r\n')))
   })
 
-  function ts(dateTime: string) {
-    if (!dateTime) return ''
+  function ts(dateTime: string|Date) {
+    if (!dateTime) dateTime = new Date()
     return new Date(dateTime).toISOString().replace(/[-:]/g, '').replace(/.\d{3}Z/, 'Z')
   }
 
