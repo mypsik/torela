@@ -29,7 +29,7 @@ ORGANIZER;CN="${b.parentName}":MAILTO:${b.email}
 DTSTART:${ts(b.date + ' ' + b.time)}
 DTEND:${ts(b.date + ' ' + b.until)}
 SUMMARY:"${b.childName}/${b.childAge}"
-DESCRIPTION:"${b.parentName} ${b.phone} ${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').join(', ')}${b.comments ? ' - ' + b.comments.replace(/\n/g, '\\n') : ''}"
+DESCRIPTION:"${b.parentName}"
 END:VEVENT
 `).join('')}`.replace(/\n/g, '\r\n')))
   })
