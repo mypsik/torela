@@ -8,8 +8,9 @@ export default class BookingService {
     this.data = db.collection('bookings')
   }
 
-  bookings(): Promise<Array<Booking>> {
-    return this.data.find().sort({date: 1, time: 1}).toArray()
+  bookings(from?: string): Promise<Array<Booking>> {
+    const query = from && {date: {$gt: from}}
+    return this.data.find(query).sort({date: 1, time: 1}).toArray()
   }
 
   save(booking: Booking) {

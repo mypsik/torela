@@ -60,8 +60,11 @@ export default function admin(db: Db): Router {
   })
 
   admin.get('/bookings', (req, res) => {
-    bookingService.bookings().then(result => res.send(`${style}${menu}
-      <h1>Broneeringud</h1>
+    const from = req.query.from || new Date().toISOString().replace(/T.*/, '')
+    bookingService.bookings(from).then(result => res.send(`${style}${menu}
+      <form onchange="this.submit()">
+        <h1>Broneeringud alates <input type="date" name="from" value="${from}"></h1>
+      </form>
       <table>
         <thead>
           <tr>
