@@ -7,8 +7,8 @@ export default function ical(db: Db): Router {
   const ical = Router()
   const bookingService = new BookingService(db)
 
-  ical.get('/' + config.password + '.ics', (req, res) => {
-    res.contentType('text/calendar')
+  ical.get('/' + config.password, (req, res) => {
+    res.contentType('text/calendar; charset=UTF-8')
     res.header('Content-Disposition', 'attachment; filename="torela.ics"')
     return bookingService.bookings().then(result => res.send(
 `BEGIN:VCALENDAR
@@ -25,11 +25,11 @@ ${result.map(b =>
 UID:${b._id}@torela.ee
 DTSTAMP:${ts(new Date())}
 CREATED:${ts(b.createdAt)}
-ORGANIZER;CN="${b.parentName}":MAILTO:${b.email}
+ORGANIZER;CN=${b.parentName}:MAILTO:${b.email}
 DTSTART:${ts(b.date + ' ' + b.time)}
 DTEND:${ts(b.date + ' ' + b.until)}
-SUMMARY:"${b.childName}/${b.childAge}"
-DESCRIPTION:"${b.parentName}"
+SUMMARY:${b.childName} / ${b.childAge}
+DESCRIPTION:${b.parentName} ${b.phone} ${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').join(', ')}${b.comments ? ' - ' + b.comments.replace(/\n/g, '\\n') : ''}
 END:VEVENT
 `).join('')}
 END:VCALENDAR
