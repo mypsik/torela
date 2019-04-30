@@ -6,7 +6,7 @@ export default function ical(db: Db): Router {
   const ical = Router()
 
   ical.get('/' + config.password, (req, res) => {
-    res.contentType('text/plain; charset=UTF-8')
+    res.contentType('text/calendar; charset=UTF-8')
     return db.collection('bookings').find().toArray().then(result => res.send(
 `BEGIN:VCALENDAR
 VERSION:2.0
