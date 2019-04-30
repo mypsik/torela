@@ -3,6 +3,7 @@ import * as morgan from 'morgan'
 import {MongoClient} from 'mongodb'
 import config from './config'
 import admin from './admin'
+import ical from './ical'
 import mailer from './mailer'
 
 const app = express()
@@ -53,6 +54,7 @@ mongoClient.connect().then(() => {
   }
 
   app.use('/admin', admin(db))
+  app.use('/ical', ical(db))
 
   app.use(express.static('../_site'))
 

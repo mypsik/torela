@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
     "module": "commonjs",
-    "target": "es2016",
+    "target": "esnext",
     "outDir": "build",
-    "rootDir": "."
+    "rootDir": ".",
+    "sourceMap": true
   }
 }

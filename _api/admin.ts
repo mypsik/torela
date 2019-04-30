@@ -1,6 +1,6 @@
 import {Router} from 'express'
 import * as basicAuth from 'express-basic-auth'
-import {Db, ObjectId} from "mongodb";
+import {Db, ObjectId} from 'mongodb'
 import config from './config'
 
 export default function admin(db: Db): Router {
