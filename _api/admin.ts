@@ -91,7 +91,13 @@ export default function admin(db: Db): Router {
               <td>${e(b.parentName)}</td>
               <td><a href="mailto:${e(b.email)}">${e(b.email)}</a></td>
               <td><a href="tel:${e(b.phone)}">${e(b.phone)}</a></td>
-              <td>${e(b.comments)}</td>
+              <td>
+                ${e(b.comments)}
+                <div><strong>${e(b.adminComments)}</strong></div>
+                <form action="/admin/bookings/${b._id}/comments" method="post">
+                  <button name="text" onclick="this.value = prompt('Kommentaar', '${b.adminComments || ''}'); return !!this.value">+i</button>
+                </form>
+              </td>
               <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
               <td title="${e(b.userAgent)}">${new Date(b.createdAt).toDateString()}</td>
               <td>
@@ -115,6 +121,11 @@ export default function admin(db: Db): Router {
 
   admin.post('/bookings/:id/payment', async (req, res) => {
     await bookingService.addPayment(req.params.id, parseFloat(req.body.amount))
+    res.redirect('/admin/bookings')
+  })
+
+  admin.post('/bookings/:id/comments', async (req, res) => {
+    await bookingService.setComments(req.params.id, req.body.text)
     res.redirect('/admin/bookings')
   })
 

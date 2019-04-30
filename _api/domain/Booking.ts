@@ -11,6 +11,7 @@ export default interface Booking extends Auditable {
   parentName: string
   comments: string
   payments?: Array<Payment>
+  adminComments?: string
 }
 
 export interface Payment {

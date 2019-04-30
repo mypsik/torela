@@ -23,4 +23,8 @@ export default class BookingService {
   addPayment(id: string, amount: number): Promise<any> {
     return this.data.updateOne({_id: new ObjectId(id)}, {$push: {payments: {amount, dateTime: new Date()}}})
   }
+
+  setComments(id: string, text: string): Promise<any> {
+    return this.data.updateOne({_id: new ObjectId(id)}, {$set: {adminComments: text}})
+  }
 }
