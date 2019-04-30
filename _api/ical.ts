@@ -19,11 +19,11 @@ ${result.map(b =>
 `BEGIN:VEVENT
 UID:${b._id}@torela.ee
 DTSTAMP:${ts(b.createdAt)}
-ORGANIZER:CN=${b.parentName};MAILTO:${b.email}
+ORGANIZER;CN="${b.parentName}":MAILTO:${b.email}
 DTSTART:${ts(b.date + ' ' + b.time)}
 DTEND:${ts(b.date + ' ' + b.until)}
-SUMMARY:${b.childName}/${b.childAge}
-DESCRIPTION:${b.parentName} ${b.phone} ${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').join(', ')}${b.comments ? ' - ' + b.comments : ''}
+SUMMARY:"${b.childName}/${b.childAge}"
+DESCRIPTION:"${b.parentName} ${b.phone} ${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').join(', ')}${b.comments ? ' - ' + b.comments.replace('\n', '\\n') : ''}"
 END:VEVENT
 `).join('')}`))
   })
