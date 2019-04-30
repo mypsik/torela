@@ -18,7 +18,7 @@ export default function admin(db: Db): Router {
 
   const style = `<style>
     th, td { text-align: left; vertical-align: top; padding: 5px; }
-    tr:hover { background-color: #f5f5f5; }
+    tbody tr:hover { background-color: #f5f5f5; }
   </style>`
 
   const menu = `<p><a href="/admin/contacts">Kontaktid</a> | <a href="/admin/bookings">Broneeringud</a></p>`
@@ -38,7 +38,7 @@ export default function admin(db: Db): Router {
         <thead>
           <th>Email</th>
           <th>Keel</th>
-          <th>Lisatud</th>
+          <th>Broneeritud</th>
           <th>Brauser</th>
         </thead>
         <tbody>
@@ -47,7 +47,7 @@ export default function admin(db: Db): Router {
               <td><a href="mailto:${e(c.email)}">${e(c.email)}</a></td>
               <td>${e(c.lang)}</td>
               <td>${e(c.createdAt)}</td>
-              <td>${e(c.userAgent)}</td>
+              <td><div class="shorten">${e(c.userAgent)}</div></td>
             </tr>
           `).join('')}
         </tbody>
@@ -76,7 +76,6 @@ export default function admin(db: Db): Router {
             <th>Lisainfo</th>
             <th>Lisateenused</th>
             <th>Lisatud</th>
-            <th>Brauser</th>
             <th></th>
           </tr>
         </thead>
@@ -93,8 +92,7 @@ export default function admin(db: Db): Router {
               <td><a href="tel:${e(b.phone)}">${e(b.phone)}</a></td>
               <td>${e(b.comments)}</td>
               <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
-              <td>${e(b.createdAt)}</td>
-              <td>${e(b.userAgent)}</td>
+              <td title="${e(b.userAgent)}">${e(b.createdAt)}</td>
               <td>
                 <form action="/admin/bookings/${b._id}/delete" method="post" onsubmit="return confirm('Kustutada broneering lapsele ${e(b.childName)}?')">
                   <button>Kustutada</button>
