@@ -25,7 +25,7 @@ DTEND:${ts(b.date + ' ' + b.until)}
 SUMMARY:"${b.childName}/${b.childAge}"
 DESCRIPTION:"${b.parentName} ${b.phone} ${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').join(', ')}${b.comments ? ' - ' + b.comments.replace('\n', '\\n') : ''}"
 END:VEVENT
-`).join('')}`))
+`).join('')}`.replace('\n', '\r\n')))
   })
 
   function ts(dateTime: string) {
