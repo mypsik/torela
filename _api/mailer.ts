@@ -23,7 +23,9 @@ export class Mailer {
       bcc: config.adminEmail,
       subject: `Mängutuba broneeritud ${booking.date} ${booking.time} - ${booking.until}`,
       text: `
-      Täname! Broneering on tehtud ja ootab ettemaksu.
+      Aitäh, et broneerisite Torela mängutoa!
+      
+      Broneeringu ülevaade:
       
       Lapse nimi: ${booking.childName}
       Lapse vanus: ${booking.childAge}
@@ -34,8 +36,22 @@ export class Mailer {
       Lisainfo: ${booking.comments}
       Lisateenused: ${Object.keys(booking).filter(k => k != 'terms' && booking[k] == 'on')}
       
-      Palun kandke broneerimistasu Torela kontole.
-      Rohkem infot: https://torela.ee/hinnakiri/    
+      Broneerimistasu 40€ tuleb tasuda 3 päeva jooksul. Kui ülekanne ei ole tähtaegselt laekunud, siis broneering tühistatakse.
+      
+      Ülekande andmed:
+      Torela OÜ
+      IBAN: EE477700771003581431 (LHV)
+      Makse selgitusse palume märkida ürituse kuupäev, kellaaeg ja lapse nimi.
+      
+      Ülejäänud summa saab tasuda ülekandega enne ürituse toimumist või sularahas kohapeal.
+      Arved edastame ka e-posti teel.
+      Rohkem infot: https://torela.ee/hinnakiri/
+    
+      Täiendavate küsimuste korral võtke julgesti ühendust!
+      
+      Toredat pidu!
+
+      Mirjam ja Sirli
       `
     })
   }

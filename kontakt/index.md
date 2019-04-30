@@ -13,7 +13,7 @@ Sirli: [{{ site.phone2 }}](tel:+372 {{ site.phone2 }})
 
 E-post: [{{ site.email | replace: '@', '$'}}](mailto)
 
-Aadress: [{{ site.address }}](https://goo.gl/maps/7bTMkBvk7YN2), 2. korrus
+Aadress: [{{ site.address }}](https://goo.gl/maps/7bTMkBvk7YN2), 2. korrus (fonolukult nr 2)
 
 Parkimine on tasuta tänaval või sisehoovis.
 

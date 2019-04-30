@@ -7,7 +7,28 @@ en: /en/events/
 ru: /ru/events/
 ---
 
-Kord nädalas toimub mängutoas mänguhommik, kuhu ootame kõiki uusi ja vanu sõpru! Pakume maitsvat näksi ja kuuma kohvi. Osaluspanus on 7€ (lapsevanem+laps). 
+**MÄNGUHOMMIKUD**
+
+
+Ootame kõiki mängima mänguhommikultele igal **esmaspäeval ja neljapäeval kell 10.00-13.00**! 
+Osalemissoovist teatada **tore@torela.ee**.
+Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
+
+Vankrid saab jätta 1. korrusele.
+
+Osalemispanus 7€ (lapsevanem+laps), sama pere iga järgnev laps 3€.
+Pakume maitsvat näksi ja kuuma kohvi. :)
+
+**MUGAVIKU POP-UP 4. MAIL**
+
+
+Kell 10.00-14.00!
+
+Kõik, mis www.mugavik.ee e-poes, saabub ka pop-upile!
+
+Tulla võib lastega, aga ka ilma!
+
+Sissepääs on TASUTA!
+
 
 Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!
-
