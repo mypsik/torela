@@ -1,6 +1,9 @@
 FROM node:10-alpine as build
 WORKDIR /api
 
+ENV TZ=Europe/Tallinn
+RUN apk add tzdata && cp /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone && apk del tzdata
+
 COPY package.json /api/
 RUN npm install
 
