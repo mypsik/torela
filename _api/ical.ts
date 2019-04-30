@@ -1,13 +1,15 @@
 import {Router} from 'express'
 import {Db} from 'mongodb'
 import config from './config'
+import {BookingService} from "./domain/BookingService";
 
 export default function ical(db: Db): Router {
   const ical = Router()
+  const bookingService = new BookingService(db)
 
   ical.get('/' + config.password, (req, res) => {
     res.contentType('text/calendar; charset=UTF-8')
-    return db.collection('bookings').find().toArray().then(result => res.send(
+    return bookingService.bookings().then(result => res.send(
 `BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN    

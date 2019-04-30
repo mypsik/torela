@@ -1,10 +1,12 @@
 import {Router} from 'express'
 import * as basicAuth from 'express-basic-auth'
-import {Db, ObjectId} from 'mongodb'
+import {Db} from 'mongodb'
 import config from './config'
+import {BookingService} from './domain/BookingService'
 
 export default function admin(db: Db): Router {
   const admin = Router()
+  const bookingService = new BookingService(db)
 
   admin.use(basicAuth({
     users: {'torela': config.password},
@@ -28,7 +30,7 @@ export default function admin(db: Db): Router {
   })
 
   admin.get('/contacts', (req, res) => {
-    db.collection('contacts').find().sort({date: 1, time: 1}).toArray().then(result => res.send(`${style}${menu}
+    db.collection('contacts').find().toArray().then(result => res.send(`${style}${menu}
       <h1>Kontaktid</h1>
       <table>
         <thead>
@@ -52,11 +54,11 @@ export default function admin(db: Db): Router {
   })
 
   admin.get('/bookings.json', (req, res) => {
-    db.collection('bookings').find().toArray().then(result => res.json(result))
+    bookingService.bookings().then(result => res.json(result))
   })
 
   admin.get('/bookings', (req, res) => {
-    db.collection('bookings').find().toArray().then(result => res.send(`${style}${menu}
+    bookingService.bookings().then(result => res.send(`${style}${menu}
       <h1>Broneeringud</h1>
       <table>
         <thead>
@@ -104,7 +106,7 @@ export default function admin(db: Db): Router {
   })
 
   admin.post('/bookings/:id/delete', (req, res) => {
-    db.collection('bookings').deleteOne({_id: new ObjectId(req.params.id)}).then(() =>
+    bookingService.delete(req.params.id).then(() =>
       res.redirect('/admin/bookings'))
   })
 
