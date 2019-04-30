@@ -31,7 +31,9 @@ DTEND:${ts(b.date + ' ' + b.until)}
 SUMMARY:"${b.childName}/${b.childAge}"
 DESCRIPTION:"${b.parentName}"
 END:VEVENT
-`).join('')}`.replace(/\n/g, '\r\n')))
+`).join('')}
+END:VCALENDAR
+`.replace(/\n/g, '\r\n')))
   })
 
   function ts(dateTime: string|Date) {
