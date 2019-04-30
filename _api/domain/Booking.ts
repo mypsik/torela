@@ -1,11 +1,6 @@
-export interface Auditable {
-  lang: string
-  userAgent: string
-  createdAt: string
-}
+import Auditable from './Auditable'
 
-export interface Booking extends Auditable {
-  _id: any
+export default interface Booking extends Auditable {
   date: string
   time: string
   until: string

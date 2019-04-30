@@ -1,7 +1,7 @@
 import {Router} from 'express'
 import {Db} from 'mongodb'
 import config from './config'
-import {BookingService} from "./domain/BookingService";
+import BookingService from "./domain/BookingService";
 
 export default function ical(db: Db): Router {
   const ical = Router()
@@ -14,9 +14,9 @@ export default function ical(db: Db): Router {
 VERSION:2.0
 PRODID:-//Torela//EN
 NAME:Torela
+TIMEZONE:Europe/Tallinn
 X-WR-CALNAME:Torela
 X-WR-TIMEZONE:Europe/Tallinn
-TIMEZONE:Europe/Tallinn
 ${result.map(b =>
 `BEGIN:VEVENT
 UID:${b._id}@torela.ee

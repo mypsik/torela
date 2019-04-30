@@ -2,11 +2,13 @@ import {Router} from 'express'
 import * as basicAuth from 'express-basic-auth'
 import {Db} from 'mongodb'
 import config from './config'
-import {BookingService} from './domain/BookingService'
+import BookingService from './domain/BookingService'
+import ContactService from './domain/ContactService'
 
 export default function admin(db: Db): Router {
   const admin = Router()
   const bookingService = new BookingService(db)
+  const contactService = new ContactService(db)
 
   admin.use(basicAuth({
     users: {'torela': config.password},
@@ -26,11 +28,11 @@ export default function admin(db: Db): Router {
   })
 
   admin.get('/contacts.json', (req, res) => {
-    db.collection('contacts').find().toArray().then(result => res.json(result))
+    contactService.contacts().then(result => res.json(result))
   })
 
   admin.get('/contacts', (req, res) => {
-    db.collection('contacts').find().toArray().then(result => res.send(`${style}${menu}
+    return contactService.contacts().then(result => res.send(`${style}${menu}
       <h1>Kontaktid</h1>
       <table>
         <thead>

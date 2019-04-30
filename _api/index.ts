@@ -5,6 +5,10 @@ import config from './config'
 import admin from './admin'
 import ical from './ical'
 import mailer from './mailer'
+import BookingService from './domain/BookingService'
+import ContactService from './domain/ContactService'
+import Booking from './domain/Booking'
+import Contact from './domain/Contact'
 
 const app = express()
 app.use(express.json())
@@ -23,6 +27,8 @@ app.use((req, res, next) => {
 const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth: {user: 'torela', password: config.password}, useNewUrlParser: true})
 mongoClient.connect().then(() => {
   const db = mongoClient.db('torela')
+  const bookingService = new BookingService(db);
+  const contactService = new ContactService(db);
 
   app.get('/', (req, res) => res.redirect('https://torela.ee/'))
 
@@ -31,16 +37,16 @@ mongoClient.connect().then(() => {
   })
 
   app.post('/api/bookings', (req, res) => {
-    const booking = getData(req)
-    return db.collection('bookings').insertOne(booking).then(result => {
+    const booking = getData(req) as Booking
+    return bookingService.save(booking).then(result => {
       mailer.sendBooking(booking)
       res.send(result.insertedId)
     })
   })
 
   app.post('/api/contacts', (req, res) => {
-    const contact = getData(req)
-    return db.collection('contacts').insertOne(contact).then(result => {
+    const contact = getData(req) as Contact
+    return contactService.save(contact).then(result => {
       mailer.sendContact(contact)
       res.send(result.insertedId)
     })

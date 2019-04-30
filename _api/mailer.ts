@@ -1,5 +1,7 @@
 import * as nodemailer from 'nodemailer'
 import config from "./config"
+import Contact from './domain/Contact'
+import Booking from './domain/Booking'
 
 const mailTransport = nodemailer.createTransport({
   host: config.smtpHost,
@@ -7,7 +9,7 @@ const mailTransport = nodemailer.createTransport({
 })
 
 export class Mailer {
-  sendContact(contact) {
+  sendContact(contact: Contact) {
     this.send({
       from: `Torela <${config.adminEmail}>`,
       to: config.adminEmail,
@@ -16,7 +18,7 @@ export class Mailer {
     })
   }
 
-  sendBooking(booking) {
+  sendBooking(booking: Booking) {
     this.send({
       from: `Torela <${config.adminEmail}>`,
       to: booking.email,
