@@ -26,7 +26,7 @@ END:VEVENT
 
   function ts(dateTime: string) {
     if (!dateTime) return ''
-    return new Date(dateTime).toISOString().replace(/[-:]/g, '').replace('.000Z', 'Z')
+    return new Date(dateTime).toISOString().replace(/[-:]/g, '').replace(/.\d{3}Z/, 'Z')
   }
 
   return ical
