@@ -12,8 +12,10 @@ export default function ical(db: Db): Router {
     res.header('Content-Disposition', 'attachment; filename="torela.ics"')
     return bookingService.bookings().then(result => res.send(
 `BEGIN:VCALENDAR
+PRODID:-//Anton//Torela//EN
 VERSION:2.0
-PRODID:-//Torela//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 NAME:Torela
 TIMEZONE:Europe/Tallinn
 X-WR-CALNAME:Torela
@@ -21,7 +23,8 @@ X-WR-TIMEZONE:Europe/Tallinn
 ${result.map(b =>
 `BEGIN:VEVENT
 UID:${b._id}@torela.ee
-DTSTAMP:${ts(b.createdAt)}
+DTSTAMP:${ts(new Date())}
+CREATED:${ts(b.createdAt)}
 ORGANIZER;CN="${b.parentName}":MAILTO:${b.email}
 DTSTART:${ts(b.date + ' ' + b.time)}
 DTEND:${ts(b.date + ' ' + b.until)}
