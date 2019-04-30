@@ -95,7 +95,7 @@ export default function admin(db: Db): Router {
               <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
               <td title="${e(b.userAgent)}">${new Date(b.createdAt).toDateString()}</td>
               <td>
-                ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${p.dateTime.toDateString()}</div>`)}
+                ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${p.dateTime.toDateString()}</div>`).join('')}
                 <form action="/admin/bookings/${b._id}/payment" method="post">               
                   <button name="amount" onclick="this.value = prompt('Summa', '${config.bookingFee.amount}'); return !!parseFloat(this.value)">+€</button>
                 </form>            
