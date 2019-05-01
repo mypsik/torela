@@ -54,6 +54,13 @@ export class Mailer {
       Toredat pidu!
 
       Mirjam ja Sirli
+
+      e-post: tore@torela.ee
+      tel: 5333 1601 / 5919 9336
+      koduleht: https://torela.ee/
+      facebook: https://www.facebook.com/Torelamangutuba/
+      instagram: @torelamangutuba
+      
       `
     })
   }
