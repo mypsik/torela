@@ -121,6 +121,18 @@ MUSTKUNSTNIK - 115€/30min
   <img alt="Richard Samarüütel" src="https://scontent.fhen1-1.fna.fbcdn.net/v/t31.0-8/1074322_1666600350072259_767373963240585599_o.jpg?_nc_cat=108&_nc_ht=scontent.fhen1-1.fna&oh=c5834b8b9cbd9af2486e27abe8b0f4d8&oe=5D3815A8" width="350"> 
   
   
+TEADUSTEATER - 132€/45min
+
+: Teadusetendus on 45-minutiline programm, mis on mõeldud vaatamiseks kuni 30-inimesele ja sobib suurepäraselt just laste sünnipäevadele. Etendus on sobilik kõigile alates neljandast eluaastast ning kava ja katsete seletused kohandatakse vastavalt laste vanusele. Teadusetenduse ajal on lapsed pigem publiku rollis ning esinejad viivad läbi lihtsaid, kuid lustakaid teaduskatseid, seletades katses toimuvat. Laste küsimused saavad vastused ning mõni julgem laps saab paarile katsele ise käed külge panna. Katsed peaksid olema lastele arusaadavad ja huvitavad ning enamasti koduste vahenditega tehtavad, et lastes kasvatada huvi teaduse vastu ja soovi korral saaksid koos vanematega katseid kodus korrata.
+
+  <img alt="Teadusteater" src="Teadusteater.jpg" height="150">
+  
+TEADUSTÖÖTUBA - 132€/45min
+
+: Teadustöötoas on lastel 45 minuti jooksul võimalus lahendada mõni lustakas teadusülesanne või meisterdada endale üks vinge teaduslik mänguasi. Iga ülesande juures on abiks meie esinejad, kes tagavad lastele kõik vajalikud vahendid ja juhtnöörid. Ülesandeid aitavad lahendada teadatuntud füüsikaseadused, millele me tähelepanu pöörame ja mille mõju siis ka reaalelus näeme. Teadustöötuba on hariv ja tööd täis ning sobilik lastele, kes ei soovi käed rüpes istuda ja tahavad midagi oma kätega ära teha. Teadustöötuba soovitame lastele alates viiendast eluaastast ning gruppidele, mille suurus on kuni 20 last.
+
+  <img alt="Teadustöötuba" src="Iseloomustav-pilt-originaal-2.png" height="150">
+  
 KOOGITOPPERID JA BÄNNERID - al 6€
 
 : Lapse sünnipäevatordi aitab eriliseks muuta Anneli Nahk, kes meisterdab nimelisi glitter-koogitoppereid ja "palju õnne" bännereid. 
