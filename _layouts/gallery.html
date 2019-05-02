@@ -10,8 +10,8 @@ layout: default
 
 <div class="thumbs">
   {% for image in site.static_files %}
-      {% if image.path contains '/galerii/' %}
-          <img src="{{ image.path }}">
-      {% endif %}
+    {% if image.path contains '/galerii/' %}
+      <img src="{{ image.path }}">
+    {% endif %}
   {% endfor %}
 </div>

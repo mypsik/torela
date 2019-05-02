@@ -10,6 +10,14 @@ layout: default
 
 {{ content }}
 
+<div class="partners">
+{% for image in site.static_files %}
+  {% if image.path contains '/partnerid/' %}
+    <div class="partner" style="background-image: url({{ image.path }})"></div>
+  {% endif %}
+{% endfor %}
+</div>
+
 <form id="subscribe" class="block">
   <label for="email">Liitu meie uudiskirjaga!</label>
   <div class="form-row">
