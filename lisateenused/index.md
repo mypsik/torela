@@ -106,7 +106,6 @@ PEOJUHT - Merli Rosar, Merros Stuudio - al 150€+km
   <img alt="Haldjas" src="haldjas.jpg" height="150"> 
   <img alt="Mereröövel" src="mereroovel-683x1024.jpg" height="150">
   <img alt="Minni Hiir" src="minni-hiir.jpg" height="150">
-  <img alt="Frozen Elsa" src="frozen-elsa.jpg" height="150">
   <img alt="Lotte" src="lotte2.jpg" height="150">
   <img alt="Pipi Pikksukk" src="pipi-pikksukk.jpg" height="150">
 
