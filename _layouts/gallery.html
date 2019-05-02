@@ -4,50 +4,14 @@ layout: default
 
 <div id="big-image">
   <div class="prev">&lt;</div>
-  <img src="/galerii/P1522806.jpg">
+  <img>
   <div class="next">&gt;</div>
 </div>
 
 <div class="thumbs">
-  <img src="/galerii/P1522806.jpg" class="active">
-  <img src="/galerii/20190422_184442.jpg">
-  <img src="/galerii/20190422_184450.jpg">
-  <img src="/galerii/20190422_184515.jpg">
-  <img src="/galerii/20190422_184557.jpg">
-  <img src="/galerii/20190422_184604.jpg">
-  <img src="/galerii/20190422_184604.jpg">
-  <img src="/galerii/20190422_184613.jpg">
-  <img src="/galerii/20190422_184625.jpg">
-  <img src="/galerii/20190422_184637.jpg">
-  <img src="/galerii/20190422_184641.jpg">
-  <img src="/galerii/20190422_184705.jpg">
-  <img src="/galerii/20190422_184726.jpg">
-  <img src="/galerii/20190422_184901.jpg">
-  <img src="/galerii/20190422_185010.jpg">
-  <img src="/galerii/20190422_185015.jpg">
-  <img src="/galerii/20190422_185053.jpg">
-  <img src="/galerii/20190422_185133.jpg">
-  <img src="/galerii/20190422_185143.jpg">
-  <img src="/galerii/IMG_5787.jpg">
-  <img src="/galerii/IMG_5788.jpg">
-  <img src="/galerii/IMG_5789.jpg">
-  <img src="/galerii/IMG_5790.jpg">
-  <img src="/galerii/IMG_5792.jpg">
-  <img src="/galerii/IMG_20190411_134016.jpg">
-  <img src="/galerii/P1522710.jpg">
-  <img src="/galerii/IMG_20190411_132035.jpg">
-  <img src="/galerii/IMG_20190411_132145.jpg">
-  <img src="/galerii/P1522714.jpg">
-  <img src="/galerii/P1522729.jpg">
-  <img src="/galerii/P1522731.jpg">
-  <img src="/galerii/P1522738.jpg">
-  <img src="/galerii/P1522742.jpg">
-  <img src="/galerii/P1522748.jpg">
-  <img src="/galerii/P1522751.jpg">
-  <img src="/galerii/P1522762.jpg">
-  <img src="/galerii/P1522764.jpg">
-  <img src="/galerii/P1522771.jpg">
-  <img src="/galerii/P1533034.jpg">
-  <img src="/galerii/P1533046.jpg">
-  <img src="/galerii/P1533065.jpg">
+  {% for image in site.static_files %}
+      {% if image.path contains '/galerii/' %}
+          <img src="{{ image.path }}">
+      {% endif %}
+  {% endfor %}
 </div>

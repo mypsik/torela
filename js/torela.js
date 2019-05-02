@@ -20,11 +20,13 @@ $(function () {
 })
 
 function initGallery() {
-  $('.thumbs img').on('click', function() {
+  var thumbs = $('.thumbs img').on('click', function() {
     var thumb = $(this)
     thumb.addClass('active').siblings().removeClass('active')
     $('#big-image img').attr('src', thumb.attr('src'))
   })
+
+  thumbs.eq(Math.floor(Math.random() * thumbs.length)).trigger('click')
 
   $('#big-image .prev').on('click', function() {
     var prev = $('.thumbs img.active').prev()
