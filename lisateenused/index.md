@@ -99,7 +99,7 @@ PEOJUHT - Merli Rosar, Merros Stuudio - al 150€+km
 
   Tegelaskujud: Rapuntsel, Pipi Pikksukk, Mereröövel, Indiaanlane, Lumivalgeke, Lotte, Jänku Juss, Nõiatüdruk, Haldjas, Printsess, Frozen Anna, Frozen Elsa, Detektiiv, Minni Hiir, Professor Siiri, Ükssarvik, Päkapikk, Troll Poppy, Vaiana. 
 
-  Täpsem info programmide kohta: https://merrosstuudio.ee/programmid/ või merli.rosar@gmail.com.
+  Täpsem info programmide kohta: [merrosstuudio.ee/programmid/](https://merrosstuudio.ee/programmid/){:target="_blank"} või merli.rosar@gmail.com.
 
   Kui valite mängutoa broneerimisel peojuhi, siis võtame Teiega peagi ühendust, et täpsustada kõik sellega seonduv (peojuhi saadavus, hind, soovitud tegelaskuju jms).
   
