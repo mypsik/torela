@@ -102,6 +102,10 @@ PEOJUHT - Merli Rosar, Merros Stuudio - al 150€+km
   Täpsem info programmide kohta: https://merrosstuudio.ee/programmid/ või merli.rosar@gmail.com.
 
   Kui valite mängutoa broneerimisel peojuhi, siis võtame Teiega peagi ühendust, et täpsustada kõik sellega seonduv (peojuhi saadavus, hind, soovitud tegelaskuju jms).
+  
+  <img alt="Haldjas" src="haldjas.jpg" height="150"> 
+  <img alt="Mereröövel" src="mereroovel-683x1024.jpg" height="150">
+  <img alt="Minni Hiir" src="minni-hiir.jpg" height="150">
 
 
 MUSTKUNSTNIK Richard - 115€/30min
