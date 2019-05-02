@@ -31,4 +31,5 @@ Mängutoas toimub üks pidu korraga.
 
 Kui on soov enne pidu mängutoaga tutvuda, siis saab seda teha mänguhommikutel või leppida kokku sobiv aeg telefoni või e-posti teel.
 
+## Meie partnerid
 

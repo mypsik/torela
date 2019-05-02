@@ -25,3 +25,5 @@ For babies we have a nice seperated corner and for nursing a private room. There
 One party at a time in the playroom.
 
 If you want to see the room before booking, we can arrange a suitable time by phone or e-mail.
+
+## Our partners
