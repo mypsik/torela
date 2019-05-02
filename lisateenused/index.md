@@ -129,7 +129,7 @@ TEADUSTEATER - 132€/45min
   
 TEADUSTÖÖTUBA - 132€/45min
 
-: Teadustöötoas on lastel 45 minuti jooksul võimalus lahendada mõni lustakas teadusülesanne või meisterdada endale üks vinge teaduslik mänguasi. Iga ülesande juures on abiks meie esinejad, kes tagavad lastele kõik vajalikud vahendid ja juhtnöörid. Ülesandeid aitavad lahendada teadatuntud füüsikaseadused, millele me tähelepanu pöörame ja mille mõju siis ka reaalelus näeme. Teadustöötuba on hariv ja tööd täis ning sobilik lastele, kes ei soovi käed rüpes istuda ja tahavad midagi oma kätega ära teha. Teadustöötuba soovitame lastele alates viiendast eluaastast ning gruppidele, mille suurus on kuni 20 last.
+: Teadustöötoas on lastel 45 minuti jooksul võimalus lahendada mõni lustakas teadusülesanne või meisterdada endale üks vinge teaduslik mänguasi. Iga ülesande juures on abiks esinejad, kes tagavad lastele kõik vajalikud vahendid ja juhtnöörid. Ülesandeid aitavad lahendada teadatuntud füüsikaseadused, millele tähelepanu pööratakse ja mille mõju siis ka reaalelus näha saab. Teadustöötuba on hariv ja tööd täis ning sobilik lastele, kes ei soovi käed rüpes istuda ja tahavad midagi oma kätega ära teha. Teadustöötuba on sobilik lastele alates viiendast eluaastast ning gruppidele, mille suurus on kuni 20 last.
 
   <img alt="Teadustöötuba" src="Iseloomustav-pilt-originaal-2.png" height="150">
   
