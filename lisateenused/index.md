@@ -8,7 +8,7 @@ ru: /ru/services/
 ---
 
 PEOJÄRGNE KORISTAMINE - 25€
-: Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise. 
+: Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise.
 
 NÄOMAALINGUD - 45€/1h
 
@@ -158,3 +158,9 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   <img alt="Värvivalik1" src="varvivalik1.jpg" height="150">
   <img alt="Värvivalik2" src="varvivalik2.jpg" height="150">
   
+  
+KORDUVKASUTATAVAD NÕUD - 5€
+: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja plastikust söögiriistu. Nõusid jagub 28 inimesele. **Nõud tuleb ise puhtaks pesta.** Kui soovid, et meie peseksime, siis lisandub tasu 10€.
+
+ÜHEKORDSED NÕUD - 1€/kmp
+: Soovi korral katame ise laua ühekordsete nõudega.
