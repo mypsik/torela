@@ -130,7 +130,7 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   Hind sisaldab nime ja numbrit. Pöördel on topper valge. Tellides võimalik valida erinevate värvitoonide vahel.
   
   <img alt="Topper1" src="topper1.jpg" height="150">
-  <img alt="Topper2" src="topper2.jpg" height="150">
+  <img alt="Topper2" src="topper2.jpeg" height="150">
   <img alt="Glitter1" src="glitter1.jpg" height="150">
   <img alt="Glitter2" src="glitter2.jpg" height="150">
 
