@@ -121,18 +121,28 @@ MUSTKUNSTNIK - 115€/30min
   <img alt="Richard Samarüütel" src="https://scontent.fhen1-1.fna.fbcdn.net/v/t31.0-8/1074322_1666600350072259_767373963240585599_o.jpg?_nc_cat=108&_nc_ht=scontent.fhen1-1.fna&oh=c5834b8b9cbd9af2486e27abe8b0f4d8&oe=5D3815A8" width="350"> 
   
   
-  KOOGITOPPERID JA BÄNNERID - al 6€
+KOOGITOPPERID JA BÄNNERID - al 6€
 
 : Lapse sünnipäevatordi aitab eriliseks muuta Anneli Nahk, kes meisterdab nimelisi glitter-koogitoppereid ja "palju õnne" bännereid. 
 
   KOOGITOPPER - 6€
   
   Hind sisaldab nime ja numbrit. Pöördel on topper valge. Tellides võimalik valida erinevate värvitoonide vahel.
-
+  
+  <img alt="Topper1" src="topper1.jpg" height="150">
+  <img alt="Topper2" src="topper2.jpg" height="150">
+  <img alt="Glitter1" src="glitter1.jpg" height="150">
+  <img alt="Glitter2" src="glitter2.jpg" height="150">
 
   BÄNNER - 1,5€ tähelipuke
   
   "Palju õnne" bänner muudab sünnipäeva pidulikuks. Bänner valmistatakse Teie valitud värvides. 
   Tähed saab valida, kas matid, kergelt sätendavad või peegelefektiga. 
   Võimalik juurde tellida ka lapse nime ning vanusega lipukesed.
+  
+  <img alt="Banner1" src="banner1.jpg" height="150">
+  <img alt="Banner2" src="banner2.jpg" height="150">
+  <img alt="Banner3" src="banner3.jpg" height="150">
+  <img alt="Värvivalik1" src="varvivalik1.jpg" height="150">
+  <img alt="Värvivalik2" src="varvivalik2.jpg" height="150">
   
