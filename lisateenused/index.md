@@ -164,3 +164,4 @@ KORDUVKASUTATAVAD NÕUD - 5€
 
 ÜHEKORDSED NÕUD - 1€/kmp
 : Soovi korral katame laua ühekordsete nõudega.
+  Komplektis: taldrik, koogitaldrik, tops, nuga, kahvel, teelusikas, salvrätik.
