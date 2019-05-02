@@ -92,9 +92,15 @@ PUTUKAPROGRAMM - Mattias Turovski - 125€/45min
   Programm loob eeldused selgrootute loomadega iseseisvaks tutvumiseks, suhtlemiseks ja käsitlemiseks, märksõnadega austus ja   hool. 
 
 
-PEOJUHT
+PEOJUHT - Merli Rosar, Merros Stuudio - al 150€+km
 
-: Lisainfo täienemisel
+: Peojuht Merli Rosar, Merros Stuudiost aitab teha sünnipäevad kordumatuks! Valikus on mitmed kostümeeritud tegelaskujud ja programmid pikkusega 1-1,5h.
+
+Tegelaskujud: Rapuntsel, Pipi Pikksukk, Mereröövel, Indiaanlane, Lumivalgeke, Lotte, Jänku Juss, Nõiatüdruk, Haldjas, Printsess, Frozen Anna, Frozen Elsa, Detektiiv, Minni Hiir, Professor Siiri, Ükssarvik, Päkapikk, Troll Poppy, Vaiana. 
+
+Täpsem info programmide kohta: https://merrosstuudio.ee/programmid/ või merli.rosar@gmail.com.
+
+Kui valite mängutoa broneerimisel peojuhi, siis võtame Teiega peagi ühendust, et täpsustada kõik sellega seonduv (peojuhi saadavus, hind, soovitud tegelaskuju jms).
 
 
 MUSTKUNSTNIK Richard - 115€/30min
