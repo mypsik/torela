@@ -138,7 +138,7 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   
   "Palju õnne" bänner muudab sünnipäeva pidulikuks. Bänner valmistatakse Teie valitud värvides. 
   Tähed saab valida, kas matid, kergelt sätendavad või peegelefektiga. 
-  Võimalik juurde tellida ka lapse nime ning vanusega lipukesed.
+  Võimalik juurde tellida ka lapse nime ja vanusega lipukesed.
   
   <img alt="Banner1" src="banner1.jpg" height="150">
   <img alt="Banner2" src="banner2.jpg" height="150">
