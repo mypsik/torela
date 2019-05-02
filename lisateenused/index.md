@@ -10,7 +10,7 @@ ru: /ru/services/
 PEOJÄRGNE KORISTAMINE - 25€
 : Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise. 
 
-NÄOMAALIJA Ursula - 45€/1h
+NÄOMAALINGUD - 45€/1h
 
 : Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
 
@@ -26,7 +26,7 @@ NÄOMAALIJA Ursula - 45€/1h
   <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="150"> 
   
 
-ÕHUPALLILOOMAD Meelika - 70€/1h
+ÕHUPALLILOOMAD - 70€/1h
 
 : Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
 
@@ -60,7 +60,7 @@ SUHKRUVATIMASIN - 60€
   Hinnas on: suhkruvatimasin, kuppel, suhkru dosaator, 1kg suhkrut, 50 puidust pulka. Võimalik saada värvilisi erinevate maitsetega suhkruid.
 
 
-FOTOGRAAF Helen - 135€/~2h
+FOTOGRAAF - 135€/~2h
 
 : Lapse sünnipäeva ehedaid emotsioone aitab püüda ja jäädvustada Helen Tulp!
 
@@ -70,7 +70,7 @@ FOTOGRAAF Helen - 135€/~2h
   Pildid valmivad nädalaga ja albumile ligipääs saadetakse privaatse lingina, kust on võimalik pildid alla laadida või otse sõpradega jagada.
   
   
-VIDEOGRAAF Marge - 300€/3h
+VIDEOGRAAF - 300€/3h
 
 : Lapse sünnipäeva säravamad ja tähtsamad hetked kvaliteetselt videopildile!
 
@@ -92,7 +92,7 @@ PUTUKAPROGRAMM - Mattias Turovski - 125€/45min
   Programm loob eeldused selgrootute loomadega iseseisvaks tutvumiseks, suhtlemiseks ja käsitlemiseks, märksõnadega austus ja   hool. 
 
 
-PEOJUHT - Merli Rosar, Merros Stuudio - al 150€+km
+PEOJUHT - al 150€+km
 
 : Peojuht Merli Rosar, Merros Stuudiost aitab teha sünnipäevad kordumatuks! 
   Valikus on mitmed kostümeeritud tegelaskujud ja programmid pikkusega 1-1,5h.
@@ -110,7 +110,7 @@ PEOJUHT - Merli Rosar, Merros Stuudio - al 150€+km
   <img alt="Pipi Pikksukk" src="pipi-pikksukk.jpg" height="150">
 
 
-MUSTKUNSTNIK Richard - 115€/30min
+MUSTKUNSTNIK - 115€/30min
 
 : Mustkunstnik Richard Samarüütel lisab laste sünnipäevadele maagiat ja unustamatuid trikke.
 
@@ -119,4 +119,20 @@ MUSTKUNSTNIK Richard - 115€/30min
   Sobib hästi 5-7aastastele lastele.
   
   <img alt="Richard Samarüütel" src="https://scontent.fhen1-1.fna.fbcdn.net/v/t31.0-8/1074322_1666600350072259_767373963240585599_o.jpg?_nc_cat=108&_nc_ht=scontent.fhen1-1.fna&oh=c5834b8b9cbd9af2486e27abe8b0f4d8&oe=5D3815A8" width="350"> 
+  
+  
+  KOOGITOPPERID JA BÄNNERID - al 6€
+
+: Lapse sünnipäevatordi aitab eriliseks muuta Anneli Nahk, kes meisterdab nimelisi glitter-koogitoppereid ja "palju õnne" bännereid. 
+
+  KOOGITOPPER - 6€
+  
+  Hind sisaldab nime ja numbrit. Pöördel on topper valge. Tellides võimalik valida erinevate värvitoonide vahel.
+
+
+  BÄNNER - 1,5€ tähelipuke
+  
+  "Palju õnne" bänner muudab sünnipäeva pidulikuks. Bänner valmistatakse Teie valitud värvides. 
+  Tähed saab valida, kas matid, kergelt sätendavad või peegelefektiga. 
+  Võimalik juurde tellida ka lapse nime ning vanusega lipukesed.
   
