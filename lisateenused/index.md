@@ -143,7 +143,6 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   
   <img alt="Topper1" src="topper1.jpg" height="150">
   <img alt="Topper2" src="topper2.jpeg" height="150">
-  <img alt="Glitter1" src="glitter1.jpg" height="150">
   <img alt="Glitter2" src="glitter2.jpg" height="150">
 
   BÄNNER - 1,5€ tähelipuke
@@ -157,6 +156,7 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   <img alt="Banner3" src="banner3.jpg" height="150">
   <img alt="Värvivalik1" src="varvivalik1.jpg" height="150">
   <img alt="Värvivalik2" src="varvivalik2.jpg" height="150">
+  <img alt="Glitter1" src="glitter1.jpg" height="150">
   
   
 KORDUVKASUTATAVAD NÕUD - 10€
