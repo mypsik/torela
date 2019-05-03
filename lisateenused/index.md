@@ -159,11 +159,13 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   <img alt="Värvivalik2" src="varvivalik2.jpg" height="150">
   
   
-KORDUVKASUTATAVAD NÕUD - 5€
+KORDUVKASUTATAVAD NÕUD - 10€
 : Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja plastikust söögiriistu. Nõusid jagub 28 inimesele. 
 
   **Nõud tuleb ise puhtaks pesta.** 
-  Kui soovid, et meie peseksime, siis lisandub tasu 10€.
+  Kui soovid, et meie peseksime, siis lisandub tasu 15€.
+  
+  <img alt="Nõud" src="korduvkasutatavad-n6ud.jpg" height="150">
 
 ÜHEKORDSED NÕUD - 1€/kmp
 : Soovi korral katame laua ühekordsete nõudega.
