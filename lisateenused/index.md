@@ -163,7 +163,7 @@ KORDUVKASUTATAVAD NÕUD - 10€
 : Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja plastikust söögiriistu. Nõusid jagub 28 inimesele. 
 
   **Nõud tuleb ise puhtaks pesta.** 
-  Kui soovid, et meie peseksime, siis lisandub tasu 15€.
+  Kui soovid, et meie peseksime, siis lisandub tasu 10€.
   
   <img alt="Nõud" src="n6ud-1.jpg" height="150">
 
