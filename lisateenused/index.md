@@ -156,6 +156,7 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   <img alt="Banner3" src="banner3.jpg" height="150">
   <img alt="Värvivalik1" src="varvivalik1.jpg" height="150">
   <img alt="Värvivalik2" src="varvivalik2.jpg" height="150">
+  <img alt="Värvivalik3" src="v2rvivalik3.jpg" height="150">
   <img alt="Glitter1" src="glitter1.jpg" height="150">
   
   
