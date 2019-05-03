@@ -9,9 +9,10 @@ ru: /ru/events/
 **AVAMISPIDU 5. MAIL**
 
 
-12-16:00
+Kell 12.00-16.00
 
 Jäätise eest hoolitseb Jätman - Jäätisemasina rent. Lastele pakub suhkruvabu kõrrejooke ja öko maiustusi Loodusvägi. Tordi eest hoolitseb Reval Cafè. Loosiauhinnad on välja pannud: Salvest, Lelud.ee, Lulukids, Loond°, Kirjastus SEIK. Kogu toimuva pildistab üles Fotograaf Helen Tulp! Kohtumiseni 💚 Mirjam & Sirli
+
 Sissepääs on TASUTA!
 
 
@@ -20,7 +21,7 @@ Sissepääs on TASUTA!
 
 Kell 10.00-14.00!
 
-Kõik, mis www.mugavik.ee e-poes, saabub ka pop-upile!
+Kõik, mis [www.mugavik.ee](http://www.mugavik.ee){:target="_blank"} e-poes, saabub ka pop-upile!
 Tulla võib lastega, aga ka ilma!
 
 Sissepääs on TASUTA!
