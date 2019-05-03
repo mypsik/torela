@@ -165,7 +165,7 @@ KORDUVKASUTATAVAD NÕUD - 10€
   **Nõud tuleb ise puhtaks pesta.** 
   Kui soovid, et meie peseksime, siis lisandub tasu 15€.
   
-  <img alt="Nõud" src="korduvkasutatavad-n6ud.jpg" height="150">
+  <img alt="Nõud" src="n6ud-1.jpg" height="150">
 
 ÜHEKORDSED NÕUD - 1€/kmp
 : Soovi korral katame laua ühekordsete nõudega.
