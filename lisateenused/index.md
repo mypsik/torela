@@ -137,6 +137,11 @@ TEADUSSHOW - 270€/30min
 
 : Kolme Põrsakese teadusshow on tõeliselt vaatemänguline ja meeldejääv elamus. Lahvatama löövad mitmevärvilised leegid, välk ja pauk ning muinasjutulise udu sisse mattuv põrand. Kindlasti rikastab kogu teadusmaagiat ka väike huumor ning mõnus pooltund saab lõbusalt ja põnevalt sisustatud kõigil suurtel ja väikestel teadushuvilistel. Sobilik 7+ aastastele.
   
+HEELIUMIGA TÄIEDTUD ÕHUPALLID
+
+: Täpsem info lisatakse peagi.
+  
+  
 KOOGITOPPERID JA BÄNNERID - al 6€
 
 : Lapse sünnipäevatordi aitab eriliseks muuta Anneli Nahk, kes meisterdab nimelisi glitter-koogitoppereid ja "palju õnne" bännereid. 
