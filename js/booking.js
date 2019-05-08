@@ -81,8 +81,13 @@ const bookingMessages = {
       photographer: 'Photographer (135€)',
       videographer: 'Videographer (300€/3h)',
       bugsShow: 'Bugs program (125€/45min)',
-      partyAnimator: 'Animator',
-      magician: 'Magician (115€/30min)'
+      partyAnimator: 'Animator (from 150€/1-1,5h)',
+      magician: 'Magician (115€/30min)',
+      scienceTheater: 'Science theater (132€/45min)',
+      scienceWorkshop: 'Science workshop (132€/45min)',
+      cakeTopperBanner: 'Cake topper and banner (from 6€)',
+      reusableTableware: 'Reusable tableware (10€)',
+      disposableTableware: 'Disposable tableware (1€/set)'
       
       
     }
@@ -108,8 +113,13 @@ const bookingMessages = {
       photographer: 'Fotograaf (135€)',
       videographer: 'Videograaf (300€/3h)',
       bugsShow: 'Putukaprogramm (125€/45min)',
-      partyAnimator: 'Peojuht',
-      magician: 'Mustkunstnik (115€/30min)'
+      partyAnimator: 'Peojuht (al 150€/1-1,5h)',
+      magician: 'Mustkunstnik (115€/30min)',
+      scienceTheater: 'Teadusteater (132€/45min)',
+      scienceWorkshop: 'Teadustöötuba (132€/45min)',
+      cakeTopperBanner: 'Koogitopper ja bänner (al 6€)',
+      reusableTableware: 'Korduvkasutatavad nõud (10€)',
+      disposableTableware: 'Ühekordsed nõud (1€/kmp)'
       
     }
   },
@@ -134,8 +144,13 @@ const bookingMessages = {
       photographer: 'Фотограф (135€)',
       videographer: 'Видеограф (300€/3h)',
       bugsShow: 'Программа с насекомыми (125€/45min)',
-      partyAnimator: 'Аниматор',
-      magician: 'Фокусник (115€/30min)'
+      partyAnimator: 'Аниматор (от 150€/1-1,5h)',
+      magician: 'Фокусник (115€/30min)',
+      scienceTheater: 'Научный театр (132€/45min)',
+      scienceWorkshop: 'Научная мастерская (132€/45min)',
+      cakeTopperBanner: 'Торт Топпер и баннер (от 6€)',
+      reusableTableware: 'Многоразовая посуда (10€)',
+      disposableTableware: 'Одноразовая посуда (1€/сет)'
       
       
     }
