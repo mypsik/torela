@@ -85,6 +85,7 @@ const bookingMessages = {
       magician: 'Magician (115€/30min)',
       scienceTheater: 'Science theater (132€/45min)',
       scienceWorkshop: 'Science workshop (132€/45min)',
+      scienceShow: 'Science show (270€/30min)',
       cakeTopperBanner: 'Cake topper and banner (from 6€)',
       reusableTableware: 'Reusable tableware (10€)',
       disposableTableware: 'Disposable tableware (1€/set)'
@@ -117,6 +118,7 @@ const bookingMessages = {
       magician: 'Mustkunstnik (115€/30min)',
       scienceTheater: 'Teadusteater (132€/45min)',
       scienceWorkshop: 'Teadustöötuba (132€/45min)',
+      scienceShow: 'Teadusshow (270€/30min)',
       cakeTopperBanner: 'Koogitopper ja bänner (al 6€)',
       reusableTableware: 'Korduvkasutatavad nõud (10€)',
       disposableTableware: 'Ühekordsed nõud (1€/kmp)'
@@ -148,6 +150,7 @@ const bookingMessages = {
       magician: 'Фокусник (115€/30min)',
       scienceTheater: 'Научный театр (132€/45min)',
       scienceWorkshop: 'Научная мастерская (132€/45min)',
+      scienceShow: 'Научное шоу (270€/30min)',
       cakeTopperBanner: 'Торт Топпер и баннер (от 6€)',
       reusableTableware: 'Многоразовая посуда (10€)',
       disposableTableware: 'Одноразовая посуда (1€/сет)'
