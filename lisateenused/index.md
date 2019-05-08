@@ -136,6 +136,8 @@ TEADUSTÖÖTUBA - 132€/45min
 TEADUSSHOW - 270€/30min
 
 : Kolme Põrsakese teadusshow on tõeliselt vaatemänguline ja meeldejääv elamus. Lahvatama löövad mitmevärvilised leegid, välk ja pauk ning muinasjutulise udu sisse mattuv põrand. Kindlasti rikastab kogu teadusmaagiat ka väike huumor ning mõnus pooltund saab lõbusalt ja põnevalt sisustatud kõigil suurtel ja väikestel teadushuvilistel. Sobilik 7+ aastastele.
+
+  <img alt="Teadusshow" src="teadusshow.jpg" height="150">
   
 HEELIUMIGA TÄIDETUD ÕHUPALLID
 
