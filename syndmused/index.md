@@ -9,6 +9,7 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
+13.05 (10-13.00) - Mänguhommik + soovijad saavad teha ise loodusliku deodorandi!
 
 Ootame kõiki mängima mänguhommikultele igal **esmaspäeval ja neljapäeval kell 10.00-13.00**! 
 Osalemissoovist teatada **tore@torela.ee**.
