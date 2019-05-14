@@ -9,11 +9,16 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-16.05 (10.00-13.00) - Mänguhommik - teeme ja sööme pannkooke!
-30.05 (10.00-13.00) - Mänguhommik - teeme loodusliku putukatõrjevahendi
+**16.05 (10.00-13.00)** - Mänguhommik - teeme ja sööme pannkooke!
 
-Ootame kõiki mängima mänguhommikultele igal **esmaspäeval ja neljapäeval kell 10.00-13.00**! 
+**30.05 (10.00-13.00)** - Mänguhommik - teeme loodusliku putukatõrjevahendi.
+
 Osalemissoovist teatada **tore@torela.ee**.
+
+***
+
+Mänguhommikud toimuvad igal **esmaspäeval ja neljapäeval kell 10.00-13.00**! 
+
 Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
 
 Vankrid saab jätta 1. korrusele.
