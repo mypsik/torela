@@ -7,11 +7,11 @@ en: /en/prices/
 ru: /ru/prices/
 ---
 
-E-R 10-13:00 - 95€/3h
+E-R 10.00-13.00 ja 14.00-17.00 - 95€/3h
 
-E-R 18-21:00 - 125€/3h
+E-R 18.00-21.00 - 125€/3h
 
-L-P 10-21:00 - 150€/3h
+L-P 10.00-21.00 - 150€/3h
 
 *Riigipühadel kehtib nädalavahetuse hind.
 Kohapeal saab maksta ainult sularahas!
