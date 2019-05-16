@@ -9,7 +9,7 @@ export default class BookingService {
   }
 
   bookings(from?: string): Promise<Array<Booking>> {
-    const query = from && {date: {$gt: from}}
+    const query = from && {date: {$gte: from}}
     return this.data.find(query).sort({date: 1, time: 1}).toArray()
   }
 
