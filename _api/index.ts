@@ -33,24 +33,22 @@ mongoClient.connect().then(() => {
 
   app.get('/', (req, res) => res.redirect('https://torela.ee/'))
 
-  app.get('/api/bookings', (req, res) => {
-    return db.collection('bookings').find().toArray().then(bookings => res.json(bookings))
+  app.get('/api/bookings', async (req, res) => {
+    return res.json(await bookingService.bookings(req.params.from || new Date().toISOString().replace(/T.*/, '')))
   })
 
-  app.post('/api/bookings', (req, res) => {
+  app.post('/api/bookings', async (req, res) => {
     const booking = getData(req) as Booking
-    return bookingService.save(booking).then(result => {
-      mailer.sendBooking(booking)
-      res.send(result.insertedId)
-    })
+    const result = await bookingService.save(booking)
+    mailer.sendBooking(booking)
+    res.send(result.insertedId)
   })
 
-  app.post('/api/contacts', (req, res) => {
+  app.post('/api/contacts', async (req, res) => {
     const contact = getData(req) as Contact
-    return contactService.save(contact).then(result => {
-      mailer.sendContact(contact)
-      res.send(result.insertedId)
-    })
+    const result = await contactService.save(contact)
+    mailer.sendContact(contact)
+    res.send(result.insertedId)
   })
 
   function getData(req) {
