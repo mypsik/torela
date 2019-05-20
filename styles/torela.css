@@ -191,6 +191,8 @@ input:not([type=checkbox]):not([type=radio]), textarea {
 #big-image {
   position: relative;
   text-align: center;
+  min-height: 20vh;
+  margin-bottom: 1rem;
 }
 
 #big-image img {
@@ -230,11 +232,11 @@ input:not([type=checkbox]):not([type=radio]), textarea {
 
 .thumbs img {
   cursor: pointer;
-  height: 80px;
+  height: 72px;
 }
 
 .thumbs img.active {
-  outline: 1px dashed gray;
+  outline: 2px dashed gray;
   outline-offset: 1px;
 }
 
