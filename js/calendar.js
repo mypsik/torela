@@ -95,8 +95,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
       next_month = new Date(date.getFullYear(), date.getMonth() + 1, 1).getMonth() + 1,
 
       days_array = new Array(42),
-
-      i = 0 // iterator for all three parts of array
+      i // iterator for all three parts of array
 
     if (first_week_day == 0) first_week_day = 7 //if it was sunday
 
@@ -178,6 +177,8 @@ function Calendar(id, lang, bookableEvents, firstDay) {
       }
       tr.classList.add('calendar-body-row')
       table.appendChild(tr)
+
+      if (days_array[i] && days_array[i].from == 'next month') break;
     }
 
     this.addBookableEvents(table, this.bookableEvents)
