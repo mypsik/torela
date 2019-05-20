@@ -9,7 +9,7 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-**16.05 (10.00-13.00)** - Mänguhommik - teeme ja sööme pannkooke!
+**20.05 (10.00-13.00)** - Mänguhommikut ei toimu! Trepikojas on remont!
 
 **30.05 (10.00-13.00)** - Mänguhommik - teeme loodusliku putukatõrjevahendi.
 

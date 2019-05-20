@@ -46,7 +46,6 @@ export class Mailer {
       Makse selgitusse palume märkida ürituse kuupäev, kellaaeg ja lapse nimi.
       
       Ülejäänud summa saab tasuda ülekandega enne ürituse toimumist või sularahas kohapeal.
-      Arved edastame ka e-posti teel.
       Rohkem infot: https://torela.ee/hinnakiri/
     
       Täiendavate küsimuste korral võtke julgesti ühendust!
