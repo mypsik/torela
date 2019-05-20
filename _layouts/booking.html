@@ -65,7 +65,8 @@ layout: default
       {start: '18:00', end: '21:00'}
     ]
 
-  var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, '2019-04-27')
+  var today = new Date().toISOString().replace(/T.*/, '')
+  var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, today)
   var api = new API()
   api.bookings().then(function (bookings) {calendar.setBookings(bookings)})
 
