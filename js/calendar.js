@@ -56,10 +56,10 @@ function Calendar(id, lang, bookableEvents, firstDay) {
     calendar.querySelector('.calender-header-text-year').textContent = year;
     let tr = calendar.querySelector('.calendar__head-days')
     this.weekday_names[this.lang].forEach(function(name) {
-      let td = document.createElement('td')
-      td.className = 'calendar__head-days-item'
-      td.innerText = name
-      tr.appendChild(td)
+      let th = document.createElement('th')
+      th.className = 'calendar__head-days-item'
+      th.innerText = name
+      tr.appendChild(th)
     })
 
     document.getElementById('calendar-body').innerHTML = ''
