@@ -1,9 +1,9 @@
 import {Router} from 'express'
 import * as basicAuth from 'express-basic-auth'
 import {Db} from 'mongodb'
-import config from './config'
-import BookingService from './domain/BookingService'
-import ContactService from './domain/ContactService'
+import config from '../config'
+import BookingService from '../domain/BookingService'
+import ContactService from '../domain/ContactService'
 
 export default function admin(db: Db): Router {
   const admin = Router()
