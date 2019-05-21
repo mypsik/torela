@@ -15,8 +15,21 @@ $(function () {
     $(this).find('button').prop('disabled', true)
   })
 
+  initQuotes()
   initServices()
 })
+
+function initQuotes() {
+  var quotes = window.quotes || []
+
+  function changeQuote() {
+    var quote = quotes[Math.floor(Math.random() * quotes.length)]
+    $('blockquote').text(quote)
+  }
+
+  setInterval(changeQuote, 4000)
+  changeQuote()
+}
 
 function initServices() {
   $('dl dt').on('click', function() {

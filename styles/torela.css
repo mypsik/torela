@@ -108,6 +108,7 @@ nav a.active {
 main {
   display: block;
   background: url(/img/footer.png) center bottom no-repeat;
+  position: relative;
 }
 
 main::after {
@@ -142,6 +143,21 @@ main video {
   margin: 0 0 1rem 1rem;
   border-radius: 1rem;
   max-width: 100%;
+}
+
+main > blockquote {
+  position: absolute;
+  top: 3rem;
+  right: 2rem;
+  margin: 0 0 1rem;
+}
+
+main > blockquote::before {
+  content: '☞ ❝';
+}
+
+main > blockquote::after {
+  content: '❞';
 }
 
 body > footer .icon {
@@ -319,5 +335,10 @@ dl dt, dl dd {
 
   .fb-page {
     display: none !important;
+  }
+
+  main > blockquote {
+    position: static;
+    margin-top: -0.5rem;
   }
 }

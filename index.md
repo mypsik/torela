@@ -33,3 +33,10 @@ Kui on soov enne pidu mängutoaga tutvuda, siis saab seda teha mänguhommikutel 
 
 ## Meie partnerid
 
+<script>
+var quotes = [
+    'Võib-olla ainuke mängutuba, kus on olemas korralik pliit ja ahi',
+    'Lastele väga meeldis',
+    'Liitreaalsuse liivakast on super!',
+]          
+</script>
