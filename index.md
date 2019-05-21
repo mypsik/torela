@@ -9,6 +9,10 @@ ru: /ru/
 priority: 1.0
 ---
 
+<blockquote>Võib-olla ainuke mängutuba, kus on olemas korralik pliit ja ahi</blockquote>
+<blockquote>Lastele väga meeldis</blockquote>
+<blockquote>Liitreaalsuse liivakast on super!</blockquote>
+
 Torela on uus ja põnev mängutuba Põhja-Tallinnas, Telliskivi ja Ristiku tänava ristmikul, Kalamaja ja Pelgulinna vahel.
 
 Meil saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel ning sügisest saab osa võtta põnevatest huviringidest. **Mängutoas on tegevust 0-8aastastel lastel**.
@@ -32,11 +36,3 @@ Mängutoas toimub üks pidu korraga.
 Kui on soov enne pidu mängutoaga tutvuda, siis saab seda teha mänguhommikutel või leppida kokku sobiv aeg telefoni või e-posti teel.
 
 ## Meie partnerid
-
-<script>
-var quotes = [
-    'Võib-olla ainuke mängutuba, kus on olemas korralik pliit ja ahi',
-    'Lastele väga meeldis',
-    'Liitreaalsuse liivakast on super!',
-]          
-</script>

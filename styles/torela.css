@@ -146,18 +146,22 @@ main video {
 }
 
 main > blockquote {
+  display: none;
   position: absolute;
   top: 3rem;
   right: 2rem;
   margin: 0 0 1rem;
+  color: darkcyan;
 }
 
 main > blockquote::before {
-  content: '☞ ❝';
+  content: '☞ ❝ ';
+  color: grey;
 }
 
 main > blockquote::after {
-  content: '❞';
+  content: ' ❞';
+  color: grey;
 }
 
 body > footer .icon {

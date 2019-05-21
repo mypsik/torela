@@ -20,15 +20,18 @@ $(function () {
 })
 
 function initQuotes() {
-  var quotes = window.quotes || []
+  var quotes = $('main > blockquote')
 
-  function changeQuote() {
-    var quote = quotes[Math.floor(Math.random() * quotes.length)]
-    $('blockquote').text(quote)
+  function showRandomQuote() {
+    quotes.eq(Math.floor(Math.random() * quotes.length)).fadeIn()
   }
 
-  setInterval(changeQuote, 4000)
-  changeQuote()
+  function changeQuote() {
+    quotes.filter(':visible').fadeOut(showRandomQuote)
+  }
+
+  setInterval(changeQuote, 5000)
+  showRandomQuote()
 }
 
 function initServices() {
