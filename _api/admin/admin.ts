@@ -4,6 +4,10 @@ import {Db} from 'mongodb'
 import config from '../config'
 import BookingService from '../domain/BookingService'
 import ContactService from '../domain/ContactService'
+import {styles} from './views/styles'
+import {menu} from './views/menu'
+import {contactsView} from './views/contacts'
+import {e} from './views/utils'
 
 export default function admin(db: Db): Router {
   const admin = Router()
@@ -16,13 +20,6 @@ export default function admin(db: Db): Router {
     realm: 'Torela'
   }))
 
-  const style = `<style>
-    th, td { text-align: left; vertical-align: top; padding: 5px; }
-    tbody tr:hover { background-color: #f5f5f5; }
-  </style>`
-
-  const menu = `<p><a href="/admin/contacts">Kontaktid</a> | <a href="/admin/bookings">Broneeringud</a></p>`
-
   admin.get('/', (req, res) => {
     res.send(menu)
   })
@@ -32,27 +29,7 @@ export default function admin(db: Db): Router {
   })
 
   admin.get('/contacts', (req, res) => {
-    return contactService.contacts().then(result => res.send(`${style}${menu}
-      <h1>Kontaktid</h1>
-      <table>
-        <thead>
-          <th>Email</th>
-          <th>Keel</th>
-          <th>Broneeritud</th>
-          <th>Brauser</th>
-        </thead>
-        <tbody>
-          ${result.map(c => `
-            <tr>
-              <td><a href="mailto:${e(c.email)}">${e(c.email)}</a></td>
-              <td>${e(c.lang)}</td>
-              <td>${e(c.createdAt)}</td>
-              <td><div class="shorten">${e(c.userAgent)}</div></td>
-            </tr>
-          `).join('')}
-        </tbody>
-      </table>
-    `))
+    return contactService.contacts().then(result => res.send(contactsView(result)))
   })
 
   admin.get('/bookings.json', (req, res) => {
@@ -61,7 +38,7 @@ export default function admin(db: Db): Router {
 
   admin.get('/bookings', (req, res) => {
     const from = req.query.from || new Date().toISOString().replace(/T.*/, '')
-    bookingService.bookings(from).then(result => res.send(`${style}${menu}
+    bookingService.bookings(from).then(result => res.send(`${styles}${menu}
       <form onchange="this.submit()">
         <h1>Broneeringud alates <input type="date" name="from" value="${from}"></h1>
       </form>
@@ -136,11 +113,6 @@ export default function admin(db: Db): Router {
     await bookingService.delete(req.params.id)
     res.redirect('/admin/bookings')
   })
-
-  function e(s: string) {
-    if (!s) return '';
-    return s.replace('<', '&lt;').replace('\'', '&apos;').replace('"', '&quot;');
-  }
 
   return admin
 }
