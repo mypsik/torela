@@ -10,6 +10,8 @@ import ContactService from './domain/ContactService'
 import Booking from './domain/Booking'
 import Contact from './domain/Contact'
 
+require('express-async-errors');
+
 const app = express()
 app.use(express.json())
 app.use(express.urlencoded({extended: true}))
