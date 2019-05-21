@@ -278,7 +278,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
           e.innerText += ' ' + booking.childName
           if (booking.childName.indexOf('Mängu') === 0) {
             e.classList.add('common')
-            e.onclick = 'location.href = "/syndmused/"'
+            e.onclick = function() {location.href = '/syndmused/'}
           }
         }
         dayNode.appendChild(e)
