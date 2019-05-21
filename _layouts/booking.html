@@ -5,8 +5,8 @@ layout: default
 {{ content }}
 
 <style>
-  @import '/styles/calendar.css?{{ site.data['hash'] }}';
-  @import '/styles/booking.css?{{ site.data['hash'] }}';
+  @import '/styles/calendar.css?{{ site.time | date: '%s' }}';
+  @import '/styles/booking.css?{{ site.time | date: '%s' }}';
 </style>
 
 <div id="calendar-wrap" class="block">
@@ -33,9 +33,9 @@ layout: default
   </table>
 </div>
 
-<script src="/js/api.js?{{ site.data['hash'] }}"></script>
-<script src="/js/calendar.js?{{ site.data['hash'] }}"></script>
-<script src="/js/booking.js?{{ site.data['hash'] }}"></script>
+<script src="/js/api.js?{{ site.time | date: '%s' }}"></script>
+<script src="/js/calendar.js?{{ site.time | date: '%s' }}"></script>
+<script src="/js/booking.js?{{ site.time | date: '%s' }}"></script>
 
 <form class="booking-dialog block">
   <a class="close">×</a>

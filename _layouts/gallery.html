@@ -16,4 +16,4 @@ layout: default
   {% endfor %}
 </div>
 
-<script defer src="/js/gallery.js?{{ site.data['hash'] }}"></script>
+<script defer src="/js/gallery.js?{{ site.time | date: '%s' }}"></script>
