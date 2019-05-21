@@ -276,6 +276,10 @@ function Calendar(id, lang, bookableEvents, firstDay) {
         if (booking) {
           e.classList.add('booked')
           e.innerText += ' ' + booking.childName
+          if (booking.childName.indexOf('Mängu') === 0) {
+            e.classList.add('common')
+            e.onclick = 'location.href = "/syndmused/"'
+          }
         }
         dayNode.appendChild(e)
       }

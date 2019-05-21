@@ -96,6 +96,11 @@ table.calendar tbody td {
   cursor: not-allowed;
 }
 
+.calendar .event.booked.common {
+  background-color: orange;
+  cursor: pointer;
+}
+
 @media screen and (max-width: 700px) {
   #calendar-wrap {
     margin: 0 -1rem;
