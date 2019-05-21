@@ -17,10 +17,10 @@
   </title>
   {%if page.keywords != null%}<meta name="keywords" content="{{ page.keywords }}">{%endif%}
   {%if page.description != null%}<meta name="description" content="{{ page.description }}">{%endif%}
-  <link rel="stylesheet" href="/styles/torela.css">
+  <link rel="stylesheet" href="/styles/torela.css?{{ site.data['hash'] }}">
   <link rel="shortcut icon" href="/img/logo.png">
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-  <script src="/js/torela.js"></script>
+  <script src="/js/torela.js?{{ site.data['hash'] }}"></script>
 </head>
 <body>
   <header>
