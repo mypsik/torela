@@ -33,15 +33,15 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
             <td>${b.date}</td>
             <td>
               ${b.time}
-              <form action="/admin/bookings/${b._id}/public" method="post">
-                <button title="Make public" name="public" value="${!b.publicEvent}">P</button>
+              <form action="/admin/bookings/${b._id}" method="post">
+                <button title="${b.publicEvent ? 'Tee tavaliseks broneeringuks' : 'Tee sündmuseks'}" name="publicEvent" value="${!b.publicEvent}">S</button>
               </form>
             </td>
             <td>${b.lang}</td>
             <td>
               ${e(b.childName)}
               <form action="/admin/bookings/${b._id}" method="post">
-                <button name="childName" onclick="this.value = prompt('Lapse/Sündmuse nimi', '${b.childName || ''}'); return !!this.value">✎</button>
+                <button name="childName" value="${e(b.childName)}" onclick="this.value = prompt('Lapse/Sündmuse nimi', this.value); return !!this.value">✎</button>
               </form>              
             </td>
             <td>${e(b.childAge)}</td>
@@ -52,7 +52,7 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
               ${e(b.comments)}
               <div><strong>${e(b.adminComments)}</strong></div>
               <form action="/admin/bookings/${b._id}" method="post">
-                <button name="adminComments" onclick="this.value = prompt('Kommentaar', '${b.adminComments || ''}'); return !!this.value">+i</button>
+                <button name="adminComments" value="${e(b.adminComments)}" onclick="this.value = prompt('Kommentaar', this.value); return !!this.value">+i</button>
               </form>
             </td>
             <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>

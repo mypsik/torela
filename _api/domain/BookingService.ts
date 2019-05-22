@@ -28,8 +28,4 @@ export default class BookingService {
   update(id: string, fields: Booking): Promise<any> {
     return this.data.updateOne({_id: new ObjectId(id)}, {$set: fields})
   }
-
-  makePublic(id: string, publicEvent: boolean): Promise<any> {
-    return this.data.updateOne({_id: new ObjectId(id)}, {$set: {publicEvent: publicEvent}})
-  }
 }

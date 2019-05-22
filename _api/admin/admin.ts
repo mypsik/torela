@@ -43,17 +43,15 @@ export default function admin(db: Db): Router {
   })
 
   admin.post('/bookings/:id', async (req, res) => {
-    await bookingService.update(req.params.id, req.body)
+    const fields = req.body;
+    delete fields._id;
+    if (typeof fields.publicEvent === 'string') fields.publicEvent = fields.publicEvent === 'true'
+    await bookingService.update(req.params.id, fields)
     res.redirect(req.header('referer'))
   })
 
   admin.post('/bookings/:id/payment', async (req, res) => {
     await bookingService.addPayment(req.params.id, parseFloat(req.body.amount))
-    res.redirect(req.header('referer'))
-  })
-
-  admin.post('/bookings/:id/public', async (req, res) => {
-    await bookingService.makePublic(req.params.id, req.body.public === 'true')
     res.redirect(req.header('referer'))
   })
 
