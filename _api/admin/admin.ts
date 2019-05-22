@@ -42,13 +42,13 @@ export default function admin(db: Db): Router {
     res.send(bookingsView(await bookingService.bookings(from), from))
   })
 
-  admin.post('/bookings/:id/payment', async (req, res) => {
-    await bookingService.addPayment(req.params.id, parseFloat(req.body.amount))
+  admin.post('/bookings/:id', async (req, res) => {
+    await bookingService.update(req.params.id, req.body)
     res.redirect(req.header('referer'))
   })
 
-  admin.post('/bookings/:id/comments', async (req, res) => {
-    await bookingService.setComments(req.params.id, req.body.text)
+  admin.post('/bookings/:id/payment', async (req, res) => {
+    await bookingService.addPayment(req.params.id, parseFloat(req.body.amount))
     res.redirect(req.header('referer'))
   })
 

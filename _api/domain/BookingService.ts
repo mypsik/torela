@@ -25,8 +25,8 @@ export default class BookingService {
     return this.data.updateOne({_id: new ObjectId(id)}, {$push: {payments: {amount, dateTime: new Date()}}})
   }
 
-  setComments(id: string, text: string): Promise<any> {
-    return this.data.updateOne({_id: new ObjectId(id)}, {$set: {adminComments: text}})
+  update(id: string, fields: Booking): Promise<any> {
+    return this.data.updateOne({_id: new ObjectId(id)}, {$set: fields})
   }
 
   makePublic(id: string, publicEvent: boolean): Promise<any> {

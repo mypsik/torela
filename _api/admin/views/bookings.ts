@@ -38,7 +38,12 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
               </form>
             </td>
             <td>${b.lang}</td>
-            <td>${e(b.childName)}</td>
+            <td>
+              ${e(b.childName)}
+              <form action="/admin/bookings/${b._id}" method="post">
+                <button name="childName" onclick="this.value = prompt('Lapse/Sündmuse nimi', '${b.childName || ''}'); return !!this.value">✎</button>
+              </form>              
+            </td>
             <td>${e(b.childAge)}</td>
             <td>${e(b.parentName)}</td>
             <td><a href="mailto:${e(b.email)}">${e(b.email)}</a></td>
@@ -46,8 +51,8 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
             <td>
               ${e(b.comments)}
               <div><strong>${e(b.adminComments)}</strong></div>
-              <form action="/admin/bookings/${b._id}/comments" method="post">
-                <button name="text" onclick="this.value = prompt('Kommentaar', '${b.adminComments || ''}'); return !!this.value">+i</button>
+              <form action="/admin/bookings/${b._id}" method="post">
+                <button name="adminComments" onclick="this.value = prompt('Kommentaar', '${b.adminComments || ''}'); return !!this.value">+i</button>
               </form>
             </td>
             <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
