@@ -29,20 +29,17 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
       </thead>
       <tbody>
         ${bookings.map(b => `
+        <form action="/admin/bookings/${b._id}" method="post">
           <tr class="${b.publicEvent ? 'public' : ''}">
             <td>${b.date}</td>
             <td>
               ${b.time}
-              <form action="/admin/bookings/${b._id}" method="post">
-                <button title="${b.publicEvent ? 'Tee tavaliseks broneeringuks' : 'Tee sündmuseks'}" name="publicEvent" value="${!b.publicEvent}">S</button>
-              </form>
+              <button title="${b.publicEvent ? 'Tee tavaliseks broneeringuks' : 'Tee sündmuseks'}" name="publicEvent" value="${!b.publicEvent}">S</button>
             </td>
             <td>${b.lang}</td>
             <td>
               ${e(b.childName)}
-              <form action="/admin/bookings/${b._id}" method="post">
-                <button name="childName" value="${e(b.childName)}" onclick="this.value = prompt('Lapse/Sündmuse nimi', this.value) || ''; return !!this.value">✎</button>
-              </form>              
+              <button name="childName" value="${e(b.childName)}" onclick="this.value = prompt('Lapse/Sündmuse nimi', this.value) || ''; return !!this.value">✎</button>
             </td>
             <td>${e(b.childAge)}</td>
             <td>${e(b.parentName)}</td>
@@ -51,25 +48,20 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
             <td>
               ${e(b.comments)}
               <div><strong>${e(b.adminComments)}</strong></div>
-              <form action="/admin/bookings/${b._id}" method="post">
-                <button name="adminComments" value="${e(b.adminComments)}" onclick="this.value = prompt('Kommentaar', this.value) || ''; return !!this.value">+i</button>
-              </form>
+              <button name="adminComments" value="${e(b.adminComments)}" onclick="this.value = prompt('Kommentaar', this.value) || ''; return !!this.value">+i</button>
             </td>
             <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
             <td title="${e(b.userAgent)}">${new Date(b.createdAt).toDateString()}</td>
             <td>
               ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${p.dateTime.toDateString()}</div>`).join('')}
               ${b.payments && b.payments.length > 1 ? `<div><strong>Kokku: ${b.payments.reduce((s, p) => s + p.amount, 0)}€</strong></div>` : ''}
-              <form action="/admin/bookings/${b._id}/payment" method="post">               
-                <button name="amount" onclick="this.value = prompt('Summa', '${config.bookingFee.amount}') || ''; return !!parseFloat(this.value)">+€</button>
-              </form>            
+              <button name="paymentAmount" onclick="this.value = prompt('Summa', '${config.bookingFee.amount}') || ''; return !!parseFloat(this.value)">+€</button>
             </td>
             <td>
-              <form action="/admin/bookings/${b._id}/delete" method="post" onsubmit="return confirm('Kustutada ${e(b.childName)}?')">
-                <button>❌</button>
-              </form>
+              <button name="deleteBooking" value="true" onclick="return confirm('Kustutada ${e(b.childName)}?')">❌</button>
             </td>
           </tr>
+        </form>
         `).join('')}
       </tbody>
     </table>

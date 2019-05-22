@@ -44,19 +44,17 @@ export default function admin(db: Db): Router {
 
   admin.post('/bookings/:id', async (req, res) => {
     const fields = req.body;
-    delete fields._id;
-    if (typeof fields.publicEvent === 'string') fields.publicEvent = fields.publicEvent === 'true'
-    await bookingService.update(req.params.id, fields)
-    res.redirect(req.header('referer'))
-  })
-
-  admin.post('/bookings/:id/payment', async (req, res) => {
-    await bookingService.addPayment(req.params.id, parseFloat(req.body.amount))
-    res.redirect(req.header('referer'))
-  })
-
-  admin.post('/bookings/:id/delete', async (req, res) => {
-    await bookingService.delete(req.params.id)
+    if (fields.deleteBooking === 'true') {
+      await bookingService.delete(req.params.id)
+    }
+    if (fields.paymentAmount) {
+      await bookingService.addPayment(req.params.id, parseFloat(req.body.paymentAmount))
+    }
+    else {
+      delete fields._id;
+      if (typeof fields.publicEvent === 'string') fields.publicEvent = fields.publicEvent === 'true'
+      await bookingService.update(req.params.id, fields)
+    }
     res.redirect(req.header('referer'))
   })
 
