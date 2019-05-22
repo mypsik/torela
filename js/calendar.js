@@ -276,7 +276,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
         if (booking) {
           e.classList.add('booked')
           e.innerText += ' ' + booking.childName
-          if (booking.publicEvent || booking.childName.indexOf('Mängu') === 0) {
+          if (booking.publicEvent) {
             e.classList.add('public')
             e.onclick = function() {location.href = '/syndmused/'}
           }
