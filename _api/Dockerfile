@@ -5,6 +5,7 @@ COPY package.json /api/
 RUN npm install
 
 COPY . /api
+RUN npm test
 RUN npm run build-api
 
 
