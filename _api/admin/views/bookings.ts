@@ -41,7 +41,7 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
             <td>
               ${e(b.childName)}
               <form action="/admin/bookings/${b._id}" method="post">
-                <button name="childName" value="${e(b.childName)}" onclick="this.value = prompt('Lapse/Sündmuse nimi', this.value); return !!this.value">✎</button>
+                <button name="childName" value="${e(b.childName)}" onclick="this.value = prompt('Lapse/Sündmuse nimi', this.value) || ''; return !!this.value">✎</button>
               </form>              
             </td>
             <td>${e(b.childAge)}</td>
@@ -52,7 +52,7 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
               ${e(b.comments)}
               <div><strong>${e(b.adminComments)}</strong></div>
               <form action="/admin/bookings/${b._id}" method="post">
-                <button name="adminComments" value="${e(b.adminComments)}" onclick="this.value = prompt('Kommentaar', this.value); return !!this.value">+i</button>
+                <button name="adminComments" value="${e(b.adminComments)}" onclick="this.value = prompt('Kommentaar', this.value) || ''; return !!this.value">+i</button>
               </form>
             </td>
             <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
@@ -61,11 +61,11 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
               ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${p.dateTime.toDateString()}</div>`).join('')}
               ${b.payments && b.payments.length > 1 ? `<div><strong>Kokku: ${b.payments.reduce((s, p) => s + p.amount, 0)}€</strong></div>` : ''}
               <form action="/admin/bookings/${b._id}/payment" method="post">               
-                <button name="amount" onclick="this.value = prompt('Summa', '${config.bookingFee.amount}'); return !!parseFloat(this.value)">+€</button>
+                <button name="amount" onclick="this.value = prompt('Summa', '${config.bookingFee.amount}') || ''; return !!parseFloat(this.value)">+€</button>
               </form>            
             </td>
             <td>
-              <form action="/admin/bookings/${b._id}/delete" method="post" onsubmit="return confirm('Kustutada broneering lapsele ${e(b.childName)}?')">
+              <form action="/admin/bookings/${b._id}/delete" method="post" onsubmit="return confirm('Kustutada ${e(b.childName)}?')">
                 <button>❌</button>
               </form>
             </td>
