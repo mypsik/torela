@@ -39,7 +39,7 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
             <td width="20">${b.lang}</td>
             <td>
               ${e(b.childName)}
-              <button name="childName" value="${e(b.childName)}" onclick="this.value = prompt('Lapse/Sündmuse nimi', this.value) || ''; return !!this.value">✎</button>
+              <button class="edit" name="childName" value="${e(b.childName)}" onclick="this.value = prompt('Lapse/Sündmuse nimi', this.value) || ''; return !!this.value">✎</button>
             </td>
             <td>${e(b.childAge)}</td>
             <td>${e(b.parentName)}</td>
