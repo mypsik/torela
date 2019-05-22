@@ -9,11 +9,21 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-**20.05 (10.00-13.00)** - Mänguhommikut ei toimu! Trepikojas on remont!
+**23.05 (10.00-13.00)** - Mänguhommik
+                          Laual puuviljad ja kuum kohv! 
 
-**30.05 (10.00-13.00)** - Mänguhommik - teeme loodusliku putukatõrjevahendi.
+**26.05 (11.00-16.00)** - HOOVIKOHVIK! 
+                          Pakume suhkruvatti, juustukrõpse, puuviljavardaid ja muud head-paremat! Ootame! 
 
-Osalemissoovist teatada **tore@torela.ee**.
+**27.05 (10.00-13.00)** - Mänguhommik - lõbus kostüümipidu! 
+                          Torelas on sellel päeval rohkem kostüüme kui tavaliselt! Loomulikult võib tulla ka enda kostüümis!
+
+**30.05 (10.00-13.00)** - Mänguhommik
+                          Külla tuleb armas Külvi, kes aitab valmistada loodusliku putukatõrjevahendi.
+                          Osalustasu: 5€ (laps+saatja) + 5€ putukatõrjevahend
+
+
+Osalemissoovist palume teatada **tore@torela.ee**.
 
 ***
 
@@ -23,9 +33,7 @@ Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
 
 Vankrid saab jätta 1. korrusele.
 
-Osalemispanus 7€ (lapsevanem+laps), sama pere iga järgnev laps 3€.
-Pakume maitsvat näksi ja kuuma kohvi.
-
+Osalustasu 7€ (lapsevanem+laps), sama pere iga järgnev laps 3€.
 Olete kõik väga oodatud!
 
 
