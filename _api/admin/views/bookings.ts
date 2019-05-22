@@ -31,12 +31,12 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
         ${bookings.map(b => `
         <form action="/admin/bookings/${b._id}" method="post">
           <tr class="${b.publicEvent ? 'public' : ''}">
-            <td>${b.date}</td>
-            <td>
+            <td width="80" nowrap>${b.date}</td>
+            <td width="50">
               ${b.time}
               <button title="${b.publicEvent ? 'Tee tavaliseks broneeringuks' : 'Tee sündmuseks'}" name="publicEvent" value="${!b.publicEvent}">S</button>
             </td>
-            <td>${b.lang}</td>
+            <td width="20">${b.lang}</td>
             <td>
               ${e(b.childName)}
               <button name="childName" value="${e(b.childName)}" onclick="this.value = prompt('Lapse/Sündmuse nimi', this.value) || ''; return !!this.value">✎</button>
