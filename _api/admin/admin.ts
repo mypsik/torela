@@ -44,17 +44,22 @@ export default function admin(db: Db): Router {
 
   admin.post('/bookings/:id/payment', async (req, res) => {
     await bookingService.addPayment(req.params.id, parseFloat(req.body.amount))
-    res.redirect('/admin/bookings')
+    res.redirect(req.header('referer'))
   })
 
   admin.post('/bookings/:id/comments', async (req, res) => {
     await bookingService.setComments(req.params.id, req.body.text)
-    res.redirect('/admin/bookings')
+    res.redirect(req.header('referer'))
+  })
+
+  admin.post('/bookings/:id/public', async (req, res) => {
+    await bookingService.makePublic(req.params.id, req.body.public === 'true')
+    res.redirect(req.header('referer'))
   })
 
   admin.post('/bookings/:id/delete', async (req, res) => {
     await bookingService.delete(req.params.id)
-    res.redirect('/admin/bookings')
+    res.redirect(req.header('referer'))
   })
 
   return admin

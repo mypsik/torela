@@ -28,4 +28,8 @@ export default class BookingService {
   setComments(id: string, text: string): Promise<any> {
     return this.data.updateOne({_id: new ObjectId(id)}, {$set: {adminComments: text}})
   }
+
+  makePublic(id: string, publicEvent: boolean): Promise<any> {
+    return this.data.updateOne({_id: new ObjectId(id)}, {$set: {publicEvent: publicEvent}})
+  }
 }

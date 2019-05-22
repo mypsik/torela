@@ -15,7 +15,7 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
           <th>Päev</th>
           <th>Aeg</th>
           <th>Keel</th>
-          <th>Lapsenimi</th>
+          <th>Nimi</th>
           <th>Vanus</th>
           <th>Lapsevanem</th>
           <th>Email</th>
@@ -29,9 +29,14 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
       </thead>
       <tbody>
         ${bookings.map(b => `
-          <tr>
+          <tr class="${b.publicEvent ? 'public' : ''}">
             <td>${b.date}</td>
-            <td>${b.time}</td>
+            <td>
+              ${b.time}
+              <form action="/admin/bookings/${b._id}/public" method="post">
+                <button title="Make public" name="public" value="${!b.publicEvent}">P</button>
+              </form>
+            </td>
             <td>${b.lang}</td>
             <td>${e(b.childName)}</td>
             <td>${e(b.childAge)}</td>
