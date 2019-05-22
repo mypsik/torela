@@ -96,7 +96,7 @@ table.calendar tbody td {
   cursor: not-allowed;
 }
 
-.calendar .event.booked.common {
+.calendar .event.booked.public {
   background-color: orange;
   cursor: pointer;
 }
