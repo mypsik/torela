@@ -1,7 +1,7 @@
 import Booking from '../../domain/Booking'
 import {styles} from './styles'
 import {menu} from './menu'
-import {e} from './utils'
+import {d, e} from './utils'
 import config from '../../config'
 
 export function bookingsView(bookings: Array<Booking>, from: string) {
@@ -51,9 +51,9 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
               <button name="adminComments" value="${e(b.adminComments)}" onclick="this.value = prompt('Kommentaar', this.value) || ''; return !!this.value">+i</button>
             </td>
             <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
-            <td title="${e(b.userAgent)}">${new Date(b.createdAt).toDateString()}</td>
+            <td title="${e(b.userAgent)}">${d(b.createdAt)}</td>
             <td>
-              ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${p.dateTime.toDateString()}</div>`).join('')}
+              ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${d(p.dateTime)}</div>`).join('')}
               ${b.payments && b.payments.length > 1 ? `<div><strong>Kokku: ${b.payments.reduce((s, p) => s + p.amount, 0)}€</strong></div>` : ''}
               <button name="paymentAmount" onclick="this.value = prompt('Summa', '${config.bookingFee.amount}') || ''; return !!parseFloat(this.value)">+€</button>
             </td>
