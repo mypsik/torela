@@ -9,9 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-**23.05 (10.00-13.00)** - Mänguhommik
-                          Laual puuviljad ja kuum kohv! 
-
 **26.05 (11.00-16.00)** - HOOVIKOHVIK! 
                           Pakume suhkruvatti, juustukrõpse, puuviljavardaid ja muud head-paremat! Ootame! 
 
