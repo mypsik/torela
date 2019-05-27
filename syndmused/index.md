@@ -9,9 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-**26.05 (11.00-16.00)** - HOOVIKOHVIK! 
-                          Pakume suhkruvatti, juustukrõpse, puuviljavardaid ja muud head-paremat! Ootame! 
-
 **27.05 (10.00-13.00)** - Mänguhommik - lõbus kostüümipidu! 
                           Torelas on sellel päeval rohkem kostüüme kui tavaliselt! Loomulikult võib tulla ka enda kostüümis!
 
