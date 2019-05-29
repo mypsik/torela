@@ -9,13 +9,11 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-**29.05 (17.00-20.00)** - Mänguõhtu!
-
 **30.05 (10.00-13.00)** - Mänguhommik
                           Külla tuleb armas Külvi, kes aitab valmistada loodusliku putukatõrjevahendi.
                           Osalustasu: 5€ (laps+saatja) + 5€ putukatõrjevahend
                           
-**03.06 (10.00-13.00)** - Mänguhommik - küpsetame ja kaunistame muffineid
+**03.06 (10.00-13.00)** - Mänguhommik - küpsetame ja kaunistame muffineid ning külla tuleb oma tooteid tutvustama Linea MammaBaby!
                     
 
 Osalemissoovist palume teatada **tore@torela.ee**.
