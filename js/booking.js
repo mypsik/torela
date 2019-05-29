@@ -77,7 +77,7 @@ const bookingMessages = {
       balloonAnimals: 'Balloon Animals (70€/1h)',
       catering: 'Kids\' Favorites (80€)',
       icecreamMachine: 'Icecream machine (71€)',
-      cottoncandy: 'Cottoncandy machine (60€)',
+      cottoncandy: 'Cottoncandy machine (55€)',
       photographer: 'Photographer (135€)',
       videographer: 'Videographer (300€/3h)',
       bugsShow: 'Bugs program (125€/45min)',
@@ -87,7 +87,7 @@ const bookingMessages = {
       scienceWorkshop: 'Science workshop (132€/45min)',
       scienceShow: 'Science show (270€/30min)',
       cakeTopperBanner: 'Cake topper and banner (from 6€)',
-      reusableTableware: 'Reusable tableware (10€)',
+      reusableTableware: 'Reusable tableware (8€)',
       disposableTableware: 'Disposable tableware (1€/set)'
       
       
@@ -110,7 +110,7 @@ const bookingMessages = {
       balloonAnimals: 'Õhupalliloomad (70€/1h)',
       catering: 'Laste lemmikud (80€)',
       icecreamMachine: 'Jäätisemasin (71€)',
-      cottoncandy: 'Suhkruvatimasin (60€)',
+      cottoncandy: 'Suhkruvatimasin (55€)',
       photographer: 'Fotograaf (135€)',
       videographer: 'Videograaf (300€/3h)',
       bugsShow: 'Putukaprogramm (125€/45min)',
@@ -120,7 +120,7 @@ const bookingMessages = {
       scienceWorkshop: 'Teadustöötuba (132€/45min)',
       scienceShow: 'Teadusshow (270€/30min)',
       cakeTopperBanner: 'Koogitopper ja bänner (al 6€)',
-      reusableTableware: 'Korduvkasutatavad nõud (10€)',
+      reusableTableware: 'Korduvkasutatavad nõud (8€)',
       disposableTableware: 'Ühekordsed nõud (1€/kmp)'
       
     }
@@ -142,7 +142,7 @@ const bookingMessages = {
       balloonAnimals: 'Животные из воздушных шаров (70€/1h)',
       catering: 'Любимое детей (80€)',
       icecreamMachine: 'Машина для изготовления мороженного (71€)',
-      cottoncandy: 'Машина сахарной ваты (60€)',
+      cottoncandy: 'Машина сахарной ваты (55€)',
       photographer: 'Фотограф (135€)',
       videographer: 'Видеограф (300€/3h)',
       bugsShow: 'Программа с насекомыми (125€/45min)',
@@ -152,7 +152,7 @@ const bookingMessages = {
       scienceWorkshop: 'Научная мастерская (132€/45min)',
       scienceShow: 'Научное шоу (270€/30min)',
       cakeTopperBanner: 'Торт Топпер и баннер (от 6€)',
-      reusableTableware: 'Многоразовая посуда (10€)',
+      reusableTableware: 'Многоразовая посуда (8€)',
       disposableTableware: 'Одноразовая посуда (1€/сет)'
       
       
