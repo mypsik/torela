@@ -145,7 +145,7 @@ MULLISHOW - 80€/30min
 
   „Inimene seebimullis” - kõik lapsed võlutakse mulli sisse.
 
-  Suured seebimullid 20-30min + õhupallide kujundamine 30-60 min
+  Suured seebimullid 20-30min + õhupallide kujundamine 30-60min.
 
   Kõik lapsed saavad kingituseks õhupallidest kujukese (1-4 õhupallist: loomad, lilled, mõõgad, mütsid jne).
 
