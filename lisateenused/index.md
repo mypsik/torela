@@ -139,6 +139,30 @@ TEADUSSHOW - 270€/30min
 
   <img alt="Teadusshow" src="teadusshow.jpg" height="150">
   
+MULLISHOW - 80€/30min
+
+: Mullimeister toob sünnipäevale elevust! Show sisaldab trikke seebimullidega (erineva suurusega mullid, mullilohed, mullitorud, mulli batuut, mulli akvaarium jne).
+
+  „Inimene seebimullis” - kõik lapsed võlutakse mulli sisse.
+
+  Suured seebimullid 20-30min + õhupallide kujundamine 30-60 min
+
+  Kõik lapsed saavad kingituseks õhupallidest kujukese (1-4 õhupallist: loomad, lilled, mõõgad, mütsid jne).
+
+  
+  Mulli-show (ei sisalda õhupalle) **30min/80€**
+  
+  Mulli-show + õhupallid	1-20 last	**1h/100€**
+  
+  Mulli-show + õhupallid	21-35 last	**1-1.5h/115€**
+  
+  Mulli-show + õhupallid PREMIUM*	**1-1.5h/125€**
+
+
+  *Pärast Mullimeistri etteastet saavad kõik lapsed ise suuri mulle puhuda.
+
+  <img alt="Mullishow" src="mullishow-700x460.jpg" height="150">
+  
 HEELIUMIGA TÄIDETUD ÕHUPALLID
 
 : Täpsem info lisatakse peagi.
