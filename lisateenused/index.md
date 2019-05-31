@@ -52,7 +52,7 @@ KAETUD PEOLAUD "Laste lemmikud" - 80€
   Helluse jogurtid, kartulisalat, puuvilja-juurviljavaagen, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
 
 
-JÄÄTISEMASIN - 71€
+JÄÄTISEMASIN - 59€
 : Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
 SUHKRUVATIMASIN - 55€
@@ -195,8 +195,8 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   <img alt="Glitter1" src="glitter1.jpg" height="150">
   
   
-KORDUVKASUTATAVAD NÕUD - 8€
-: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja plastikust söögiriistu. Nõusid jagub 28 inimesele. 
+KORDUVKASUTATAVAD NÕUD - TASUTA
+: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja plastikust söögiriistu. Nõusid jagub 28 inimesele. 
 
   **Nõud tuleb ise puhtaks pesta.** 
   Kui soovid, et meie peseksime, siis lisandub tasu 10€.
