@@ -9,14 +9,11 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-                          
-**03.06 (10.00-13.00)** - Mänguhommik - küpsetame ja kaunistame muffineid ning külla tuleb oma tooteid tutvustama Linea MammaBaby!
-
 
 **05.06 (17.00-20.00)** - Mänguõhtu
 
 
-**06.06 (10.00-13.00)** - Mänguhommik 
+**06.06 (10.00-13.00)** - Mänguhommik
 
                     
 
