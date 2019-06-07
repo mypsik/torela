@@ -10,12 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD**
 
 
-**05.06 (17.00-20.00)** - Mänguõhtu
-
-
-**06.06 (10.00-13.00)** - Mänguhommik
-
-
 **10.06 (10.00-13.00)** - Mänguhommik
 
 
@@ -24,6 +18,17 @@ Alla aastaste lastega vanemad saavad siisse tasuta ja vanemate lastega sissepä�
 
 
 **17.06 (10.00-13.00)** - Mänguhommik + teeme loodusliku putukatõrjevahendi!
+
+
+**20.06 (10.00-13.00)** - Mänguhommik
+
+
+**24.06 (10.00-13.00)** - JAANIPÄEV - mänguhommikut ei toimu! 
+
+
+**27.06 (10.00-13.00)** - Mänguhommik
+
+
 
 
 
