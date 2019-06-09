@@ -97,7 +97,7 @@ const bookingMessages = {
   et: {
     book: 'Broneeri',
     childName: 'Lapse eesnimi',
-    childAge: 'Lapse vanus',
+    childAge: 'Kui vanaks saab?',
     parentName: 'Lapsevanema täisnimi',
     email: 'E-post',
     phone: 'Telefon',
