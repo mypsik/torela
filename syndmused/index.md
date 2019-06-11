@@ -10,9 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD**
 
 
-**10.06 (10.00-13.00)** - Mänguhommik
-
-
 **13.06 (10.00-13.00)** - Mänguhommik + Mähkmed.eu tutvustab riidest mähkmeid!
 Alla aastaste lastega vanemad saavad sisse tasuta ja vanemate lastega sissepääs 5€! 
 
@@ -27,6 +24,10 @@ Alla aastaste lastega vanemad saavad sisse tasuta ja vanemate lastega sissepää
 
 
 **27.06 (10.00-13.00)** - Mänguhommik
+
+
+JUULIS ALUSTAB LINNALAAGER!
+Täpsem info peatselt!
 
 
 
