@@ -25,12 +25,12 @@ Emale ja beebile on privaatne ruum imetamiseks ja mähkimiseks.
 Üleriiete jaoks on eraldi garderoob. Mängutoas on 2 tualettruumi.
 
 Torela mänguasjad on lapsesõbralikud ja soodustavad lapse arengut. Lapsed saavad kasutada nii oma loovust kui ka tugevdada musklit.
-Mängutoas saab hullata 2-korruselises mängumajas, milles on 4 tuba: diskotuba, pehme pesa, teadustuba ja mänguköök. Ronida saab mööda seina, sõita ringi autodega, mängida kuulimänguga.
+Mängutoas saab hullata 2-korruselises mängumajas, milles on 4 tuba: diskotuba, pehme pesa, klotsituba ja mänguköök. Ronida saab mööda seina, sõita ringi autodega, mängida kuulimänguga.
 Lapsed saavad ehitada pehmetest klotsidest kindluseid ja mängida legodega. Saab joonistada kriitidega, luua mägesid liitreaalsuse liivakastis ja veel palju muud põnevat. 
 
 Mängutoas on kööginurk külmkapi, ahju, pliidi, mikrolaineahju ja veekeetjaga. Köögitarvikutest on olemas presskannud, morsikannud, salatikausid, kandikud, tassid, noad, tordilabidad ja vaasid. 
 
-Suurte söögilaudade taha mahub korraga 14 täiskasvanut ja väikeste laudade taha 14 last.
+Suurte söögilaudade taha mahub korraga 14 täiskasvanut ja väikeste laudade taha 14 last. Lapsi mängutuppa mahub aga palju rohkem! Võimalus kasutada lisaks 8 tumbat, 3 tooli, 2 väikest lauda.
 Mängutoas toimub üks pidu korraga.
 
 Kui on soov enne pidu mängutoaga tutvuda, siis saab seda teha mänguhommikutel või leppida kokku sobiv aeg telefoni või e-posti teel.
