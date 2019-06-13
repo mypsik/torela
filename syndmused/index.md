@@ -10,9 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD**
 
 
-**13.06 (10.00-13.00)** - Mänguhommik + Mähkmed.eu tutvustab riidest mähkmeid!
-Alla aastaste lastega vanemad saavad sisse tasuta ja vanemate lastega sissepääs 5€! 
-
 
 **17.06 (10.00-13.00)** - Mänguhommik + teeme loodusliku putukatõrjevahendi!
 
