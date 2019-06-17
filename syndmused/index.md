@@ -10,17 +10,19 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD**
 
 
-
-**17.06 (10.00-13.00)** - Mänguhommik + teeme loodusliku putukatõrjevahendi!
-
-
 **20.06 (10.00-13.00)** - Mänguhommik
 
 
 **24.06 (10.00-13.00)** - JAANIPÄEV - mänguhommikut ei toimu! 
 
 
-**27.06 (10.00-13.00)** - Mänguhommik
+**27.06 (10.00-13.00)** - Mänguhommik + ema-lapse tantsutund
+
+
+**04.07 (10.00-13.00)** - Mänguhommik + UNELOENG
+
+
+
 
 
 JUULIS ALUSTAB LINNALAAGER!
