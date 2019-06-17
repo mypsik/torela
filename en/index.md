@@ -11,8 +11,6 @@ ru: /ru/
 
 Torela is a new and exciting playroom in Põhja-Tallinn, between Kalamaja and Pelgulinna.
 
-We are opening our doors on **May 1st**!
-
 You can celebrate children birthdays, come play morning playtime and join us in theme-nights. From autumn children can take part of different hobby-classes.
 
 The room is 185 m<sup>2</sup>.
