@@ -10,7 +10,7 @@ ru: /ru/services/
 PEOJÄRGNE KORISTAMINE - 25€
 : Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise.
 
-NÄOMAALINGUD - 45€/1h
+NÄOMAALINGUD - 50€/1h
 
 : Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
 
