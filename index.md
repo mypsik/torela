@@ -24,10 +24,10 @@ Ootame kõiki mängima mänguhommikultele! Täpsem info siin: [SÜNDMUSED](/synd
 
 **Mis meil on?**
 
-Lõbutsemiseks on ruumi 185 m<sup>2</sup>
-Päris pisikestele on aiaga piiratud beebinurk eakohaste mänguasjadega
-Emale ja beebile on privaatne ruum imetamiseks ja mähkimiseks
-Üleriiete jaoks on eraldi garderoob
+Lõbutsemiseks on ruumi 185 m<sup>2</sup>. 
+Päris pisikestele on aiaga piiratud beebinurk eakohaste mänguasjadega.
+Emale ja beebile on privaatne ruum imetamiseks ja mähkimiseks.
+Üleriiete jaoks on eraldi garderoob.
 Mängutoas on 2 tualettruumi.
 
 **Mida lapsed saavad teha?**
