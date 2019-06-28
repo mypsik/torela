@@ -88,7 +88,8 @@ const bookingMessages = {
       scienceShow: 'Science show (270€/30min)',
       bubbleShow: 'Bubble show (80€/30min)',
       cakeTopperBanner: 'Cake topper and banner (from 6€)',
-      reusableTableware: 'Reusable tableware (free)',
+      reusableTablewareFree: 'Reusable tableware (free)',
+      reusableTablewareWash: 'Reusable tableware (washing 10€)',
       disposableTableware: 'Disposable tableware (1€/set)'
       
       
@@ -122,7 +123,8 @@ const bookingMessages = {
       scienceShow: 'Teadusshow (270€/30min)',
       bubbleShow: 'Mullishow (80€/30min)',
       cakeTopperBanner: 'Koogitopper ja bänner (al 6€)',
-      reusableTableware: 'Korduvkasutatavad nõud (tasuta)',
+      reusableTablewareFree: 'Korduvkasutatavad nõud (tasuta)',
+      reusableTablewareWash: 'Korduvkasutatavad nõud (10€/pesemine)',
       disposableTableware: 'Ühekordsed nõud (1€/kmp)'
       
     }
@@ -155,7 +157,8 @@ const bookingMessages = {
       scienceShow: 'Научное шоу (270€/30min)',
       bubbleShow: 'шоу мыльных пузырей (80€/30min)',
       cakeTopperBanner: 'Торт Топпер и баннер (от 6€)',
-      reusableTableware: 'Многоразовая посуда (бесплатно)',
+      reusableTablewareFree: 'Многоразовая посуда (бесплатно)',
+      reusableTablewareWash: 'Многоразовая посуда (10€/моечная)',
       disposableTableware: 'Одноразовая посуда (1€/сет)'
       
       
