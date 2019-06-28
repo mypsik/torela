@@ -28,17 +28,9 @@ Küsimuste korral saate meile helistada ♥ Mirjam 5695 5722 või Sirli 5908 191
 
 **JUULIS ALUSTAB LINNALAAGER!**
 17.07 - KOKAKUNSTI PÄEV
-Linnalaagri päev "Kokakunst". Sihtgrupiks on meil 5-7-aastased lapsed, kuid oodatud on kõik huvilised. Lapsed teevad ise päris toitu, nii soolast kui ka magusat, kasutades erinevaid põnevaid tehnikaid. Räägime ka kokkamise "põhitõdedest". Päeva võtame üles ka videolindile ♥ Laagripäev 30€, sisaldab lõunat ja kõike vajaminevat! Küsimused ja registreerimine: tore@torela.ee
+Linnalaagri päev "Kokakunst". Sihtgrupiks on meil 5-7-aastased lapsed, kuid oodatud on kõik huvilised. Lapsed teevad ise päris toitu, nii soolast kui ka magusat, kasutades erinevaid põnevaid tehnikaid. Räägime ka kokkamise "põhitõdedest". Päeva võtame üles ka videolindile ♥ Laagripäev 30€, sisaldab lõunat ja kõike vajaminevat! Küsimused ja registreerimine: **tore@torela.ee**
 
 Linnalaagri info täieneb pidevalt!
-
-
-
-
-
-                    
-
-Osalemissoovist palume teatada **tore@torela.ee**.
 
 ***
 
