@@ -19,7 +19,9 @@ Meil saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel nin
 
 **Ootame kõiki mängima mänguhommikultele.** Täpsem info siin: [SÜNDMUSED](/syndmused/)
 
+
 **Mis meil on?**
+
 Lõbutsemiseks on ruumi 185 m<sup>2</sup>
 Päris pisikestele on aiaga piiratud beebinurk eakohaste mänguasjadega
 Emale ja beebile on privaatne ruum imetamiseks ja mähkimiseks
@@ -27,17 +29,20 @@ Emale ja beebile on privaatne ruum imetamiseks ja mähkimiseks
 Mängutoas on 2 tualettruumi.
 
 **Mida lapsed saavad teha?**
+
 Torela mänguasjad on lapsesõbralikud ja soodustavad lapse arengut. Lapsed saavad kasutada nii oma loovust kui ka tugevdada musklit.
 Mängutoas saab hullata kahekorruselises mängumajas, milles on 4 tuba: diskotuba, pehme pesa, klotsituba ja mänguköök. Ronida saab mööda seina, sõita ringi autodega, mängida kuulimänguga, liugu lasta, pallimeres hullata.
 Lapsed saavad ehitada pehmetest klotsidest kindluseid ja mängida legodega. Saab joonistada kriitidega, luua mägesid liitreaalsuse liivakastis, visata palle korvi, ehitada autorada ja palju muud põnevat. 
 
 **Mis on köögis olemas?**
+
 Mängutoas on kööginurk kogu tehnikaga! Suur külmkapp, ahi, pliit, mikrolaineahi ja veekeetja. Köögitarvikutest on olemas presskannud, morsikannud, salatikausid, kandikud, tassid, noad, tordilabidad ja vaasid. Kasutada saab bambusest korduvkasutatavaid nõusid!
 
 **Palju mahub?**
+
 Suurte söögilaudade taha mahub korraga sööma 14 täiskasvanut ja väikeste laudade taha 14 last. Lapsi mängutuppa mahub aga palju rohkem! Võimalus kasutada lisaks 8 lastetumbat, 3 tooli, 2 väikest lauda.
 Mängutoas toimub üks pidu korraga.
 
-Kui on soov enne pidu mängutoaga tutvuda, siis saab seda teha mänguhommikutel või leppida kokku sobiv aeg telefoni või e-posti teel.
+**Kui on soov enne pidu mängutoaga tutvuda, siis saab seda teha mänguhommikutel või leppida kokku sobiv aeg telefoni või e-posti teel.**
 
 ## Meie partnerid
