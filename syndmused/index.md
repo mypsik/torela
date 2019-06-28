@@ -9,7 +9,7 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-**1.07 (10.00-13.00) - mänguhommik**
+**1.07 (10.00-13.00) - Mänguhommik**
 
 **04.07 (10.00-13.00) - Mänguhommik + UNELOENG**
 
