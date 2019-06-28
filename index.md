@@ -15,7 +15,7 @@ priority: 1.0
 
 Torela on uus ja põnev mängutuba Põhja-Tallinnas, Telliskivi ja Ristiku tänava ristmikul, Kalamaja ja Pelgulinna vahel. Telliskivi Loomelinnaku vahetus läheduses.
 
-**Meil saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel ning sügisest saab osa võtta põnevatest huviringidest.** Mängutoas on tegevust 0-8aastastel lastel.
+**Meil saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel ning sügisest saab osa võtta põnevatest huviringidest.** Mängutoas on tegevust 0-8aastastel lastel. Mängutoas toimub üks pidu korraga.
 
 Ootame kõiki mängima mänguhommikultele! Täpsem info siin: [SÜNDMUSED](/syndmused/)
 
@@ -41,7 +41,6 @@ Mängutoas on kööginurk kogu tehnikaga! Suur külmkapp, ahi, pliit, mikrolaine
 **Palju mahub?**
 
 Suurte söögilaudade taha mahub korraga sööma 14 täiskasvanut ja väikeste laudade taha 14 last. Lapsi mängutuppa mahub aga palju rohkem! Võimalus kasutada lisaks 8 lastetumbat, 3 tooli, 2 väikest lauda.
-Mängutoas toimub üks pidu korraga.
 
 **Kui on soov enne pidu mängutoaga tutvuda, siis saab seda teha mänguhommikutel või leppida kokku sobiv aeg telefoni või e-posti teel.**
 
