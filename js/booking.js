@@ -73,7 +73,7 @@ const bookingMessages = {
     services: '<a href="/en/services/" target="_blank">Additional services</a>',
     additionalServices: {
       cleaning: 'Cleaning (25€)',
-      facePainting: 'Face paintings (45€/1,5h)',
+      facePainting: 'Face paintings (50€/1h)',
       balloonAnimals: 'Balloon Animals (70€/1h)',
       catering: 'Kids\' Favorites (80€)',
       icecreamMachine: 'Icecream machine (59€)',
@@ -107,7 +107,7 @@ const bookingMessages = {
     services: '<a href="/lisateenused/" target="_blank">Lisateenused</a>',
     additionalServices: {
       cleaning: 'Koristus (25€)',
-      facePainting: 'Näomaalingud (45€/1,5h)',
+      facePainting: 'Näomaalingud (50€/1h)',
       balloonAnimals: 'Õhupalliloomad (70€/1h)',
       catering: 'Laste lemmikud (80€)',
       icecreamMachine: 'Jäätisemasin (59€)',
@@ -140,7 +140,7 @@ const bookingMessages = {
     services: '<a href="/ru/services/" target="_blank">Дополнительные услуги</a>',
     additionalServices: {
       cleaning: 'Уборка (25€)',
-      facePainting: 'Крашенье лица (45€/1,5h)',
+      facePainting: 'Крашенье лица (50€/1h)',
       balloonAnimals: 'Животные из воздушных шаров (70€/1h)',
       catering: 'Любимое детей (80€)',
       icecreamMachine: 'Машина для изготовления мороженного (59€)',
