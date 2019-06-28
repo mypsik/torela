@@ -9,11 +9,7 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-**27.06 (10.00-13.00) - Mänguhommik + ema-lapse tantsutund**
-
-Mõnus tantsuline mänguhommik! Tantsutundi viivad läbi Berit ja Triinu. Berit näitab klassikalist kõhutantsu ning Triinu rasedusaegset-sünnitusjärgset keha hoidmist ja beebide treeningut. Läbi kõhu- ja tavatantsuliikumise juhivad nad tähelepanu rühile, ergonoomikale, hingamisele, süvalihastele. Beebid saavad ka koormuse ja vajadusel soovitusi lisategevusteks!
-
-Mänguhommikul osalemine: 5€ (laps+vanem, sama pere järgmine laps +2€) ja tantsutund 5€
+**1.07 (10.00-13.00) - mänguhommik**
 
 **04.07 (10.00-13.00) - Mänguhommik + UNELOENG**
 
@@ -26,6 +22,7 @@ Mängutuba asub 2. korrusel, fonolukult valida nr 2. Vankrid saab jätta 1. korr
 Palume tulemisest teada anda kirjutades meilile tore@torela.ee, siia chat'i või lisades kommentaar ürituse alla. 
 Küsimuste korral saate meile helistada ♥ Mirjam 5695 5722 või Sirli 5908 1914. Kohtumiseni 💚
 
+**8.07 (10.00-13.00) - MÄNGUHOMMIKUT EI TOIMU!**
 
 
 
