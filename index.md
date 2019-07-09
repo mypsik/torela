@@ -14,8 +14,15 @@ priority: 1.0
 <blockquote>Liitreaalsuse liivakast on super!</blockquote>
 <blockquote>Väga ilusad värsked ruumid, kõik on puhas.</blockquote>
 <blockquote>Piisavalt palju tegevust lastele.</blockquote>
-<blockquote>Sisustus väga ilus. Ei ole liiga ülepakutud, aga samas on viisakas ja kaunis. .</blockquote>
-
+<blockquote>Sisustus väga ilus. Ei ole liiga ülepakutud, aga samas on viisakas ja kaunis.</blockquote>
+<blockquote>Istumisala on väga mugavalt korraldatud ja seal on piisavalt ruumi, et ära mahutada ka suurem seltskond.</blockquote>
+<blockquote>Nii mõnus, et seal on hea ja valgusküllane.</blockquote>
+<blockquote>Sisustus on väga ilus. Ei ole liiga ülepakutud, aga samas on viisakas ja kaunis.</blockquote>
+<blockquote>Piisavalt ruumi jooksmiseks ja mängimiseks.</blockquote>
+<blockquote>Perenaised alati rõõmsad, lahked ja säravad!</blockquote>
+<blockquote>Väga vinge koht! Kohe näha, et tehtud hoole ja armastusega, mõeldes lastele!</blockquote>
+<blockquote>Parim koht kuhu lastega aega viitma minna.</blockquote>
+<blockquote>Torelas on tore!</blockquote>
 
 
 

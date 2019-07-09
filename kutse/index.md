@@ -8,7 +8,7 @@ title: Kutse
 
 ## Hea sõber!
 
-### Palun tule mu sünnipäevale Torela Mängutuppa
+### Palun tule minu sünnipäevale Torela Mängutuppa
 
 ### <b id="date">__________</b> kell <b id="time">_____</b>
 
