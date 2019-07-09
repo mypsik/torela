@@ -10,9 +10,9 @@ title: Kutse
 
 ### Приходи на мой день рождения в игровую комнату Торела
 
-### <b id="date">__________</b> в <b id="time">_____</b>
+### Приглашает <b id="childName">_____________</b> <b id="date">__________</b> в <b id="time">_____</b>
 
-### Приглашает: <b id="childName">_____________</b> [_________](tel:) [{{site.email}}](mailto:) 
+### <span id="parentName"></span> [_________](tel:) [{{site.email}}](mailto:) 
 
 #### Адрес: {{ site.address }}
 

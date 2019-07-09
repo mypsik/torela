@@ -10,9 +10,9 @@ title: Kutse
 
 ### Please come to my birthday party to Torela playroom
 
-### <b id="date">__________</b> at <b id="time">_____</b>
+### <b id="childName">_____________</b> on <b id="date">__________</b> at <b id="time">_____</b>
 
-### <b id="childName">_____________</b> [_________](tel:) [{{site.email}}](mailto:) 
+### <span id="parentName"></span> [_________](tel:) [{{site.email}}](mailto:) 
 
 #### Address: {{ site.address }}
 

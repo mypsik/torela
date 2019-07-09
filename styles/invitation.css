@@ -102,7 +102,7 @@ a, b {
 
 @media print {
   .bg {
-    height: 410pt;
+    height: 390pt;
   }
 
   .block {

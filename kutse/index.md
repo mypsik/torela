@@ -10,9 +10,7 @@ title: Kutse
 
 ### Palun tule minu sünnipäevale Torela Mängutuppa
 
-### <b id="date">__________</b> kell <b id="time">_____</b>
-
-### Kutsub: <b id="childName">_____________</b>
+### Kutsub <b id="childName">_____________</b> <b id="date">__________</b> kell <b id="time">_____</b>
 
 ### <span id="parentName"></span> [_________](tel:) [{{site.email}}](mailto:) 
 
