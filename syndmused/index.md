@@ -9,28 +9,42 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
-**1.07 (10.00-13.00) - Mänguhommik**
+**11.07 (10.00-13.00) - Mänguhommik**
 
-**04.07 (10.00-13.00) - Mänguhommik + UNELOENG**
+**15.07 (10.00-13.00) - Mänguhommik**
 
-Seekord on külas ka Unekoolist Õnne Liv Valberg, kes räägib beebide unest. Kõik, kellel mure tihti ärkava beebiga, olete oodatud! Loeng-vestlus kestab umbes 1,5 tundi.
 
-Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
 
-Mängutuba asub 2. korrusel, fonolukult valida nr 2. Vankrid saab jätta 1. korrusele koridori. Parkimine tänaval tasuta! 
-Palume tulemisest teada anda kirjutades meilile tore@torela.ee, fb messengeri või lisades kommentaar facebookis ürituse alla. 
-Küsimuste korral saate meile helistada ♥ Mirjam 5695 5722 või Sirli 5908 1914. Kohtumiseni 💚
+**22.07 (10.00-13.00) - Mänguhommik + LOOVLA**
 
-**8.07 (10.00-13.00) - MÄNGUHOMMIKUT EI TOIMU!**
-
+Mänguhommiku aitab huvitavamaks teha Loovla! Torelasse tehakse erinevad nurgakesed arendavate tegevustega, mille vahel vanemad saavad vastavalt lapse vanusele ja soovidele valida (vabalt võib ka kõik läbi käia🙃). Tegevused oleksid motoorsete oskuste toetamiseks või sensoorsed. Kaasa palume võtta vahetusriided, mida pole kahju määrida! Kasutatakse ainult looduslikke värve 🙂 Palume võimalusel tulekusoovist teada anda: tore@torela.ee. Sissepääs 10€ (lisalaps +3€).
 
 
 **JUULIS ALUSTAB LINNALAAGER!**
-17.07 - KOKAKUNSTI PÄEV
-Linnalaagri päev "Kokakunst". Sihtgrupiks on meil 5-7-aastased lapsed, kuid oodatud on kõik huvilised. Lapsed teevad ise päris toitu, nii soolast kui ka magusat, kasutades erinevaid põnevaid tehnikaid. Räägime ka kokkamise "põhitõdedest". Päeva võtame üles ka videolindile ♥ Laagripäev 30€, sisaldab lõunat ja kõike vajaminevat! Küsimused ja registreerimine: **tore@torela.ee**
 
-Linnalaagri info täieneb pidevalt!
+**17.07 - KOKAKUNSTI PÄEV**
+
+Linnalaagri päev "Kokakunst". Sihtgrupiks on meil 5-7-aastased lapsed, kuid oodatud on kõik huvilised. Lapsed teevad ise päris toitu, nii soolast kui ka magusat, kasutades erinevaid põnevaid tehnikaid. Räägime ka kokkamise "põhitõdedest". Päeva võtame üles ka videolindile ♥ 
+
+Laagripäev 30€, sisaldab lõunat ja kõike vajaminevat!
+
+**23.07 - TEATRI PÄEV**
+
+Eriti on oodatud 5-7-aastased lapsed ja lapsed jäävad meie juhendajate hoole alla. "Maagilise teatri" linnalaagripäeval valmistavad lapsed teatrinukke ja teevad ise valmis teatrietenduse. Etenduse võtame loomulikult ka filmilindile! 
+
+Päeva tasu on 40€, sisaldab lõunasööki ja kõiki vahendeid.
+
+**25.07 - LIIKUMISE PÄEV**
+
+Eriti vahva ja meeleolukas linnalaagipäev "Liikumisrõõm"! Päevakavas erinevad aktiivsed tegevused - lapsed saavad teha lastejoogat, tantsida idamaiseid tantse ja mängida toredaid liikumismänge! 
+
+30€/päev, sisaldab lõunasööki. 
+
+
+**Palume linnalaagritesse registreerimiseks kirjutada: tore@torela.ee. Kohtade arve on piiratud!**
+
+
+Linnalaagrite info täieneb pidevalt!
 
 ***
 
