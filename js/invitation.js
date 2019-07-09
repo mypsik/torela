@@ -2,6 +2,11 @@
   var api = new API()
   var id = location.hash.substring(1);
   if (!id) return;
+
+  $('.lang a').each(function() {
+    this.href += location.hash
+  });
+
   api.booking(id).then(function(b) {
     var dateParts = b.date.split('-')
     $('#date').text(dateParts[2] + '.' + dateParts[1])

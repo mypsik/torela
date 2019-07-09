@@ -58,8 +58,7 @@ export class Mailer {
       tel: 5695 5722 / 5908 1914
       koduleht: https://torela.ee/
       facebook: https://www.facebook.com/Torelamangutuba/
-      instagram: @torelamangutuba
-      
+      instagram: @torelamangutuba      
       `
     })
   }
