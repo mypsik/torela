@@ -28,7 +28,7 @@
     $('#date').text(dateParts[2] + '.' + dateParts[1])
     $('#time').text(b.time)
     $('#childName').text(b.childName)
-    $('#parentName').text(b.parentName)
+    $('#parentName').text(b.parentName.split(' ')[0])
     $('a[href="tel:"]').text(b.phone).attr('href', 'tel:' + b.phone)
     $('a[href="mailto:"]').text(b.email).attr('href', 'mailto:' + b.email)
   })
