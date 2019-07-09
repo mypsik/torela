@@ -1,0 +1,14 @@
+---
+layout: base
+---
+
+<style>
+  @import '/styles/invitation.css?{{ site.time | date: '%s' }}';
+</style>
+
+<div class="block">
+  {{ content }}
+</div>
+
+<script src="/js/api.js?{{ site.time | date: '%s' }}"></script>
+<script src="/js/invitation.js?{{ site.time | date: '%s' }}"></script>
