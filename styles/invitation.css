@@ -65,9 +65,22 @@ a, b {
     top: -20vh;
   }
 
-  body > .block {
+  .block {
     top: 50%;
     transform: translateY(-50%);
+  }
+
+  .controls {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    z-index: 1;
+    font-size: 18px;
+  }
+
+  button {
+    font-size: 18px;
+    padding: 8px;
   }
 }
 
@@ -94,5 +107,9 @@ a, b {
 
   .block {
     top: 60pt;
+  }
+
+  .controls {
+    display: none;
   }
 }

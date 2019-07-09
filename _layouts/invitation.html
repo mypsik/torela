@@ -6,6 +6,11 @@ layout: base
   @import '/styles/invitation.css?{{ site.time | date: '%s' }}';
 </style>
 
+<div class="controls">
+  Jaga see link või
+  <button onclick="window.print()" title="Vali PDF printeri asemel salvestamiseks">Prindi / PDF</button>
+</div>
+
 <img class="bg" src="/img/taust-mets-1.png">
 <div class="block">
   <a href="{%if page.lang == 'et'%}/{%else%}/{{ page.lang }}{%endif%}">
