@@ -26,19 +26,19 @@ Mänguhommiku aitab huvitavamaks teha Loovla! Torelasse tehakse erinevad nurgake
 
 **JUULIS ALUSTAB LINNALAAGER!**
 
-**17.07 - KOKAKUNSTI PÄEV**
+**17.07 - KOKAKUNST**
 
 Linnalaagri päev "Kokakunst". Sihtgrupiks on meil 5-7-aastased lapsed, kuid oodatud on kõik huvilised. Lapsed teevad ise päris toitu, nii soolast kui ka magusat, kasutades erinevaid põnevaid tehnikaid. Räägime ka kokkamise "põhitõdedest". Päeva võtame üles ka videolindile ♥ 
 
 Laagripäev 30€, sisaldab lõunat ja kõike vajaminevat!
 
-**23.07 - TEATRI PÄEV**
+**23.07 - NUKUTEATRER**
 
 Eriti on oodatud 5-7-aastased lapsed ja lapsed jäävad meie juhendajate hoole alla. "Maagilise teatri" linnalaagripäeval valmistavad lapsed teatrinukke ja teevad ise valmis teatrietenduse. Etenduse võtame loomulikult ka filmilindile! 
 
 Päeva tasu on 40€, sisaldab lõunasööki ja kõiki vahendeid.
 
-**25.07 - LIIKUMISE PÄEV**
+**25.07 - LIIKUMISRÕÕM**
 
 Eriti vahva ja meeleolukas linnalaagipäev "Liikumisrõõm"! Päevakavas erinevad aktiivsed tegevused - lapsed saavad teha lastejoogat, tantsida idamaiseid tantse ja mängida toredaid liikumismänge! 
 
