@@ -1,5 +1,5 @@
 function API(url) {
-  this.url = url || (location.hostname.indexOf('localhost') === 0 ? 'http://172.20.0.2:5000' : 'https://torela.codeborne.com')
+  this.url = url || 'https://torela.codeborne.com'
 
   this.bookings = function() {
     return $.get(this.url + '/api/bookings').then(function(bookings) {
