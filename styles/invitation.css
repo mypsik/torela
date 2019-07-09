@@ -1,16 +1,50 @@
+html {
+  font-size: 36px;
+}
+
 body {
   background-position: center -500px;
   text-align: center;
 }
 
 body > .block {
-  width: 800px;
+  width: 600px;
   margin: 0 auto;
   position: absolute;
   left: 0;
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+  padding-top: 80px;
+  padding-bottom: 1rem;
+}
+
+.logo {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: -90px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+  margin: 5px 0;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 0.75rem;
+}
+
+h4:first-of-type {
+  margin-top: 1rem;
 }
 
 a {

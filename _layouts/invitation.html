@@ -7,6 +7,10 @@ layout: base
 </style>
 
 <div class="block">
+  <a href="{%if page.lang == 'et'%}/{%else%}/{{ page.lang }}{%endif%}">
+    <img src="/img/logo.png" class="logo" alt="Torela mängumaa">
+  </a>
+
   {{ content }}
 </div>
 

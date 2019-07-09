@@ -4,14 +4,16 @@ lang: et
 title: Kutse
 ---
 
-# Hea sõber
+# Kutse
 
-## Palun tule mu sünnipäevale Torela Mängutuppa
+## Hea sõber!
 
-## 19.02.2019 kell 18:00
+### Palun tule mu sünnipäevale Torela Mängutuppa
 
-## Kutsub: Anton 5663 9535 anton@keks.ee 
+### 19.02.2019 kell 18:00
 
-Torela aadress: {{ site.address }}
+### Kutsub: Anton 5663 9535 anton@keks.ee 
 
-Lisainfo: [{{ site.email | replace: '@', '$'}}](mailto)  [torela.ee]({{site.url}})  [{{ site.phone1 }}](tel:+372 {{ site.phone1 }}) või [{{ site.phone2 }}](tel:+372 {{ site.phone2 }})
+#### Torela aadress: {{ site.address }}
+
+#### Lisainfo: [{{ site.email | replace: '@', '$'}}](mailto)  [torela.ee]({{site.url}})  [{{ site.phone1 }}](tel:+372 {{ site.phone1 }}) või [{{ site.phone2 }}](tel:+372 {{ site.phone2 }})
