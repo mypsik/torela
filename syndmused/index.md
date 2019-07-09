@@ -11,9 +11,13 @@ ru: /ru/events/
 
 **11.07 (10.00-13.00) - Mänguhommik**
 
+Sissepääs laps+vanem 7€, lisalaps 3€.
+Laual näksimist, kohv/tee.
+
 **15.07 (10.00-13.00) - Mänguhommik**
 
-
+Sissepääs laps+vanem 7€, lisalaps 3€.
+Laual näksimist, kohv/tee.
 
 **22.07 (10.00-13.00) - Mänguhommik + LOOVLA**
 
