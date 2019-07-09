@@ -16,6 +16,9 @@ L-P 10.00-21.00 - 150€/3h
 *Riigipühadel kehtib nädalavahetuse hind.
 Kohapeal saab maksta ainult sularahas!
 
+Pakume ka palju lisateenuseid, mis muudavad peo meeldejäävamaks. Tutvu lisateenustega: [LISATEENUSED](/lisateenused/)
+
+
 Broneerimistasu on **40€**, mis arvestatakse lõppsummast maha. Makse selgitusse märkida **ürituse kuupäev, kellaaeg ja lapse nimi**.
 Broneerimistasu tuleb tasuda **3 päeva jooksul** Torela OÜ pangakontole **EE477700771003581431**. Kui ülekanne ei ole tähtaegselt laekunud, broneering tühistatakse.
 

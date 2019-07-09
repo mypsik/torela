@@ -9,42 +9,47 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD**
 
+**11.07 (10.00-13.00) - Mänguhommik**
+
+Sissepääs laps+vanem 7€, lisalaps 3€.
+Laual näksimist, kohv/tee.
+
+**15.07 (10.00-13.00) - Mänguhommik**
+
+Sissepääs laps+vanem 7€, lisalaps 3€.
+Laual näksimist, kohv/tee.
+
+**22.07 (10.00-13.00) - Mänguhommik + LOOVLA**
+
+Mänguhommiku aitab huvitavamaks teha Loovla! Torelasse tehakse erinevad nurgakesed arendavate tegevustega, mille vahel vanemad saavad vastavalt lapse vanusele ja soovidele valida (vabalt võib ka kõik läbi käia🙃). Tegevused oleksid motoorsete oskuste toetamiseks või sensoorsed. Kaasa palume võtta vahetusriided, mida pole kahju määrida! Kasutatakse ainult looduslikke värve 🙂 Palume võimalusel tulekusoovist teada anda: tore@torela.ee. Sissepääs 10€ (lisalaps +3€).
 
 
-**17.06 (10.00-13.00)** - Mänguhommik + teeme loodusliku putukatõrjevahendi!
+**JUULIS ALUSTAB LINNALAAGER!**
+
+**17.07 - KOKAKUNSTI PÄEV**
+
+Linnalaagri päev "Kokakunst". Sihtgrupiks on meil 5-7-aastased lapsed, kuid oodatud on kõik huvilised. Lapsed teevad ise päris toitu, nii soolast kui ka magusat, kasutades erinevaid põnevaid tehnikaid. Räägime ka kokkamise "põhitõdedest". Päeva võtame üles ka videolindile ♥ 
+
+Laagripäev 30€, sisaldab lõunat ja kõike vajaminevat!
+
+**23.07 - TEATRI PÄEV**
+
+Eriti on oodatud 5-7-aastased lapsed ja lapsed jäävad meie juhendajate hoole alla. "Maagilise teatri" linnalaagripäeval valmistavad lapsed teatrinukke ja teevad ise valmis teatrietenduse. Etenduse võtame loomulikult ka filmilindile! 
+
+Päeva tasu on 40€, sisaldab lõunasööki ja kõiki vahendeid.
+
+**25.07 - LIIKUMISE PÄEV**
+
+Eriti vahva ja meeleolukas linnalaagipäev "Liikumisrõõm"! Päevakavas erinevad aktiivsed tegevused - lapsed saavad teha lastejoogat, tantsida idamaiseid tantse ja mängida toredaid liikumismänge! 
+
+30€/päev, sisaldab lõunasööki. 
 
 
-**20.06 (10.00-13.00)** - Mänguhommik
+**Palume linnalaagritesse registreerimiseks kirjutada: tore@torela.ee. Kohtade arv on piiratud!**
 
 
-**24.06 (10.00-13.00)** - JAANIPÄEV - mänguhommikut ei toimu! 
-
-
-**27.06 (10.00-13.00)** - Mänguhommik
-
-
-JUULIS ALUSTAB LINNALAAGER!
-Täpsem info peatselt!
-
-
-
-
-
-                    
-
-Osalemissoovist palume teatada **tore@torela.ee**.
+Linnalaagrite info täieneb pidevalt!
 
 ***
-
-Mänguhommikud toimuvad **esmaspäeviti ja neljapäeviti kell 10.00-13.00**! 
-
-Tänaval tasuta parkimine, sissepääs tänavapoolsest uksest, fonolukult nr 2.
-
-Vankrid saab jätta 1. korrusele.
-
-Osalustasu 7€ (lapsevanem+laps), sama pere iga järgnev laps 3€.
-Olete kõik väga oodatud!
-
-
 
 Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!
