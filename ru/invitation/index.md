@@ -1,9 +1,7 @@
 ---
 layout: invitation
-lang: et
+lang: en
 title: Kutse
-et: /kutse/
-en: /en/invitation/
 ---
 
 # Приглашение

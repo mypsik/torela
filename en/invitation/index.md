@@ -1,6 +1,6 @@
 ---
 layout: invitation
-lang: et
+lang: ru
 title: Kutse
 ---
 

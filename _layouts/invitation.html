@@ -7,8 +7,18 @@ layout: base
 </style>
 
 <div class="controls">
-  Jaga see link või
-  <button onclick="window.print()" title="Vali PDF printeri asemel salvestamiseks">Prindi / PDF</button>
+  {%if page.lang == 'et'%}
+    Jaga see link või
+    <button onclick="window.print()" title="Vali PDF printeri asemel salvestamiseks">Prindi / PDF</button>
+  {%endif%}
+  {%if page.lang == 'en'%}
+    Share this link or
+    <button onclick="window.print()" title="Choose PDF instead of a printer to save">Print / PDF</button>
+  {%endif%}
+  {%if page.lang == 'ru'%}
+    Поделитесь ссылкой или
+    <button onclick="window.print()" title="Для сохранения выберите PDF вместо принтера">Печать / PDF</button>
+  {%endif%}
   <h4 class="lang">
     <a href="/kutse/" hreflang="en">ET</a>
     <a href="/en/invitation/" hreflang="en">EN</a>
