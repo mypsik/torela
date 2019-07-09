@@ -1,16 +1,26 @@
 (function invitation() {
+  window.onhashchange = invitation
+
   var api = new API()
+  var friendNameEl = $('#friend-name')
+
   var id = location.hash.substring(1)
+  var colonPos = id.indexOf(':')
+  if (colonPos > 0) {
+    friendNameEl.text(' ' + decodeURIComponent(id.substring(colonPos + 1)))
+    id = id.substring(0, colonPos)
+  }
+
+  $('.add-name').off('click').on('click', function() {
+    var newName = prompt($(this).text(), $.trim(friendNameEl.text()))
+    friendNameEl.text(newName ? ' ' + newName : '')
+    location.hash = location.hash.replace(/:.*/, '') + (newName ? ':' + newName : '')
+  })
+
   if (!id) return
 
   $('.lang a').each(function() {
-    this.href += location.hash
-  })
-
-  $('.add-name').on('click', function() {
-    var friendName = $('#friend-name');
-    var newName = prompt($(this).text(), $.trim(friendName.text()))
-    friendName.text(newName ? ' ' + newName : '')
+    this.href = this.href.replace(/#.*/, '') + location.hash
   })
 
   api.booking(id).then(function(b) {
@@ -21,6 +31,4 @@
     $('a[href="tel:"]').text(b.phone).attr('href', 'tel:' + b.phone)
     $('a[href="mailto:"]').text(b.email).attr('href', 'mailto:' + b.email)
   })
-
-  window.onhashchange = invitation
 })()
