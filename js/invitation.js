@@ -15,4 +15,6 @@
     $('a[href="tel:"]').text(b.phone).attr('href', 'tel:' + b.phone)
     $('a[href="mailto:"]').text(b.email).attr('href', 'mailto:' + b.email)
   })
+
+  window.onhashchange = invitation
 })()
