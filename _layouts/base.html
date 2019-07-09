@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | remove:'index.html' }}">
+  {%if page.et %}<link rel="alternate" href="{{ site.url }}{{ page.et }}" hreflang="et">{%endif%}
+  {%if page.en %}<link rel="alternate" href="{{ site.url }}{{ page.en }}" hreflang="en">{%endif%}
+  {%if page.ru %}<link rel="alternate" href="{{ site.url }}{{ page.ru }}" hreflang="ru">{%endif%}
+  <title>
+    {{ site.name }}
+    {%if page.lang == 'et' %}Mängutuba{%endif%}
+    {%if page.lang == 'en' %}Playroom{%endif%}
+    {%if page.lang == 'ru' %}игровая комната{%endif%}
+    - {{ page.title }}
+  </title>
+  {%if page.keywords != null%}<meta name="keywords" content="{{ page.keywords }}">{%endif%}
+  {%if page.description != null%}<meta name="description" content="{{ page.description }}">{%endif%}
+  <link rel="stylesheet" href="/styles/torela.css?{{ site.time | date: '%s' }}">
+  <link rel="shortcut icon" href="/img/logo.png">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="/js/torela.js?{{ site.time | date: '%s' }}"></script>
+</head>
+<body>
+{{ content }}
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', '{{ site.ga }}', 'torela.ee');
+    ga('send', 'pageview');
+  </script>
+
+  <!-- Global site tag (gtag.js) - Google Ads: 736939968 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-736939968"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-736939968');
+
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-736939968/94pSCJuys6IBEMCfs98C',
+          'event_callback': callback
+      });
+      return false;
+    }
+
+    $('.book-now').on('click', function() { return gtag_report_conversion(this.href) });
+  </script>
+</body>
+</html>
