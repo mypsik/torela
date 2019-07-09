@@ -39,6 +39,10 @@ mongoClient.connect().then(() => {
     return res.json(await bookingService.bookings(req.params.from || new Date().toISOString().replace(/T.*/, '')))
   })
 
+  app.get('/api/bookings/:id', async (req, res) => {
+    return res.json(await bookingService.booking(req.params.id))
+  })
+
   app.post('/api/bookings', async (req, res) => {
     const booking = getData(req) as Booking
     const result = await bookingService.save(booking)

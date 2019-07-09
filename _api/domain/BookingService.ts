@@ -13,6 +13,10 @@ export default class BookingService {
     return this.data.find(query).sort({date: 1, time: 1}).toArray()
   }
 
+  booking(id: string): Promise<Booking | null> {
+    return this.data.findOne({_id: new ObjectId(id)})
+  }
+
   save(booking: Booking) {
     return this.data.insertOne(booking);
   }
