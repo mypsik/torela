@@ -15,7 +15,7 @@ body > .block {
   right: 0;
   top: 50%;
   transform: translateY(-50%);
-  padding-top: 80px;
+  padding-top: 60px;
   padding-bottom: 1rem;
 }
 
@@ -49,4 +49,5 @@ h4:first-of-type {
 
 a {
   color: black;
+  margin: 0 0.3em;
 }

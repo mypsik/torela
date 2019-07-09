@@ -10,6 +10,10 @@ function API(url) {
     })
   }
 
+  this.booking = function(id) {
+    return $.get(this.url + '/api/bookings/' + id)
+  }
+
   this.book = function(booking) {
     return this.post('/api/bookings', booking)
   }

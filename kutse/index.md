@@ -10,9 +10,9 @@ title: Kutse
 
 ### Palun tule mu sünnipäevale Torela Mängutuppa
 
-### 19.02.2019 kell 18:00
+### <b id="date">__________</b> kell <b id="time">_____</b>
 
-### Kutsub: Anton 5663 9535 anton@keks.ee 
+### Kutsub: <b id="name">_____________</b> [_________](tel:) [{{site.email}}](mailto:) 
 
 #### Torela aadress: {{ site.address }}
 
