@@ -45,7 +45,7 @@ Eriti vahva ja meeleolukas linnalaagipäev "Liikumisrõõm"! Päevakavas erineva
 30€/päev, sisaldab lõunasööki. 
 
 
-**Palume linnalaagritesse registreerimiseks kirjutada: tore@torela.ee. Kohtade arve on piiratud!**
+**Palume linnalaagritesse registreerimiseks kirjutada: tore@torela.ee. Kohtade arv on piiratud!**
 
 
 Linnalaagrite info täieneb pidevalt!
