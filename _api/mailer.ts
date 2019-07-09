@@ -47,6 +47,10 @@ export class Mailer {
       
       Ülejäänud summa saab tasuda ülekandega enne ürituse toimumist või sularahas kohapeal.
       Rohkem infot: https://torela.ee/hinnakiri/
+      
+      Siin on ettevalmistatud kutse sõpradele saatmiseks:
+      https://torela.ee/kutse/#${booking._id.toString()}
+      (Saab jagada lingina, printida või salvestada PDFiks valides seda prineri asemel)
     
       Täiendavate küsimuste korral võtke julgesti ühendust!
       
