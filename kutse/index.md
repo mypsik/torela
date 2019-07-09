@@ -6,7 +6,7 @@ title: Kutse
 
 # Kutse
 
-## Hea sõber!
+## Hea sõber<span id="friend-name"></span>!
 
 ### Palun tule minu sünnipäevale Torela Mängutuppa
 

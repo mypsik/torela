@@ -6,7 +6,7 @@ title: Kutse
 
 # Invitation
 
-## Dear friend!
+## Dear friend<span id="friend-name"></span>!
 
 ### Please come to my birthday party to Torela playroom
 
