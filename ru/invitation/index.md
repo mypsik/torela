@@ -1,18 +1,18 @@
 ---
 layout: invitation
-lang: en
+lang: ru
 title: Kutse
 ---
 
 # Приглашение
 
-## Дорогой друг<span id="friend-name"></span>!
+## Дорогой друг<span id="friendName"></span>!
 
 ### Приходи на мой день рождения в игровую комнату Торела
 
 ### <b id="date">__________</b> в <b id="time">_____</b>
 
-### Приглашает: <b id="name">_____________</b> [_________](tel:) [{{site.email}}](mailto:) 
+### Приглашает: <b id="childName">_____________</b> [_________](tel:) [{{site.email}}](mailto:) 
 
 #### Адрес: {{ site.address }}
 

@@ -2,7 +2,7 @@
   window.onhashchange = invitation
 
   var api = new API()
-  var friendNameEl = $('#friend-name')
+  var friendNameEl = $('#friendName')
 
   var id = location.hash.substring(1)
   var colonPos = id.indexOf(':')
@@ -27,7 +27,8 @@
     var dateParts = b.date.split('-')
     $('#date').text(dateParts[2] + '.' + dateParts[1])
     $('#time').text(b.time)
-    $('#name').text(b.childName)
+    $('#childName').text(b.childName)
+    $('#parentName').text(b.parentName)
     $('a[href="tel:"]').text(b.phone).attr('href', 'tel:' + b.phone)
     $('a[href="mailto:"]').text(b.email).attr('href', 'mailto:' + b.email)
   })

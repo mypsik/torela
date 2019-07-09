@@ -17,7 +17,7 @@ body {
 
 .block {
   box-sizing: border-box;
-  width: 450pt;
+  width: 480pt;
   margin: 0 auto;
   position: absolute;
   left: 0;
@@ -102,7 +102,7 @@ a, b {
 
 @media print {
   .bg {
-    height: 390pt;
+    height: 410pt;
   }
 
   .block {

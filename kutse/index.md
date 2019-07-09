@@ -6,13 +6,15 @@ title: Kutse
 
 # Kutse
 
-## Hea sõber<span id="friend-name"></span>!
+## Hea sõber<span id="friendName"></span>!
 
 ### Palun tule minu sünnipäevale Torela Mängutuppa
 
 ### <b id="date">__________</b> kell <b id="time">_____</b>
 
-### Kutsub: <b id="name">_____________</b> [_________](tel:) [{{site.email}}](mailto:) 
+### Kutsub: <b id="childName">_____________</b>
+
+### <span id="parentName"></span> [_________](tel:) [{{site.email}}](mailto:) 
 
 #### Torela aadress: {{ site.address }}
 
