@@ -70,6 +70,10 @@ a, b {
 }
 
 @media print {
+  .bg {
+    height: 380pt;
+  }
+
   body > .block {
     top: 60pt;
   }
