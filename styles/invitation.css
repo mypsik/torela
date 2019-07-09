@@ -1,29 +1,35 @@
 html {
-  font-size: 36px;
+  font-size: 20pt;
 }
 
 body {
-  background-position: center -500px;
   text-align: center;
+  background: white;
+  overflow: hidden;
+}
+
+.bg {
+  position: absolute;
+  left: 0;
+  width: 100%;
 }
 
 body > .block {
-  width: 600px;
+  width: 350pt;
   margin: 0 auto;
   position: absolute;
   left: 0;
   right: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  padding-top: 60px;
+  padding-top: 10pt;
   padding-bottom: 1rem;
 }
 
 .logo {
   position: absolute;
-  width: 150px;
-  height: 150px;
-  top: -90px;
+  padding: 0;
+  width: 80pt;
+  height: 80pt;
+  top: -50pt;
   left: 0;
   right: 0;
   margin: 0 auto;
@@ -31,7 +37,7 @@ body > .block {
 
 h1, h2, h3, h4 {
   font-weight: normal;
-  margin: 5px 0;
+  margin: 1pt 0;
 }
 
 h1 {
@@ -47,7 +53,24 @@ h4:first-of-type {
   margin-top: 1rem;
 }
 
-a {
+a, b {
   color: black;
   margin: 0 0.3em;
+}
+
+@media screen {
+  .bg {
+    top: -20vh;
+  }
+
+  body > .block {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+@media print {
+  body > .block {
+    top: 60pt;
+  }
 }
