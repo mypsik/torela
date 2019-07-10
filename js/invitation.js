@@ -26,7 +26,7 @@
   api.booking(id).then(function(b) {
     var dateParts = b.date.split('-')
     $('#date').text(dateParts[2] + '.' + dateParts[1])
-    $('#time').text(b.time)
+    $('#time').text(b.correctedTime || b.time)
     $('#childName').text(b.childName)
     $('#parentName').text(b.parentName.split(' ')[0])
     $('a[href="tel:"]').text(b.phone).attr('href', 'tel:' + b.phone)

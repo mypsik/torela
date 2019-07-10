@@ -3,6 +3,7 @@ import Auditable from './Auditable'
 export default interface Booking extends Auditable {
   date: string
   time: string
+  correctedTime?: string
   until: string
   email: string
   phone: string
