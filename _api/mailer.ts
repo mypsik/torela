@@ -51,7 +51,7 @@ export class Mailer {
       
       Siin on ettevalmistatud kutse sõpradele saatmiseks:
       https://torela.ee/kutse/#${booking._id.toString()}
-      (Saab jagada lingina, printida või salvestada PDFiks valides seda prineri asemel)
+      (Saab jagada lingina, printida või salvestada PDFiks).
     
       Täiendavate küsimuste korral võtke julgesti ühendust!
       
