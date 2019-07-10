@@ -16,6 +16,10 @@ export const styles = `<style>
     bottom: 0;
     display: none;
   }
+
+  td > button:nth-of-type(2) {
+    right: 2em; 
+  }
   
   td:hover > button { 
     display: block; 
