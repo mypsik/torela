@@ -8,11 +8,7 @@ ru: /ru/events/
 ---
 PLAY-MORNINGS
 
-**11.07 (10.00-13.00) - Play-morning**
-Participation fee 7 € (child + parent), another child of the same family +3€. You are all very welcome!
-
-
-**15.07 (10.00-13.00) - Play-morning**
+**18.07 (10.00-13.00) - Play-morning**
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
 **22.07 (10.00-13.00) - Play-morning + LOOVLA**
