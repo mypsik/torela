@@ -4,6 +4,7 @@
     "target": "esnext",
     "outDir": "build",
     "rootDir": ".",
-    "sourceMap": true
+    "sourceMap": true,
+    "skipLibCheck": true
   }
 }

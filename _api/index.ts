@@ -30,17 +30,18 @@ app.use((req, res, next) => {
 const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {auth: {user: 'torela', password: config.password}, useNewUrlParser: true})
 mongoClient.connect().then(() => {
   const db = mongoClient.db('torela')
-  const bookingService = new BookingService(db);
-  const contactService = new ContactService(db);
+  const bookingService = new BookingService(db)
+  const contactService = new ContactService(db)
 
   app.get('/', (req, res) => res.redirect('https://torela.ee/'))
 
   app.get('/api/bookings', async (req, res) => {
-    return res.json(await bookingService.bookings(req.params.from || new Date().toISOString().replace(/T.*/, '')))
+    const bookings = await bookingService.bookings(req.params.from || new Date().toISOString().replace(/T.*/, ''))
+    return res.json(bookings.map(b => bookingService.toPublic(b)))
   })
 
   app.get('/api/bookings/:id', async (req, res) => {
-    return res.json(await bookingService.booking(req.params.id))
+    return res.json(bookingService.toPublic(await bookingService.booking(req.params.id)))
   })
 
   app.post('/api/bookings', async (req, res) => {
