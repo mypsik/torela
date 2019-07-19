@@ -16,7 +16,7 @@ const app = express()
 app.use(express.json())
 app.use(express.urlencoded({extended: true}))
 
-const logger = morgan('[:date] :method :url :status :res[content-length] - :response-time ms')
+const logger = morgan('[:date] :remote-addr :method :url :status :res[content-length] - :response-time ms')
 app.use(logger)
 
 app.use((req, res, next) => {
