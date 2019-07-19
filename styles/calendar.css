@@ -106,7 +106,7 @@ table.calendar tbody td {
   cursor: pointer;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1000px) {
   #calendar-wrap {
     margin: 0 -1rem;
     border: none;

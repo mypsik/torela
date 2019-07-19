@@ -246,7 +246,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
     let cells = table.querySelectorAll('.calendar-cell')
 
     function displayEventTime(start, end) {
-      return '◴\u00A0' + start.replace(':00', '') + (end && '\u00A0- ' + end.replace(':00', ''));
+      return '◴\u00A0' + start.replace(':00', '') + (end && '\u00A0-\u00A0' + end.replace(':00', ''));
     }
 
     for (let i = 0; i < cells.length; i++) {
