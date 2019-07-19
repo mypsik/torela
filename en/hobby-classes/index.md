@@ -7,5 +7,4 @@ et: /huviringid/
 ru: /ru/hobby-classes/
 ---
 
-Кружки начнутся осенью.
-Ждите дополнительной информации!
+Hobby classes will start in Autumn. Stay tuned!
