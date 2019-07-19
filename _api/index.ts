@@ -37,11 +37,11 @@ mongoClient.connect().then(() => {
 
   app.get('/api/bookings', async (req, res) => {
     const bookings = await bookingService.bookings(req.params.from || new Date().toISOString().replace(/T.*/, ''))
-    return res.json(bookings.map(b => bookingService.toPublic(b)))
+    return res.json(bookings.map(b => bookingService.toPublicMany(b)))
   })
 
   app.get('/api/bookings/:id', async (req, res) => {
-    return res.json(bookingService.toPublic(await bookingService.booking(req.params.id)))
+    return res.json(bookingService.toPublicSingle(await bookingService.booking(req.params.id)))
   })
 
   app.post('/api/bookings', async (req, res) => {
