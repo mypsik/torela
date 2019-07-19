@@ -10,7 +10,6 @@ priority: 1.0
 ---
 
 <blockquote>Võib-olla ainuke mängutuba, kus on olemas korralik pliit ja ahi!</blockquote>
-<blockquote>Lastele väga meeldis!</blockquote>
 <blockquote>Liitreaalsuse liivakast on super!</blockquote>
 <blockquote>Väga ilusad värsked ruumid, kõik on puhas.</blockquote>
 <blockquote>Piisavalt palju tegevust lastele.</blockquote>
