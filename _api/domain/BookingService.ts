@@ -33,7 +33,7 @@ export default class BookingService {
     return this.data.updateOne({_id: new ObjectId(id)}, {$set: fields})
   }
 
-  toPublicMany(b: Booking): Partial<Booking> {
+  toPublicMultiple(b: Booking): Partial<Booking> {
     return {
       _id: b._id,
       date: b.date,
@@ -46,14 +46,7 @@ export default class BookingService {
   }
 
   toPublicSingle(b: Booking): Partial<Booking> {
-    return {
-      _id: b._id,
-      date: b.date,
-      time: b.time,
-      correctedTime: b.correctedTime,
-      until: b.until,
-      publicEvent: b.publicEvent,
-      childName: b.childName,
+    return {...this.toPublicMultiple(b),
       parentName: b.parentName,
       email: b.email,
       phone: b.phone

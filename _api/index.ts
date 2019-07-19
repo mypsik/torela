@@ -37,7 +37,7 @@ mongoClient.connect().then(() => {
 
   app.get('/api/bookings', async (req, res) => {
     const bookings = await bookingService.bookings(req.params.from || new Date().toISOString().replace(/T.*/, ''))
-    return res.json(bookings.map(b => bookingService.toPublicMany(b)))
+    return res.json(bookings.map(b => bookingService.toPublicMultiple(b)))
   })
 
   app.get('/api/bookings/:id', async (req, res) => {
