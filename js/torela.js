@@ -30,7 +30,7 @@ function initQuotes() {
     quotes.filter(':visible').fadeOut(showRandomQuote)
   }
 
-  setInterval(changeQuote, 5000)
+  setInterval(changeQuote, 10000)
   showRandomQuote()
 }
 
