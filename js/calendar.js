@@ -184,13 +184,8 @@ function Calendar(id, lang, bookableEvents, firstDay) {
   //if the received date corresponds to the current month and year returns true
   this.isThisMonthCurrent = function(date) {
     let current = new Date()
-    if (
-      current.getFullYear() == date.getFullYear() &&
-      current.getMonth() == date.getMonth()
-    )
-      return true
-    else
-      return false
+    return current.getFullYear() == date.getFullYear() &&
+      current.getMonth() == date.getMonth();
   }
 
   //redraws the body according to the received date
@@ -249,6 +244,11 @@ function Calendar(id, lang, bookableEvents, firstDay) {
 
   this.addBookableEvents = function(table, events) {
     let cells = table.querySelectorAll('.calendar-cell')
+
+    function displayEventTime(start, end) {
+      return '◴\u00A0' + start.replace(':00', '') + (end && '\u00A0- ' + end);
+    }
+
     for (let i = 0; i < cells.length; i++) {
       let dayNode = cells[i]
       for (let i in events) {
@@ -261,7 +261,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
         e.dataset.time = event.start
         e.dataset.until = event.end
         e.classList.add('event')
-        e.innerText = '◴\u00A0' + event.start.replace(':00', '') + '\u00A0- ' + event.end
+        e.innerText = displayEventTime(event.start, event.end)
 
         if (!this.bookings) {
           e.classList.add('loading')
@@ -270,7 +270,8 @@ function Calendar(id, lang, bookableEvents, firstDay) {
           const booking = this.bookings[e.id]
           if (booking) {
             e.classList.add('booked')
-            e.innerText += ' ' + booking.childName
+            e.innerText = displayEventTime(booking.correctedTime || booking.time,
+                          booking.correctedTime ? undefined : booking.until) + ' ' + booking.childName
             if (booking.publicEvent) {
               e.classList.add('public')
               e.onclick = function() {location.href = '/syndmused/'}
