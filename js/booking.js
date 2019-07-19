@@ -91,8 +91,6 @@ const bookingMessages = {
       reusableTablewareFree: 'Reusable tableware (free)',
       reusableTablewareWash: 'Reusable tableware (washing 10€)',
       disposableTableware: 'Disposable tableware (1€/set)'
-      
-      
     }
   },
   et: {
@@ -126,7 +124,6 @@ const bookingMessages = {
       reusableTablewareFree: 'Korduvkasutatavad nõud (tasuta)',
       reusableTablewareWash: 'Korduvkasutatavad nõud (10€/pesemine)',
       disposableTableware: 'Ühekordsed nõud (1€/kmp)'
-      
     }
   },
   ru: {
@@ -159,9 +156,7 @@ const bookingMessages = {
       cakeTopperBanner: 'Торт Топпер и баннер (от 6€)',
       reusableTablewareFree: 'Многоразовая посуда (бесплатно)',
       reusableTablewareWash: 'Многоразовая посуда (10€/моечная)',
-      disposableTableware: 'Одноразовая посуда (1€/сет)'
-      
-      
+      disposableTableware: 'Одноразовая посуда (1€/комплект)'
     }
   }
 }

@@ -2,7 +2,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
     this.lang = lang || 'en'
     this.bookableEvents = bookableEvents || []
     this.firstDay = firstDay
-    this.bookings = {}
+    this.bookings = undefined
     this.displayed_date = new Date()                    //date wich calendar displays now
     this.current_day = this.displayed_date.getDate()    //current world time
     this.selected_date = this.displayed_date            //date that user's selected
@@ -72,16 +72,6 @@ function Calendar(id, lang, bookableEvents, firstDay) {
     document.getElementById('calendar-body').appendChild(body)
   }
 
-  //creates an array of 42 objects corresponding to the given date
-  /*[
-  ...
-      {
-          number: 23,
-          from: 'current month',  //can also be 'prev month', 'next month', used for styling
-          weekend: true           //says if this day is a day off (for styling)
-      },
-  ...
-  ]*/
   this.createDaysArray = function(date) {
     let
       prev_month_last_day = new Date(date.getFullYear(), date.getMonth(), 0).getDate(),
@@ -272,13 +262,19 @@ function Calendar(id, lang, bookableEvents, firstDay) {
         e.dataset.until = event.end
         e.classList.add('event')
         e.innerText = '◴\u00A0' + event.start.replace(':00', '') + '\u00A0- ' + event.end
-        const booking = this.bookings[e.id]
-        if (booking) {
-          e.classList.add('booked')
-          e.innerText += ' ' + booking.childName
-          if (booking.publicEvent) {
-            e.classList.add('public')
-            e.onclick = function() {location.href = '/syndmused/'}
+
+        if (!this.bookings) {
+          e.classList.add('loading')
+        }
+        else {
+          const booking = this.bookings[e.id]
+          if (booking) {
+            e.classList.add('booked')
+            e.innerText += ' ' + booking.childName
+            if (booking.publicEvent) {
+              e.classList.add('public')
+              e.onclick = function() {location.href = '/syndmused/'}
+            }
           }
         }
         dayNode.appendChild(e)

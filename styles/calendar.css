@@ -91,6 +91,11 @@ table.calendar tbody td {
   background-color: green;
 }
 
+.calendar .event.loading {
+  background-color: lightgrey;
+  cursor: wait;
+}
+
 .calendar .event.booked {
   background-color: lightcoral;
   cursor: not-allowed;
