@@ -7,11 +7,7 @@ en: /en/events/
 ru: /ru/events/
 ---
 
-**MÄNGUHOMMIKUD**
-
-**22.07 (10.00-13.00) - Mänguhommik + LOOVLA**
-
-Mänguhommiku aitab huvitavamaks teha Loovla! Torelasse tehakse erinevad nurgakesed arendavate tegevustega, mille vahel vanemad saavad vastavalt lapse vanusele ja soovidele valida (vabalt võib ka kõik läbi käia🙃). Tegevused oleksid motoorsete oskuste toetamiseks või sensoorsed. Kaasa palume võtta vahetusriided, mida pole kahju määrida! Kasutatakse ainult looduslikke värve 🙂 Palume võimalusel tulekusoovist teada anda: tore@torela.ee. Sissepääs 10€ (lisalaps +3€).
+**MÄNGUHOMMIKUD JA -ÕHTUD**
 
 **24.07 (18.00-21.00) - Mänguõhtu + ROBOOTIKA**
 
