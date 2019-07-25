@@ -7,30 +7,20 @@ en: /en/events/
 ru: /ru/events/
 ---
 
-**MÄNGUHOMMIKUD**
+**MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**11.07 (10.00-13.00) - Mänguhommik**
+**24.07 (18.00-21.00) - Mänguõhtu + ROBOOTIKA**
 
-Sissepääs laps+vanem 7€, lisalaps 3€.
-Laual näksimist, kohv/tee.
+Mänguõhtu 5-9-aastastele lastele! Kohale tuleb väga tore Kadri, kes aitab kõigil ehitada legost programmeeritava roboti. Kindlasti tuleb registreerida (tore@torela.ee), kuna tund toimub ainult siis, kui kokku saame 10 huvilist! Osalustasu 12€ (laps+vanem), olemas kõik vajaminev ja laud on kaetud! 
 
-**15.07 (10.00-13.00) - Mänguhommik**
+**01.08 (10.00-13.00) - Mänguhommik + Pannkoogihommik**
 
-Sissepääs laps+vanem 7€, lisalaps 3€.
-Laual näksimist, kohv/tee.
+Valmistame suure kuhja klassikalisi pannkooke ja banaani-kaerajahu pannkooke! Pannkooke saab süüa moosi, nutella või tuhksuhkruga. Joogiks piim, morss ja kohv, tee! 
 
-**22.07 (10.00-13.00) - Mänguhommik + LOOVLA**
-
-Mänguhommiku aitab huvitavamaks teha Loovla! Torelasse tehakse erinevad nurgakesed arendavate tegevustega, mille vahel vanemad saavad vastavalt lapse vanusele ja soovidele valida (vabalt võib ka kõik läbi käia🙃). Tegevused oleksid motoorsete oskuste toetamiseks või sensoorsed. Kaasa palume võtta vahetusriided, mida pole kahju määrida! Kasutatakse ainult looduslikke värve 🙂 Palume võimalusel tulekusoovist teada anda: tore@torela.ee. Sissepääs 10€ (lisalaps +3€).
+Osalustasu 7€. Kohapeal saab tasuda ainult sularahas!
 
 
 **JUULIS ALUSTAB LINNALAAGER!**
-
-**17.07 - KOKAKUNST**
-
-Linnalaagri päev "Kokakunst". Sihtgrupiks on meil 5-7-aastased lapsed, kuid oodatud on kõik huvilised. Lapsed teevad ise päris toitu, nii soolast kui ka magusat, kasutades erinevaid põnevaid tehnikaid. Räägime ka kokkamise "põhitõdedest". Päeva võtame üles ka videolindile ♥ 
-
-Laagripäev 30€, sisaldab lõunat ja kõike vajaminevat!
 
 **23.07 - NUKUTEATRER**
 
