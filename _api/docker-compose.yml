@@ -4,6 +4,9 @@ services:
   mongo:
     image: mongo
     restart: always
+    volumes:
+      - /var/lib/mongodb-torela:/data/db
+      - /var/lib/mongodb-torela-configdb:/data/configdb
     environment:
       MONGO_INITDB_ROOT_USERNAME: torela
       MONGO_INITDB_ROOT_PASSWORD: ${PASSWORD}
