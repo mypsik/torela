@@ -16,6 +16,7 @@ const app = express()
 app.use(express.json())
 app.use(express.urlencoded({extended: true}))
 
+morgan.token('remote-addr', req => req.headers['x-forwarded-for'] || req.connection.remoteAddress);
 const logger = morgan('[:date] :remote-addr :method :url :status :res[content-length] :referrer :user-agent - :response-time ms')
 app.use(logger)
 
