@@ -58,7 +58,7 @@ mongoClient.connect().then(() => {
     res.send(result.insertedId)
   })
 
-  app.post('/api/error/:type', async (req, res) => {
+  app.get('/api/error/:type', async (req, res) => {
     res.send('OK')
   })
 
