@@ -58,6 +58,10 @@ mongoClient.connect().then(() => {
     res.send(result.insertedId)
   })
 
+  app.post('/api/error/:type', async (req, res) => {
+    res.send('OK')
+  })
+
   function getData(req) {
     const data = req.body
     data.createdAt = new Date().toISOString()
