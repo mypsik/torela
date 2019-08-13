@@ -9,36 +9,44 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**24.07 (18.00-21.00) - Mänguõhtu + ROBOOTIKA**
+**14.08 18.00-21.00** - MÄNGUÕHTU
 
-Mänguõhtu 5-9-aastastele lastele! Kohale tuleb väga tore Kadri, kes aitab kõigil ehitada legost programmeeritava roboti. Kindlasti tuleb registreerida (tore@torela.ee), kuna tund toimub ainult siis, kui kokku saame 10 huvilist! Osalustasu 12€ (laps+vanem), olemas kõik vajaminev ja laud on kaetud! 
-
-**01.08 (10.00-13.00) - Mänguhommik + Pannkoogihommik**
-
-Valmistame suure kuhja klassikalisi pannkooke ja banaani-kaerajahu pannkooke! Pannkooke saab süüa moosi, nutella või tuhksuhkruga. Joogiks piim, morss ja kohv, tee! 
-
-Osalustasu 7€. Kohapeal saab tasuda ainult sularahas!
+Lapsed saavad mängutoas mängida! :) Laual head paremat ja kohv/tee. 
+Osalustasu 7€ (laps+vanem, +3€ pere järgmine laps).
 
 
-**JUULIS ALUSTAB LINNALAAGER!**
-
-**23.07 - NUKUTEATRER**
-
-Eriti on oodatud 5-7-aastased lapsed ja lapsed jäävad meie juhendajate hoole alla. "Maagilise teatri" linnalaagripäeval valmistavad lapsed teatrinukke ja teevad ise valmis teatrietenduse. Etenduse võtame loomulikult ka filmilindile! 
-
-Päeva tasu on 40€, sisaldab lõunasööki ja kõiki vahendeid.
-
-**25.07 - LIIKUMISRÕÕM**
-
-Eriti vahva ja meeleolukas linnalaagipäev "Liikumisrõõm"! Päevakavas erinevad aktiivsed tegevused - lapsed saavad teha lastejoogat, tantsida idamaiseid tantse ja mängida toredaid liikumismänge! 
-
-30€/päev, sisaldab lõunasööki. 
+**15.08 10.00-13.00** - MÄNGUHOMMIK "Helivõlula"
 
 
-**Palume linnalaagritesse registreerimiseks kirjutada: tore@torela.ee. Kohtade arv on piiratud!**
+Lõbus ja eriline helisid täis improvisatsiooniline  mänguhommik! Lauldakse lastelaule ja liigutakse, plaksutatakse rütmi järgi, tehakse loomahääli ja katsutakse põnevaid pille!
+
+Juhendavad Annika ja Liivo
+
+Osalustasu 10€ (laps+vanem, +5€ pere järgmine laps)
+
+**19.08 10.00-13.00** - MÄNGUHOMMIK
+
+Lapsed saavad mängutoas mängida! :) Laual head paremat ja kohv/tee. 
+Osalustasu 7€ (laps+vanem, +3€ pere järgmine laps).
+
+**21.08 18.00-21.00** - LAUAMÄNGUÕHTU
+
+Teeme ühe toreda lauamänguõhtu! 
+Mängida saab erinevaid laua- ja kaardimänge, midagi leiab väiksematele ja midagi suurematele!
+
+Loomulikult võite kaasa võtta kodust ka enda vahvaid mänge, mida teistele tutvustada!
+
+Postitame ka pilte meie mängudest, mida meie pakume.
+Saab olema üks väga tore õhtu!
+
+Seekord on üritusel "vanusepiirang" - lauamänguõhtule ootame lapsi, kes jaksavad ja tahavad lauamänge mängida. Suurema lapse võib ka meile omaette mängima jätta. Päris pisikesed võiks võimalusel koju jätta või peab olema valvaja, kes tagaks, et teiste mängu ei segataks ja ükski mängunupp kõhtu ei satuks.
+
+Palume registreerida: tore@torela.ee (või FB üritusel märkida "going").
+Osalustasu: 7€ (laps+saatja, +3€ pere järgmine laps)
 
 
-Linnalaagrite info täieneb pidevalt!
+**Palume registreerimiseks kirjutada: tore@torela.ee.**
+
 
 ***
 
