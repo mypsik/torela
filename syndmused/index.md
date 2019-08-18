@@ -9,21 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**14.08 18.00-21.00** - MÄNGUÕHTU
-
-Lapsed saavad mängutoas mängida! :) Laual head paremat ja kohv/tee. 
-Osalustasu 7€ (laps+vanem, +3€ pere järgmine laps).
-
-
-**15.08 10.00-13.00** - MÄNGUHOMMIK "Helivõlula"
-
-
-Lõbus ja eriline helisid täis improvisatsiooniline  mänguhommik! Lauldakse lastelaule ja liigutakse, plaksutatakse rütmi järgi, tehakse loomahääli ja katsutakse põnevaid pille!
-
-Juhendavad Annika ja Liivo
-
-Osalustasu 10€ (laps+vanem, +5€ pere järgmine laps)
-
 **19.08 10.00-13.00** - MÄNGUHOMMIK
 
 Lapsed saavad mängutoas mängida! :) Laual head paremat ja kohv/tee. 
@@ -45,9 +30,14 @@ Palume registreerida: tore@torela.ee (või FB üritusel märkida "going").
 Osalustasu: 7€ (laps+saatja, +3€ pere järgmine laps)
 
 
+**22.08 10.00-13.00** - MÄNGUHOMMIK
+
+Lapsed saavad mängutoas mängida! :) Laual head paremat ja kohv/tee. 
+Osalustasu 7€ (laps+vanem, +3€ pere järgmine laps)
+
+****25.08 12.00-28.00** - Oleme Jäätisepeol Tallinna Lauluväljakul! Tulge külla! Meisterdame maske ja mängime!
+
 **Palume registreerimiseks kirjutada: tore@torela.ee.**
 
-
-***
 
 Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!
