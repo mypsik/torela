@@ -77,5 +77,49 @@ The program introduces four different animals, the giant snails, cockroaches, wa
 Very special and exciting program!
 
 
+**ANIMATOR / ENTERTAINER**
+Merli Rosar 
+150€+km / 1-1,5h
+
+Animator Merli Rosar from Merros Studio makes evry party unforgettable! There are several costumed characters and programs in the range of 1-1.5h.
+
+Characters: Rapunzel, Pippi Longstocking, Pirate, Native American Indian, Snow White, Lotte, Bunny Juss, Witch Girl, Fairy, Princess, Frozen Anna, Frozen Elsa, Detective, Minnie Mouse, Professor Siiri, Unicorn, Dwarf, Troll Poppy, Vaiana.
+
+More information about the programs: merrosstuudio.ee/programmid/ or merli.rosar@gmail.com.
+
+If you choose an animator when booking a party, we will contact you shortly to clarify everything related to it (availability, price, desired character, etc.).
+
+**MAGICIAN**
+Richard Samarüütel 
+115 € / 30min
+
+Magician Richard adds magic and mind-blowing tricks to children's birthday parties.
+
+Richard does classic tricks with rings, tops and balls, but also more modern tricks. The performance is also interesting to watch for adults. Suitable for children aged 5-7.
+
+
+**SCIENCE THEATERSHOW**
+132 € / 45min
+Science Show is a 45-minute program designed to be viewed by up to 30 people and is perfect for children's birthday parties.
+The show is suitable for age of 4+. Experiments are adapted to the age of children. During the science show performers perform simple but fun science experiments explaining what is going on in the experiment. Children's questions get answered, and brave ones can put their hands on a couple of experiments. The experiments should be comprehensible and interesting for the children and should be done in-house so that the children can develop an interest in science and re=do them at home. 
+
+
+**SCIENCE WORK-SHOP**
+132€ / 45min
+
+Kids have 45 minutes to solve a fun science task or make a cool science toy for themselves. Each assignment is assisted by performers who provide children with all the necessary tools and guidance. The tasks are solved by known laws of physics, which are paid attention to and whose effects can be seen in real life. The science workshop is educational and full of work and suitable for children who do not want to sit back and want to do something with their hands. The research workshop is suitable for children from the age of 5+ and up to 20 children.
+
+**SCIENCE SHOW**
+270 € / 30min
+
+The Three Piglets Science Show is a truly spectacular and memorable experience. Multicolored flames, lightning and bang, and a fairy-tale floor burst into flames. A little humor will surely enrich all the magic of science, and a fun half hour will be fun and exciting for all big and small science lovers. Suitable for ages 7+.
+
+
+
+
+
+
+
+
 
 
