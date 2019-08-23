@@ -31,33 +31,29 @@
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', '{{ site.ga }}', 'torela.ee');
-    ga('send', 'pageview');
+    ga('create', '{{ site.ga }}', 'torela.ee')
+    ga('send', 'pageview')
   </script>
 
   <!-- Global site tag (gtag.js) - Google Ads: 736939968 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-736939968"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'AW-736939968');
+    window.dataLayer = window.dataLayer || []
+    function gtag(){dataLayer.push(arguments)}
+    gtag('js', new Date())
+    gtag('config', 'AW-736939968')
 
     function gtag_report_conversion(url) {
-      var callback = function () {
-        if (typeof(url) != 'undefined') {
-          window.location = url;
-        }
-      };
+      var callback = function(){window.location = url}
       gtag('event', 'conversion', {
           'send_to': 'AW-736939968/94pSCJuys6IBEMCfs98C',
           'event_callback': callback
-      });
-      return false;
+      })
+      setTimeout(callback, 1500)
+      return false
     }
 
-    $('.book-now').on('click', function() { return gtag_report_conversion(this.href) });
+    $('.book-now').on('click', function() { return gtag_report_conversion(this.href) })
   </script>
 </body>
 </html>
