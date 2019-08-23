@@ -13,11 +13,11 @@ Mo-Fr, 18-21 - 125€ / 3h
 
 Sa-Su - 150€ / 3h
 
-If you make a reservation in April, you get a discount of -20%!
-
 *Weekend rates apply for public holidays. On site you can pay only in cash!
 
 The booking fee is 40 €, which will be deducted from the final amount. Enter the date, time and name of the child in the payment explanation. Booking fee must be paid within 3 days to Torela OÜ bank account EE477700771003581431. If the transfer is not received on time, the reservation will be canceled.
+
+With confirmation e-mail you'll get autofilled birthday invitation, that you can send or print out for guests!
 
 You can pay rest of the payment on site in cash or transfer it before the event on our bank account. On site you can pay only in cash!
 
