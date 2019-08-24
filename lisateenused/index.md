@@ -204,7 +204,4 @@ KORDUVKASUTATAVAD NÕUD - TASUTA
   
   <img alt="Nõud" src="n6ud-1.jpg" height="150">
 
-ÜHEKORDSED NÕUD - 1€/kmp
-: Soovi korral katame laua ühekordsete nõudega.
-  
-  Komplektis: taldrik, koogitaldrik, tops, nuga, kahvel, teelusikas, salvrätik.
+
