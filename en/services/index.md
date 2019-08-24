@@ -109,10 +109,52 @@ The show is suitable for age of 4+. Experiments are adapted to the age of childr
 
 Kids have 45 minutes to solve a fun science task or make a cool science toy for themselves. Each assignment is assisted by performers who provide children with all the necessary tools and guidance. The tasks are solved by known laws of physics, which are paid attention to and whose effects can be seen in real life. The science workshop is educational and full of work and suitable for children who do not want to sit back and want to do something with their hands. The research workshop is suitable for children from the age of 5+ and up to 20 children.
 
+
 **SCIENCE SHOW**
 270 € / 30min
 
-The Three Piglets Science Show is a truly spectacular and memorable experience. Multicolored flames, lightning and bang, and a fairy-tale floor burst into flames. A little humor will surely enrich all the magic of science, and a fun half hour will be fun and exciting for all big and small science lovers. Suitable for ages 7+.
+The Three Piglets Science Show is a truly spectacular and memorable experience. Multicolored flames, lightning and bang, and a fairy-tale floor burst into flames. A little humor will surely enrich all the magic of science, and a fun half hour will be fun and exciting for all big and small science lovers. Suitable for ages 7+.uU
+
+
+**BUBBLE SHOW**
+80 € / 30min
+
+The bubble show includes tricks with soap bubbles (different sizes bubbles, bubble trampoline, bubble aquarium, etc.).
+"Man in a soap bubble" - All children are entangled in a bubble.
+
+Big soap bubbles 20-30min + balloon design 30-60min.
+
+All children will receive a balloon as a gift (1-4 balloons: animals, flowers, swords, hats, etc.).
+
+Bubble show (does not include balloons) 30min / 80 €
+
+Bubble show + balloons 1-20 children 1h / 100 €
+
+Bubble show + balloons 21-35 children 1-1.5h / 115 €
+
+Bubble show + balloons PREMIUM * 1-1.5h / 125 €
+
+* After the Bubble Master's performance, kids can blow big bubbles for themselves.
+
+**DECORATIVE HELIUM BALLOONS**
+More information soon!
+
+**CAKE TOPPERS AND NAME BANNERS**
+1,5€ letter / 6€ topper
+
+Anneli Nahk makes glitter cake toppers with name and “Happy Birthday” banners, that makes the birthday cake for her child extra-special.
+
+CAKE TOPPER - 6 €
+Price includes name and number. You can choose between different colors. The topper is white on the backside. 
+
+BANNER - 1,5 € per letter
+
+Happy Birthday banner makes birthday a festive occasion. The banner is made in the colors of your choice. The letters can be selected with a mat, a slight glow or a mirror effect. You can choose what to write on the banner! 
+
+**REUSABLE TABLEWARE - FREE**
+If you care about nature and want to save on disposable tableware, we offer bamboo plates and beverage cups, wheat-straw small cake plates and plastic cutlery. There are 28 sets.
+The dishes must be washed yourself. If you would like us to do washing, then the fee is 10 €.
+
 
 
 
