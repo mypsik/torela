@@ -22,7 +22,7 @@ In one hour she can do:
 -averages drawings ~8-10 faces per hour
 -large and complicated ~5-7 faces per hour
 
-Glitter tattoos are additionally 45 € per hour and up to 12 children per hour.
+: Glitter tattoos are additionally 45 € per hour and up to 12 children per hour.
 
  <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="150"> 
  <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="150"> 
