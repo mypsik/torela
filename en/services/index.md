@@ -13,17 +13,19 @@ ru: /ru/services/
 25 €
 You don't need to clean or wash anything, we do it all! 
 
-**FACE PAINTING**
-Ursula Otsing
-50 € / 1h
 
-Ursula is the best face painter in Estonia! 
+FACE PAINTING - Ursula Otsing - 50 € / 1h
+
+: Ursula is the best face painter in Estonia! 
 In one hour she can do:
 -very simple and small drawings ~15 faces per hour
 -averages drawings ~8-10 faces per hour
 -large and complicated ~5-7 faces per hour
 
 Glitter tattoos are additionally 45 € per hour and up to 12 children per hour.
+
+ <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="150"> 
+ <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="150"> 
 
 **BALLOON ARTIST**
 Meelika Mäeorg
