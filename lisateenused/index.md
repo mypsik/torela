@@ -63,6 +63,7 @@ SUHKRUVATIMASIN - 55€
 FOTOGRAAF - 135€/~2h
 
 : Lapse sünnipäeva ehedaid emotsioone aitab püüda ja jäädvustada Helen Tulp!
+https://www.helentulp.com/
 
   Helen on lastega vaba suhtleja ja teeb pilte peo algusest kuni tordi lahtilõikamiseni. 
   Pildistab nii üldist mänguhoogu, portreesid ja soovikorral ka perepilte ning grupipilte fotoseina juures. 
@@ -204,7 +205,4 @@ KORDUVKASUTATAVAD NÕUD - TASUTA
   
   <img alt="Nõud" src="n6ud-1.jpg" height="150">
 
-ÜHEKORDSED NÕUD - 1€/kmp
-: Soovi korral katame laua ühekordsete nõudega.
-  
-  Komplektis: taldrik, koogitaldrik, tops, nuga, kahvel, teelusikas, salvrätik.
+

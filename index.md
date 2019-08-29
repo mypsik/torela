@@ -22,6 +22,7 @@ priority: 1.0
 <blockquote>Väga vinge koht! Kohe näha, et tehtud hoole ja armastusega, mõeldes lastele!</blockquote>
 <blockquote>Parim koht kuhu lastega aega viitma minna.</blockquote>
 <blockquote>Torelas on tore!</blockquote>
+<blockquote>Näomaalija professionaalsus ei teinud keeletuks mitte üksnes pisikesi kliente, vaid pani ahhetama ka kõik lapsevanemad. Tõesti väga imekaunid ja ohtrate peenete detailidega printsessid, kiisud, liblikad tulid tema käe alt.</blockquote>
 
 
 
