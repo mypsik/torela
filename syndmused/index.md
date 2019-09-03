@@ -9,8 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**02.09 10.00-13.00 - PANNKOOGIHOMMIK**
-
 **05.09 10.00-13.00 - MÄNGUHOMMIK**
 
 **09.09 10.00-13.00 - MÄNGUHOMMIK + RIIDEST MÄHKMETE TUTVUSTAMINE**
@@ -22,8 +20,13 @@ Mahkmed.eu tutvustab riidest mähkmeid! Kõik huvilised on väga oodatud tutvuma
 Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 
+**03.10 10.00-13.00 - PANNKOOGIHOMMIK**
 
-**PANNKOOGIHOMMIK ON IGA KUU ESIMESEL ESMASPÄEVAL!**
+Sööme pannkooke ja mängime! Laual mõnusad pannkoogid ja kohv!
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+
+
+**PANNKOOGIHOMMIK ON IGA KUU ESIMESEL NELJAPÄEVAL!**
 
 **IGA KUU TEISEL ESMASPÄEVAL - RIIDEST MÄHKMETE TUTVUSTAMINE!**
 
