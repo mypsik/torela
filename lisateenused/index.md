@@ -93,6 +93,8 @@ VIDEOGRAAF - 300€/3h
   
   [www.kuulidmuuvid.ee](http://www.kuulidmuuvid.ee){:target="_blank"}
   
+  img alt="Fotograaf" src="Mina-kaameraga.jpg" height="150">
+  
   
 PUTUKAPROGRAMM - Mattias Turovski - 125€/45min
 : Põneva ja erilise programmi raames tutvustatakse nelja erinevat looma - hiidtigu, prussakat, raagritsikat ning 
