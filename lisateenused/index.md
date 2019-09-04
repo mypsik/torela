@@ -57,9 +57,13 @@ KAETUD PEOLAUD "Laste lemmikud" - 80€
 JÄÄTISEMASIN - 59€
 : Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
+  <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="150"> 
+
 SUHKRUVATIMASIN - 55€
 : Laste sünnipäevade tõeline hitt. Suhkruvatt valmib 60 sekundiga ja selle valmistamine on väga lihtne. Suhkru kulu 1 portsioni kohta 12-18 grammi. 
   Hinnas on: suhkruvatimasin, kuppel, suhkru dosaator, 1kg suhkrut, 50 puidust pulka. Võimalik saada värvilisi erinevate maitsetega suhkruid.
+   
+   <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150"> 
 
 
 FOTOGRAAF - 135€/~2h
@@ -71,7 +75,11 @@ https://www.helentulp.com/
   Pildistab nii üldist mänguhoogu, portreesid ja soovikorral ka perepilte ning grupipilte fotoseina juures. 
   Kui vanematel on erisoove, siis arvestab nendega alati. Ühest sünnipäevapeost valmib digialbum ~200 pildiga. 
   Pildid valmivad nädalaga ja albumile ligipääs saadetakse privaatse lingina, kust on võimalik pildid alla laadida või otse sõpradega jagada.
-  
+
+   <img alt="Fotograaf" src="DSCF7438.jpg" height="150"> 
+   <img alt="Fotograaf1" src="DSCF8013.jpg" height="150"> 
+
+
   
 VIDEOGRAAF - 300€/3h
 
@@ -94,6 +102,11 @@ PUTUKAPROGRAMM - Mattias Turovski - 125€/45min
   
   Programm loob eeldused selgrootute loomadega iseseisvaks tutvumiseks, suhtlemiseks ja käsitlemiseks, märksõnadega austus ja   hool. 
 
+   <img alt="Tigu" src="ahhaattigu.JPG" height="150"> 
+   <img alt="Prussakas" src="blaberus prussakas.JPG" height="150">
+   <img alt="Prussakas1" src="DSC00123.JPG" height="150">
+   <img alt="Sajajalgne" src="IMG_9034.jpg" height="150">
+   
 
 PEOJUHT - al 150€+km
 
