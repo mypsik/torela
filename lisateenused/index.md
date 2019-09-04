@@ -93,7 +93,7 @@ VIDEOGRAAF - 300€/3h
   
   [www.kuulidmuuvid.ee](http://www.kuulidmuuvid.ee){:target="_blank"}
   
-  img alt="Fotograaf" src="Mina-kaameraga.jpg" height="150">
+  <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="150">
   
   
 PUTUKAPROGRAMM - Mattias Turovski - 125€/45min
