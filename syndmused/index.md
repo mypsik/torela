@@ -9,12 +9,9 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**16.09 10.00-13.00 - MÄNGUHOMMIK**
-
+**19.09 10.00-13.00 - MÄNGUHOMMIK**
 Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
-**19.09 10.00-13.00 - MÄNGUHOMMIK**
 
 **23.09 10.00-13.00 - MÄNGUHOMMIK**
 
