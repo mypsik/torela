@@ -9,59 +9,65 @@ ru: /ru/services/
 
 <a href="/lisateenused/">Full list in Estonian</a>
 
-**CLEANING AFTER THE PARTY**
-25 €
-You don't need to clean or wash anything, we do it all! 
+**CLEANING AFTER THE PARTY - 25€**
+: You don't need to clean or wash anything, we do it all! 
+
+  <img alt="Koristamine" src="Canva - null (1).jpg" height="150"> 
 
 
-FACE PAINTING - Ursula Otsing - 50 € / 1h
-
+**FACE PAINTING - Ursula Otsing - 50 € / 1h**
 : Ursula is the best face painter in Estonia! 
 In one hour she can do:
 -very simple and small drawings ~15 faces per hour
 -averages drawings ~8-10 faces per hour
 -large and complicated ~5-7 faces per hour
 
-: Glitter tattoos are additionally 45 € per hour and up to 12 children per hour.
+Glitter tattoos are additionally 45 € per hour and up to 12 children per hour.
 
  <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="150"> 
  <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="150"> 
 
-**BALLOON ARTIST**
-Meelika Mäeorg
-70 € / 1h
-
+**BALLOON ARTIST - 70 € / 1h**
+: Meelika Mäeorg
 Meelika makes coolest balloon-animals and even part of her costume is made of balloons!
 She can make over 300 different balloon figures with different designs.
+
+  <img alt="Õhupalliloomad" src="ohupalliloomad1.JPG" height="150"> 
+  <img alt="Õhupalliloomad käed" src="ohupalliloomad2.jpg" height="150"> 
+  <img alt="Õhupalliloomad koer" src="ohupalliloomad3.jpg" height="150"> 
 
 In addition to balloon animals, you can also order water tattoos, 1 picture for each child. The price of water tattoos total 20 €. 
 You can choose from 500 different images.
 
-**CATERING "KIDS' FAVOURITE**
-80 € / 14 kids
-Yogurt, potato-salad, fruit-vegetables, cheese sticks, popcorn.
+  <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150">
 
-**ICE CREAM MACHINE**
-59 €
-You can make your own ice cream! Vanilla and chocolate taste. You can make 40 soft-ice creams. It's possible to buy extra ice cream mixture.
+**CATERING "KIDS' FAVOURITE - 80 € / 14 kids**
+: Yogurt, potato-salad, fruit-vegetables, cheese sticks, popcorn.
 
-**COTTON CANDY MACHINE**
-55 €
-The real hit of children's birthdays. The cotton candy is ready in 60 seconds, and it's very easy to make. One portion of cotton candy is 12-18 grams of sugar. The price includes: sugar machine, sugar dispenser, 1kg sugar, 50 wooden sticks. It's possible to order also colorful sugars with different flavors.
+**ICE CREAM MACHINE - 59 €**
+: You can make your own ice cream! Vanilla and chocolate taste. You can make 40 soft-ice creams. It's possible to buy extra ice cream mixture.
 
-**PHOTOGRAPHER**
-Helen Tulp
+  <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="150">
+
+**COTTON CANDY MACHINE - 55 €**
+: The real hit of children's birthdays. The cotton candy is ready in 60 seconds, and it's very easy to make. One portion of cotton candy is 12-18 grams of sugar. The price includes: sugar machine, sugar dispenser, 1kg sugar, 50 wooden sticks. It's possible to order also colorful sugars with different flavors.
+
+  <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="150">
+
+**PHOTOGRAPHER - 135 € / ~2,5h**
+: Helen Tulp
 https://www.helentulp.com/
-135 € / ~2,5h
 
 Helen Tulp will capture the true emotions of a child's birthday!
 
 Helen takes pictures from the beginning of the party until the cake is cut. She makes portraits, family photos and group photos at the photo wall as well as general photos of the event. Photographer makes a digital album with ~200 pictures. Pictures will be completed in a week and access to the album will be sent as a private link where you can download the pictures or share them directly with your friends.
 
-**VIDEOGRAPHER**
-Marge Prints
+   <img alt="Fotograaf" src="DSCF7438.jpg" height="150"> 
+   <img alt="Fotograaf1" src="DSCF8013.jpg" height="150">
+
+**VIDEOGRAPHER - 300 € / 3h**
+: Marge Prints
 http://kuulidmuuvid.ee/
-300 € / 3h
 
 Brighter and more important moments of a child's birthday in high quality video!
 
@@ -69,19 +75,24 @@ Videographer films a party for up to 3h - from the arrival of guests to cutting 
 You get 4K quality video on USB stick with best moments of the birthday party! 
 Party guests can watch the movie from the private link on the internet.
 
+  <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="150">
 
-**BUGS PROGRAM**
-Mattias Turovski
-125 € / 45min
+
+**BUGS PROGRAM - 125 € / 45min**
+: Mattias Turovski
 
 The program introduces four different animals, the giant snails, cockroaches, walkingsticks and millipedes. The presentation looks at their images, habitats and introduces ecology. Children can "see and touch" all of them. The program creates preconditions for independent exploration, communication and treatment with invertebrate animals, with respect and care.
 
 Very special and exciting program!
 
+   <img alt="Tigu" src="ahhaattigu.JPG" height="150"> 
+   <img alt="Prussakas" src="blaberus prussakas.JPG" height="150">
+   <img alt="Prussakas1" src="DSC00123.JPG" height="150">
+   <img alt="Sajajalgne" src="IMG_9034.jpg" height="150">
 
-**ANIMATOR / ENTERTAINER**
-Merli Rosar 
-150€+km / 1-1,5h
+
+**ANIMATOR / ENTERTAINER - 150€+km / 1-1,5h**
+: Merli Rosar 
 
 Animator Merli Rosar from Merros Studio makes evry party unforgettable! There are several costumed characters and programs in the range of 1-1.5h.
 
@@ -91,13 +102,20 @@ More information about the programs: merrosstuudio.ee/programmid/ or merli.rosar
 
 If you choose an animator when booking a party, we will contact you shortly to clarify everything related to it (availability, price, desired character, etc.).
 
-**MAGICIAN**
-Richard Samarüütel 
-115 € / 30min
+  <img alt="Haldjas" src="haldjas.jpg" height="150"> 
+  <img alt="Mereröövel" src="mereroovel-683x1024.jpg" height="150">
+  <img alt="Minni Hiir" src="minni-hiir.jpg" height="150">
+  <img alt="Lotte" src="lotte2.jpg" height="150">
+  <img alt="Pipi Pikksukk" src="pipi-pikksukk.jpg" height="150">
 
+**MAGICIAN - 115 € / 30min**
+: Richard Samarüütel 
 Magician Richard adds magic and mind-blowing tricks to children's birthday parties.
 
 Richard does classic tricks with rings, tops and balls, but also more modern tricks. The performance is also interesting to watch for adults. Suitable for children aged 5-7.
+
+  <img alt="Richard Samarüütel" src="mustkunstnik1.jpg" height="150">
+  <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="150">
 
 
 **SCIENCE THEATERSHOW**
