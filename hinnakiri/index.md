@@ -24,7 +24,7 @@ Broneerimistasu tuleb tasuda **3 päeva jooksul** Torela OÜ pangakontole **EE47
 
 Ülejäänud summa saate tasuda ülekandega enne ürituse algust või kohapeal sularahas. Kohapeal saab maksta ainult sularahas!
 
-Sünnipäevapidu kestab 3 tundi. Ettevalmistusi saab tulla tegema 15 minutit enne peo algust ja ruumid palume vabastada kokkulepitud ajal.
+Sünnipäevapidu kestab 3 tundi. Ettevalmistusi saab tulla tegema 15 minutit enne peo algust ja ruumid palume vabastada kokkulepitud ajal. Kokkuleppeliselt on võimalik maksta ka lisatunni eest, lisatunni hind on 30€. 
 
 Ürituse mittetoimumisest palume teatada esimesel võimalusel (hiljemalt 24h enne peo algust). Kui tühistate broneeringu vähem kui 24-tunnise etteteatamisega, siis tuleb peo eest tasuda täishind. Ürituse tühistamisel saab kokku leppida vabade aegade olemasolul uue aja. Broneeringut saab muuta vaid ühe korra. Uue broneeringu saate teha aasta jooksul.
 
