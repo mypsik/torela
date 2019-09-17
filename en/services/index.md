@@ -52,15 +52,15 @@ She can make over 300 different balloon figures with different designs.
 **COTTON CANDY MACHINE - 55 €**
 : The real hit of children's birthdays. The cotton candy is ready in 60 seconds, and it's very easy to make. One portion of cotton candy is 12-18 grams of sugar. The price includes: sugar machine, sugar dispenser, 1kg sugar, 50 wooden sticks. It's possible to order also colorful sugars with different flavors.
 
-  <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="150">
+  <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150">
 
 **PHOTOGRAPHER - 135 € / ~2,5h**
 : Helen Tulp
 https://www.helentulp.com/
 
-Helen Tulp will capture the true emotions of a child's birthday!
+  Helen Tulp will capture the true emotions of a child's birthday!
 
-Helen takes pictures from the beginning of the party until the cake is cut. She makes portraits, family photos and group photos at the photo wall as well as general photos of the event. Photographer makes a digital album with ~200 pictures. Pictures will be completed in a week and access to the album will be sent as a private link where you can download the pictures or share them directly with your friends.
+  Helen takes pictures from the beginning of the party until the cake is cut. She makes portraits, family photos and group photos at the photo wall as well as general photos of the event. Photographer makes a digital album with ~200 pictures. Pictures will be completed in a week and access to the album will be sent as a private link where you can download the pictures or share them directly with your friends.
 
    <img alt="Fotograaf" src="DSCF7438.jpg" height="150"> 
    <img alt="Fotograaf1" src="DSCF8013.jpg" height="150">
