@@ -56,7 +56,7 @@ She can make over 300 different balloon figures with different designs.
 
 **PHOTOGRAPHER - 135 € / ~2,5h**
 : Helen Tulp
-https://www.helentulp.com/
+  [helentulp.com/](https://www.helentulp.com/){:target="_blank"}
 
   Helen Tulp will capture the true emotions of a child's birthday!
 
