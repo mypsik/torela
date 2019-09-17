@@ -21,7 +21,7 @@ With confirmation e-mail you'll get autofilled birthday invitation, that you can
 
 You can pay rest of the payment on site in cash or transfer it before the event on our bank account. On site you can pay only in cash!
 
-Birthday party lasts 3 hours. Preparations can be made 15 minutes before the start of the party and the rooms are requested to be released at the agreed time.
+Birthday party lasts 3 hours. Preparations can be made 15 minutes before the start of the party and the rooms are requested to be released at the agreed time. If we'll make an agreement, then it's possible to buy extra time - one extra hour is 30€. 
 
 If you need to postpone your event, let us know as soon as possible (no later than 24h before the start of the party). If you don't show up or cancel the booking under 24h, then you need to pay the full amount. We can agree on a new time. The booking can only be changed once. You can make a new  booking within a year.
 
