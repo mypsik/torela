@@ -36,8 +36,8 @@ She can make over 300 different balloon figures with different designs.
   <img alt="Õhupalliloomad käed" src="ohupalliloomad2.jpg" height="150"> 
   <img alt="Õhupalliloomad koer" src="ohupalliloomad3.jpg" height="150"> 
 
-In addition to balloon animals, you can also order water tattoos, 1 picture for each child. The price of water tattoos total 20 €. 
-You can choose from 500 different images.
+  In addition to balloon animals, you can also order water tattoos, 1 picture for each child. The price of water tattoos total 20 €. 
+  You can choose from 500 different images.
 
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150">
 
