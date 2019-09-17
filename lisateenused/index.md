@@ -65,11 +65,9 @@ SUHKRUVATIMASIN - 55€
    
    <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150"> 
 
-
 FOTOGRAAF - 135€/~2h
-
-:Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõike ehedad emotsioonid ja parimad hetked!
-Tema portfoolioga saab tutvuda siin: [helentulp.com/](https://www.helentulp.com/){:target="_blank"}
+: Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõike ehedad emotsioonid ja parimad hetked!
+  Tema portfoolioga saab tutvuda siin: [helentulp.com/](https://www.helentulp.com/){:target="_blank"}
 
   Helen on lastega vaba suhtleja ja teeb pilte peo algusest kuni tordi lahtilõikamiseni. 
   Pildistab nii üldist mänguhoogu, portreesid ja soovikorral ka perepilte ning grupipilte fotoseina juures. 
