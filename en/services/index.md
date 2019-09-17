@@ -55,8 +55,8 @@ She can make over 300 different balloon figures with different designs.
   <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150">
 
 **PHOTOGRAPHER - 135 € / ~2,5h**
-: Helen Tulp
-  [helentulp.com/](https://www.helentulp.com/){:target="_blank"}
+: Our photographer is Helen Tulp!
+  Here you can see her portfolio: [helentulp.com/](https://www.helentulp.com/){:target="_blank"}
 
   Helen Tulp will capture the true emotions of a child's birthday!
 
