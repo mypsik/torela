@@ -57,13 +57,18 @@ KAETUD PEOLAUD "Laste lemmikud" - 80€
 RETROVAHVLID - 8€/10tk
 
 : Klassikalised krõbedad retrovahvlid.
-  Koostis: 82% Eesti või, turumunad, roosuhkur, vanillisuhkur, kaneel, täispiim (3,8%- 4,2%), nisujahu ja täisteranisujahu. 
   
-  10tk - 8€
-  20tk - 16€
-  30tk - 24€
-  40tk - 32€
-  50tk - 40€
+   Koostis: 82% Eesti või, turumunad, roosuhkur, vanillisuhkur, kaneel, täispiim (3,8%- 4,2%), nisujahu ja täisteranisujahu. 
+  
+  **10tk - 8€**
+  
+  **20tk - 16€**
+  
+  **30tk - 24€**
+  
+  **40tk - 32€**
+  
+  **50tk - 40€**
   
   <img alt="Vahvlid" src="vahvlid.jpg" height="150">
 
