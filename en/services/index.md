@@ -137,14 +137,13 @@ Party guests can watch the movie from the private link on the internet.
 
   All children will receive a balloon as a gift (1-4 balloons: animals, flowers, swords, hats, etc.).
 
-  Bubble show (does not include balloons) 30min / 80 €
+  Bubble show (does not include balloons) **30min / 80 €**
 
-  Bubble show + balloons 1-20 children 1h / 100 €
+  Bubble show + balloons 1-20 children **1h / 100 €**
 
-  Bubble show + balloons 21-35 children 1-1.5h / 115 €
+  Bubble show + balloons 21-35 children **1-1.5h / 115 €**
 
-  Bubble show + balloons PREMIUM * 1-1.5h / 125 €
-
+  Bubble show + balloons PREMIUM* **1-1.5h / 125 €**
   * After the Bubble Master's performance, kids can blow big bubbles for themselves.
   
   <img alt="Mullishow" src="mullishow-700x460.jpg" height="150">
