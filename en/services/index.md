@@ -66,12 +66,13 @@ She can make over 300 different balloon figures with different designs.
    <img alt="Fotograaf1" src="DSCF8013.jpg" height="150">
 
 **VIDEOGRAPHER - 300 € / 3h**
-: Marge Prints
-http://kuulidmuuvid.ee/
+: Our videographer is Marge Prints.
+  Here you can see her portfolio: [Kuulid Muuvid](http://kuulidmuuvid.ee/){:target="_blank"}
 
-Brighter and more important moments of a child's birthday in high quality video!
 
-Videographer films a party for up to 3h - from the arrival of guests to cutting the cake. The finished video is ~5 minutes long, properly assembled and sounded. 
+  Brighter and more important moments of a child's birthday in high quality video!
+
+  Videographer films a party for up to 3h - from the arrival of guests to cutting the cake. The finished video is ~5 minutes long, properly assembled and sounded. 
 You get 4K quality video on USB stick with best moments of the birthday party! 
 Party guests can watch the movie from the private link on the internet.
 
