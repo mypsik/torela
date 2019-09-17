@@ -8,12 +8,16 @@ ru: /ru/events/
 ---
 PLAY-MORNINGS
 
-**18.07 (10.00-13.00) - Play-morning**
+**19.09 (10.00-13.00) - Play-morning**
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
-**22.07 (10.00-13.00) - Play-morning + LOOVLA**
-Participation fee 10 € (child + parent), another child of the same family +3€.
+**23.09 (10.00-13.00) - Play-morning**
 
+**26.09 (10.00-13.00) - Play-morning + SAFAL KIDS**
+
+**30.09 (10.00-13.00) - Play-morning**
+
+**03.10 (10.00-13.00) - Pancake-morning**
 
 
 If you want to join us, let us know: tore@torela.ee
