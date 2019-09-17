@@ -213,7 +213,7 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   
   
 KORDUVKASUTATAVAD NÕUD - TASUTA
-: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja plastikust söögiriistu. Nõusid jagub 28 inimesele. 
+: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 28 inimesele. 
 
   **Nõud tuleb ise puhtaks pesta.** 
   Kui soovid, et meie peseksime, siis lisandub tasu 10€.
