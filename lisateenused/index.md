@@ -54,6 +54,20 @@ KAETUD PEOLAUD "Laste lemmikud" - 80€
   Helluse jogurtid, kartulisalat, puuvilja-juurviljavaagen, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
 
 
+RETROVAHVLID - 8€/10tk
+
+: Klassikalised krõbedad retrovahvlid.
+  Koostis: 82% Eesti või, turumunad, roosuhkur, vanillisuhkur, kaneel, täispiim (3,8%- 4,2%), nisujahu ja täisteranisujahu. 
+  
+  10tk - 8€
+  20tk - 16€
+  30tk - 24€
+  40tk - 32€
+  50tk - 40€
+  
+  <img alt="Vahvlid" src="vahvlid.jpg" height="150">
+
+
 JÄÄTISEMASIN - 59€
 : Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
