@@ -7,6 +7,8 @@ et: /huviringid/
 ru: /ru/hobby-classes/
 ---
 From October there are 2 hobby-classes starting! 
+
+
 <img alt="image1" src="image1.jpeg" height="450">
 
 **CREATIVE ART-PLAY-ACTIVITIES - 1,5-3 years old kids**
