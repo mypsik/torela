@@ -9,6 +9,8 @@ ru: /ru/hobby-classes/
 Alates oktoobrist on Torela mängutoas alustamas põnevad tegevusringid 1,5-3aastastele ja 5-8aastastele lastele! 
 Registreerimine hedijaansoo@gmail.com või tore@torela.ee.
 
+  <img alt="image1" src="image1.jpg" height="300">
+
 **LOOVTEGEMISED - 1,5-3-aastastele**
 REEDETI, 11.00-12.00
 35€/kuu
