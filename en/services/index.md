@@ -27,9 +27,8 @@ In one hour she can do:
   <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="150"> 
   <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="150"> 
 
-**BALLOON ARTIST - 70 € / 1h**
-: Meelika Mäeorg
-Meelika makes coolest balloon-animals and even part of her costume is made of balloons!
+**BALLOON ARTIST - Meelika Mäeorg - 70 € / 1h**
+: Meelika makes coolest balloon-animals and even part of her costume is made of balloons!
 She can make over 300 different balloon figures with different designs.
 
   <img alt="Õhupalliloomad" src="ohupalliloomad1.JPG" height="150"> 
@@ -54,9 +53,8 @@ She can make over 300 different balloon figures with different designs.
 
   <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150">
 
-**PHOTOGRAPHER - 135 € / ~2,5h**
-: Our photographer is Helen Tulp!
-  Here you can see her portfolio: [helentulp.com/](https://www.helentulp.com/){:target="_blank"}
+**PHOTOGRAPHER - Helen Tulp - 135 € / ~2,5h**
+: Here you can see her portfolio: [Helen Tulp](https://www.helentulp.com/){:target="_blank"}
 
   Helen Tulp will capture the true emotions of a child's birthday!
 
@@ -65,9 +63,8 @@ She can make over 300 different balloon figures with different designs.
    <img alt="Fotograaf" src="DSCF7438.jpg" height="150"> 
    <img alt="Fotograaf1" src="DSCF8013.jpg" height="150">
 
-**VIDEOGRAPHER - 300 € / 3h**
-: Our videographer is Marge Prints.
-  Here you can see her portfolio: [Kuulid Muuvid](http://kuulidmuuvid.ee/){:target="_blank"}
+**VIDEOGRAPHER - Marge Prints - 300 € / 3h**
+: Here you can see her portfolio: [Kuulid Muuvid](http://kuulidmuuvid.ee/){:target="_blank"}
 
 
   Brighter and more important moments of a child's birthday in high quality video!
@@ -79,12 +76,10 @@ Party guests can watch the movie from the private link on the internet.
   <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="150">
 
 
-**BUGS PROGRAM - 125 € / 45min**
-: Mattias Turovski
+**BUGS PROGRAM - Mattias Turovski - 125 € / 45min**
+: The program introduces four different animals, the giant snails, cockroaches, walkingsticks and millipedes. The presentation looks at their images, habitats and introduces ecology. Children can "see and touch" all of them. The program creates preconditions for independent exploration, communication and treatment with invertebrate animals, with respect and care.
 
-The program introduces four different animals, the giant snails, cockroaches, walkingsticks and millipedes. The presentation looks at their images, habitats and introduces ecology. Children can "see and touch" all of them. The program creates preconditions for independent exploration, communication and treatment with invertebrate animals, with respect and care.
-
-Very special and exciting program!
+  Very special and exciting program!
 
    <img alt="Tigu" src="ahhaattigu.JPG" height="150"> 
    <img alt="Prussakas" src="blaberus prussakas.JPG" height="150">
@@ -92,16 +87,14 @@ Very special and exciting program!
    <img alt="Sajajalgne" src="IMG_9034.jpg" height="150">
 
 
-**ANIMATOR / ENTERTAINER - 150€+km / 1-1,5h**
-: Merli Rosar 
+**ANIMATOR - Merli Rosar - 150€+km / 1-1,5h**
+: Animator Merli Rosar from Merros Studio makes evry party unforgettable! There are several costumed characters and programs in the range of 1-1.5h.
 
-Animator Merli Rosar from Merros Studio makes evry party unforgettable! There are several costumed characters and programs in the range of 1-1.5h.
+  Characters: Rapunzel, Pippi Longstocking, Pirate, Native American Indian, Snow White, Lotte, Bunny Juss, Witch Girl, Fairy, Princess, Frozen Anna, Frozen Elsa, Detective, Minnie Mouse, Professor Siiri, Unicorn, Dwarf, Troll Poppy, Vaiana.
 
-Characters: Rapunzel, Pippi Longstocking, Pirate, Native American Indian, Snow White, Lotte, Bunny Juss, Witch Girl, Fairy, Princess, Frozen Anna, Frozen Elsa, Detective, Minnie Mouse, Professor Siiri, Unicorn, Dwarf, Troll Poppy, Vaiana.
+  More information about the programs: [Merros Stuudio](merrosstuudio.ee/programmid/){:target="_blank"} or merli.rosar@gmail.com.
 
-More information about the programs: merrosstuudio.ee/programmid/ or merli.rosar@gmail.com.
-
-If you choose an animator when booking a party, we will contact you shortly to clarify everything related to it (availability, price, desired character, etc.).
+  If you choose an animator when booking a party, we will contact you shortly to clarify everything related to it (availability, price, desired character, etc.).
 
   <img alt="Haldjas" src="haldjas.jpg" height="150"> 
   <img alt="Mereröövel" src="mereroovel-683x1024.jpg" height="150">
@@ -109,11 +102,10 @@ If you choose an animator when booking a party, we will contact you shortly to c
   <img alt="Lotte" src="lotte2.jpg" height="150">
   <img alt="Pipi Pikksukk" src="pipi-pikksukk.jpg" height="150">
 
-**MAGICIAN - 115 € / 30min**
-: Richard Samarüütel 
-Magician Richard adds magic and mind-blowing tricks to children's birthday parties.
+**MAGICIAN - Richard Samarüütel - 115 € / 30min**
+:  Magician Richard adds magic and mind-blowing tricks to children's birthday parties.
 
-Richard does classic tricks with rings, tops and balls, but also more modern tricks. The performance is also interesting to watch for adults. Suitable for children aged 5-7.
+  Richard does classic tricks with rings, tops and balls, but also more modern tricks. The performance is also interesting to watch for adults. Suitable for children aged 5-7.
 
   <img alt="Richard Samarüütel" src="mustkunstnik1.jpg" height="150">
   <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="150">
