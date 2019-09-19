@@ -9,11 +9,9 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**19.09 10.00-13.00 - MÄNGUHOMMIK**
+**23.09 10.00-13.00 - MÄNGUHOMMIK**
 Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
-**23.09 10.00-13.00 - MÄNGUHOMMIK**
 
 **26.09 10.00-13.00 - MÄNGUHOMMIK + külas SAFAL KIDS**
 
