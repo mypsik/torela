@@ -8,12 +8,11 @@ ru: /ru/events/
 ---
 PLAY-MORNINGS
 
-**23.09 (10.00-13.00) - Play-morning**
-Participation fee 7 € (child + parent), another child of the same family +3€.
-
 **26.09 (10.00-13.00) - Play-morning + SAFAL KIDS**
+Special play-morning! Safal Kids is visiting us! 
 
 **30.09 (10.00-13.00) - Play-morning**
+Participation fee 7 € (child + parent), another child of the same family +3€.
 
 **03.10 (10.00-13.00) - Pancake-morning**
 
