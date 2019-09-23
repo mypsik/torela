@@ -9,10 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**23.09 10.00-13.00 - MÄNGUHOMMIK**
-Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
 **26.09 10.00-13.00 - MÄNGUHOMMIK + külas SAFAL KIDS**
 
 Ootame teid kõiki mänguhommikule! Laua head-paremat ja kohv!
@@ -30,6 +26,8 @@ Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
 
 **30.09 10.00-13.00 - MÄNGUHOMMIK**
+Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 
 **03.10 10.00-13.00 - PANNKOOGIHOMMIK**
 
