@@ -9,30 +9,24 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**26.09 10.00-13.00 - MÄNGUHOMMIK + külas SAFAL KIDS**
-
-Ootame teid kõiki mänguhommikule! Laua head-paremat ja kohv!
-Külas on Safal KIDS! 
-
-Safal KIDS on kodumaine beebi- ja väikelaste rõivaste kaubamärk, mis pakub mugavaid ja läbimõeldud detailidega riideid.
-Suur rõhk on värvivalikul - kangaste värvid on valitud nii, et nad sobivad nii poistele kui ka tüdrukutele!
-Tootevalikus on riided vanusele 0-3 aastat.
-
-Vaadata ja osta saab kõike, mis kodulehel hetkel müügis ning hinnad on Torela mängutoas soodsamad! Uudistootena on kaasas ka MERIINO -TUTIMÜTSID!
-
-Toodetega saate tutvuda juba ka siin: http://www.safalfashion.com/beebiriided
-
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-
 **30.09 10.00-13.00 - MÄNGUHOMMIK**
 Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+
+**02.10 17.00-20.00 - MÄNGUÕHTU**
+Ootame kõiki mänguõhtule! Laual näksimist ja kohv-tee!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 
 **03.10 10.00-13.00 - PANNKOOGIHOMMIK**
 
 Sööme pannkooke ja mängime! Laual mõnusad pannkoogid ja kohv!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+
+**14.10 10.00-13.00 - MÄNGUHOMMIK + RIIDEST MÄHKMETE TUTVUSTAMINE**
+
+Mahkmed.eu tutvustab riidest mähkmeid! Kõik huvilised on väga oodatud tutvuma erinevate mähkmetüüpide ja tootjate toodanguga. Alla aastaste laste vanematele on üritus TASUTA, teistele on osalustasu 5€. Samal ajal kui vanemad mähkmemaailmaga tutvuvad, saavad suuremad lapsed mõnusalt mängutoas mängida! Laual head-paremat ja kohv!
+
+ENG: This Thursday our play-morning is especially special because we introduce cloth diapers! All those interested in reusable diapers are very welcome to see the different types of diapers and manufacturers. Entry is free of charge with children under the age of one and for others the participation fee is 5 €. ! 
 
 
 **PANNKOOGIHOMMIK TOIMUB IGA KUU ESIMESEL NELJAPÄEVAL!**
