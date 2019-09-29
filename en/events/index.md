@@ -8,13 +8,34 @@ ru: /ru/events/
 ---
 PLAY-MORNINGS
 
-**26.09 (10.00-13.00) - Play-morning + SAFAL KIDS**
-Special play-morning! Safal Kids is visiting us! 
-
 **30.09 (10.00-13.00) - Play-morning**
+We'll offer you snacks and coffee!
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
+
+**02.10 (17.00-20.00) - Play-evening**
+We'll offer you snacks and coffee!
+Participation fee 7 € (child + parent), another child of the same family +3€.
+
+
 **03.10 (10.00-13.00) - Pancake-morning**
+Come and eat pankcakes with us! We'll bake classical ones and sugarfree banana oatflour pancakes. 
+Participation fee 7 € (child + parent), another child of the same family +3€.
+
+
+**07.10 (10.00-13.00) - Play-morning**
+We'll offer you snacks and coffee!
+Participation fee 7 € (child + parent), another child of the same family +3€.
+
+
+**10.10 (10.00-13.00) - Play-morning**
+We'll offer you snacks and coffee!
+Participation fee 7 € (child + parent), another child of the same family +3€.
+
+
+**14.10 (10.00-13.00) - Play-morning + MAHKMED.EU**
+This Thursday our play-morning is special because we introduce cloth diapers! All those interested in reusable diapers are very welcome to see the different types of diapers and manufacturers. Entry is free of charge with children under the age of one and for others the participation fee is 5 €. 
+
 
 
 If you want to join us, let us know: tore@torela.ee
