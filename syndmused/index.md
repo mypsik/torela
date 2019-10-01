@@ -9,11 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**30.09 (10.00-13.00) - MÄNGUHOMMIK**
-Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
-
 **02.10 (17.00-20.00) - MÄNGUÕHTU**
 Ootame kõiki mänguõhtule! Laual näksimist ja kohv-tee!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
@@ -21,6 +16,11 @@ Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 
 **03.10 (10.00-13.00) - PANNKOOGIHOMMIK**
 Sööme pannkooke ja mängime! Laual mõnusad pannkoogid ja kohv!
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+
+
+**04.10 (14.00-17.00) - KANEELIKUKLIPÄEV**
+Sööme kaneelisaiu ja küpsetame neid ka koos!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 
 
@@ -34,8 +34,50 @@ Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-t
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 
 
-**14.10 10.00-13.00 - MÄNGUHOMMIK + RIIDEST MÄHKMETE TUTVUSTAMINE**
-Mahkmed.eu tutvustab riidest mähkmeid! Kõik huvilised on väga oodatud tutvuma erinevate mähkmetüüpide ja tootjate toodanguga. Alla aastaste laste vanematele on üritus TASUTA, teistele on osalustasu 5€. Samal ajal kui vanemad mähkmemaailmaga tutvuvad, saavad suuremad lapsed mõnusalt mängutoas mängida! Laual head-paremat ja kohv!
+**14.10 (10.00-13.00) - MÄNGUHOMMIK + RIIDEST MÄHKMETE TUTVUSTAMINE + BABYBOX**
+Mahkmed.eu tutvustab riidest mähkmeid! Kõik huvilised on väga oodatud tutvuma erinevate mähkmetüüpide ja tootjate toodanguga. Külla tuleb ka BabyBox, kes tutvustab oma väga praktilist vastsündinu-kasti, kus on olemas kõik vajalik uue lapse tulekuks! Alla aastaste laste vanematele on üritus TASUTA, teistele on osalustasu 5€. Samal ajal kui vanemad mähkmemaailmaga tutvuvad, saavad suuremad lapsed mõnusalt mängutoas mängida! Laual head-paremat ja kohv!
+
+
+**16.10 (16.00-20.00) - LASTEMOE POP-UP ÕHTU**
+Kolmapäeva õhtul on meil külas toredad Eesti tegijad, kes tutvustad ja müüvad oma toodangut! 
+Kohal on Safal Kids, Nipsti jt. 
+Laual maitsvat näksimist ja kohv! Sissepääs TASUTA! 
+
+
+**17.10 (10.00-13.00) - MÄNGUHOMMIK**
+Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+
+
+**21.10 (10.00-13.00) - MÄNGUHOMMIK + eeterlike õlidega haiguste vastu**
+Lapsed saavad mängida ja vanemad saavad osa võtta vestlusringist, kuidas eeterlike õlide abil tervist tugevdada! Laual head-paremat ja kohv-tee!
+Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
+
+
+**23.10 (18.00-21.00) - MÄNGUÕHTU+ eeterlike õlidega haiguste vastu**
+Lapsed saavad mängida ja vanemad saavad osa võtta vestlusringist, kuidas eeterlike õlide abil tervist tugevdada! Laual head-paremat ja kohv-tee!
+Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
+
+
+**24.10 (10.00-13.00) - MÄNGUHOMMIK**
+Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+
+
+**28.10 (10.00-13.00) - KAISUKARUPÄEV**
+Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+
+**30.10 (18.00-21.00) - LAPSEOOTEL NAISTE ÕHTU**
+Tähistame rahvusvahelist kaisukarupäeva! Külla tuleb Imbi Potter, kellega laulame, tantsime ja mängime! 
+Võimalusel kaasa võtta kodust oma väike kaisukaru!
+Laual karu-näks ja kohv!
+
+Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
+Registreerimine: tore@torela.ee, teavitus chat'i või "going" üritusele. 
+
+
 
 
 **PANNKOOGIHOMMIK TOIMUB IGA KUU ESIMESEL NELJAPÄEVAL!**
