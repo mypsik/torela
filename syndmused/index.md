@@ -9,10 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**02.10 (17.00-20.00) - MÄNGUÕHTU**
-Ootame kõiki mänguõhtule! Laual näksimist ja kohv-tee!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
 
 **03.10 (10.00-13.00) - PANNKOOGIHOMMIK**
 Sööme pannkooke ja mängime! Laual mõnusad pannkoogid ja kohv!
