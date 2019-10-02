@@ -61,12 +61,11 @@ Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 
 
 **28.10 (10.00-13.00) - KAISUKARUPÄEV**
-Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
+Tähistame rahvusvahelist kaisukarupäeva! Külla tuleb Imbi Potter, kellega laulame, tantsime ja mängime! 
+Võimalusel kaasa võtta kodust oma väike kaisukaru! Laual head-paremat ja kohv-tee!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 
 **30.10 (18.00-21.00) - LAPSEOOTEL NAISTE ÕHTU**
-Tähistame rahvusvahelist kaisukarupäeva! Külla tuleb Imbi Potter, kellega laulame, tantsime ja mängime! 
-Võimalusel kaasa võtta kodust oma väike kaisukaru!
 Laual karu-näks ja kohv!
 
 Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
