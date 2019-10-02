@@ -9,11 +9,6 @@ ru: /ru/events/
 PLAY-MORNINGS
 
 
-**02.10 (17.00-20.00) - Play-evening**
-We'll offer you snacks and coffee!
-Participation fee 7 € (child + parent), another child of the same family +3€.
-
-
 **03.10 (10.00-13.00) - Pancake-morning**
 Come and eat pankcakes with us! We'll bake classical ones and sugarfree banana oatflour pancakes. 
 Participation fee 7 € (child + parent), another child of the same family +3€.
