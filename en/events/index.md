@@ -9,15 +9,6 @@ ru: /ru/events/
 PLAY-MORNINGS
 
 
-**03.10 (10.00-13.00) - Pancake-morning**
-Come and eat pankcakes with us! We'll bake classical ones and sugarfree banana oatflour pancakes. 
-Participation fee 7 € (child + parent), another child of the same family +3€.
-
-
-**04.10 (14.00-17.00) - Cinnamon roll day**
-We celebrate Cinnamon Roll Day! This time it's game-lunch and we'll start at 2 pm! Kids can make cinnamon buns themselves! We also offer milk and coffee! Participation fee 7 € (child + parent), another child of the same family +3€.
-
-
 **07.10 (10.00-13.00) - Play-morning**
 We'll offer you snacks and coffee!
 Participation fee 7 € (child + parent), another child of the same family +3€.
