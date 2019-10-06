@@ -9,17 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-
-**03.10 (10.00-13.00) - PANNKOOGIHOMMIK**
-Sööme pannkooke ja mängime! Laual mõnusad pannkoogid ja kohv!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
-
-**04.10 (14.00-17.00) - KANEELIKUKLIPÄEV**
-Sööme kaneelisaiu ja küpsetame neid ka koos!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
-
 **07.10 (10.00-13.00) - MÄNGUHOMMIK**
 Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
