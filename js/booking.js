@@ -1,6 +1,4 @@
 function BookingDialog(selector, api, lang) {
-  this.api = api
-  this.lang = lang
   this.msg = bookingMessages[lang]
   this.dialog = $(selector)
 
@@ -52,10 +50,11 @@ function BookingDialog(selector, api, lang) {
       if (input.name) {
         if (input.type === 'checkbox') {
           if (input.checked && input.name !== 'terms') {
+            const service = additionalServices[input.name]
             booking.additionalServices.push({
               name: input.name,
-              description: input.value,
-              price: additionalServices[input.name].price
+              description: service[lang],
+              price: service.price
             })
           }
         }
@@ -66,7 +65,7 @@ function BookingDialog(selector, api, lang) {
         }
       }
     })
-    this.api.book(booking).then(this.success.bind(this))
+    api.book(booking).then(this.success.bind(this))
   }
 
   this.success = function() {
