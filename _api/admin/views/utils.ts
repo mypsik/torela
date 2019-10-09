@@ -1,3 +1,7 @@
+export function html(title: string, body: string) {
+  return `<!doctype html><html><head><title>Torela ${e(title)}</title></head><body>${body}</body></html>`
+}
+
 export function e(s?: string) {
   if (!s) return ''
   return s.replace('<', '&lt;').replace('\'', '&apos;').replace('"', '&quot;')

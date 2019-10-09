@@ -1,11 +1,11 @@
 import Booking from '../../domain/Booking'
 import {styles} from './styles'
 import {menu} from './menu'
-import {d, e} from './utils'
+import {d, e, html} from './utils'
 import config from '../../config'
 
 export function bookingsView(bookings: Array<Booking>, from: string) {
-  return `${styles}${menu}
+  return html('Bookings', `${styles}${menu}
     <form onchange="this.submit()">
       <h1>Broneeringud alates <input type="date" name="from" value="${from}"></h1>
     </form>
@@ -66,7 +66,7 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
         `).join('')}
       </tbody>
     </table>
-  `
+  `)
 }
 
 export function additionalServices(b: Booking): Array<string> {

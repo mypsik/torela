@@ -1,10 +1,10 @@
 import Contact from '../../domain/Contact'
 import {styles} from './styles'
 import {menu} from './menu'
-import {e} from './utils'
+import {e, html} from './utils'
 
 export function contactsView(contacts: Array<Contact>) {
-  return `${styles}${menu}
+  return html('Contacts', `${styles}${menu}
     <h1>Kontaktid</h1>
     <table>
       <thead>
@@ -24,5 +24,5 @@ export function contactsView(contacts: Array<Contact>) {
         `).join('')}
       </tbody>
     </table>
-  `
+  `)
 }
