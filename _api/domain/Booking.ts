@@ -8,7 +8,7 @@ export default interface Booking extends Auditable {
   email: string
   phone: string
   childName: string
-  childAge: string
+  childAge?: string
   parentName: string
   comments: string
   payments?: Array<Payment>
