@@ -87,8 +87,8 @@ const bookingMessages = {
     phone: 'Phone',
     terms: 'Agree with <a href="/en/rules/" target="_blank">house rules</a>',
     comments: 'Comments',
-    success: 'Thank you for your booking!',
     services: '<a href="/en/services/" target="_blank">Additional services</a>',
+    success: 'Thank you for your booking! The confirmation has been sent to your email.'
   },
   et: {
     book: 'Broneeri',
@@ -98,9 +98,9 @@ const bookingMessages = {
     email: 'E-post',
     phone: 'Telefon',
     terms: 'Olen nõus mängutoa <a href="/kodukord/" target="_blank">kodukorraga</a>',
-    success: 'Aitäh broneeringu eest!',
     comments: 'Lisainfo',
     services: '<a href="/lisateenused/" target="_blank">Lisateenused</a>',
+    success: 'Aitäh broneeringu eest! Kinnitust saadeti teie e-postile. Kui mingi lisateenus jäi valimata, siis kirjutage meile!'
   },
   ru: {
     book: 'Бронировать',
@@ -110,9 +110,9 @@ const bookingMessages = {
     email: 'E-mail',
     phone: 'Телефон',
     terms: 'Соглашаюсь соблюдать <a href="/en/rules/" target="_blank">правила игровой комнаты</a>',
-    success: 'Спасибо за бронировку!',
     comments: 'Комментарии',
     services: '<a href="/ru/services/" target="_blank">Дополнительные услуги</a>',
+    success: 'Спасибо за бронировку! Подтверждение будет отослано вам на e-mail. Если какая-то дополнительная услуга осталась невыбранной, то пишите нам!'
   }
 }
 
