@@ -4,6 +4,8 @@ function BookingDialog(selector, api, lang) {
   this.msg = bookingMessages[lang]
   this.dialog = $(selector)
 
+  const fieldsToPrefill = ['parentName', 'email', 'phone']
+
   this.init = function() {
     this.dialog.find('.close').on('click', function() {history.back()})
     this.addLabels()
@@ -12,11 +14,13 @@ function BookingDialog(selector, api, lang) {
 
   this.addLabels = function() {
     for (let key in this.msg) {
-      const el = $('#' + key, this.dialog)
+      let el = $('#' + key, this.dialog)
       if (el.length)
         el.html(this.msg[key])
-      else
-        $('[name="' + key + '"]', this.dialog).attr('placeholder', this.msg[key])
+      else {
+        el = $('[name="' + key + '"]', this.dialog).attr('placeholder', this.msg[key])
+        if (fieldsToPrefill.indexOf(key) >= 0) el.val(localStorage['booking.' + key])
+      }
     }
 
     var services = this.dialog.find('.services')
@@ -44,8 +48,11 @@ function BookingDialog(selector, api, lang) {
     e.preventDefault()
     const booking = {}
     this.dialog.find(':input').each(function(i, input) {
-      if (input.name && (input.type !== 'checkbox' || input.checked))
+      if (input.name && (input.type !== 'checkbox' || input.checked)) {
         booking[input.name] = input.value
+        if (fieldsToPrefill.indexOf(input.name) >= 0)
+          localStorage['booking.' + input.name] = input.value
+      }
     })
     this.api.book(booking).then(this.success.bind(this))
   }
