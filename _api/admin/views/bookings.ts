@@ -51,7 +51,7 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
               <div><strong>${e(b.adminComments)}</strong></div>
               <button name="adminComments" value="${e(b.adminComments)}" onclick="this.value = prompt('Kommentaar', this.value) || ''; return !!this.value">+i</button>
             </td>
-            <td>${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').map(k => `<div>${e(k)}</div>`).join('')}</td>
+            <td>${additionalServices(b).map(k => `<div>${e(k)}</div>`).join('')}</td>
             <td title="${e(b.userAgent)}">${d(b.createdAt)}</td>
             <td>
               ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${d(p.dateTime)}</div>`).join('')}
@@ -67,4 +67,9 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
       </tbody>
     </table>
   `
+}
+
+export function additionalServices(b: Booking): Array<string> {
+  if (b.additionalServices) return b.additionalServices.map(s => s.description)
+  else return Object.keys(b).filter(k => k != 'terms' && b[k] == 'on') // backwards compatibility
 }

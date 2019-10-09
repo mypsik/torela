@@ -36,7 +36,7 @@ export class Mailer {
       Telefon: ${booking.phone}
       Email: ${booking.email}
       Lisainfo: ${booking.comments}
-      Lisateenused: ${Object.keys(booking).filter(k => k != 'terms' && booking[k] == 'on')}
+      Lisateenused: ${booking.additionalServices!.map(s => s.description).join(', ')}
       
       Broneerimistasu ${config.bookingFee.amount}€ tuleb tasuda ${config.bookingFee.days} päeva jooksul. 
       Kui ülekanne ei ole tähtaegselt laekunud, siis broneering tühistatakse.

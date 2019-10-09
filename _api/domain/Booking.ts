@@ -14,6 +14,7 @@ export default interface Booking extends Auditable {
   payments?: Array<Payment>
   adminComments?: string
   publicEvent?: boolean
+  additionalServices?: Array<{name: string, description: string, price: number}>
 }
 
 export interface Payment {

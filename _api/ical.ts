@@ -2,6 +2,7 @@ import {Router} from 'express'
 import {Db} from 'mongodb'
 import config from './config'
 import BookingService from "./domain/BookingService";
+import {additionalServices} from './admin/views/bookings'
 
 export default function ical(db: Db): Router {
   const ical = Router()
@@ -29,7 +30,7 @@ ORGANIZER;CN=${b.parentName}:MAILTO:${b.email}
 DTSTART:${ts(b.date + ' ' + b.time)}
 DTEND:${ts(b.date + ' ' + b.until)}
 SUMMARY:${b.childName} / ${b.childAge}
-DESCRIPTION:${b.parentName} ${b.phone} ${Object.keys(b).filter(k => k != 'terms' && b[k] == 'on').join(', ')}${b.comments ? ' - ' + b.comments.replace(/\n/g, '\\n') : ''}
+DESCRIPTION:${b.parentName} ${b.phone} ${additionalServices(b).join(', ')}${b.comments ? ' - ' + b.comments.replace(/\n/g, '\\n') : ''}
 END:VEVENT
 `).join('')}
 END:VCALENDAR
