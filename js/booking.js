@@ -81,7 +81,7 @@ function BookingDialog(selector, api, lang) {
 const bookingMessages = {
   en: {
     book: 'Book',
-    childName: 'Child\'s name',
+    childName: 'Child or event name',
     childAge: 'Child\'s age',
     parentName: 'Parent\'s name',
     email: 'Email',
@@ -93,7 +93,7 @@ const bookingMessages = {
   },
   et: {
     book: 'Broneeri',
-    childName: 'Lapse eesnimi',
+    childName: 'Lapse või sündmuse nimi',
     childAge: 'Kui vanaks saab?',
     parentName: 'Lapsevanema täisnimi',
     email: 'E-post',
@@ -105,7 +105,7 @@ const bookingMessages = {
   },
   ru: {
     book: 'Бронировать',
-    childName: 'Имя ребёнка',
+    childName: 'Имя ребёнка или мероприятия',
     childAge: 'Возраст ребёнка',
     parentName: 'Полное имя родителя',
     email: 'E-mail',
