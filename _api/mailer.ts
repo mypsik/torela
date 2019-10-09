@@ -2,6 +2,7 @@ import * as nodemailer from 'nodemailer'
 import config from "./config"
 import Contact from './domain/Contact'
 import Booking from './domain/Booking'
+import {additionalServices} from './admin/views/bookings'
 
 const mailTransport = nodemailer.createTransport({
   host: config.smtpHost,
@@ -36,7 +37,7 @@ export class Mailer {
       Telefon: ${booking.phone}
       Email: ${booking.email}
       Lisainfo: ${booking.comments}
-      Lisateenused: ${booking.additionalServices!.map(s => s.description).join(', ')}
+      Lisateenused: ${additionalServices(booking).join(', ')}
       
       Broneerimistasu ${config.bookingFee.amount}€ tuleb tasuda ${config.bookingFee.days} päeva jooksul. 
       Kui ülekanne ei ole tähtaegselt laekunud, siis broneering tühistatakse.

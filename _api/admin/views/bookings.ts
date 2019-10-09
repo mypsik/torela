@@ -70,6 +70,6 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
 }
 
 export function additionalServices(b: Booking): Array<string> {
-  if (b.additionalServices) return b.additionalServices.map(s => s.description)
+  if (b.additionalServices) return b.additionalServices.map(s => `${s.description} ${s.count ? ' ' + s.count + '×' : ''}${s.price}€`)
   else return Object.keys(b).filter(k => k != 'terms' && b[k] == 'on') // backwards compatibility
 }

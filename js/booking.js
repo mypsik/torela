@@ -8,6 +8,7 @@ function BookingDialog(selector, api, lang) {
     this.dialog.find('.close').on('click', function() {history.back()})
     this.addLabels()
     this.dialog.on('submit', this.submit.bind(this))
+    this.dialog.find('.services input[type=checkbox]').on('change', this.serviceToggled.bind(this))
   }
 
   this.addLabels = function() {
@@ -26,10 +27,13 @@ function BookingDialog(selector, api, lang) {
       const category = additionalServices[categoryKey]
       for (let key in category) {
         const service = category[key]
-        services.append('<label>' +
+        const priceUnitText = service.priceUnit ? ' / ' + (this.msg[service.priceUnit] || service.priceUnit) : ''
+        const el = $('<label>' +
           '<input type="checkbox" name="' + key + '" data-category="' + categoryKey + '"> ' +
-          '<span>' + service[lang] + ' <i>' + service.price + '€' + (service.priceUnit ? ' / ' + service.priceUnit : '') + '</i></span>' +
-        '</label>')
+          '<span>' + service[lang] + ' <i class="price">' + service.price + '€' + priceUnitText + '</i></span>' +
+        '</label>').appendTo(services)
+        if (service.priceUnit === 'person')
+          el.append('<input type="number" min="0" max="100" placeholder="' + this.msg['count'] + '">')
       }
     }
   }
@@ -49,6 +53,13 @@ function BookingDialog(selector, api, lang) {
     this.dialog.hide()
   }
 
+  this.serviceToggled = function(e) {
+    const countInput = $(e.target).closest('label').find('input[type=number]')
+    const checked = e.target.checked
+    countInput.toggle(checked).attr('required', checked)
+    if (checked) countInput.focus()
+  }
+
   this.submit = function(e) {
     e.preventDefault()
     const booking = {additionalServices: []}
@@ -57,10 +68,12 @@ function BookingDialog(selector, api, lang) {
         if (input.type === 'checkbox') {
           if (input.checked && input.name !== 'terms') {
             const service = additionalServices[input.dataset.category][input.name]
+            const countInput = $(input).closest('label').find('input[type=number]')
             booking.additionalServices.push({
               name: input.name,
               description: service[lang],
-              price: service.price
+              price: service.price,
+              count: countInput.val()
             })
           }
         }
@@ -94,6 +107,8 @@ const bookingMessages = {
     terms: 'Agree with <a href="/en/rules/" target="_blank">house rules</a>',
     comments: 'Comments',
     services: '<a href="/en/services/" target="_blank">Additional services</a>',
+    person: 'person',
+    count: 'How many?',
     success: 'Thank you for your booking! The confirmation has been sent to your email.'
   },
   et: {
@@ -106,6 +121,8 @@ const bookingMessages = {
     terms: 'Olen nõus mängutoa <a href="/kodukord/" target="_blank">kodukorraga</a>',
     comments: 'Lisainfo',
     services: '<a href="/lisateenused/" target="_blank">Lisateenused</a>',
+    person: 'inimene',
+    count: 'Mitu?',
     success: 'Aitäh broneeringu eest! Kinnitust saadeti teie e-postile. Kui mingi lisateenus jäi valimata, siis kirjutage meile!'
   },
   ru: {
@@ -118,6 +135,8 @@ const bookingMessages = {
     terms: 'Соглашаюсь соблюдать <a href="/en/rules/" target="_blank">правила игровой комнаты</a>',
     comments: 'Комментарии',
     services: '<a href="/ru/services/" target="_blank">Дополнительные услуги</a>',
+    person: 'человек',
+    count: 'Кол-во',
     success: 'Спасибо за бронировку! Подтверждение будет отослано вам на e-mail. Если какая-то дополнительная услуга осталась невыбранной, то пишите нам!'
   }
 }
@@ -154,12 +173,19 @@ const additionalServices = {
     }
   },
   catering: {
-    catering: {
+    menu1: {
       en: 'Kids\' Favorites',
       et: 'Laste lemmikud',
       ru: 'Любимое детей',
       price: 80,
       priceUnit: ''
+    },
+    menu2: {
+      en: 'Parent\'s Favorites',
+      et: 'Vanemate lemmikud',
+      ru: 'Любимое родителей',
+      price: 10,
+      priceUnit: 'person'
     },
     cakeTopperBanner: {
       en: 'Cake topper and banner, from',
