@@ -22,9 +22,15 @@ function BookingDialog(selector, api, lang) {
     }
 
     const services = this.dialog.find('.services')
-    for (let key in additionalServices) {
-      const service = additionalServices[key]
-      services.append('<label><input type="checkbox" name="' + key + '"> <span>' + service[lang] + ' <i>' + service.price + '€' + (service.priceUnit ? ' / ' + service.priceUnit : '') + '</i></span></label>')
+    for (let categoryKey in additionalServices) {
+      const category = additionalServices[categoryKey]
+      for (let key in category) {
+        const service = category[key]
+        services.append('<label>' +
+          '<input type="checkbox" name="' + key + '" data-category="' + categoryKey + '"> ' +
+          '<span>' + service[lang] + ' <i>' + service.price + '€' + (service.priceUnit ? ' / ' + service.priceUnit : '') + '</i></span>' +
+        '</label>')
+      }
     }
   }
 
@@ -50,7 +56,7 @@ function BookingDialog(selector, api, lang) {
       if (input.name) {
         if (input.type === 'checkbox') {
           if (input.checked && input.name !== 'terms') {
-            const service = additionalServices[input.name]
+            const service = additionalServices[input.dataset.category][input.name]
             booking.additionalServices.push({
               name: input.name,
               description: service[lang],
@@ -117,137 +123,145 @@ const bookingMessages = {
 }
 
 const additionalServices = {
-  cleaning: {
-    en: 'Cleaning',
-    et: 'Koristus',
-    ru: 'Уборка',
-    price: 25,
-    priceUnit: ''
-  },
-  facePainting: {
-    en: 'Face painting',
-    et: 'Näomaalingud',
-    ru: 'Крашенье лиц',
-    price: 50,
-    priceUnit: '1h'
-  },
-  balloonAnimals: {
-    en: 'Balloon Animals',
-    et: 'Õhupalliloomad',
-    ru: 'Животные из воздушных шаров',
-    price: 70,
-    priceUnit: '1h'
+  general: {
+    cleaning: {
+      en: 'Cleaning',
+      et: 'Koristus',
+      ru: 'Уборка',
+      price: 25,
+      priceUnit: ''
+    },
+    reusableTablewareFree: {
+      en: 'Reusable tableware',
+      et: 'Korduvkasutatavad nõud',
+      ru: 'Многоразовая посуда',
+      price: 0,
+      priceUnit: ''
+    },
+    reusableTablewareWash: {
+      en: 'Reusable tableware washing',
+      et: 'Korduvkasutatavate nõuete pesemine',
+      ru: 'Мойка многоразовая посуды',
+      price: 10,
+      priceUnit: ''
+    },
+    disposableTableware: {
+      en: 'Disposable tableware (set)',
+      et: 'Ühekordsed nõud (kmp)',
+      ru: 'Одноразовая посуда (комплект)',
+      price: 1,
+      priceUnit: ''
+    }
   },
   catering: {
-    en: 'Kids\' Favorites',
-    et: 'Laste lemmikud',
-    ru: 'Любимое детей',
-    price: 80,
-    priceUnit: ''
+    catering: {
+      en: 'Kids\' Favorites',
+      et: 'Laste lemmikud',
+      ru: 'Любимое детей',
+      price: 80,
+      priceUnit: ''
+    },
+    cakeTopperBanner: {
+      en: 'Cake topper and banner, from',
+      et: 'Koogitopper ja bänner, alates',
+      ru: 'Торт Топпер и баннер, от',
+      price: 6,
+      priceUnit: ''
+    },
   },
-  icecreamMachine: {
-    en: 'Icecream machine',
-    et: 'Jäätisemasin',
-    ru: 'Машина для изготовления мороженного',
-    price: 59,
-    priceUnit: ''
+  memories: {
+    photographer: {
+      en: 'Photographer',
+      et: 'Fotograaf',
+      ru: 'Фотограф',
+      price: 135,
+      priceUnit: ''
+    },
+    videographer: {
+      en: 'Videographer',
+      et: 'Videograaf',
+      ru: 'Видеограф',
+      price: 300,
+      priceUnit: '3h'
+    }
   },
-  cottoncandy: {
-    en: 'Cottoncandy machine',
-    et: 'Suhkruvatimasin',
-    ru: 'Машина сахарной ваты',
-    price: 55,
-    priceUnit: ''
-  },
-  photographer: {
-    en: 'Photographer',
-    et: 'Fotograaf',
-    ru: 'Фотограф',
-    price: 135,
-    priceUnit: ''
-  },
-  videographer: {
-    en: 'Videographer',
-    et: 'Videograaf',
-    ru: 'Видеограф',
-    price: 300,
-    priceUnit: '3h'
-  },
-  bugsShow: {
-    en: 'Bugs program',
-    et: 'Putukaprogramm',
-    ru: 'Программа с насекомыми',
-    price: 125,
-    priceUnit: '45min'
-  },
-  partyAnimator: {
-    en: 'Animator, from',
-    et: 'Peojuht, alates',
-    ru: 'Аниматор, от',
-    price: 150,
-    priceUnit: '1-1,5h'
-  },
-  magician: {
-    en: 'Magician',
-    et: 'Mustkunstnik',
-    ru: 'Фокусник',
-    price: 115,
-    priceUnit: '30min'
-  },
-  scienceTheater: {
-    en: 'Science theater',
-    et: 'Teadusteater',
-    ru: 'Научный театр',
-    price: 132,
-    priceUnit: '45min'
-  },
-  scienceWorkshop: {
-    en: 'Science workshop',
-    et: 'Teadustöötuba',
-    ru: 'Научная мастерская',
-    price: 132,
-    priceUnit: '45min'
-  },
-  scienceShow: {
-    en: 'Science show',
-    et: 'Teadusshow',
-    ru: 'Научное шоу',
-    price: 270,
-    priceUnit: '30min'
-  },
-  bubbleShow: {
-    en: 'Bubble show',
-    et: 'Mullishow',
-    ru: 'Шоу мыльных пузырей',
-    price: 80,
-    priceUnit: '30min'
-  },
-  cakeTopperBanner: {
-    en: 'Cake topper and banner, from',
-    et: 'Koogitopper ja bänner, alates',
-    ru: 'Торт Топпер и баннер, от',
-    price: 6,
-    priceUnit: ''
-  },
-  reusableTablewareFree: {
-    en: 'Reusable tableware',
-    et: 'Korduvkasutatavad nõud',
-    ru: 'Многоразовая посуда',
-    price: 0,
-    priceUnit: ''
-  },
-  reusableTablewareWash: {
-    en: 'Reusable tableware washing',
-    et: 'Korduvkasutatavate nõuete pesemine',
-    ru: 'Мойка многоразовая посуды',
-    price: 10,
-    priceUnit: ''
-  },
-  disposableTableware: {
-    en: 'Disposable tableware (set)',
-    et: 'Ühekordsed nõud (kmp)',
-    ru: 'Одноразовая посуда (комплект)',
-    price: 1,
-    priceUnit: ''
+  entertainment: {
+    facePainting: {
+      en: 'Face painting',
+      et: 'Näomaalingud',
+      ru: 'Крашенье лиц',
+      price: 50,
+      priceUnit: '1h'
+    },
+    balloonAnimals: {
+      en: 'Balloon Animals',
+      et: 'Õhupalliloomad',
+      ru: 'Животные из воздушных шаров',
+      price: 70,
+      priceUnit: '1h'
+    },
+    icecreamMachine: {
+      en: 'Icecream machine',
+      et: 'Jäätisemasin',
+      ru: 'Машина для изготовления мороженного',
+      price: 59,
+      priceUnit: ''
+    },
+    cottoncandy: {
+      en: 'Cottoncandy machine',
+      et: 'Suhkruvatimasin',
+      ru: 'Машина сахарной ваты',
+      price: 55,
+      priceUnit: ''
+    },
+    bugsShow: {
+      en: 'Bugs program',
+      et: 'Putukaprogramm',
+      ru: 'Программа с насекомыми',
+      price: 125,
+      priceUnit: '45min'
+    },
+    partyAnimator: {
+      en: 'Animator, from',
+      et: 'Peojuht, alates',
+      ru: 'Аниматор, от',
+      price: 150,
+      priceUnit: '1-1,5h'
+    },
+    magician: {
+      en: 'Magician',
+      et: 'Mustkunstnik',
+      ru: 'Фокусник',
+      price: 115,
+      priceUnit: '30min'
+    },
+    scienceTheater: {
+      en: 'Science theater',
+      et: 'Teadusteater',
+      ru: 'Научный театр',
+      price: 132,
+      priceUnit: '45min'
+    },
+    scienceWorkshop: {
+      en: 'Science workshop',
+      et: 'Teadustöötuba',
+      ru: 'Научная мастерская',
+      price: 132,
+      priceUnit: '45min'
+    },
+    scienceShow: {
+      en: 'Science show',
+      et: 'Teadusshow',
+      ru: 'Научное шоу',
+      price: 270,
+      priceUnit: '30min'
+    },
+    bubbleShow: {
+      en: 'Bubble show',
+      et: 'Mullishow',
+      ru: 'Шоу мыльных пузырей',
+      price: 80,
+      priceUnit: '30min'
+    },
   }
 }
