@@ -107,7 +107,6 @@ const bookingMessages = {
     terms: 'Agree with <a href="/en/rules/" target="_blank">house rules</a>',
     comments: 'Comments',
     services: '<a href="/en/services/" target="_blank">Additional services</a>',
-    person: 'person',
     count: 'How many?',
     success: 'Thank you for your booking! The confirmation has been sent to your email.'
   },
@@ -122,6 +121,7 @@ const bookingMessages = {
     comments: 'Lisainfo',
     services: '<a href="/lisateenused/" target="_blank">Lisateenused</a>',
     person: 'inimene',
+    set: 'kmpl',
     count: 'Mitu?',
     success: 'Aitäh broneeringu eest! Kinnitust saadeti teie e-postile. Kui mingi lisateenus jäi valimata, siis kirjutage meile!'
   },
@@ -136,6 +136,7 @@ const bookingMessages = {
     comments: 'Комментарии',
     services: '<a href="/ru/services/" target="_blank">Дополнительные услуги</a>',
     person: 'человек',
+    set: 'комплект',
     count: 'Кол-во',
     success: 'Спасибо за бронировку! Подтверждение будет отослано вам на e-mail. Если какая-то дополнительная услуга осталась невыбранной, то пишите нам!'
   }
@@ -165,11 +166,12 @@ const additionalServices = {
       priceUnit: ''
     },
     disposableTableware: {
-      en: 'Disposable tableware (set)',
-      et: 'Ühekordsed nõud (kmp)',
-      ru: 'Одноразовая посуда (комплект)',
+      en: 'Disposable tableware',
+      et: 'Ühekordsed nõud',
+      ru: 'Одноразовая посуда',
       price: 1,
-      priceUnit: ''
+      priceUnit: 'set',
+      requestCount: true
     }
   },
   catering: {
