@@ -32,7 +32,7 @@ function BookingDialog(selector, api, lang) {
           '<input type="checkbox" name="' + key + '" data-category="' + categoryKey + '"> ' +
           '<span>' + service[lang] + ' <i class="price">' + service.price + '€' + priceUnitText + '</i></span>' +
         '</label>').appendTo(services)
-        if (service.priceUnit === 'person')
+        if (service.requestCount)
           el.append('<input type="number" min="0" max="100" placeholder="' + this.msg['count'] + '">')
       }
     }
@@ -177,15 +177,17 @@ const additionalServices = {
       en: 'Kids\' Favorites',
       et: 'Laste lemmikud',
       ru: 'Любимое детей',
-      price: 80,
-      priceUnit: ''
+      price: 8,
+      priceUnit: 'person',
+      requestCount: true
     },
     menu2: {
       en: 'Parent\'s Favorites',
       et: 'Vanemate lemmikud',
       ru: 'Любимое родителей',
       price: 10,
-      priceUnit: 'person'
+      priceUnit: 'person',
+      requestCount: true
     },
     cakeTopperBanner: {
       en: 'Cake topper and banner, from',
