@@ -179,18 +179,18 @@ const additionalServices = {
       en: 'Kids\' Favorites',
       et: 'Laste lemmikud',
       ru: 'Любимое детей',
-      price: 8,
-      priceUnit: 'person',
-      requestCount: true
+      price: 80,
+      // priceUnit: 'person',
+      // requestCount: true
     },
-    menu2: {
-      en: 'Parent\'s Favorites',
-      et: 'Vanemate lemmikud',
-      ru: 'Любимое родителей',
-      price: 10,
-      priceUnit: 'person',
-      requestCount: true
-    },
+    // menu2: {
+    //   en: 'Parent\'s Favorites',
+    //   et: 'Vanemate lemmikud',
+    //   ru: 'Любимое родителей',
+    //   price: 10,
+    //   priceUnit: 'person',
+    //   requestCount: true
+    // },
     cakeTopperBanner: {
       en: 'Cake topper and banner, from',
       et: 'Koogitopper ja bänner, alates',
