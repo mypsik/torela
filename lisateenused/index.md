@@ -177,7 +177,7 @@ TEADUSSHOW - 270€/30min
   
 MULLISHOW - 80€/30min
 
-: Mullimeister toob sünnipäevale elevust! Show sisaldab trikke seebimullidega (erineva suurusega mullid, mullilohed, mullitorud, mulli batuut, mulli akvaarium jne).
+: Mullimeister (http://mullimeister.ee) toob sünnipäevale elevust! Show sisaldab trikke seebimullidega (erineva suurusega mullid, mullilohed, mullitorud, mulli batuut, mulli akvaarium jne).
 
   „Inimene seebimullis” - kõik lapsed võlutakse mulli sisse.
 
@@ -198,10 +198,6 @@ MULLISHOW - 80€/30min
   *Pärast Mullimeistri etteastet saavad kõik lapsed ise suuri mulle puhuda.
 
   <img alt="Mullishow" src="mullishow-700x460.jpg" height="150">
-  
-HEELIUMIGA TÄIDETUD ÕHUPALLID
-
-: Täpsem info lisatakse peagi.
   
   
 KOOGITOPPERID JA BÄNNERID - al 6€
