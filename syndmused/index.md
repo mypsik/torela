@@ -9,15 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**07.10 (10.00-13.00) - MÄNGUHOMMIK**
-Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
-
-**10.10 (10.00-13.00) - MÄNGUHOMMIK**
-Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
 
 **14.10 (10.00-13.00) - MÄNGUHOMMIK + RIIDEST MÄHKMETE TUTVUSTAMINE + BABYBOX**
 Mahkmed.eu tutvustab riidest mähkmeid! Kõik huvilised on väga oodatud tutvuma erinevate mähkmetüüpide ja tootjate toodanguga. Külla tuleb ka BabyBox, kes tutvustab oma väga praktilist vastsündinu-kasti, kus on olemas kõik vajalik uue lapse tulekuks! Alla aastaste laste vanematele on üritus TASUTA, teistele on osalustasu 5€. Samal ajal kui vanemad mähkmemaailmaga tutvuvad, saavad suuremad lapsed mõnusalt mängutoas mängida! Laual head-paremat ja kohv!
