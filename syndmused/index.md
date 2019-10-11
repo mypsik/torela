@@ -61,4 +61,10 @@ Registreerimine: tore@torela.ee, teavitus chat'i või "going" üritusele.
 
 ***
 
+**VÕIMALIK SOETADA ENDALE 5X MÄNGUHOMMIKUTE- JA ÕHTUTE KAART - HIND 25€.**
+
+Nimelise digitaalse kaardi saadame meilile. Kaart kehtib vaid 7€ maksva ürituste korral ja kehtib 3 kuud alates ostust.
+
+
+
 Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!
