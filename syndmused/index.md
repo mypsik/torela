@@ -65,6 +65,6 @@ Registreerimine: tore@torela.ee, teavitus chat'i või "going" üritusele.
 
 Nimelise digitaalse kaardi saadame meilile. Kaart kehtib vaid 7€ maksva ürituste korral ja kehtib 3 kuud alates ostust.
 
-
+<img alt="5xkaart" src="MÄNGUHOMMIKUD.png" height="150">
 
 Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!
