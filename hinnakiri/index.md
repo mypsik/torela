@@ -19,6 +19,7 @@ Kohapeal saab maksta ainult sularahas!
 **VARAJASE BRONEERIJA SOODUSTUS:**
 
 1 kuu **-10%**
+
 2 kuud ja enam **-20%**
 
 Pakume ka palju lisateenuseid, mis muudavad peo meeldejäävamaks. Tutvu lisateenustega: [LISATEENUSED](/lisateenused/)
