@@ -255,7 +255,7 @@ const additionalServices = {
       en: 'Animator, from',
       et: 'Peojuht, alates',
       ru: 'Аниматор, от',
-      price: 150,
+      price: 180,
       priceUnit: '1-1,5h'
     },
     magician: {
