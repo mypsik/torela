@@ -160,7 +160,7 @@ const additionalServices = {
     },
     reusableTablewareWash: {
       en: 'Reusable tableware washing',
-      et: 'Korduvkasutatavate nõuete pesemine',
+      et: 'Korduvkasutatavate nõude pesemine',
       ru: 'Мойка многоразовая посуды',
       price: 10,
       priceUnit: ''
