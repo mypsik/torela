@@ -10,10 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**14.10 (10.00-13.00) - MÄNGUHOMMIK + RIIDEST MÄHKMETE TUTVUSTAMINE + BABYBOX**
-Mahkmed.eu tutvustab riidest mähkmeid! Kõik huvilised on väga oodatud tutvuma erinevate mähkmetüüpide ja tootjate toodanguga. Külla tuleb ka BabyBox, kes tutvustab oma väga praktilist vastsündinu-kasti, kus on olemas kõik vajalik uue lapse tulekuks! Alla aastaste laste vanematele on üritus TASUTA, teistele on osalustasu 5€. Samal ajal kui vanemad mähkmemaailmaga tutvuvad, saavad suuremad lapsed mõnusalt mängutoas mängida! Laual head-paremat ja kohv!
-
-
 **16.10 (16.00-20.00) - LASTEMOE POP-UP ÕHTU**
 Kolmapäeva õhtul on meil külas toredad Eesti tegijad, kes tutvustad ja müüvad oma toodangut! 
 Kohal on Safal Kids, Nipsti jt. 
@@ -35,21 +31,32 @@ Lapsed saavad mängida ja vanemad saavad osa võtta vestlusringist, kuidas eeter
 Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
 
 
-**24.10 (10.00-13.00) - MÄNGUHOMMIK**
+**24.10 (10.00-13.00) - MÄNGUHOMMIK + UNELOENG**
+Seekord on külas ka Unekoolist Õnne Liv Valberg, kes räägib beebide unest. Kõik, kellel mure tihti ärkava beebiga või soov une kohta rohkem teada saada, olete väga oodatud! 
+
+Käsitletavad teemad: beebi une eripärad, kogu perele sobiva päevakava kujundamine, öö- ja päevauni, leebed unekooli meetodid.
+Loeng-vestlus kestab umbes 1,5 tundi.
+
 Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+
+Osalustasu 10€ (laps+vanem, pere järgmine laps +3€). Ilma lapseta 5€.
+Kohapeal saab tasuda ainult sularahas!
 
 
 **28.10 (10.00-13.00) - KAISUKARUPÄEV**
 Tähistame rahvusvahelist kaisukarupäeva! Külla tuleb Imbi Potter, kellega laulame, tantsime ja mängime! 
-Võimalusel kaasa võtta kodust oma väike kaisukaru! Laual head-paremat ja kohv-tee!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-
-**30.10 (18.00-21.00) - LAPSEOOTEL NAISTE ÕHTU**
+Külla tulevad ka kaisukarud! Loomulikult võib kaasa võtta ka oma lemmik-kaisukaru! 
 Laual karu-näks ja kohv!
 
-Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
+Osalustasu 10€ (laps+vanem, pere järgmine laps +5€)
+
+**30.10 (18.00-21.00) - SLIME'I töötuba**
+
+Osalustasu 10€ (laps+vanem, pere järgmine laps +5€)
 Kohapeal saab tasuda ainult sularahas!
+
+Laual head-paremat ja kohv-tee!
+
 Registreerimine: tore@torela.ee, teavitus chat'i või "going" üritusele. 
 
 
