@@ -22,6 +22,7 @@ Kohapeal saab maksta ainult sularahas!
 
 2 kuud ja enam **-20%**. Lisada broneerimisel sooduskood: **VARAJANE20**
 
+***
 
 Pakume ka palju lisateenuseid, mis muudavad peo meeldejäävamaks. Tutvu lisateenustega: [LISATEENUSED](/lisateenused/)
 
