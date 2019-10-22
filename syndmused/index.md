@@ -10,11 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**21.10 (10.00-13.00) - MÄNGUHOMMIK + eeterlike õlidega haiguste vastu**
-Lapsed saavad mängida ja vanemad saavad osa võtta vestlusringist, kuidas eeterlike õlide abil tervist tugevdada! Laual head-paremat ja kohv-tee!
-Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
-
-
 **23.10 (18.00-21.00) - MÄNGUÕHTU+ eeterlike õlidega haiguste vastu**
 Lapsed saavad mängida ja vanemad saavad osa võtta vestlusringist, kuidas eeterlike õlide abil tervist tugevdada! Laual head-paremat ja kohv-tee!
 Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
