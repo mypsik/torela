@@ -88,10 +88,10 @@ Osalustasu: 7€ (laps+vanem, pere järgmine laps +3€)
 
 ***
 
-**VÕIMALIK SOETADA ENDALE MÄNGUHOMMIKUTE- JA ÕHTUTE 5X KAART - HIND 25€.**
+**VÕIMALIK SOETADA ENDALE MÄNGUHOMMIKUTE JA -ÕHTUTE 5X KAART - HIND 25€.**
 
 Nimelise digitaalse kaardi saadame meilile. Kaart kehtib vaid 7€ maksva ürituste korral ja kehtib 3 kuud alates ostust.
 
-<img alt="5xkaart" src="5xkaart.png" height="200">
+<img alt="5xkaart" src="5x-kaart.png" height="200">
 
 Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!
