@@ -9,11 +9,6 @@ ru: /ru/events/
 PLAY-MORNINGS
 
 
-**21.10 (10.00-13.00) - Play-morning + essential oils for immune support**
-Külvi is coming and talks how to support immune system with essential oils! We'll offer you snacks and coffee!
-Participation fee 10 € (child + parent), another child of the same family +3€.
-
-
 **23.10 (18.00-21.00) - Play-evening + essential oils for immune support**
 Külvi is coming and talks how to support immune system with essential oils! We'll offer you snacks and coffee!
 Participation fee 10 € (child + parent), another child of the same family +3€.
