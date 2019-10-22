@@ -123,7 +123,7 @@ const bookingMessages = {
     person: 'inimene',
     set: 'kmpl',
     count: 'Mitu?',
-    success: 'Aitäh broneeringu eest! Kinnitust saadeti teie e-postile. Kui mingi lisateenus jäi valimata, siis kirjutage meile!'
+    success: 'Aitäh broneeringu eest! Kinnitus saadeti teie e-postile. Kui mõni lisateenus jäi valimata, siis kirjutage meile!'
   },
   ru: {
     book: 'Бронировать',
