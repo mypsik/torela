@@ -23,7 +23,7 @@ Loeng-vestlus kestab umbes 1,5 tundi.
 
 Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
 
-Osalustasu 10€ (laps+vanem, pere järgmine laps +3€). Ilma lapseta 5€.
+Osalustasu: 10€
 Kohapeal saab tasuda ainult sularahas!
 
 
