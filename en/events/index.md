@@ -20,7 +20,7 @@ This time Õnne Liv Valberg talks about baby sleep. Anyone who often worries abo
 Topics covered: baby sleep specifics, family-friendly agenda, night and day sleep, gentle sleep school methods. Lecture talk lasts about 1.5 hours.
 
 We'll offer you snacks and coffee!
-Participation fee 7 € (child + parent), another child of the same family +3€.
+Participation fee: 10 €
 
 
 **28.10 (10.00-13.00) - Teddy Bear Day**
