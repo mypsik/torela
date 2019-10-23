@@ -10,18 +10,13 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**23.10 (18.00-21.00) - MÄNGUÕHTU+ eeterlike õlidega haiguste vastu**
-Lapsed saavad mängida ja vanemad saavad osa võtta vestlusringist, kuidas eeterlike õlide abil tervist tugevdada! Laual head-paremat ja kohv-tee!
-Osalustasu 10€ (laps+vanem, pere järgmine laps +3€)
-
-
 **24.10 (10.00-13.00) - MÄNGUHOMMIK + UNELOENG**
 Seekord on külas ka Unekoolist Õnne Liv Valberg, kes räägib beebide unest. Kõik, kellel mure tihti ärkava beebiga või soov une kohta rohkem teada saada, olete väga oodatud! 
 
 Käsitletavad teemad: beebi une eripärad, kogu perele sobiva päevakava kujundamine, öö- ja päevauni, leebed unekooli meetodid.
 Loeng-vestlus kestab umbes 1,5 tundi.
 
-Mänguhommikutel saavad lapsed mängutoas mängida! Laual head-paremat ja kohv-tee!
+Mänguhommikutel saavad lapsed mängutoas mängida! Laual õunakook, muud head-paremat ja kohv-tee!
 
 Osalustasu: 10€
 Kohapeal saab tasuda ainult sularahas!
