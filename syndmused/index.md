@@ -10,25 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**24.10 (10.00-13.00) - MÄNGUHOMMIK + UNELOENG**
-Seekord on külas ka Unekoolist Õnne Liv Valberg, kes räägib beebide unest. Kõik, kellel mure tihti ärkava beebiga või soov une kohta rohkem teada saada, olete väga oodatud! 
-
-Käsitletavad teemad: beebi une eripärad, kogu perele sobiva päevakava kujundamine, öö- ja päevauni, leebed unekooli meetodid.
-Loeng-vestlus kestab umbes 1,5 tundi.
-
-Mänguhommikutel saavad lapsed mängutoas mängida! Laual õunakook, muud head-paremat ja kohv-tee!
-
-Osalustasu: 10€
-Kohapeal saab tasuda ainult sularahas!
-
-
-**28.10 (10.00-13.00) - KAISUKARUPÄEV**
-Tähistame rahvusvahelist kaisukarupäeva! Külla tuleb Imbi Potter, kellega laulame, tantsime ja mängime! 
-Külla tulevad ka kaisukarud! Loomulikult võib kaasa võtta ka oma lemmik-kaisukaru! 
-Laual karu-näks ja kohv!
-
-Osalustasu 10€ (laps+vanem, pere järgmine laps +5€)
-
 **30.10 (18.00-21.00) - SLIME'I töötuba**
 SLIME'i Töötuba!
 Külla tuleb BabyStore.ee, kes näitab kuidas valmistada SLIME'i ehk päris ehtsat mängulima! Slime on suurepärane meelelahutus kõigile! Ka Teile kallid vanemad on see mõnus stressileevendus 😊
@@ -48,7 +29,7 @@ Laual head-paremat ja kohv-tee!
 **31.10 (10.00-13.00) - MÄNGUHOMMIK**
 Laual head-paremat ja kohv! 
 
-Osalustasu: 7€ (laps+vanem, pere järgmine laps +3€)
+Osalustasu: 7€ (laps+vanem, +3€ pere järgmine laps)
 
 
 **31.10 (18.00-21.00) - Halloweeni kostüümikas**
@@ -62,6 +43,12 @@ Osalustasu: 7€ (laps+vanem, +3€ pere järgmine laps)
 Laual head-paremat ja kohv! 
 
 Osalustasu: 7€ (laps+vanem, pere järgmine laps +3€)
+
+
+**06.11 (18.00-21.00) - Mardipäev**
+Laual head-paremat ja kohv! 
+
+Osalustasu: 10€ (laps+vanem, pere järgmine laps +5€)
 
 
 **07.11 (10.00-13.00) - PANNKOOGIHOMMIK**
