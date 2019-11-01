@@ -8,8 +8,8 @@ ru: /ru/services/
 ---
 
 PEOJÄRGNE KORISTAMINE - 25€
-: Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame ja peseme kõik ise.
-
+: Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame mänguruumid ise!
+  *Korduvkasutatavate nõude kasutamisel tuleb nõud ise puhtaks pesta. Kui soovite, et meie seda teeme, siis lisandub nõudepesu eest 10€. 
   <img alt="Koristamine" src="Canva - null (1).jpg" height="150"> 
 
 NÄOMAALINGUD - 50€/1h
