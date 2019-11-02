@@ -22,3 +22,6 @@ COPY --from=build /api/build /api
 
 CMD node index.js
 EXPOSE 5000
+
+HEALTHCHECK --start-period=5s --interval=5m --timeout=3s \
+  CMD wget --quiet --tries=1 --spider http://localhost:5000/api/bookings || exit 1
