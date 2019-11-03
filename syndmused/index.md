@@ -15,12 +15,6 @@ Laual head-paremat ja kohv!
 
 Osalustasu: 7€ (laps+vanem, pere järgmine laps +3€)
 
-**06.11 (10.00-13.00) - PANNKOOGIHOMMIK**
-Neljapäev on kõige õige pannkoogipäev! Tulge pannkooke sööma! 
-Laual palju-palju pannkooke ja erinevaid moose!
-Pakume ka piima ja kohvi! 
-
-Osalustasu: 7€ (laps+vanem, pere järgmine laps +3€)
 
 **06.11 (18.00-21.00) - Mardipäev**
 Laual head-paremat ja kohv! 
@@ -28,6 +22,12 @@ Laual head-paremat ja kohv!
 Osalustasu: 10€ (laps+vanem, pere järgmine laps +5€)
 
 
+**14.11 (10.00-13.00) - PANNKOOGIHOMMIK**
+Neljapäev on kõige õige pannkoogipäev! Tulge pannkooke sööma! 
+Laual palju-palju pannkooke ja erinevaid moose!
+Pakume ka piima ja kohvi! 
+
+Osalustasu: 7€ (laps+vanem, pere järgmine laps +3€)
 
 ÜRITUSTELE PALUME REGISTREERIDA: tore@torela.ee, teavitus chat'i või "going" üritusele. 
 
