@@ -14,6 +14,16 @@ PEOJÄRGNE KORISTAMINE - 25€
   
   <img alt="Koristamine" src="Canva - null (1).jpg" height="150"> 
 
+KORDUVKASUTATAVAD NÕUD - TASUTA
+: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 28 inimesele. 
+
+  **Nõud tuleb ise puhtaks pesta.** 
+  
+  Õhtustele pidudele (18-21) pakume lisateenusena ka kasutatud nõude pesemist - 10€.
+
+  <img alt="Nõud" src="n6ud-1.jpg" height="150">
+  
+
 NÄOMAALINGUD - 50€/1h
 
 : Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
@@ -228,14 +238,6 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   <img alt="Värvivalik3" src="v2rvivalik3.jpg" height="150">
   <img alt="Glitter1" src="glitter1.jpg" height="150">
   
-  
-KORDUVKASUTATAVAD NÕUD - TASUTA
-: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 28 inimesele. 
-
-  **Nõud tuleb ise puhtaks pesta.** 
-  
-  Õhtustele pidudele (18-21) pakume lisateenusena ka kasutatud nõude pesemist - 10€.
-
-  <img alt="Nõud" src="n6ud-1.jpg" height="150">
+ 
 
 
