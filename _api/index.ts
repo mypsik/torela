@@ -30,11 +30,9 @@ app.use((req, res, next) => {
 
 const mongoClient = new MongoClient(`mongodb://${config.mongoHost}:27017`, {
   auth: {user: 'torela', password: config.password},
-  useNewUrlParser: true, useUnifiedTopology: true,
-  reconnectTries: 10
+  useNewUrlParser: true, useUnifiedTopology: true
 })
 
-mongoClient.on('reconnect', () => console.log('Mongo reconnected'))
 mongoClient.on('close', () => {
   console.log('Mongo connection lost, exiting')
   process.exit(1)
