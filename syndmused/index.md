@@ -10,21 +10,11 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**06.11 (18.00-21.00) - Mardipäev Imbi Potteriga**
-Mardipäev tulemas ja Imbi Potter tuleb külla, et lastega laulda ja tantsida! Meisterdame ka koos mardimaske ja räägime mardipäeva traditsioonist! Juhendatud tegevus algab ~18.15 ja kestab ~45 minutit. 
-
-Soovitatav vanus 3+.
-
-Kindlasti palume registreerida: tore@torela.ee või "going" siin üritusel.
-
-Osalustasu: 10€ (laps + vanem, +5€ pere järgmine laps) 
-Kohapeal saab maksta sularahas!
-
-**11.11 (18.00-21.00) - Mänguhommik + riidest mähkmete tutvustus!**
+**11.11 (10.00-13.00) - Mänguhommik + riidest mähkmete tutvustus!**
 Esmaspäeval tutvustab mähkmed.eu taas riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
 Loomulikult on kõik oodatud ka niisama mängima! 
 Laual head-paremat ja kohv! 
-Osalustasu: 5€.  
+Osalustasu: 5€
 Kohapeal saab maksta sularahas!
 
 **14.11 (10.00-13.00) - PANNKOOGIHOMMIK**
