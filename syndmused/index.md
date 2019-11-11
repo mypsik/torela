@@ -18,7 +18,7 @@ Osalustasu: 5€
 Kohapeal saab maksta sularahas!
 
 **14.11 (10.00-13.00) - PANNKOOGIHOMMIK**
-Neljapäev on kõige õige pannkoogipäev! Tulge pannkooke sööma! 
+Neljapäev on kõige õigem pannkoogipäev! Tulge pannkooke sööma! 
 Laual palju-palju pannkooke ja erinevaid moose!
 Pakume ka piima ja kohvi! 
 
