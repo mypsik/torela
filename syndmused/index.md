@@ -10,21 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**11.11 (10.00-13.00) - Mänguhommik + riidest mähkmete tutvustus!**
-Esmaspäeval tutvustab mähkmed.eu taas riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
-Loomulikult on kõik oodatud ka niisama mängima! 
-Laual head-paremat ja kohv! 
-Osalustasu: 5€
-Kohapeal saab maksta sularahas!
-
-**14.11 (10.00-13.00) - PANNKOOGIHOMMIK**
-Neljapäev on kõige õigem pannkoogipäev! Tulge pannkooke sööma! 
-Laual palju-palju pannkooke ja erinevaid moose!
-Pakume ka piima ja kohvi! 
-
-Osalustasu: 7€ (laps+vanem, pere järgmine laps +3€)
-
-
 **18.11 (10.00-13.00) - MÄNGUHOMMIK**
 Ootame teid mänguhommikule! Laua head-paremat ja kohv!
 
