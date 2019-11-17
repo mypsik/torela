@@ -67,12 +67,7 @@ KAETUD PEOLAUD "Laste lemmikud" - 80€
 
 CATERING Kalamaja Gastro
 
-: Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :) 
-  
-  <img alt="Kalamaja-gastro-1 src="catering-1.png" height="1052">
-  
-  <img alt="Kalamaja-gastro-2 src="catering-2.png" height="1052">
-
+: Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :)
 
 RETROVAHVLID - 8€/10tk
 
