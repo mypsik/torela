@@ -69,6 +69,8 @@ CATERING Kalamaja Gastro
 
 : Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :)
 
+Tellimuse saate esitada mängutoa broneerimisel lisainfosse või e-posti teel tore@torela.ee.
+
   <img alt="Catering1" src="catering-1.png" height="700">
   <img alt="Catering2" src="catering-2.png" height="700">
 
