@@ -65,7 +65,7 @@ KAETUD PEOLAUD - al 35€
 
   **LIHTNE AMPS**
   
-  Kartulisalat/makaronisalat, viineripirukad/singi-juusturullid, juurviljavaagen ja morss.
+  Kartulisalat/makaronisalat, viineripirukad/singi-juusturullid, juurviljavaagen, popcorn ja morss.
   
   10-le - 39€
   
@@ -95,7 +95,7 @@ KAETUD PEOLAUD - al 35€
   
   **HEA SUUTÄIS**
   
-  Kartuli-singisalat/makaroni-singisalat, singipirukas/viineripirukas/lihapirukas (pärmi-lehttaignast), täidetud munad, singirullid, juustuküpsised, juurviljavaagen, puuviljavaagen ja mahl.
+  Kartuli-singisalat/makaroni-singisalat, singipirukas/viineripirukas/lihapirukas (pärmi-lehttaignast), täidetud munad, singirullid, juustuküpsised, juurviljavaagen, puuviljavaagen, popcorn ja mahl.
   
   10-le - 89€
   
@@ -109,7 +109,7 @@ KAETUD PEOLAUD - al 35€
   
   **MAITSEV TAIMNE**
   
-  Vinegrett/vegan kartulisalat, juurviljavaagen, puuviljavaagen, vegan lavaširull, mahl.
+  Vinegrett/vegan kartulisalat, juurviljavaagen, puuviljavaagen, vegan lavaširull, popcorn ja mahl.
   
   10-le - 69€
   
