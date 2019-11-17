@@ -84,13 +84,13 @@ KAETUD PEOLAUD - al 35€
   
   10-le - 59€
   
-  15-le - 79€
+  15-le - 84€
   
   20-le - 109€
   
-  25-le - 129€
+  25-le - 134€
   
-  30-le - 149€
+  30-le - 159€
   
   
   **HEA SUUTÄIS**
@@ -103,9 +103,9 @@ KAETUD PEOLAUD - al 35€
   
   20-le - 169€
   
-  25-le - 219€
+  25-le - 209€
   
-  30-le - 259€
+  30-le - 249€
   
   **MAITSEV TAIMNE**
   
@@ -119,7 +119,7 @@ KAETUD PEOLAUD - al 35€
   
   25-le - 159€
   
-  30-le - 199€
+  30-le - 189€
 
 CATERING Kalamaja Gastro
 
