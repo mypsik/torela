@@ -67,15 +67,15 @@ KAETUD PEOLAUD - al 35€
   
   Kartulisalat/makaronisalat, viineripirukad/singi-juusturullid, juurviljavaagen ja morss.
   
-  10-le - 35€
+  10-le - 39€
   
-  15-le - 49€
+  15-le - 59€
   
-  20-le - 69€
+  20-le - 79€
   
-  25-le - 84€
+  25-le - 99€
   
-  30-le - 105€
+  30-le - 109€
   
   
   **LASTE LEMMIKUD**
