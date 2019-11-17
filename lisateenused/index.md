@@ -61,7 +61,7 @@ NÄOMAALINGUD - 50€/1h
 
 KAETUD PEOLAUD - al 35€
 
-: Sünnipäevale tulles on peolaud hea ja paremaga kaetud!
+: Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Menüüdes kaldkriips tähistab valikuvõimalust. Mängutuba broneerides lisada menüüvalik lisainfosse või esitada soov **tore@torela.ee**.
 
   **LIHTNE AMPS**
   
