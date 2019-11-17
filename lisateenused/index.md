@@ -65,7 +65,7 @@ KAETUD PEOLAUD - al 35€
 
   **LIHTNE AMPS**
   
-  Kartulisalat/makaronisalat, viineripirukad/singi-juusturull, juurviljavaagen ja morss.
+  Kartulisalat/makaronisalat, viineripirukad/singi-juusturullid, juurviljavaagen ja morss.
   
   10-le - 35€
   
