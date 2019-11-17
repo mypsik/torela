@@ -59,11 +59,49 @@ NÄOMAALINGUD - 50€/1h
   
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150"> 
 
-KAETUD PEOLAUD "Laste lemmikud" - 80€
+KAETUD PEOLAUD - al 35€
 
-: Kaetud laud 14 lapsele. 
+: Sünnipäevale tulles on peolaud hea ja paremaga kaetud!
+
+  **LIHTNE AMPS**
   
-  Helluse jogurtid, kartulisalat, puuvilja-juurviljavaagen, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
+  Kartulisalat/makaronisalat, viineripirukad/singi-juusturull, juurviljavaagen ja morss.
+  
+  10-le - 35€
+  15-le - 49€
+  20-le - 69€
+  25-le - 84€
+  30-le - 105€
+  
+  **LASTE LEMMIKUD**
+  
+  Kartulisalat/makaronisalat, juurviljavaagen/puuviljavaagen, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud, Helluse jogurtid ja morss.
+  
+  10-le - 59€
+  15-le - 79€
+  20-le - 109€
+  25-le - 129€
+  30-le - 149€
+  
+  **HEA SUUTÄIS**
+  
+  Kartuli-singisalat/makaroni-singisalat, singipirukas/viineripirukas/lihapirukas (pärmi-lehttaignast), täidetud munad, singirullid, juustuküpsised, juurviljavaagen, puuviljavaagen ja mahl.
+  
+  10-le - 89€
+  15-le - 129€
+  20-le - 169€
+  25-le - 219€
+  30-le - 259€
+  
+  **MAITSEV TAIMNE**
+  
+  Vinegrett/vegan kartulisalat, juurviljavaagen, puuviljavaagen, vegan lavaširull, mahl.
+  
+  10-le - 69€
+  15-le - 99€
+  20-le - 129€
+  25-le - 159€
+  30-le - 199€
 
 CATERING Kalamaja Gastro
 
