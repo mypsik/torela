@@ -59,7 +59,7 @@ NÄOMAALINGUD - 50€/1h
   
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150"> 
 
-KAETUD PEOLAUD - al 35€
+KAETUD PEOLAUD - al 39€
 
 : Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Menüüdes kaldkriips tähistab valikuvõimalust. Mängutuba broneerides lisada menüüvalik lisainfosse või esitada soov **tore@torela.ee**.
 
