@@ -69,9 +69,9 @@ CATERING Kalamaja Gastro
 
 : Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :) 
   
-  <img alt="Kalamaja-gastro-1 src="kalamaja-gastro-menyy1.JPG" height="6000">
+  <img alt="Kalamaja-gastro-1 src="kalamaja-gastro-menyy1.JPG" height="8000">
   
-  <img alt="Kalamaja-gastro-2 src="kalamaja-gastro-menyy2.jpg" height="6000">
+  <img alt="Kalamaja-gastro-2 src="kalamaja-gastro-menyy2.jpg" height="8000">
 
 
 RETROVAHVLID - 8€/10tk
