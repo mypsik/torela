@@ -48,8 +48,8 @@ NÄOMAALINGUD - 50€/1h
   Õhupallimeisterdaja suudab teha üle 300 erineva disainiga õhupallifiguuri. Laske vabalt fantaasial lennata ja pange õhupallimeistri võimed proovile!
   
   <img alt="Õhupalliloomad" src="ohupalliloomad1.JPG" height="150"> 
-  <img alt="Õhupalliloomad käed" src="ohupalliloomad2.jpg" height="5262"> 
-  <img alt="Õhupalliloomad koer" src="ohupalliloomad3.jpg" height="5262"> 
+  <img alt="Õhupalliloomad käed" src="ohupalliloomad2.jpg" height="150"> 
+  <img alt="Õhupalliloomad koer" src="ohupalliloomad3.jpg" height="150"> 
   
   Õhupalliloomadele lisaks saab tellida ka vesitätoveeringuid, igale lapsele 1 pilt. Vesitätoveeringute hind kokku 20€.
 
@@ -69,8 +69,8 @@ CATERING Kalamaja Gastro
 
 : Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :) 
   
-  <img alt="Kalamaja-gastro-1 src="kalamaja-gastro-menyy1.JPG" height="1500">
-  <img alt="Kalamaja-gastro-2 src="kalamaja-gastro-menyy2.jpg" height="1500">
+  <img alt="Kalamaja-gastro-1 src="kalamaja-gastro-menyy1.JPG" height="5262">
+  <img alt="Kalamaja-gastro-2 src="kalamaja-gastro-menyy2.jpg" height="5262">
 
 
 RETROVAHVLID - 8€/10tk
