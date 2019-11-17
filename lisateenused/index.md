@@ -65,6 +65,13 @@ KAETUD PEOLAUD "Laste lemmikud" - 80€
   
   Helluse jogurtid, kartulisalat, puuvilja-juurviljavaagen, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud ja morss.
 
+CATERING Kalamaja Gastro
+
+: Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :) 
+  
+  <img alt="Kalamaja-gastro-1 src="kalamaja-gastro-menyy1.jpg" height="1500">
+  <img alt="Kalamaja-gastro-2 src="kalamaja-gastro-menyy2.jpg" height="1500">
+
 
 RETROVAHVLID - 8€/10tk
 
