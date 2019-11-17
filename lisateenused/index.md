@@ -10,16 +10,16 @@ ru: /ru/services/
 PEOJÄRGNE KORISTAMINE - 25€
 : Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame mänguruumid ise!
   
-  *Korduvkasutatavate nõude kasutamisel tuleb nõud ise puhtaks pesta. Kui soovite, et meie seda teeme, siis lisandub nõudepesu eest 10€. 
+  *Korduvkasutatavate nõude kasutamisel tuleb nõud ise puhtaks pesta. Kui soovite, et meie seda teeme, siis lisandub nõudepesu eest 10€. Nõudepesu pakume vaid õhtustele pidudele (18-21).
   
   <img alt="Koristamine" src="Canva - null (1).jpg" height="150"> 
 
 KORDUVKASUTATAVAD NÕUD - TASUTA
-: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 28 inimesele. 
+: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 40 inimesele. 
 
   **Nõud tuleb ise puhtaks pesta.** 
   
-  Õhtustele pidudele (18-21) pakume lisateenusena ka kasutatud nõude pesemist - 10€.
+  Õhtustele pidudele (18-21) pakume lisateenusena ka nõude pesemist - 10€.
 
   <img alt="Nõud" src="n6ud-1.jpg" height="150">
   
