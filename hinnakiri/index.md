@@ -23,6 +23,7 @@ Kohapeal saab maksta ainult sularahas!
 2 kuud ja enam **-20%**. Lisada broneerimisel sooduskood: **VARAJANE20**
 
 NB! Tagantjärele sooduskoode ei rakendata!
+Kasutada saab ühte koodi korraga.
 
 ***
 
