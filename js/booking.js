@@ -176,10 +176,10 @@ const additionalServices = {
   },
   catering: {
     menu1: {
-      en: 'Kids\' Favorites',
-      et: 'Laste lemmikud',
-      ru: 'Любимое детей',
-      price: 80,
+      en: 'Catering',
+      et: 'Kaetud peolaud',
+      ru: 'Oбеденный',
+      price: 39-249,
       // priceUnit: 'person',
       // requestCount: true
     },
@@ -191,6 +191,15 @@ const additionalServices = {
     //   priceUnit: 'person',
     //   requestCount: true
     // },
+  catering2: {
+    menu1: {
+      en: 'Catering Kalamaja Gastro, from',
+      et: 'Catering Kalamaja Gastro, alates',
+      ru: 'Oбеденный Каламая Гастро, от',
+      price: 10,
+      // priceUnit: 'person',
+      // requestCount: true
+    },
     cakeTopperBanner: {
       en: 'Cake topper and banner, from',
       et: 'Koogitopper ja bänner, alates',
