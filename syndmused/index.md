@@ -10,13 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**18.11 (10.00-13.00) - MÄNGUHOMMIK**
-Ootame teid mänguhommikule! Laua head-paremat ja kohv!
-
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-
-
 **21.11 (10.00-13.00) - MÄNGUHOMMIK**
 Ootame teid mänguhommikule! Laua head-paremat ja kohv!
 
