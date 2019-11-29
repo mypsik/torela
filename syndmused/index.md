@@ -10,13 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**28.11 (10.00-13.00) - MÄNGUHOMMIK**
-Ootame teid mänguhommikule! Laua head-paremat ja kohv!
-
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-
-
 **02.12 (10.00-13.00) - PÄKAPIKUHOMMIK**
 Külla tuleb imetore Imbi Potter päkapikkudega, kellega koos laulame ja tantsime! 
 Juhendatud trall hakkab 10.15 ja kestab ~30-45minutit, kui laul ja mäng läbi, siis saab mängutoas edasi mängida! 
