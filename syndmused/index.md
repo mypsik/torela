@@ -10,21 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**02.12 (10.00-13.00) - PÄKAPIKUHOMMIK**
-Külla tuleb imetore Imbi Potter päkapikkudega, kellega koos laulame ja tantsime! 
-Juhendatud trall hakkab 10.15 ja kestab ~30-45minutit, kui laul ja mäng läbi, siis saab mängutoas edasi mängida! 
-
-Päkapikuhommik on suunatud väiksematele lastele, soovitatav vanus on 1-3. 
-Vanusele 3+ toimuvad päkapikuõhtud 5.12 ja 11.12. 
-
-Laual näksimist ja kohv-tee!
-
-Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
-
-Palume registreerida (tore@torela.ee või FB "going"), sest kohtade arv on piiratud! 
-Kohapeal saab tasuda ainult sularahas!
-
-
 **05.12 (10.00-13.00) - PANNKOOGIHOMMIK**
 Ootame teid mänguhommikule! Laua palju-palju pannkooke ja erinevaid moose/määrdeid! Joogiks piim ja kohv! 
 
