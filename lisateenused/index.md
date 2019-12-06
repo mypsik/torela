@@ -150,7 +150,10 @@ RETROVAHVLID - 8€/10tk
 
 PEOBOX - al 49€
 : Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
+  
   MUGAV. KIIRE. KESKKONNASÄÄSTLIK.
+  Täpsemad hinnad ja pakettide tutvustamised: https://peobox.ee/sunnipaevad/
+  
 
   <img alt="Frozen" src="frozen.jpg" height="150"> 
   <img alt="Peobox" src="peobox" height="150">
