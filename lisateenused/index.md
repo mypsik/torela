@@ -148,6 +148,15 @@ RETROVAHVLID - 8€/10tk
   
   <img alt="Vahvlid" src="vahvlid.jpg" height="150">
 
+PEOBOX - al 49€
+: Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
+  MUGAV. KIIRE. KESKKONNASÄÄSTLIK.
+
+  <img alt="Frozen" src="frozen.jpg" height="150"> 
+  <img alt="Peobox" src="peobox" height="150">
+  <img alt="Peobox1" src="peobox1.jpg" height="150">
+  <img alt="Kosmos" src="kosmosepidu.png" height="150"> 
+
 
 JÄÄTISEMASIN - 59€
 : Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
