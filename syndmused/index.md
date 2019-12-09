@@ -61,7 +61,7 @@ MTÜ Salme Teater konto: EE302200221057111365
 NB! Etendusepäeval on eripakkumine jääda 3 euro eest veel mängima.
 Kohapeal saab tasuda ainult sularahas!
 
-<img alt="teater" src="78130702_3260063584035333_1673570587122860032_n.jpg" height="200">
+<img alt="teater" src="78130702_3260063584035333_1673570587122860032_n.jpg" height="300">
 
 **18.12 (11.00-13.00) - NUKULAVASTUS "Kuhu kadus unejonniliiv?"** 
 Etendus 11.00-11.20. 
@@ -77,7 +77,7 @@ MTÜ Salme Teater konto: EE302200221057111365
 NB! Etendusepäeval on eripakkumine jääda 3 euro eest veel mängima.
 Kohapeal saab tasuda ainult sularahas!
 
-<img alt="teater" src="78130702_3260063584035333_1673570587122860032_n.jpg" height="200">
+<img alt="teater" src="78130702_3260063584035333_1673570587122860032_n.jpg" height="300">
 
 
 **19.12 (10.00-13.00) - MÄNGUHOMMIK + teeme piparkooke!**
@@ -118,7 +118,7 @@ MTÜ Salme Teater konto: EE302200221057111365
 NB! Etendusepäeval on eripakkumine jääda 3 euro eest veel mängima.
 Kohapeal saab tasuda ainult sularahas!
 
-<img alt="teater" src="78130702_3260063584035333_1673570587122860032_n.jpg" height="200">
+<img alt="teater" src="78130702_3260063584035333_1673570587122860032_n.jpg" height="300">
 
 
 **30.12 (11.00-13.00) - NUKULAVASTUS "Kuhu kadus unejonniliiv?"** 
@@ -135,7 +135,7 @@ MTÜ Salme Teater konto: EE302200221057111365
 NB! Etendusepäeval on eripakkumine jääda 3 euro eest veel mängima.
 Kohapeal saab tasuda ainult sularahas!
 
-<img alt="teater" src="78130702_3260063584035333_1673570587122860032_n.jpg" height="200">
+<img alt="teater" src="78130702_3260063584035333_1673570587122860032_n.jpg" height="300">
 
 
 **13.01.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
