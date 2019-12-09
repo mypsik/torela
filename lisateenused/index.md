@@ -208,6 +208,7 @@ PUTUKAPROGRAMM - Mattias Turovski - 125€/45min
   Esitlusel vaadatakse nende pilte, elupaiku ja tutvustatakse ökoloogiat. Lapsed saavad tutvuda loomadega  vahetult - **loomad liiguvad käest kätte**!
   
   Programm loob eeldused selgrootute loomadega iseseisvaks tutvumiseks, suhtlemiseks ja käsitlemiseks, märksõnadega austus ja   hool. 
+  Soovitatav laste vanus on 5+. 
 
    <img alt="Tigu" src="ahhaattigu.JPG" height="150"> 
    <img alt="Prussakas" src="blaberus prussakas.JPG" height="150">
