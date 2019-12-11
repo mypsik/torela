@@ -8,9 +8,14 @@ export function e(s?: string) {
 }
 
 export function d(date?: Date|string|number) {
-  if (!date) return '';
+  if (!date) return ''
   const d = date instanceof Date ? date : new Date(date)
   return d.toISOString().replace(/T.*/, '')
+}
+
+export function iso2eu(isoDate: string) {
+  const parts = isoDate.split('-', 3)
+  return parts[2] + '.' + parts[1] + '.' + parts[0]
 }
 
 export const today = () => d(new Date())

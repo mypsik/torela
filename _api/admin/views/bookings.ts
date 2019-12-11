@@ -1,7 +1,7 @@
 import Booking from '../../domain/Booking'
 import {styles} from './styles'
 import {menu} from './menu'
-import {d, e, html} from './utils'
+import {d, e, html, iso2eu} from './utils'
 import config from '../../config'
 
 export function bookingsView(bookings: Array<Booking>, from: string) {
@@ -31,7 +31,7 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
         ${bookings.map(b => `
         <form action="/admin/bookings/${b._id}" method="post">
           <tr class="${b.publicEvent ? 'public' : ''}">
-            <td width="80" nowrap>${b.date}</td>
+            <td width="80" nowrap>${iso2eu(b.date)}</td>
             <td width="50">
               ${b.time} ${b.correctedTime ? '<b>(' + b.correctedTime + ')</b>' : ''}
               <button title="${b.publicEvent ? 'Tee tavaliseks broneeringuks' : 'Tee sündmuseks'}" name="publicEvent" value="${!b.publicEvent}">S</button>
@@ -52,9 +52,9 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
               <button name="adminComments" value="${e(b.adminComments)}" onclick="this.value = prompt('Kommentaar', this.value) || ''; return !!this.value">+i</button>
             </td>
             <td>${additionalServices(b).map(k => `<div>${e(k)}</div>`).join('')}</td>
-            <td title="${e(b.userAgent)}">${d(b.createdAt)}</td>
+            <td title="${e(b.userAgent)}">${iso2eu(d(b.createdAt))}</td>
             <td>
-              ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${d(p.dateTime)}</div>`).join('')}
+              ${(b.payments || []).map(p => `<div>${p.amount}€ @ ${iso2eu(d(p.dateTime))}</div>`).join('')}
               ${b.payments && b.payments.length > 1 ? `<div><strong>Kokku: ${b.payments.reduce((s, p) => s + p.amount, 0)}€</strong></div>` : ''}
               <button name="paymentAmount" onclick="this.value = prompt('Summa', '${config.bookingFee.amount}') || ''; return !!parseFloat(this.value)">+€</button>
             </td>
