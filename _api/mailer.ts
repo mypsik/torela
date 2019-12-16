@@ -3,6 +3,7 @@ import config from "./config"
 import Contact from './domain/Contact'
 import Booking from './domain/Booking'
 import {additionalServices} from './admin/views/bookings'
+import {iso2eu} from './admin/views/utils'
 
 const mailTransport = nodemailer.createTransport({
   host: config.smtpHost,
@@ -12,7 +13,7 @@ const mailTransport = nodemailer.createTransport({
 export class Mailer {
   sendContact(contact: Contact) {
     this.send({
-      from: `Torela <${config.adminEmail}>`,
+      from: `Torela <${config.fromEmail}>`,
       to: config.adminEmail,
       subject: `Uus kontakt veebilehelt`,
       text: `${contact.email}\n\n` + JSON.stringify(contact)
@@ -21,10 +22,10 @@ export class Mailer {
 
   sendBooking(booking: Booking) {
     this.send({
-      from: `Torela <${config.adminEmail}>`,
+      from: `Torela <${config.fromEmail}>`,
       to: booking.email,
       bcc: config.adminEmail,
-      subject: `Mängutuba broneeritud ${booking.date} ${booking.time} - ${booking.until}`,
+      subject: `Mängutuba broneeritud ${iso2eu(booking.date)} ${booking.time} - ${booking.until}`,
       text: `
       Aitäh, et broneerisite Torela mängutoa!
       
