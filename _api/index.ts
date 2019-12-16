@@ -17,7 +17,9 @@ app.use(express.json())
 app.use(express.urlencoded({extended: true}))
 
 morgan.token('remote-addr', req => req.headers['x-forwarded-for'] || req.connection.remoteAddress);
-const logger = morgan('[:date] :remote-addr :method :url :status :res[content-length] :referrer :user-agent - :response-time ms')
+const logger = morgan('[:date] :remote-addr :method :url :status :res[content-length] :referrer :user-agent - :response-time ms', {
+  skip: req => req.path == '/api/bookings' && (req.connection.remoteAddress == ':ffff:127.0.0.1' || (req.header('User-Agent') || '').includes('UptimeRobot'))
+})
 app.use(logger)
 
 app.use((req, res, next) => {
