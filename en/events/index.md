@@ -8,41 +8,43 @@ ru: /ru/events/
 ---
 PLAY-MORNINGS
 
-
-**06.11 (18.00-21.00) - Play-night with Imbi Potter**
-Imbi Potter talks about Mardipäev. We sing and dance with kids. It will be so much fun! We're also making masks. 
-We'll offer you snacks and coffee!
-Suggested age limit: 3+
-Participation fee: 10 € (child + parent, another child of the same family +5€)
+**30.12 (11.00-13.00) - Puppet Theater "Kuhu kadus unejonniliiv?"
+In estonian, no translation
 
 
-**11.11 (10.00-13.00) - Play-morning + MÄHKMED.EU diapers**
-This monday our play-morning is especially special because we introduce cloth diapers! All those interested in reusable diapers are very welcome to see the different types of diapers and manufacturers. 
-Entry is 5€.
-
-**14.10 (10.00-13.00) - Pancake-morning**
+**.01 (10.00-13.00) - Pancake-morning**
 Eat as much pancakes as you can! We'll have pancake-mountains!
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
 
-**18.11 (10.00-13.00) - Play-morning**
+**06.01 (10.00-13.00) - Play-morning**
 We'll offer you snacks and coffee!
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
 
-**21.11 (10.00-13.00) - Play-morning**
+**09.01 (10.00-13.00) - Play-morning**
 We'll offer you snacks and coffee!
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
 
-**25.11 (10.00-13.00) - Play-morning**
+**13.01 (10.00-13.00) - Play-morning + MÄHKMED.EU diapers**
+This monday our play-morning is especially special because we introduce cloth diapers! All those interested in reusable diapers are very welcome to see the different types of diapers and manufacturers. 
+Entry is 5€.
+
+
+**16.01 (10.00-13.00) - Play-morning**
 We'll offer you snacks and coffee!
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
 
-**28.11 (10.00-13.00) - Play-morning**
+**22.01 (18.00-20.00) - Boardgame evening**
 We'll offer you snacks and coffee!
-Participation fee 7 € (child + parent), another child of the same family +3€.
+Participation fee 10 € (child + parent), another child of the same family +5€.
+
+
+
+
+
 
 
 
