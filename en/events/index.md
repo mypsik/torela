@@ -8,7 +8,7 @@ ru: /ru/events/
 ---
 PLAY-MORNINGS
 
-**30.12 (11.00-13.00) - Puppet Theater "Kuhu kadus unejonniliiv?"
+**30.12 (11.00-13.00) - Puppet Theater "Kuhu kadus unejonniliiv?"**
 In estonian, no translation
 
 
