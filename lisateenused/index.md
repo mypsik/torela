@@ -147,6 +147,26 @@ RETROVAHVLID - 8€/10tk
   **50tk - 40€**
   
   <img alt="Vahvlid" src="vahvlid.jpg" height="150">
+  
+ 
+ DONUTS - al 1,5€/tk
+
+: Selleks, et sünnipäev veelgi paremini veerekeks, on meil maailma parimad donutsid!  Mei donutsid valmivad käsitööna ja spetsiaalselt just teie peoks. Lisaks tavavalikus olevatele kaunistustele, võtame vastu ka eritellimusi. Laste nimedega donutsid, üksksarvikud, jalgpall, Käpapatrull, printsessi temaatika - muudame kõik donutsisoovid reaalsuseks! NB! Erisoovidele ei kehti tavahind! Tordi asemel saab sünnipäeva lõpuks pakkuda donutsi-torni! 
+    
+  **1tk - 2€**
+  
+  **4tk - 7€**
+  
+  **6tk - 10€**
+  
+  **8tk - 13€**
+  
+  **10tk - 15€**
+  
+  <img alt="Donuts" src="eesti_donuts4_list.jpg" height="150">
+  <img alt="Donuts1" src="4_orig.jpg" height="150">
+  <img alt="Donuts2" src="3_orig.jpg" height="150">
+
 
 PEOBOX - al 49€
 : Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
