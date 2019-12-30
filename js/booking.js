@@ -175,31 +175,45 @@ const additionalServices = {
     }
   },
   catering: {
-    menu1: {
+    regular: {
       en: 'Catering, from',
       et: 'Kaetud peolaud, alates',
-      ru: 'Oбеденный,от',
+      ru: 'Накрытый стол, от',
       price: 39,
       // priceUnit: 'person',
       // requestCount: true
     },
-    // menu2: {
-    //   en: 'Parent\'s Favorites',
-    //   et: 'Vanemate lemmikud',
-    //   ru: 'Любимое родителей',
-    //   price: 10,
-    //   priceUnit: 'person',
-    //   requestCount: true
-    // },
+    peobox: {
+      en: 'Catering Peobox, from',
+      et: 'Catering Peobox, alates',
+      ru: 'Накрытый стол Peobox, от',
+      price: 49,
+      // priceUnit: 'person',
+      // requestCount: true
     },
-  catering2: {
-    menu3: {
+    gastro: {
       en: 'Catering Kalamaja Gastro, from',
       et: 'Catering Kalamaja Gastro, alates',
       ru: 'Oбеденный Каламая Гастро, от',
-      price: 10,
+      price: 95,
       // priceUnit: 'person',
       // requestCount: true
+    },
+    retroWaffels: {
+      en: 'Retro waffels',
+      et: 'Retrovahvlid',
+      ru: 'Ретро вафли',
+      price: 0.8,
+      priceUnit: 'tk',
+      requestCount: true
+    },   
+    donuts: {
+      en: 'Donuts',
+      et: 'Sõõrikud',
+      ru: 'Пончики',
+      price: 2,
+      priceUnit: 'tk',
+      requestCount: true
     },   
     cakeTopperBanner: {
       en: 'Cake topper and banner, from',
