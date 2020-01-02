@@ -9,22 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**30.12 (11.00-13.00) - NUKULAVASTUS "Kuhu kadus unejonniliiv?"** 
-Etendus 11.00-11.20. 
-Mänguaeg 11.20-13.00.
-
-Sobilik 3-11 aastastele.
-
-Pilet: eelmüügist 5€, kohapeal 7€
-
-Broneerimine sündmuse lehel kommentaarides või e-postiga info@salmeteater.ee.
-MTÜ Salme Teater konto: EE302200221057111365
-
-NB! Etendusepäeval on eripakkumine jääda 3 euro eest veel mängima.
-Kohapeal saab tasuda ainult sularahas!
-
-<img alt="teater" src="78130702_3260063584035333_1673570587122860032_n.jpg" height="300">
-
 
 **6.01 (10.00-13.00) - MÄNGUHOMMIK**
 Ootame teid mänguhommikule! Laua head-paremat ja kohv!
@@ -33,9 +17,9 @@ Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
 
 
-**9.01 (10.00-13.00) - MÄNGUHOMMIK**
-Ootame teid mänguhommikule! Laua head-paremat ja kohv!
-
+**9.01 (10.00-13.00) - PANNKOOGIHOMMIK**
+Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid.
+Joogiks pakume vett, piima ja kohvi!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
 
@@ -78,6 +62,13 @@ Huviring LOOVTEGEMISED
 REEDETI
 11.00-13.00
 Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
+
+
+**20.01 (10.00-13.00) - PANNKOOGIHOMMIK**
+Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid.
+Joogiks pakume vett, piima ja kohvi!
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
 
 
 **22.01 (18.00-20.00) - LAUAMÄNGUÕHTU**
