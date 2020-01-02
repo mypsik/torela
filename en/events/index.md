@@ -8,22 +8,14 @@ ru: /ru/events/
 ---
 PLAY-MORNINGS
 
-**30.12 (11.00-13.00) - Puppet Theater "Kuhu kadus unejonniliiv?"**
-In estonian, no translation
-
-
-**.01 (10.00-13.00) - Pancake-morning**
-Eat as much pancakes as you can! We'll have pancake-mountains!
-Participation fee 7 € (child + parent), another child of the same family +3€.
-
 
 **06.01 (10.00-13.00) - Play-morning**
 We'll offer you snacks and coffee!
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
 
-**09.01 (10.00-13.00) - Play-morning**
-We'll offer you snacks and coffee!
+**09.01 (10.00-13.00) - Pancake-morning**
+Eat as much pancakes as you can! We'll have pancake-mountains!
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
 
@@ -34,6 +26,12 @@ Entry is 5€.
 
 **16.01 (10.00-13.00) - Play-morning**
 We'll offer you snacks and coffee!
+Participation fee 7 € (child + parent), another child of the same family +3€.
+
+
+
+**20.01 (10.00-13.00) - Pancake-morning**
+Eat as much pancakes as you can! We'll have pancake-mountains!
 Participation fee 7 € (child + parent), another child of the same family +3€.
 
 
