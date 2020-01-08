@@ -10,13 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**6.01 (10.00-13.00) - MÄNGUHOMMIK**
-Ootame teid mänguhommikule! Laua head-paremat ja kohv!
-
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-
-
 **9.01 (10.00-13.00) - PANNKOOGIHOMMIK**
 Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid.
 Joogiks pakume vett, piima ja kohvi!
@@ -78,12 +71,34 @@ Laua head-paremat ja kohv!
 Osalustasu: 10€ (laps+vanem, pere järgmine laps +5€)
 Kohapeal saab tasuda ainult sularahas!
 
+
+**23.01 (10.00-13.00) - MÄNGUHOMMIK**
+Ootame teid mänguhommikule! Laua head-paremat ja kohv!
+
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
+
+
 **24.01 (11.00-13.00) - LOOVTEGEMISED** 
 Huviring LOOVTEGEMISED
 1,5-3-aastastele
 REEDETI
 11.00-13.00
 Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
+
+
+**27.01 (10.00-13.00) - MÄNGUHOMMIK**
+Ootame teid mänguhommikule! Laua head-paremat ja kohv!
+
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
+
+
+**30.01 (10.00-13.00) - MÄNGUHOMMIK**
+Ootame teid mänguhommikule! Laua head-paremat ja kohv!
+
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
 
 
 **31.01 (11.00-13.00) - LOOVTEGEMISED** 
