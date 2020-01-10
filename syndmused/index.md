@@ -10,29 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**9.01 (10.00-13.00) - PANNKOOGIHOMMIK**
-Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid.
-Joogiks pakume vett, piima ja kohvi!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-
-
-**10.01 (11.00-13.00) - LOOVTEGEMISED** 
-Huviring LOOVTEGEMISED
-1,5-3-aastastele
-REEDETI
-11.00-13.00
-Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
-
-Huviring kõigile avatud! Tule kohale ja võta osa! 
-Osalustasu: 10€ tund
-
-Huviringi kirjeldus: 
-Uurime ja avastame erinevaid materjale ja värve, vaatame kuidas neid kasutada saab, millised nad käe ja jala all tunduvad, mis juhtub kui need kokku panna. Julgustame last iseseisvalt tegutsema ja katsetama ning koos looma ja tegutsema. Hoiame keskkonda ja kasutame loovtegevuseks valdavalt taaskasutatud ja lagunevaid materjale. Teeme ka kunstiteoseid! ~45-minutilisele loovtegemisele järgneb mänguaeg!
-
-Juhendaja on Hedi Jaansoo - vabakutseline kunstnik ja fotograaf, kes on lõpetanud Eesti Kunstiakadeemia fotograafia (BA) ja kaasaegse kunsti (MA) eriala.
-
-
 **13.01.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
 Mähkmed.eu tutvustab taas riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
 Loomulikult on kõik oodatud ka niisama mängima! 
@@ -55,6 +32,14 @@ Huviring LOOVTEGEMISED
 REEDETI
 11.00-13.00
 Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
+
+Huviring kõigile avatud! Tule kohale ja võta osa! 
+Osalustasu: 10€ tund
+
+Huviringi kirjeldus: 
+Uurime ja avastame erinevaid materjale ja värve, vaatame kuidas neid kasutada saab, millised nad käe ja jala all tunduvad, mis juhtub kui need kokku panna. Julgustame last iseseisvalt tegutsema ja katsetama ning koos looma ja tegutsema. Hoiame keskkonda ja kasutame loovtegevuseks valdavalt taaskasutatud ja lagunevaid materjale. Teeme ka kunstiteoseid! ~45-minutilisele loovtegemisele järgneb mänguaeg!
+
+Juhendaja on Hedi Jaansoo - vabakutseline kunstnik ja fotograaf, kes on lõpetanud Eesti Kunstiakadeemia fotograafia (BA) ja kaasaegse kunsti (MA) eriala.
 
 
 **20.01 (10.00-13.00) - PANNKOOGIHOMMIK**
@@ -94,6 +79,37 @@ Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
 
 
+**28.01 (10.00-13.00) - ROTIAASTA MÄNGUHOMMIK IMBI POTTERIGA**
+Külla tuleb armas Imbi Potter, kellega koos saame tantsides, lauldes ja meisterdades vastu võtta rotiaasta! 
+
+Juhendatud rotitrall hakkab pihta 10.15 ja kestab ~30-45 minutit. 
+Kes laulmisest-tantsimisest osa ei soovi võtta, saavad kohale tulla 11.00-ks. 
+Üritus on soovituslik alla 3-aastastele lastele. 
+29. jaanuari õhtul toimub rotiaasta mänguõhtu, kuhu on oodatud vanemad lapsed, vanuses 3+.
+
+Osalustasu 10€ (laps+vanem, pere järgmine laps +5€). 
+Kohapeal saab tasuda ainult sularahas!
+
+Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
+Registreerida saab: tore@torela.ee või üritusele "going"
+
+
+**29.01 (18.00-20.00) - ROTIAASTA MÄNGUõHTU IMBI POTTERIGA**
+Külla tuleb armas Imbi Potter, kellega koos saame tantsides, lauldes ja meisterdades vastu võtta rotiaasta! 
+
+Juhendatud rotitrall hakkab pihta 18.15 ja kestab ~30-45 minutit. 
+Kes laulmisest-tantsimisest osa ei soovi võtta, saavad mängima tulla kella 19.00-ks. 
+
+Üritus on soovituslik 3+ vanustele lastele. 
+28.jaanuari hommikul toimub rotiaasta mänguhommik, kuhu on oodatud siis pigem alla 3-aastased lapsed. 
+
+Osalustasu 10€ (laps+vanem, pere järgmine laps +5€). 
+Kohapeal saab tasuda ainult sularahas!
+
+Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
+Registreerida saab: tore@torela.ee või üritusele "going"
+
+
 **30.01 (10.00-13.00) - MÄNGUHOMMIK**
 Ootame teid mänguhommikule! Laua head-paremat ja kohv!
 
@@ -107,6 +123,28 @@ Huviring LOOVTEGEMISED
 REEDETI
 11.00-13.00
 Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
+
+**25.02 (10.00-13.00) - VASTLAPÄEVA MÄNGUHOMMIK IMBI POTTERIGA**
+Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
+Tegevus hakkab pihta 10.15 ja kestab ~30-45 minutit!
+Mänguhommikule ootame seekord pigem alla 3-aastaseid lapsi, 3+ vanustele toimub 26.02 mänguõhtu!
+
+Loomulikult ootame ka niisama mängima, kuid siis palume tulla veidi hiljem, ~11.00-ks. 
+
+Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
+Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
+Registreerida saab: tore@torela.ee või üritusele "going"
+
+**26.02 (18.00-20.00) - VASTLAPÄEVA MÄNGUõHTU IMBI POTTERIGA**
+Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
+Tegevus hakkab pihta 18.15 ja kestab ~30-45 minutit!
+Mänguõhtule ootame pigem 3+ vanuseid lapsi, alla 3-aastastele on 25.02 mänguhommik. 
+
+Loomulikult saab tulla ka niisama mängima, kuid siis palume tulla ~19.00-ks. 
+
+Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
+Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
+Registreerida saab: tore@torela.ee või üritusele "going"
 
 
 ÜRITUSTELE PALUME REGISTREERIDA: tore@torela.ee, teavitus chat'i või "going" üritusele. 
