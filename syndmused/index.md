@@ -10,21 +10,12 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**13.01.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
-Mähkmed.eu tutvustab taas riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
-Loomulikult on kõik oodatud ka niisama mängima! 
-Laual head-paremat ja kohv! 
-
-Osalustasu: 5€. 
-Kohapeal saab tasuda ainult sularahas!
-
-
 **16.01 (10.00-13.00) - MÄNGUHOMMIK**
 Ootame teid mänguhommikule! Laua head-paremat ja kohv!
 
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
-
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
 **17.01 (11.00-13.00) - LOOVTEGEMISED** 
 Huviring LOOVTEGEMISED
@@ -35,6 +26,8 @@ Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 3
 
 Huviring kõigile avatud! Tule kohale ja võta osa! 
 Osalustasu: 10€ tund
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
+
 
 Huviringi kirjeldus: 
 Uurime ja avastame erinevaid materjale ja värve, vaatame kuidas neid kasutada saab, millised nad käe ja jala all tunduvad, mis juhtub kui need kokku panna. Julgustame last iseseisvalt tegutsema ja katsetama ning koos looma ja tegutsema. Hoiame keskkonda ja kasutame loovtegevuseks valdavalt taaskasutatud ja lagunevaid materjale. Teeme ka kunstiteoseid! ~45-minutilisele loovtegemisele järgneb mänguaeg!
@@ -47,6 +40,7 @@ Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid.
 Joogiks pakume vett, piima ja kohvi!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
 
 **22.01 (18.00-20.00) - LAUAMÄNGUÕHTU**
@@ -55,6 +49,7 @@ Laua head-paremat ja kohv!
 
 Osalustasu: 10€ (laps+vanem, pere järgmine laps +5€)
 Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
 
 **23.01 (10.00-13.00) - MÄNGUHOMMIK**
@@ -62,6 +57,7 @@ Ootame teid mänguhommikule! Laua head-paremat ja kohv!
 
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
 
 **24.01 (11.00-13.00) - LOOVTEGEMISED** 
@@ -70,6 +66,7 @@ Huviring LOOVTEGEMISED
 REEDETI
 11.00-13.00
 Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
 
 **27.01 (10.00-13.00) - MÄNGUHOMMIK**
@@ -77,6 +74,7 @@ Ootame teid mänguhommikule! Laua head-paremat ja kohv!
 
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
 
 **28.01 (10.00-13.00) - ROTIAASTA MÄNGUHOMMIK IMBI POTTERIGA**
@@ -91,7 +89,7 @@ Osalustasu 10€ (laps+vanem, pere järgmine laps +5€).
 Kohapeal saab tasuda ainult sularahas!
 
 Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
-Registreerida saab: tore@torela.ee või üritusele "going"
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
 
 
 **29.01 (18.00-20.00) - ROTIAASTA MÄNGUõHTU IMBI POTTERIGA**
@@ -107,7 +105,7 @@ Osalustasu 10€ (laps+vanem, pere järgmine laps +5€).
 Kohapeal saab tasuda ainult sularahas!
 
 Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
-Registreerida saab: tore@torela.ee või üritusele "going"
+Registreerida saab: tore@tPalume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
 
 
 **30.01 (10.00-13.00) - MÄNGUHOMMIK**
@@ -115,6 +113,7 @@ Ootame teid mänguhommikule! Laua head-paremat ja kohv!
 
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 
 **31.01 (11.00-13.00) - LOOVTEGEMISED** 
@@ -123,6 +122,18 @@ Huviring LOOVTEGEMISED
 REEDETI
 11.00-13.00
 Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
+
+**10.02.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
+Mähkmed.eu tutvustab riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
+Loomulikult on kõik oodatud ka niisama mängima! 
+Laual head-paremat ja kohv! 
+
+Osalustasu: 5€, alla aastase lapsega TASUTA! 
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
 
 **25.02 (10.00-13.00) - VASTLAPÄEVA MÄNGUHOMMIK IMBI POTTERIGA**
 Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
@@ -133,7 +144,8 @@ Loomulikult ootame ka niisama mängima, kuid siis palume tulla veidi hiljem, ~11
 
 Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
 Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
-Registreerida saab: tore@torela.ee või üritusele "going"
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
+
 
 **26.02 (18.00-20.00) - VASTLAPÄEVA MÄNGUõHTU IMBI POTTERIGA**
 Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
@@ -144,7 +156,7 @@ Loomulikult saab tulla ka niisama mängima, kuid siis palume tulla ~19.00-ks.
 
 Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
 Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
-Registreerida saab: tore@torela.ee või üritusele "going"
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
 
 
 ÜRITUSTELE PALUME REGISTREERIDA: tore@torela.ee, teavitus chat'i või "going" üritusele. 
