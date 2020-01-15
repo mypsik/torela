@@ -74,18 +74,13 @@ function Calendar(id, lang, bookableEvents, firstDay) {
 
   this.createDaysArray = function(date) {
     let
-      prev_month_last_day = new Date(date.getFullYear(), date.getMonth(), 0).getDate(),
-      prev_month = new Date(date.getFullYear(), date.getMonth(), 0).getMonth() + 1,
-
-      first_week_day = new Date( //number of the first day of the current month f.e. monday->1, wednesday->3
-        date.getFullYear(), date.getMonth(), 1).getDay(),
-      current_month = date.getMonth() + 1,
-
+      prev_month = new Date(date.getFullYear(), date.getMonth(), 0)
+      prev_month_last_day = prev_month.getDate(),
+      first_week_day = new Date(date.getFullYear(), date.getMonth(), 1).getDay(),
       current_month_last_day = new Date(date.getFullYear(), date.getMonth() + 1, 0).getDate(),
-      next_month = new Date(date.getFullYear(), date.getMonth() + 1, 1).getMonth() + 1,
-
+      next_month = new Date(date.getFullYear(), date.getMonth() + 1, 1),
       days_array = new Array(42),
-      i // iterator for all three parts of array
+      i = 0 // iterator for all three parts of array
 
     if (first_week_day == 0) first_week_day = 7 //if it was sunday
 
@@ -95,7 +90,8 @@ function Calendar(id, lang, bookableEvents, firstDay) {
       days_array[i] = {
         number: first_array_element + i,
         from: 'prev month',
-        month: prev_month,
+        month: prev_month.getMonth() + 1,
+        year: prev_month.getFullYear(),
         weekend: i % 7 > 4
       }
     }
@@ -104,7 +100,8 @@ function Calendar(id, lang, bookableEvents, firstDay) {
       days_array[i] = {
         number: k,
         from: 'current month',
-        month: current_month,
+        month: date.getMonth() + 1,
+        year: date.getFullYear(),
         weekend: i % 7 > 4
       }
       i++
@@ -113,7 +110,8 @@ function Calendar(id, lang, bookableEvents, firstDay) {
     for (let k = 0; i < days_array.length; ++k) {
       days_array[i] = {
         number: k + 1,
-        month: next_month,
+        month: next_month.getMonth() + 1,
+        year: next_month.getFullYear(),
         from: 'next month',
         weekend: i % 7 > 4
       }
@@ -140,7 +138,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
       for (let k = 0; k < 7; ++k) {
         let td = document.createElement('td')
         td.dataset.day = days_array[i].number
-        td.id = date.getFullYear() + '-' + this.zeroPad(days_array[i].month) + '-' + this.zeroPad(days_array[i].number)
+        td.id = days_array[i].year + '-' + this.zeroPad(days_array[i].month) + '-' + this.zeroPad(days_array[i].number)
         td.innerHTML = '<div class="calendar__day">' + days_array[i].number + '</div>'
         tr.appendChild(td)
 
