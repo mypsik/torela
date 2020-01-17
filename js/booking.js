@@ -310,12 +310,5 @@ const additionalServices = {
       price: 270,
       priceUnit: '30min'
     },
-    bubbleShow: {
-      en: 'Bubble show',
-      et: 'Mullishow',
-      ru: 'Шоу мыльных пузырей',
-      price: 80,
-      priceUnit: '30min'
-    },
   }
 }
