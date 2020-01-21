@@ -9,32 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-
-**16.01 (10.00-13.00) - MÄNGUHOMMIK**
-Ootame teid mänguhommikule! Laua head-paremat ja kohv!
-
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
-
-**17.01 (11.00-13.00) - LOOVTEGEMISED** 
-Huviring LOOVTEGEMISED
-1,5-3-aastastele
-REEDETI
-11.00-13.00
-Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
-
-Huviring kõigile avatud! Tule kohale ja võta osa! 
-Osalustasu: 10€ tund
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
-
-
-Huviringi kirjeldus: 
-Uurime ja avastame erinevaid materjale ja värve, vaatame kuidas neid kasutada saab, millised nad käe ja jala all tunduvad, mis juhtub kui need kokku panna. Julgustame last iseseisvalt tegutsema ja katsetama ning koos looma ja tegutsema. Hoiame keskkonda ja kasutame loovtegevuseks valdavalt taaskasutatud ja lagunevaid materjale. Teeme ka kunstiteoseid! ~45-minutilisele loovtegemisele järgneb mänguaeg!
-
-Juhendaja on Hedi Jaansoo - vabakutseline kunstnik ja fotograaf, kes on lõpetanud Eesti Kunstiakadeemia fotograafia (BA) ja kaasaegse kunsti (MA) eriala.
-
-
 **20.01 (10.00-13.00) - PANNKOOGIHOMMIK**
 Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid.
 Joogiks pakume vett, piima ja kohvi!
@@ -66,7 +40,16 @@ Huviring LOOVTEGEMISED
 REEDETI
 11.00-13.00
 Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
+
+Huviring kõigile avatud! Tule kohale ja võta osa! 
+Osalustasu: 10€ tund
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
+
+
+Huviringi kirjeldus: 
+Uurime ja avastame erinevaid materjale ja värve, vaatame kuidas neid kasutada saab, millised nad käe ja jala all tunduvad, mis juhtub kui need kokku panna. Julgustame last iseseisvalt tegutsema ja katsetama ning koos looma ja tegutsema. Hoiame keskkonda ja kasutame loovtegevuseks valdavalt taaskasutatud ja lagunevaid materjale. Teeme ka kunstiteoseid! ~45-minutilisele loovtegemisele järgneb mänguaeg!
+
+Juhendaja on Hedi Jaansoo - vabakutseline kunstnik ja fotograaf, kes on lõpetanud Eesti Kunstiakadeemia fotograafia (BA) ja kaasaegse kunsti (MA) eriala. 
 
 
 **27.01 (10.00-13.00) - MÄNGUHOMMIK**
@@ -123,6 +106,14 @@ REEDETI
 11.00-13.00
 Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
+
+**06.02 (10.00-13.00) - PANNKOOGIHOMMIK**
+Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid.
+Joogiks pakume vett, piima ja kohvi!
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
 
 **10.02.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
