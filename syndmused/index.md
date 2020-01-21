@@ -9,14 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**20.01 (10.00-13.00) - PANNKOOGIHOMMIK**
-Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid.
-Joogiks pakume vett, piima ja kohvi!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
-
-
 **22.01 (18.00-20.00) - LAUAMÄNGUÕHTU**
 Ootame teid lauamänguõhtule! Torelas on suur valik lauamänge ning kõigile leidub midagi mängimiseks. Tule mängi ja avasta koos perega! 
 Laua head-paremat ja kohv!
