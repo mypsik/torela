@@ -135,6 +135,8 @@ Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" -
 **Märtsist PEREKOOLI vestlusringiga mänguhommikud ja -õhtud!**
 Üritus toimub 6 korda - teisipäeviti 18.00-20.00 ja kolmapäeviti 11.00-13.00. 
 
+<img alt="perekool" src="perekool.jpg" height="200">
+
 Kutsun Sind rasedate inforingi, mis on pigem soe kohtumine kui koolitundi meenutav loeng. Tassikese sooja tee kõrvale pakun kasulikku infot ja võimalust jagada oma kogemusi teiste naistega.  Emana tean, et lapse kasvatamiseks läheb teinekord vaja tervet küla, nagu Aafrika vanasõna ütleb, mistõttu soovitan soojalt luua meie tundides uusi tutvusi. Need kohtumised sobivad nii esmarasedatele kui ka neile, kes soovivad tulla vanemate lastega. Samal ajal kui emmed teadmisi omandavad, saavad lapsed mängutoas mängida. 
 
 Informatiivne osa kestab 45 min, kokkuvõtte loengust saadame pärast tundi osalejatele e-postiga. Lisaks jagame väikeseid kingitusi kodusteks katsetusteks.
