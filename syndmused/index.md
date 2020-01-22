@@ -9,15 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**22.01 (18.00-20.00) - LAUAMÄNGUÕHTU**
-Ootame teid lauamänguõhtule! Torelas on suur valik lauamänge ning kõigile leidub midagi mängimiseks. Tule mängi ja avasta koos perega! 
-Laua head-paremat ja kohv!
-
-Osalustasu: 10€ (laps+vanem, pere järgmine laps +5€)
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
-
-
 **23.01 (10.00-13.00) - MÄNGUHOMMIK**
 Ootame teid mänguhommikule! Laua head-paremat ja kohv!
 
