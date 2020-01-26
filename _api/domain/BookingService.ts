@@ -3,9 +3,11 @@ import Booking from './Booking';
 
 export default class BookingService {
   data: Collection<Booking>
+  deletedData: Collection<Booking>
 
   constructor(db: Db) {
     this.data = db.collection('bookings')
+    this.deletedData = db.collection('bookingsDeleted')
   }
 
   bookings(from?: string): Promise<Array<Booking>> {
@@ -21,7 +23,9 @@ export default class BookingService {
     return this.data.insertOne(booking);
   }
 
-  delete(id: string): Promise<any> {
+  async delete(id: string): Promise<any> {
+    const booking = await this.booking(id)
+    await this.deletedData.insertOne(booking)
     return this.data.deleteOne({_id: new ObjectId(id)})
   }
 
