@@ -31,14 +31,15 @@ export class Mailer {
       
       Broneeringu ülevaade:
       
-      Lapse nimi: ${booking.childName}
+      Ürituse/Lapse nimi: ${booking.childName}
       Lapse vanus: ${booking.childAge}
       Lapsevanem: ${booking.parentName}
       Keel: ${booking.lang}
       Telefon: ${booking.phone}
       Email: ${booking.email}
       Lisainfo: ${booking.comments}
-      Lisateenused: ${additionalServices(booking).join(', ')}
+      Lisateenused: 
+        ${additionalServices(booking).join(',\n  ')}
       
       Broneerimistasu ${config.bookingFee.amount}€ tuleb tasuda ${config.bookingFee.days} päeva jooksul. 
       Kui ülekanne ei ole tähtaegselt laekunud, siis broneering tühistatakse.
@@ -66,7 +67,7 @@ export class Mailer {
       koduleht: https://torela.ee/
       facebook: https://www.facebook.com/Torelamangutuba/
       instagram: @torelamangutuba      
-      `
+      `.replace(/^ {6}/gm, '')
     })
   }
 
