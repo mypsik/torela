@@ -266,7 +266,7 @@ MUSTKUNSTNIK - 115€/30min
   <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="150">
   
   
-KOLM PÕRSAKEST
+KOLM PÕRSAKEST - al 132€
 
 : TEADUSTEATER - 132€/45min. 
   Teadusetendus on 45-minutiline programm, mis on mõeldud vaatamiseks kuni 30-inimesele ja sobib suurepäraselt just laste sünnipäevadele. Etendus on sobilik kõigile alates neljandast eluaastast ning kava ja katsete seletused kohandatakse vastavalt laste vanusele. Teadusetenduse ajal on lapsed pigem publiku rollis ning esinejad viivad läbi lihtsaid, kuid lustakaid teaduskatseid, seletades katses toimuvat. Laste küsimused saavad vastused ning mõni julgem laps saab paarile katsele ise käed külge panna. Katsed peaksid olema lastele arusaadavad ja huvitavad ning enamasti koduste vahenditega tehtavad, et lastes kasvatada huvi teaduse vastu ja soovi korral saaksid koos vanematega katseid kodus korrata.
@@ -283,7 +283,7 @@ KOLM PÕRSAKEST
 
   <img alt="Teadusshow" src="teadusshow.jpg" height="150">
   
-MULLISHOW - 80€/30min
+MULLISHOW - al 80€/30min
 
 : Mullimeister (http://mullimeister.ee) toob sünnipäevale elevust! Show sisaldab trikke seebimullidega (erineva suurusega mullid, mullilohed, mullitorud, mulli batuut, mulli akvaarium jne).
 
@@ -304,6 +304,8 @@ MULLISHOW - 80€/30min
 
 
   *Pärast Mullimeistri etteastet saavad kõik lapsed ise suuri mulle puhuda.
+  
+  Broneerimiseks kirjutada info@mullimeister.ee.
 
   <img alt="Mullishow" src="mullishow-700x460.jpg" height="150">
   
