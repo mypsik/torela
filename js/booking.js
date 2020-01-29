@@ -177,7 +177,7 @@ const additionalServices = {
   catering: {
     regular: {
       en: 'Catering, from',
-      et: 'Kaetud peolaud, alates',
+      et: 'Toit peolauale, alates',
       ru: 'Накрытый стол, от',
       price: 39,
       // priceUnit: 'person',
@@ -290,25 +290,11 @@ const additionalServices = {
       priceUnit: '30min'
     },
     scienceTheater: {
-      en: 'Science theater',
-      et: 'Teadusteater',
-      ru: 'Научный театр',
+      en: 'Science theater, from',
+      et: 'Kolm põrsakest teadusteater, alates',
+      ru: 'Научный театр, от',
       price: 132,
       priceUnit: '45min'
-    },
-    scienceWorkshop: {
-      en: 'Science workshop',
-      et: 'Teadustöötuba',
-      ru: 'Научная мастерская',
-      price: 132,
-      priceUnit: '45min'
-    },
-    scienceShow: {
-      en: 'Science show',
-      et: 'Teadusshow',
-      ru: 'Научное шоу',
-      price: 270,
-      priceUnit: '30min'
     },
   }
 }
