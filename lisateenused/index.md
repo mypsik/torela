@@ -59,7 +59,7 @@ NÄOMAALINGUD - 50€/1h
   
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150"> 
 
-KAETUD PEOLAUD - al 39€
+TOIT PEOLAUALE - al 39€
 
 : Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Menüüdes kaldkriips tähistab valikuvõimalust. Mängutuba broneerides lisada menüüvalik lisainfosse või esitada soov **tore@torela.ee**.
 
@@ -266,21 +266,20 @@ MUSTKUNSTNIK - 115€/30min
   <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="150">
   
   
-TEADUSTEATER - 132€/45min
+KOLM PÕRSAKEST
 
-: Teadusetendus on 45-minutiline programm, mis on mõeldud vaatamiseks kuni 30-inimesele ja sobib suurepäraselt just laste sünnipäevadele. Etendus on sobilik kõigile alates neljandast eluaastast ning kava ja katsete seletused kohandatakse vastavalt laste vanusele. Teadusetenduse ajal on lapsed pigem publiku rollis ning esinejad viivad läbi lihtsaid, kuid lustakaid teaduskatseid, seletades katses toimuvat. Laste küsimused saavad vastused ning mõni julgem laps saab paarile katsele ise käed külge panna. Katsed peaksid olema lastele arusaadavad ja huvitavad ning enamasti koduste vahenditega tehtavad, et lastes kasvatada huvi teaduse vastu ja soovi korral saaksid koos vanematega katseid kodus korrata.
+: TEADUSTEATER - 132€/45min. 
+  Teadusetendus on 45-minutiline programm, mis on mõeldud vaatamiseks kuni 30-inimesele ja sobib suurepäraselt just laste sünnipäevadele. Etendus on sobilik kõigile alates neljandast eluaastast ning kava ja katsete seletused kohandatakse vastavalt laste vanusele. Teadusetenduse ajal on lapsed pigem publiku rollis ning esinejad viivad läbi lihtsaid, kuid lustakaid teaduskatseid, seletades katses toimuvat. Laste küsimused saavad vastused ning mõni julgem laps saab paarile katsele ise käed külge panna. Katsed peaksid olema lastele arusaadavad ja huvitavad ning enamasti koduste vahenditega tehtavad, et lastes kasvatada huvi teaduse vastu ja soovi korral saaksid koos vanematega katseid kodus korrata.
 
   <img alt="Teadusteater" src="Teadusteater.jpg" height="150">
   
-TEADUSTÖÖTUBA - 132€/45min
-
-: Teadustöötoas on lastel 45 minuti jooksul võimalus lahendada mõni lustakas teadusülesanne või meisterdada endale üks vinge teaduslik mänguasi. Iga ülesande juures on abiks esinejad, kes tagavad lastele kõik vajalikud vahendid ja juhtnöörid. Ülesandeid aitavad lahendada teadatuntud füüsikaseadused, millele tähelepanu pööratakse ja mille mõju siis ka reaalelus näha saab. Teadustöötuba on hariv ja tööd täis ning sobilik lastele, kes ei soovi käed rüpes istuda ja tahavad midagi oma kätega ära teha. Teadustöötuba on sobilik lastele alates viiendast eluaastast ning gruppidele, mille suurus on kuni 20 last.
+  TEADUSTÖÖTUBA - 132€/45min
+  Teadustöötoas on lastel 45 minuti jooksul võimalus lahendada mõni lustakas teadusülesanne või meisterdada endale üks vinge teaduslik mänguasi. Iga ülesande juures on abiks esinejad, kes tagavad lastele kõik vajalikud vahendid ja juhtnöörid.  Ülesandeid aitavad lahendada teadatuntud füüsikaseadused, millele tähelepanu pööratakse ja mille mõju siis ka reaalelus näha saab. Teadustöötuba on hariv ja tööd täis ning sobilik lastele, kes ei soovi käed rüpes istuda ja tahavad midagi oma kätega ära teha. Teadustöötuba on sobilik lastele alates viiendast eluaastast ning gruppidele, mille suurus on kuni 20 last.
 
   <img alt="Teadustöötuba" src="Iseloomustav-pilt-originaal-2.png" height="150">
   
-TEADUSSHOW - 270€/30min
-
-: Kolme Põrsakese teadusshow on tõeliselt vaatemänguline ja meeldejääv elamus. Lahvatama löövad mitmevärvilised leegid, välk ja pauk ning muinasjutulise udu sisse mattuv põrand. Kindlasti rikastab kogu teadusmaagiat ka väike huumor ning mõnus pooltund saab lõbusalt ja põnevalt sisustatud kõigil suurtel ja väikestel teadushuvilistel. Sobilik 7+ aastastele.
+  TEADUSSHOW - 270€/30min
+  Kolme Põrsakese teadusshow on tõeliselt vaatemänguline ja meeldejääv elamus. Lahvatama löövad mitmevärvilised leegid, välk ja pauk ning muinasjutulise udu sisse mattuv põrand. Kindlasti rikastab kogu teadusmaagiat ka väike huumor ning mõnus pooltund saab lõbusalt ja põnevalt sisustatud kõigil suurtel ja väikestel teadushuvilistel. Sobilik 7+ aastastele.
 
   <img alt="Teadusshow" src="teadusshow.jpg" height="150">
   
