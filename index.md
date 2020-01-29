@@ -57,6 +57,10 @@ Mängutoas on kööginurk kogu tehnikaga! Suur külmkapp, ahi, pliit, mikrolaine
 
 Suurte söögilaudade taha mahub korraga sööma 14 täiskasvanut ja väikeste laudade taha 14 last. Lapsi mängutuppa mahub aga palju rohkem! Võimalus kasutada lisaks 8 lastetumbat, 3 tooli, 2 väikest lauda.
 
+**Parkimine**
+
+Parkida saab tänaval tasuta.
+
 **Kui on soov enne pidu mängutoaga tutvuda, siis saab seda teha mänguhommikutel või leppida kokku sobiv aeg telefoni või e-posti teel.**
 
 Pakume ka palju lisateenuseid, mis muudavad peo meeldejäävamaks. Tutvu lisateenustega: [LISATEENUSED](/lisateenused/)
