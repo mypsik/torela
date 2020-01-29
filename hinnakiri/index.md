@@ -18,9 +18,7 @@ Kohapeal saab maksta ainult sularahas!
 
 **VARAJASE BRONEERIJA SOODUSTUS:**
 
-1 kuu **-10%**. Lisada broneerimisel sooduskood: **VARAJANE10**
-
-2 kuud ja enam **-20%**. Lisada broneerimisel sooduskood: **VARAJANE20**
+2 kuud ja enam **-10%**. Lisada broneerimisel sooduskood: **VARAJANE10**
 
 NB! Tagantjärele sooduskoode ei rakendata!
 Kasutada saab ühte koodi korraga.
