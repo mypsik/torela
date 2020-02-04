@@ -165,21 +165,12 @@ const additionalServices = {
       price: 10,
       priceUnit: ''
     },
-    disposableTableware: {
-      en: 'Disposable tableware',
-      et: 'Ühekordsed nõud',
-      ru: 'Одноразовая посуда',
-      price: 1,
-      priceUnit: 'set',
-      requestCount: true
-    }
-  },
   catering: {
     regular: {
       en: 'Catering, from',
       et: 'Toit peolauale, alates',
       ru: 'Накрытый стол, от',
-      price: 39,
+      price: 36,
       // priceUnit: 'person',
       // requestCount: true
     },
