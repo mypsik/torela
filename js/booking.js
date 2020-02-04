@@ -263,7 +263,7 @@ const additionalServices = {
       en: 'Bugs program',
       et: 'Putukaprogramm',
       ru: 'Программа с насекомыми',
-      price: 125,
+      price: 150,
       priceUnit: '45min'
     },
     partyAnimator: {
