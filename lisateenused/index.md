@@ -59,7 +59,7 @@ NÄOMAALINGUD - 50€/1h
   
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150"> 
 
-TOIT PEOLAUALE - al 39€
+TOIT PEOLAUALE - al 36€
 
 : Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Mängutuba broneerides lisada salativalik ja inimeste arv lisainfosse või esitada soov **tore@torela.ee**.
 
