@@ -212,6 +212,7 @@ const additionalServices = {
       ru: 'Машина сахарной ваты',
       price: 55,
       priceUnit: ''
+    },
   },
   memories: {
     photographer: {
@@ -296,5 +297,5 @@ const additionalServices = {
       price: 6,
       priceUnit: ''
     },
-  }
+  },
 }
