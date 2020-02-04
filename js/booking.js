@@ -165,6 +165,7 @@ const additionalServices = {
       price: 10,
       priceUnit: ''
     },
+  },  
   catering: {
     regular: {
       en: 'Catering, from',
