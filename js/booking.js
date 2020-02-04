@@ -175,18 +175,10 @@ const additionalServices = {
       // priceUnit: 'person',
       // requestCount: true
     },
-    peobox: {
-      en: 'Catering Peobox, from',
-      et: 'Catering Peobox, alates',
-      ru: 'Накрытый стол Peobox, от',
-      price: 49,
-      // priceUnit: 'person',
-      // requestCount: true
-    },
     gastro: {
-      en: 'Catering Kalamaja Gastro, from',
-      et: 'Catering Kalamaja Gastro, alates',
-      ru: 'Oбеденный Каламая Гастро, от',
+      en: 'Kalamaja Gastro, from',
+      et: 'Kalamaja Gastro, alates',
+      ru: 'Каламая Гастро, от',
       price: 95,
       // priceUnit: 'person',
       // requestCount: true
@@ -206,14 +198,20 @@ const additionalServices = {
       price: 2,
       priceUnit: 'tk',
       requestCount: true
-    },   
-    cakeTopperBanner: {
-      en: 'Cake topper and banner, from',
-      et: 'Koogitopper ja bänner, alates',
-      ru: 'Торт Топпер и баннер, от',
-      price: 6,
+    },
+    icecreamMachine: {
+      en: 'Icecream machine',
+      et: 'Jäätisemasin',
+      ru: 'Машина для изготовления мороженного',
+      price: 59,
       priceUnit: ''
     },
+    cottoncandy: {
+      en: 'Cottoncandy machine',
+      et: 'Suhkruvatimasin',
+      ru: 'Машина сахарной ваты',
+      price: 55,
+      priceUnit: ''
   },
   memories: {
     photographer: {
@@ -229,7 +227,7 @@ const additionalServices = {
       ru: 'Видеограф',
       price: 300,
       priceUnit: '3h'
-    }
+    },
   },
   entertainment: {
     facePainting: {
@@ -245,27 +243,6 @@ const additionalServices = {
       ru: 'Животные из воздушных шаров',
       price: 70,
       priceUnit: '1h'
-    },
-    icecreamMachine: {
-      en: 'Icecream machine',
-      et: 'Jäätisemasin',
-      ru: 'Машина для изготовления мороженного',
-      price: 59,
-      priceUnit: ''
-    },
-    cottoncandy: {
-      en: 'Cottoncandy machine',
-      et: 'Suhkruvatimasin',
-      ru: 'Машина сахарной ваты',
-      price: 55,
-      priceUnit: ''
-    },
-    bugsShow: {
-      en: 'Bugs program',
-      et: 'Putukaprogramm',
-      ru: 'Программа с насекомыми',
-      price: 150,
-      priceUnit: '45min'
     },
     partyAnimator: {
       en: 'Animator, from',
@@ -287,6 +264,37 @@ const additionalServices = {
       ru: 'Научный театр, от',
       price: 132,
       priceUnit: '45min'
+    },
+    bugsShow: {
+      en: 'Bugs program',
+      et: 'Putukaprogramm',
+      ru: 'Программа с насекомыми',
+      price: 150,
+      priceUnit: '45min'
+    },
+  },
+  decorations: {
+    peobox: {
+      en: 'Peobox, from',
+      et: 'Peobox, alates',
+      ru: 'Пеобокс, от',
+      price: 49,
+      priceUnit: ''
+    },
+    balloons: {
+      en: 'Balloons, from',
+      et: 'Õhupallid, alates',
+      ru: 'Надувные шарики, от',
+      price: 1.5,
+      priceUnit: 'tk',
+      requestCount: true
+    },   
+    cakeTopperBanner: {
+      en: 'Cake topper and banner, from',
+      et: 'Koogitopper ja bänner, alates',
+      ru: 'Торт Топпер и баннер, от',
+      price: 6,
+      priceUnit: ''
     },
   }
 }
