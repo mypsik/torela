@@ -59,6 +59,25 @@ Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
 Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
 
+**27.02 (18.30-20.30) - LÕDVESTUSÕHTU EMADELE**
+
+Räägime iseendaks olemisest emarollis, kuidas enda jaoks luua tasakaalu ning kuidas läbi kerguse ja rõõmu olla mõnus partner ja hea ema. Räägime, kuidas emana olla hoolitsevalt laisk ning kuidas märgata oma lapse olemust väljaspool lapseks olemise piire. 
+
+Saad kuulata ja jagada, mõtiskleda ja lihtsalt mõnusalt aega veeta.
+
+Õhtu lõpetame maandava ja lõdvestava meditatsiooniga, et lihtsalt hea oleks olla. 
+
+Õhtut viib läbi doula ja harmoonilise vanemluse nõustaja Ingrid Õun. 
+www.facebook.com/IngridOunDoula
+
+Osalustasu on 15€
+Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
+Koha broneerimiseks kirjuta tore@torela.ee või ingrid.un@gmail.com või pannes Facebookis üritusele "going". 
+
+Mängutuba asub 2.korrusel, fonolukult nr 2. 
+Kohtumiseni!
+
+
 **Märtsist PEREKOOLI vestlusringiga mänguhommikud ja -õhtud!**
 Üritus toimub 6 korda - teisipäeviti 18.00-20.00 ja kolmapäeviti 11.00-13.00. 
 
