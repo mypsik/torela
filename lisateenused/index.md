@@ -75,7 +75,7 @@ TOIT PEOLAUALE - al 39€
   
   25-le - 99€
   
-  30-le - 109€
+  30-le - 119€
   
   
   **LASTE LEMMIKUD**
