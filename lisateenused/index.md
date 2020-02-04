@@ -61,71 +61,71 @@ NÄOMAALINGUD - 50€/1h
 
 TOIT PEOLAUALE - al 39€
 
-: Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Menüüdes kaldkriips tähistab valikuvõimalust. Mängutuba broneerides lisada menüüvalik lisainfosse või esitada soov **tore@torela.ee**.
+: Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Mängutuba broneerides lisada salativalik ja inimeste arv lisainfosse või esitada soov **tore@torela.ee**.
 
   **LIHTNE AMPS**
   
-  Kartulisalat/makaronisalat, viineripirukad/singi-juusturullid, juurviljavaagen, popcorn ja morss.
+  Kartulisalat või makaronisalat, viineripirukad/singi-juusturullid, juurviljavaagen, popcorn ja kannujook.
   
-  10-le - 39€
+  10-le - 36€
   
-  15-le - 59€
+  15-le - 54€
   
-  20-le - 79€
+  20-le - 72€
   
-  25-le - 99€
+  25-le - 90€
   
-  30-le - 119€
+  30-le - 108€
   
   
   **LASTE LEMMIKUD**
   
-  Kartulisalat/makaronisalat, juurviljavaagen/puuviljavaagen, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud, Helluse jogurtid ja morss.
+  Kartulisalat või makaronisalat, juurviljavaagen, puuviljavaagen, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud, Helluse jogurtid ja kannujook.
   
-  10-le - 59€
+  10-le - 57€
   
-  15-le - 84€
+  15-le - 86€
   
-  20-le - 109€
+  20-le - 114€
   
-  25-le - 134€
+  25-le - 143€
   
-  30-le - 159€
+  30-le - 171€
   
   
   **HEA SUUTÄIS**
   
-  Kartuli-singisalat/makaroni-singisalat, singipirukas/viineripirukas/lihapirukas (pärmi-lehttaignast), täidetud munad, singirullid, juustuküpsised, juurviljavaagen, puuviljavaagen, popcorn ja mahl.
+  Kartuli-singisalat või makaroni-singisalat, viineripirukas/lihapirukas (pärmi-lehttaignast), täidetud munad, singirullid, juustuküpsised, juurviljavaagen, puuviljavaagen, popcorn ja mahl.
   
-  10-le - 89€
+  10-le - 88€
   
-  15-le - 129€
+  15-le - 132€
   
-  20-le - 169€
+  20-le - 176€
   
-  25-le - 209€
+  25-le - 220€
   
-  30-le - 249€
+  30-le - 264€
   
   **MAITSEV TAIMNE**
   
-  Vinegrett/vegan kartulisalat, juurviljavaagen, puuviljavaagen, vegan lavaširull, popcorn ja mahl.
+  Vinegrett või vegan kartulisalat, juurviljavaagen, puuviljavaagen, vegan lavaširull, kikerherne-porgandipallid, popcorn ja mahl.
   
-  10-le - 69€
+  10-le - 68€
   
-  15-le - 99€
+  15-le - 102€
   
-  20-le - 129€
+  20-le - 136€
   
-  25-le - 159€
+  25-le - 170€
   
-  30-le - 189€
+  30-le - 204€
 
 CATERING Kalamaja Gastro
 
 : Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :)
 
-  Tellimuse saate esitada mängutoa broneerimisel lisainfosse või e-posti teel tore@torela.ee.
+  Tellimuse täpsustused saate esitada mängutoa broneerimisel lisainfosse või e-posti teel tore@torela.ee.
 
   <img alt="Catering1" src="catering-1.png" height="700">
   <img alt="Catering2" src="catering-2.png" height="700">
