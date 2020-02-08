@@ -9,23 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-
-**06.02 (10.00-13.00) - PANNKOOGIHOMMIK**
-Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid.
-Joogiks pakume vett, piima ja kohvi!
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
-
-**07.02 (11.00-13.00) - LOOVTEGEMISED** 
-Huviring LOOVTEGEMISED
-1,5-3-aastastele
-REEDETI
-11.00-13.00
-Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
-
-
 **10.02.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
 Mähkmed.eu tutvustab riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
 Loomulikult on kõik oodatud ka niisama mängima! 
@@ -33,6 +16,42 @@ Laual head-paremat ja kohv!
 
 Osalustasu: 5€, alla aastase lapsega TASUTA! 
 Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
+
+**13.02.20 (10.00-13.00) - MÄNGUHOMMIK**
+Ootame teid kõiki mänguhommikule! Lapsed saavad omavahel mõnusalt mängida ja lapsevanemad kohvitassi taga juttu ajada! 
+Laual näksimist ja kohv! 
+
+Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
+
+**17.02 (10.00-13.00) - PANNKOOGIHOMMIK**
+Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
+Joogiks pakume vett, piima ja kohvi!
+
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
+
+
+**20.02.20 (10.00-13.00) - MÄNGUHOMMIK**
+Ootame kõiki mänguhommikule mängima ja juttu ajama! 
+Laual head-paremat ja kohv!  
+
+Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
+
+**21.02 (11.00-13.00) - LOOVTEGEMISED** 
+Huviring LOOVTEGEMISED
+1,5-3-aastastele
+REEDETI
+11.00-13.00
+Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 
