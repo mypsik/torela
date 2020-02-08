@@ -49,6 +49,14 @@ Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 
+
+**14.02 (10.00-13.00) - Sõbrapäeva mänguhommik + meisterdame!**
+Sõbrapäeval kutsume kokku kõik suured ja väikesed sõbrad, et mõnusalt koos aega veeta!
+Seekord meisterdame midagi väga vahvat! 
+Laual näksimist ja kohv!
+
+Kindlasti palume registreerida (tore@torela.ee või ürituse all "going"), kuna kohtade arv on piiratud. 
+
 **17.02 (10.00-13.00) - PANNKOOGIHOMMIK**
 Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
 Joogiks pakume vett, piima ja kohvi!
