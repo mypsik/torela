@@ -18,6 +18,27 @@ Osalustasu: 5€, alla aastase lapsega TASUTA!
 Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
+**12.02.20 (18.00-19.30) - Hüpnosünnituse tutvustav tund Torela Mängutoas**
+Tänapäeval pakutakse naistele üha enam loomuliku sünnituse võimalusi ja viise, et laste ilmale toomine oleks kergem ja helgem. Sünnitusele kaasatakse üha enam sünnitoetajaid ja ka era ämmaemandaid, sest naised muutuvad üha enam teadlikumaks.
+
+Hüpnosünnitus on Marie Mongani poolt loodud meetod, mis pakub samuti loomuliku sünnituse võimalust ja seda läbi lõdvestus ja hingamistehnikate, mis aitavad luua rahulikku ja meelepärast keskkonda lapse ilmale toomiseks koos partneri või tugiisikuga.
+
+Mida meie tutvustav tund sisaldab?
+
+•	Mis on hüpnoos?
+•	Hüpnosünnituse tutvustus ja videod.
+•	Loomuliku sünnituse kasutegurite kirjeldus.
+•	Millised on loomuliku sünni põhilised segavad faktorid?
+•	Naise imelise keha ja meele loomulikud võimed.
+•	Kergema sünni võimalikud nipid/faktid koostöös kehaga.
+•	Hingamise olulisus.
+•	Partneri/Tugiisiku/Sünnitoetaja rolli olulisus.
+•	Taastumine peale sünnitust.
+•	Kingitust
+•	Kerget suupistet, teed/kohvi/vett.
+
+Osaluspanuse 10€
+Tasumine Torela Mängutoale sularahas
 
 **13.02.20 (10.00-13.00) - MÄNGUHOMMIK**
 Ootame teid kõiki mänguhommikule! Lapsed saavad omavahel mõnusalt mängida ja lapsevanemad kohvitassi taga juttu ajada! 
