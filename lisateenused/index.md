@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: services
 lang: et
 title: Lisateenused
 priority: 1.0
@@ -7,15 +7,15 @@ en: /en/services/
 ru: /ru/services/
 ---
 
-PEOJÄRGNE KORISTAMINE - 25€
-: Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame mänguruumid ise!
+## PEOJÄRGNE KORISTAMINE - 25€ {#cleaning}
+  Kui sünnipäev läbi, siis lilled kaenlasse ja kingid näppu ning meie koristame mänguruumid ise!
   
   *Korduvkasutatavate nõude kasutamisel tuleb nõud ise puhtaks pesta. Kui soovite, et meie seda teeme, siis lisandub nõudepesu eest 10€. Nõudepesu pakume vaid õhtustele pidudele (18-21).
   
   <img alt="Koristamine" src="koristamine.jpg" height="150"> 
 
-KORDUVKASUTATAVAD NÕUD - TASUTA
-: Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 40 inimesele. 
+## KORDUVKASUTATAVAD NÕUD - TASUTA
+  Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 40 inimesele. 
 
   **Nõud tuleb ise puhtaks pesta.** 
   
@@ -24,9 +24,9 @@ KORDUVKASUTATAVAD NÕUD - TASUTA
   <img alt="Nõud" src="n6ud-1.jpg" height="250">
   
 
-NÄOMAALINGUD - 50€/1h
+## NÄOMAALINGUD - 50€/1h
 
-: Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
+  Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
 
   Ühes tunnis jõuab näomaalija teha umbes:
 
@@ -40,9 +40,9 @@ NÄOMAALINGUD - 50€/1h
   <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="200"> 
   
 
-ÕHUPALLILOOMAD - 70€/1h
+## ÕHUPALLILOOMAD - 70€/1h
 
-: Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
+  Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
 
   Pikkadest õhupallidest valmivad õhupallifiguurid panevad särama iga lapse silmad. Pidudel valmivad üldjuhul ühest kuni neljast pallist koosnevad kujundid.
   Õhupallimeisterdaja suudab teha üle 300 erineva disainiga õhupallifiguuri. Laske vabalt fantaasial lennata ja pange õhupallimeistri võimed proovile!
@@ -59,9 +59,9 @@ NÄOMAALINGUD - 50€/1h
   
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150"> 
 
-TOIT PEOLAUALE - al 36€
+## TOIT PEOLAUALE - al 36€
 
-: Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Mängutuba broneerides lisada salativalik ja inimeste arv lisainfosse või esitada soov **tore@torela.ee**.
+  Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Mängutuba broneerides lisada salativalik ja inimeste arv lisainfosse või esitada soov **tore@torela.ee**.
 
   **LIHTNE AMPS**
   
@@ -121,18 +121,18 @@ TOIT PEOLAUALE - al 36€
   
   30-le - 204€
 
-CATERING Kalamaja Gastro
+## CATERING Kalamaja Gastro
 
-: Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :)
+  Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :)
 
   Tellimuse täpsustused saate esitada mängutoa broneerimisel lisainfosse või e-posti teel tore@torela.ee.
 
   <img alt="Catering1" src="catering-1.png">
   <img alt="Catering2" src="catering-2.png">
 
-RETROVAHVLID - 8€/10tk
+## RETROVAHVLID - 8€/10tk
 
-: Klassikalised krõbedad retrovahvlid.
+   Klassikalised krõbedad retrovahvlid.
   
    Koostis: 82% Eesti või, turumunad, roosuhkur, vanillisuhkur, kaneel, täispiim (3,8%- 4,2%), nisujahu ja täisteranisujahu. 
   
@@ -149,9 +149,9 @@ RETROVAHVLID - 8€/10tk
   <img alt="Vahvlid" src="vahvlid.jpg" height="150">
   
  
- DONUTS - al 1,5€/tk
+ ## DONUTS - al 1,5€/tk
 
-: Selleks, et sünnipäev veelgi paremini veerekeks, on meil maailma parimad donutsid!  Mei donutsid valmivad käsitööna ja spetsiaalselt just teie peoks. Lisaks tavavalikus olevatele kaunistustele, võtame vastu ka eritellimusi. Laste nimedega donutsid, üksksarvikud, jalgpall, Käpapatrull, printsessi temaatika - muudame kõik donutsisoovid reaalsuseks! NB! Erisoovidele ei kehti tavahind! Tordi asemel saab sünnipäeva lõpuks pakkuda donutsi-torni! 
+ Selleks, et sünnipäev veelgi paremini veerekeks, on meil maailma parimad donutsid!  Mei donutsid valmivad käsitööna ja spetsiaalselt just teie peoks. Lisaks tavavalikus olevatele kaunistustele, võtame vastu ka eritellimusi. Laste nimedega donutsid, üksksarvikud, jalgpall, Käpapatrull, printsessi temaatika - muudame kõik donutsisoovid reaalsuseks! NB! Erisoovidele ei kehti tavahind! Tordi asemel saab sünnipäeva lõpuks pakkuda donutsi-torni! 
     
   **1tk - 2€**
   
@@ -168,8 +168,8 @@ RETROVAHVLID - 8€/10tk
   <img alt="Donuts2" src="3_orig.jpg" height="150">
 
 
-PEOBOX - al 49€
-: Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
+## PEOBOX - al 49€
+  Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
   
   MUGAV. KIIRE. KESKKONNASÄÄSTLIK.
   [Täpsemad hinnad ja pakettide tutvustamised](https://peobox.ee/sunnipaevad/){:target="_blank"}
@@ -181,19 +181,19 @@ PEOBOX - al 49€
   <img alt="Kosmos" src="kosmosepidu.png" height="200"> 
 
 
-JÄÄTISEMASIN - 59€
-: Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
+## JÄÄTISEMASIN - 59€
+  Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
   <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="150"> 
 
-SUHKRUVATIMASIN - 55€
-: Laste sünnipäevade tõeline hitt. Suhkruvatt valmib 60 sekundiga ja selle valmistamine on väga lihtne. Suhkru kulu 1 portsioni kohta 12-18 grammi. 
+## SUHKRUVATIMASIN - 55€
+  Laste sünnipäevade tõeline hitt. Suhkruvatt valmib 60 sekundiga ja selle valmistamine on väga lihtne. Suhkru kulu 1 portsioni kohta 12-18 grammi. 
   Hinnas on: suhkruvatimasin, kuppel, suhkru dosaator, 1kg suhkrut, 50 puidust pulka. Võimalik saada värvilisi erinevate maitsetega suhkruid.
    
    <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150"> 
 
-FOTOGRAAF - 135€/~2h
-: Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõik ehedad emotsioonid ja parimad hetked!
+## FOTOGRAAF - 135€/~2h
+  Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõik ehedad emotsioonid ja parimad hetked!
   Tema portfoolioga saab tutvuda siin: [helentulp.com](https://www.helentulp.com/){:target="_blank"}
 
   Helen on lastega vaba suhtleja ja teeb pilte peo algusest kuni tordi lahtilõikamiseni. 
@@ -205,10 +205,9 @@ FOTOGRAAF - 135€/~2h
    <img alt="Fotograaf1" src="DSCF8013.jpg" height="150"> 
 
 
-  
-VIDEOGRAAF - 300€/3h
+## VIDEOGRAAF - 300€/3h
 
-: Lapse sünnipäeva säravamad ja tähtsamad hetked kvaliteetselt videopildile!
+  Lapse sünnipäeva säravamad ja tähtsamad hetked kvaliteetselt videopildile!
 
   Videograaf Marge Prints filmib pidu kuni 3h – alates külaliste saabumistest kuni tordi lõikamiseni.
   Peost valmib korralikult kokku monteeritud, helindatud, parimate hetkedega 5 minutiline video.  
@@ -221,8 +220,9 @@ VIDEOGRAAF - 300€/3h
   <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="150">
   
   
-PUTUKAPROGRAMM - Mattias Turovski - 150€/45min
-: Põneva ja erilise programmi raames tutvustatakse nelja erinevat looma - hiidtigu, prussakat, raagritsikat ning 
+## PUTUKAPROGRAMM - Mattias Turovski - 150€/45min
+
+  Põneva ja erilise programmi raames tutvustatakse nelja erinevat looma - hiidtigu, prussakat, raagritsikat ning 
   hiidtuhatjalaga. 
   
   Esitlusel vaadatakse nende pilte, elupaiku ja tutvustatakse ökoloogiat. Lapsed saavad tutvuda loomadega  vahetult - **loomad liiguvad käest kätte**!
@@ -236,9 +236,9 @@ PUTUKAPROGRAMM - Mattias Turovski - 150€/45min
    <img alt="Sajajalgne" src="IMG_9034.jpg" height="150">
    
 
-PEOJUHT - al 150€+km
+## PEOJUHT - al 150€+km
 
-: Peojuht Merli Rosar, Merros Stuudiost aitab teha sünnipäevad kordumatuks! 
+  Peojuht Merli Rosar, Merros Stuudiost aitab teha sünnipäevad kordumatuks! 
   Valikus on mitmed kostümeeritud tegelaskujud ja programmid pikkusega 1-1,5h.
 
   Tegelaskujud: Rapuntsel, Pipi Pikksukk, Mereröövel, Indiaanlane, Lumivalgeke, Lotte, Jänku Juss, Nõiatüdruk, Haldjas, Printsess, Frozen Anna, Frozen Elsa, Detektiiv, Minni Hiir, Professor Siiri, Ükssarvik, Päkapikk, Troll Poppy, Vaiana. 
@@ -254,9 +254,9 @@ PEOJUHT - al 150€+km
   <img alt="Pipi Pikksukk" src="pipi-pikksukk.jpg" height="250">
 
 
-MUSTKUNSTNIK - 115€/30min
+## MUSTKUNSTNIK - 115€/30min
 
-: Mustkunstnik Richard Samarüütel lisab laste sünnipäevadele maagiat ja unustamatuid trikke.
+  Mustkunstnik Richard Samarüütel lisab laste sünnipäevadele maagiat ja unustamatuid trikke.
 
   Richard teeb klassikalisi trikke rõngaste, topside ja pallidega, kuid lisaks ka ka uuema ajastu trikke. 
   Etendust on huvitav vaadata ka täiskasvanutel. 
@@ -266,9 +266,9 @@ MUSTKUNSTNIK - 115€/30min
   <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="250">
   
   
-KOLM PÕRSAKEST - al 132€
+## KOLM PÕRSAKEST - al 132€
 
-: **TEADUSTEATER - 132€/45min.**
+  **TEADUSTEATER - 132€/45min.**
   
   Teadusetendus on 45-minutiline programm, mis on mõeldud vaatamiseks kuni 30-inimesele ja sobib suurepäraselt just laste sünnipäevadele. Etendus on sobilik kõigile alates neljandast eluaastast ning kava ja katsete seletused kohandatakse vastavalt laste vanusele. Teadusetenduse ajal on lapsed pigem publiku rollis ning esinejad viivad läbi lihtsaid, kuid lustakaid teaduskatseid, seletades katses toimuvat. Laste küsimused saavad vastused ning mõni julgem laps saab paarile katsele ise käed külge panna. Katsed peaksid olema lastele arusaadavad ja huvitavad ning enamasti koduste vahenditega tehtavad, et lastes kasvatada huvi teaduse vastu ja soovi korral saaksid koos vanematega katseid kodus korrata.
 
@@ -286,9 +286,9 @@ KOLM PÕRSAKEST - al 132€
 
   <img alt="Teadusshow" src="teadusshow.jpg" height="150">
   
-MULLISHOW - al 80€/30min
+## MULLISHOW - al 80€/30min
 
-: Mullimeister (http://mullimeister.ee) toob sünnipäevale elevust! Show sisaldab trikke seebimullidega (erineva suurusega mullid, mullilohed, mullitorud, mulli batuut, mulli akvaarium jne).
+  Mullimeister (http://mullimeister.ee) toob sünnipäevale elevust! Show sisaldab trikke seebimullidega (erineva suurusega mullid, mullilohed, mullitorud, mulli batuut, mulli akvaarium jne).
 
   „Inimene seebimullis” - kõik lapsed võlutakse mulli sisse.
 
@@ -313,9 +313,9 @@ MULLISHOW - al 80€/30min
   <img alt="Mullishow" src="mullishow.jpg" height="150">
   
   
-KOOGITOPPERID JA BÄNNERID - al 6€
+## KOOGITOPPERID JA BÄNNERID - al 6€
 
-: Lapse sünnipäevatordi aitab eriliseks muuta Anneli Nahk, kes meisterdab nimelisi glitter-koogitoppereid ja "palju õnne" bännereid. 
+  Lapse sünnipäevatordi aitab eriliseks muuta Anneli Nahk, kes meisterdab nimelisi glitter-koogitoppereid ja "palju õnne" bännereid. 
 
   KOOGITOPPER - 6€
   
@@ -339,6 +339,3 @@ KOOGITOPPERID JA BÄNNERID - al 6€
   <img alt="Värvivalik3" src="v2rvivalik3.jpg" height="150">
   <img alt="Glitter1" src="glitter1.jpg" height="150">
   
- 
-
-

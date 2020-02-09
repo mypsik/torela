@@ -35,7 +35,7 @@ function initQuotes() {
 }
 
 function initServices() {
-  $('dl dt').on('click', function() {
-    $(this).add($(this).next('dd')).toggleClass('open');
+  $('#services h2').on('click', function() {
+    $(this).add($(this).nextUntil('h2')).toggleClass('open');
   })
 }

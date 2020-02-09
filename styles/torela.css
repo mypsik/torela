@@ -279,8 +279,14 @@ details > label {
   margin-left: 0.5em;
 }
 
-dl dt {
+#services .visible {
+  display: inline;
+}
+
+#services h2 {
   font-weight: bold;
+  font-family: inherit;
+  font-size: inherit;
   border: 1px dashed gray;
   padding: 1rem;
   border-radius: 1rem;
@@ -288,31 +294,27 @@ dl dt {
   cursor: pointer;
 }
 
-dl dt:hover {
+#services h2:hover {
   color: #849f4b;
 }
 
-dl dt::before {
+#services h2::before {
   content: '+';
   display: inline-block;
   margin-right: 0.5rem;
   color: darkred;
 }
 
-dl dt.open::before {
+#services h2.open::before {
   content: '–';
 }
 
-dl dd {
+#services > :not(h2) {
   display: none;
 }
 
-dl dd.open {
+#services > .open {
   display: block;
-}
-
-dl dt, dl dd {
-  margin-bottom: 1rem;
 }
 
 @media screen and (max-width: 900px) {
