@@ -36,6 +36,8 @@ function initQuotes() {
 
 function initServices() {
   $('#services h2').on('click', function() {
-    $(this).add($(this).nextUntil('h2')).toggleClass('open');
+    $(this).add($(this).nextUntil('h2')).toggleClass('open')
+    history.replaceState('', '', '#' + this.id)
   })
+  if (location.hash) $('#services h2' + location.hash).trigger('click')
 }

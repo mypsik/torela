@@ -175,7 +175,7 @@ const additionalServices = {
     en: 'Catering',
     et: 'Toitlustus',
     ru: 'Питание',
-    regular: {
+    torelaCatering: {
       en: 'Catering, from',
       et: 'Toit peolauale, alates',
       ru: 'Накрытый стол, от',
@@ -183,7 +183,7 @@ const additionalServices = {
       // priceUnit: 'person',
       // requestCount: true
     },
-    gastro: {
+    kalamajaGastro: {
       en: 'Kalamaja Gastro, from',
       et: 'Kalamaja Gastro, alates',
       ru: 'Каламая Гастро, от',

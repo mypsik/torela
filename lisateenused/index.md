@@ -14,7 +14,7 @@ ru: /ru/services/
   
   <img alt="Koristamine" src="koristamine.jpg" height="150"> 
 
-## KORDUVKASUTATAVAD NÕUD - TASUTA
+## KORDUVKASUTATAVAD NÕUD - TASUTA {#reusableTablewareFree}
   Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 40 inimesele. 
 
   **Nõud tuleb ise puhtaks pesta.** 
@@ -24,7 +24,7 @@ ru: /ru/services/
   <img alt="Nõud" src="n6ud-1.jpg" height="250">
   
 
-## NÄOMAALINGUD - 50€/1h
+## NÄOMAALINGUD - 50€/1h {#facePainting}
 
   Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
 
@@ -40,7 +40,7 @@ ru: /ru/services/
   <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="200"> 
   
 
-## ÕHUPALLILOOMAD - 70€/1h
+## ÕHUPALLILOOMAD - 70€/1h {#balloonAnimals}
 
   Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
 
@@ -59,7 +59,7 @@ ru: /ru/services/
   
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150"> 
 
-## TOIT PEOLAUALE - al 36€
+## TOIT PEOLAUALE - al 36€ {#torelaCatering}
 
   Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Mängutuba broneerides lisada salativalik ja inimeste arv lisainfosse või esitada soov **tore@torela.ee**.
 
@@ -121,7 +121,7 @@ ru: /ru/services/
   
   30-le - 204€
 
-## CATERING Kalamaja Gastro
+## CATERING Kalamaja Gastro {#kalamajaGastro}
 
   Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :)
 
@@ -130,7 +130,7 @@ ru: /ru/services/
   <img alt="Catering1" src="catering-1.png">
   <img alt="Catering2" src="catering-2.png">
 
-## RETROVAHVLID - 8€/10tk
+## RETROVAHVLID - 8€/10tk {#retroWaffels}
 
    Klassikalised krõbedad retrovahvlid.
   
@@ -149,7 +149,7 @@ ru: /ru/services/
   <img alt="Vahvlid" src="vahvlid.jpg" height="150">
   
  
- ## DONUTS - al 1,5€/tk
+ ## DONUTS - al 1,5€/tk {#donuts}
 
  Selleks, et sünnipäev veelgi paremini veerekeks, on meil maailma parimad donutsid!  Mei donutsid valmivad käsitööna ja spetsiaalselt just teie peoks. Lisaks tavavalikus olevatele kaunistustele, võtame vastu ka eritellimusi. Laste nimedega donutsid, üksksarvikud, jalgpall, Käpapatrull, printsessi temaatika - muudame kõik donutsisoovid reaalsuseks! NB! Erisoovidele ei kehti tavahind! Tordi asemel saab sünnipäeva lõpuks pakkuda donutsi-torni! 
     
@@ -168,7 +168,7 @@ ru: /ru/services/
   <img alt="Donuts2" src="3_orig.jpg" height="150">
 
 
-## PEOBOX - al 49€
+## PEOBOX - al 49€ {#peobox}
   Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
   
   MUGAV. KIIRE. KESKKONNASÄÄSTLIK.
@@ -181,18 +181,18 @@ ru: /ru/services/
   <img alt="Kosmos" src="kosmosepidu.png" height="200"> 
 
 
-## JÄÄTISEMASIN - 59€
+## JÄÄTISEMASIN - 59€ {#icecreamMachine}
   Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
   <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="150"> 
 
-## SUHKRUVATIMASIN - 55€
+## SUHKRUVATIMASIN - 55€ {#cottoncandy}
   Laste sünnipäevade tõeline hitt. Suhkruvatt valmib 60 sekundiga ja selle valmistamine on väga lihtne. Suhkru kulu 1 portsioni kohta 12-18 grammi. 
   Hinnas on: suhkruvatimasin, kuppel, suhkru dosaator, 1kg suhkrut, 50 puidust pulka. Võimalik saada värvilisi erinevate maitsetega suhkruid.
    
    <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150"> 
 
-## FOTOGRAAF - 135€/~2h
+## FOTOGRAAF - 135€/~2h {#photographer}
   Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõik ehedad emotsioonid ja parimad hetked!
   Tema portfoolioga saab tutvuda siin: [helentulp.com](https://www.helentulp.com/){:target="_blank"}
 
@@ -205,7 +205,7 @@ ru: /ru/services/
    <img alt="Fotograaf1" src="DSCF8013.jpg" height="150"> 
 
 
-## VIDEOGRAAF - 300€/3h
+## VIDEOGRAAF - 300€/3h {#videographer}
 
   Lapse sünnipäeva säravamad ja tähtsamad hetked kvaliteetselt videopildile!
 
@@ -220,7 +220,7 @@ ru: /ru/services/
   <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="150">
   
   
-## PUTUKAPROGRAMM - Mattias Turovski - 150€/45min
+## PUTUKAPROGRAMM - Mattias Turovski - 150€/45min {#bugsShow}
 
   Põneva ja erilise programmi raames tutvustatakse nelja erinevat looma - hiidtigu, prussakat, raagritsikat ning 
   hiidtuhatjalaga. 
@@ -236,7 +236,7 @@ ru: /ru/services/
    <img alt="Sajajalgne" src="IMG_9034.jpg" height="150">
    
 
-## PEOJUHT - al 150€+km
+## PEOJUHT - al 150€+km {#partyAnimator}
 
   Peojuht Merli Rosar, Merros Stuudiost aitab teha sünnipäevad kordumatuks! 
   Valikus on mitmed kostümeeritud tegelaskujud ja programmid pikkusega 1-1,5h.
@@ -254,7 +254,7 @@ ru: /ru/services/
   <img alt="Pipi Pikksukk" src="pipi-pikksukk.jpg" height="250">
 
 
-## MUSTKUNSTNIK - 115€/30min
+## MUSTKUNSTNIK - 115€/30min {#magician}
 
   Mustkunstnik Richard Samarüütel lisab laste sünnipäevadele maagiat ja unustamatuid trikke.
 
@@ -266,7 +266,7 @@ ru: /ru/services/
   <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="250">
   
   
-## KOLM PÕRSAKEST - al 132€
+## KOLM PÕRSAKEST - al 132€ {#scienceTheater}
 
   **TEADUSTEATER - 132€/45min.**
   
@@ -286,7 +286,7 @@ ru: /ru/services/
 
   <img alt="Teadusshow" src="teadusshow.jpg" height="150">
   
-## MULLISHOW - al 80€/30min
+## MULLISHOW - al 80€/30min {#mullimeister}
 
   Mullimeister (http://mullimeister.ee) toob sünnipäevale elevust! Show sisaldab trikke seebimullidega (erineva suurusega mullid, mullilohed, mullitorud, mulli batuut, mulli akvaarium jne).
 
@@ -313,7 +313,7 @@ ru: /ru/services/
   <img alt="Mullishow" src="mullishow.jpg" height="150">
   
   
-## KOOGITOPPERID JA BÄNNERID - al 6€
+## KOOGITOPPERID JA BÄNNERID - al 6€ {#cakeTopperBanner}
 
   Lapse sünnipäevatordi aitab eriliseks muuta Anneli Nahk, kes meisterdab nimelisi glitter-koogitoppereid ja "palju õnne" bännereid. 
 
