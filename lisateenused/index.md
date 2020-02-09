@@ -172,13 +172,13 @@ PEOBOX - al 49€
 : Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
   
   MUGAV. KIIRE. KESKKONNASÄÄSTLIK.
-  Täpsemad hinnad ja pakettide tutvustamised: https://peobox.ee/sunnipaevad/
+  [Täpsemad hinnad ja pakettide tutvustamised](https://peobox.ee/sunnipaevad/){:target="_blank"}
   
 
-  <img alt="Frozen" src="frozen.jpg" height="150"> 
-  <img alt="Peobox" src="peobox" height="150">
-  <img alt="Peobox1" src="peobox1.jpg" height="150">
-  <img alt="Kosmos" src="kosmosepidu.png" height="150"> 
+  <img alt="Frozen" src="frozen.jpg" height="200"> 
+  <img alt="Peobox0" src="peobox0.jpg" height="200">
+  <img alt="Peobox1" src="peobox1.jpg" height="200">
+  <img alt="Kosmos" src="kosmosepidu.png" height="200"> 
 
 
 JÄÄTISEMASIN - 59€
@@ -194,7 +194,7 @@ SUHKRUVATIMASIN - 55€
 
 FOTOGRAAF - 135€/~2h
 : Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõik ehedad emotsioonid ja parimad hetked!
-  Tema portfoolioga saab tutvuda siin: [helentulp.com/](https://www.helentulp.com/){:target="_blank"}
+  Tema portfoolioga saab tutvuda siin: [helentulp.com](https://www.helentulp.com/){:target="_blank"}
 
   Helen on lastega vaba suhtleja ja teeb pilte peo algusest kuni tordi lahtilõikamiseni. 
   Pildistab nii üldist mänguhoogu, portreesid ja soovikorral ka perepilte ning grupipilte fotoseina juures. 
@@ -278,7 +278,7 @@ KOLM PÕRSAKEST - al 132€
   
   Teadustöötoas on lastel 45 minuti jooksul võimalus lahendada mõni lustakas teadusülesanne või meisterdada endale üks vinge teaduslik mänguasi. Iga ülesande juures on abiks esinejad, kes tagavad lastele kõik vajalikud vahendid ja juhtnöörid.  Ülesandeid aitavad lahendada teadatuntud füüsikaseadused, millele tähelepanu pööratakse ja mille mõju siis ka reaalelus näha saab. Teadustöötuba on hariv ja tööd täis ning sobilik lastele, kes ei soovi käed rüpes istuda ja tahavad midagi oma kätega ära teha. Teadustöötuba on sobilik lastele alates viiendast eluaastast ning gruppidele, mille suurus on kuni 20 last.
 
-  <img alt="Teadustöötuba" src="Iseloomustav-pilt-originaal-2.png" height="150">
+  <img alt="Teadustöötuba" src="teadustootuba.png" height="150">
   
   **TEADUSSHOW - 270€/30min**
   
