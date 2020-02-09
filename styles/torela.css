@@ -292,15 +292,15 @@ dl dt:hover {
   color: #849f4b;
 }
 
-dl dt::after {
-  content: '▿';
+dl dt::before {
+  content: '+';
   display: inline-block;
-  margin-left: 1rem;
+  margin-right: 0.5rem;
   color: darkred;
 }
 
-dl dt.open::after {
-  content: '▵';
+dl dt.open::before {
+  content: '–';
 }
 
 dl dd {
