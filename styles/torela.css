@@ -270,6 +270,15 @@ input:not([type=checkbox]):not([type=radio]), textarea {
   margin-right: 1rem;
 }
 
+details > summary {
+  margin-bottom: 0.5em;
+  cursor: pointer;
+}
+
+details > label {
+  margin-left: 0.5em;
+}
+
 dl dt {
   font-weight: bold;
   border: 1px dashed gray;

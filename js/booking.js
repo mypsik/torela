@@ -25,13 +25,15 @@ function BookingDialog(selector, api, lang) {
     const services = this.dialog.find('.services')
     for (let categoryKey in additionalServices) {
       const category = additionalServices[categoryKey]
+      const catEl = $('<details><summary>' + category[lang] + '</summary></details>').appendTo(services)
       for (let key in category) {
+        if (key.length === 2) continue
         const service = category[key]
         const priceUnitText = service.priceUnit ? ' / ' + (this.msg[service.priceUnit] || service.priceUnit) : ''
         const el = $('<label>' +
           '<input type="checkbox" name="' + key + '" data-category="' + categoryKey + '"> ' +
           '<span>' + service[lang] + ' <i class="price">' + service.price + '€' + priceUnitText + '</i></span>' +
-        '</label>').appendTo(services)
+        '</label>').appendTo(catEl)
         if (service.requestCount)
           el.append('<input type="number" min="0" max="100" placeholder="' + this.msg['count'] + '">')
       }
@@ -144,6 +146,9 @@ const bookingMessages = {
 
 const additionalServices = {
   general: {
+    en: 'Torela services',
+    et: 'Torela teenused',
+    ru: 'Услуги Торелы',
     cleaning: {
       en: 'Cleaning',
       et: 'Koristus',
@@ -167,6 +172,9 @@ const additionalServices = {
     },
   },  
   catering: {
+    en: 'Catering',
+    et: 'Toitlustus',
+    ru: 'Питание',
     regular: {
       en: 'Catering, from',
       et: 'Toit peolauale, alates',
@@ -215,6 +223,9 @@ const additionalServices = {
     },
   },
   memories: {
+    en: 'Memories',
+    et: 'Mälestused',
+    ru: 'На память',
     photographer: {
       en: 'Photographer',
       et: 'Fotograaf',
@@ -231,6 +242,9 @@ const additionalServices = {
     },
   },
   entertainment: {
+    en: 'Entertainment',
+    et: 'Lõbustused',
+    ru: 'Развлечения',
     facePainting: {
       en: 'Face painting',
       et: 'Näomaalingud',
@@ -275,6 +289,9 @@ const additionalServices = {
     },
   },
   decorations: {
+    en: 'Decorations',
+    et: 'Dekoratsioonid',
+    ru: 'Оформление',
     peobox: {
       en: 'Peobox, from',
       et: 'Peobox, alates',
