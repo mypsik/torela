@@ -12,7 +12,7 @@ PEOJÄRGNE KORISTAMINE - 25€
   
   *Korduvkasutatavate nõude kasutamisel tuleb nõud ise puhtaks pesta. Kui soovite, et meie seda teeme, siis lisandub nõudepesu eest 10€. Nõudepesu pakume vaid õhtustele pidudele (18-21).
   
-  <img alt="Koristamine" src="Canva - null (1).jpg" height="150"> 
+  <img alt="Koristamine" src="koristamine.jpg" height="150"> 
 
 KORDUVKASUTATAVAD NÕUD - TASUTA
 : Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 40 inimesele. 
@@ -21,7 +21,7 @@ KORDUVKASUTATAVAD NÕUD - TASUTA
   
   Õhtustele pidudele (18-21) pakume lisateenusena ka nõude pesemist - 10€.
 
-  <img alt="Nõud" src="n6ud-1.jpg" height="150">
+  <img alt="Nõud" src="n6ud-1.jpg" height="250">
   
 
 NÄOMAALINGUD - 50€/1h
@@ -36,8 +36,8 @@ NÄOMAALINGUD - 50€/1h
 
   Glittertätoveeringud on lisaks 45€ tunnis ja kuni 12 last.
   
-  <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="150"> 
-  <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="150"> 
+  <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="200"> 
+  <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="200"> 
   
 
 ÕHUPALLILOOMAD - 70€/1h
@@ -127,8 +127,8 @@ CATERING Kalamaja Gastro
 
   Tellimuse täpsustused saate esitada mängutoa broneerimisel lisainfosse või e-posti teel tore@torela.ee.
 
-  <img alt="Catering1" src="catering-1.png" height="700">
-  <img alt="Catering2" src="catering-2.png" height="700">
+  <img alt="Catering1" src="catering-1.png">
+  <img alt="Catering2" src="catering-2.png">
 
 RETROVAHVLID - 8€/10tk
 
@@ -247,11 +247,11 @@ PEOJUHT - al 150€+km
 
   Kui valite mängutoa broneerimisel peojuhi, siis võtame Teiega peagi ühendust, et täpsustada kõik sellega seonduv (peojuhi saadavus, hind, soovitud tegelaskuju jms).
   
-  <img alt="Haldjas" src="haldjas.jpg" height="150"> 
-  <img alt="Mereröövel" src="mereroovel-683x1024.jpg" height="150">
-  <img alt="Minni Hiir" src="minni-hiir.jpg" height="150">
-  <img alt="Lotte" src="lotte2.jpg" height="150">
-  <img alt="Pipi Pikksukk" src="pipi-pikksukk.jpg" height="150">
+  <img alt="Haldjas" src="haldjas.jpg" height="250"> 
+  <img alt="Mereröövel" src="mereroovel.jpg" height="250">
+  <img alt="Minni Hiir" src="minni-hiir.jpg" height="250">
+  <img alt="Lotte" src="lotte2.jpg" height="250">
+  <img alt="Pipi Pikksukk" src="pipi-pikksukk.jpg" height="250">
 
 
 MUSTKUNSTNIK - 115€/30min
@@ -262,8 +262,8 @@ MUSTKUNSTNIK - 115€/30min
   Etendust on huvitav vaadata ka täiskasvanutel. 
   Sobib hästi 5-7aastastele lastele.
   
-  <img alt="Richard Samarüütel" src="mustkunstnik1.jpg" height="150">
-  <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="150">
+  <img alt="Richard Samarüütel" src="mustkunstnik1.jpg" height="250">
+  <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="250">
   
   
 KOLM PÕRSAKEST - al 132€
@@ -310,7 +310,7 @@ MULLISHOW - al 80€/30min
   
   Broneerimiseks kirjutada info@mullimeister.ee.
 
-  <img alt="Mullishow" src="mullishow-700x460.jpg" height="150">
+  <img alt="Mullishow" src="mullishow.jpg" height="150">
   
   
 KOOGITOPPERID JA BÄNNERID - al 6€
