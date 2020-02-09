@@ -309,7 +309,7 @@ details > label {
   content: '–';
 }
 
-#services > :not(h2) {
+main > #services > :not(h2) {
   display: none;
 }
 

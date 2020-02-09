@@ -44,6 +44,20 @@
   margin-bottom: 0.5rem;
 }
 
+.booking-dialog .services a.info {
+  display: inline-block;
+  width: 1em;
+  text-align: center;
+  background: lightgray;
+  color: white;
+  border-radius: 50%;
+  font-family: serif;
+}
+
+.booking-dialog .services a.info:hover {
+  text-decoration: none;
+}
+
 .booking-dialog .services input[type=number] {
   display: none;
   width: 120px;
