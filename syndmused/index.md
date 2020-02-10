@@ -9,15 +9,6 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-**10.02.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
-Mähkmed.eu tutvustab riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
-Loomulikult on kõik oodatud ka niisama mängima! 
-Laual head-paremat ja kohv! 
-
-Osalustasu: 5€, alla aastase lapsega TASUTA! 
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
-
 **12.02.20 (18.00-19.30) - Hüpnosünnituse tutvustav tund Torela Mängutoas**
 Tänapäeval pakutakse naistele üha enam loomuliku sünnituse võimalusi ja viise, et laste ilmale toomine oleks kergem ja helgem. Sünnitusele kaasatakse üha enam sünnitoetajaid ja ka era ämmaemandaid, sest naised muutuvad üha enam teadlikumaks.
 
@@ -125,6 +116,15 @@ Koha broneerimiseks kirjuta tore@torela.ee või ingrid.un@gmail.com või pannes 
 Mängutuba asub 2.korrusel, fonolukult nr 2. 
 Kohtumiseni!
 
+
+**09.03.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
+Mähkmed.eu tutvustab riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
+Loomulikult on kõik oodatud ka niisama mängima! 
+Laual head-paremat ja kohv! 
+
+Osalustasu: 5€, alla aastase lapsega või rasedana sissepääs TASUTA! 
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 **Märtsist PEREKOOLI vestlusringiga mänguhommikud ja -õhtud!**
 Üritus toimub 6 korda - teisipäeviti 18.00-20.00 ja kolmapäeviti 11.00-13.00. 
