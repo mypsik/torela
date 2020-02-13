@@ -10,16 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**13.02.20 (10.00-13.00) - MÄNGUHOMMIK**
-Ootame teid kõiki mänguhommikule! Lapsed saavad omavahel mõnusalt mängida ja lapsevanemad kohvitassi taga juttu ajada! 
-Laual näksimist ja kohv! 
-
-Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
-
-
-
 **14.02 (10.00-13.00) - Sõbrapäeva mänguhommik + meisterdame!**
 Sõbrapäeval kutsume kokku kõik suured ja väikesed sõbrad, et mõnusalt koos aega veeta!
 Seekord meisterdame midagi väga vahvat! 
