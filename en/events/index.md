@@ -9,27 +9,6 @@ ru: /ru/events/
 PLAY-MORNINGS
 
 
-**13.02 (10.00-13.00) - Playmorning**
-You are welcome to the play-morning!
-There are tasty snacks and coffee on the table! 
-
-Participation fee is 7 € (child + parent), another child of the same family +3€.
-
-
-**14.02 (10.00-13.00) - Valentine's day playmorning**
-You are welcome to the special play-morning on Friday!
-There are tasty snacks and coffee on the table! 
-
-For a special day we'll prepare an intresting craftwork for kids! 
-
-Participation fee is 7 € (child + parent), another child of the same family +3€.
-
-
-**17.02 (10.00-13.00) - Pancake-morning**
-Eat as much pancakes as you can! We'll have pancake-mountains!
-Participation fee 7 € (child + parent), another child of the same family +3€.
-
-
 **20.02 (10.00-13.00) - Playmorning**
 You are welcome to the play-morning!
 There are tasty snacks and coffee on the table! 
@@ -56,20 +35,27 @@ We'll offer you snacks and coffee!
 Participation fee 10 € (child + parent), another child of the same family +5€.
 
 
+**05.03 (10.00-13.00) - Pancake-morning**
+Eat as much pancakes as you can! We'll have pancake-mountains!
+Participation fee 7 € (child + parent), another child of the same family +3€.
+
+
 **09.03 (10.00-13.00) - Play-morning + MÄHKMED.EU diapers**
 This monday our play-morning is especially special because we introduce cloth diapers! All those interested in reusable diapers are very welcome to see the different types of diapers and manufacturers. 
 Entry is 5€, with a child under 1y is FREE!
 
 
+**16.03 (10.00-13.00) - Pancake-morning**
+Eat as much pancakes as you can! We'll have pancake-mountains!
+Participation fee 7 € (child + parent), another child of the same family +3€.
+
+
 If you want to come to our events, let us know: tore@torela.ee
-
 Play mornings take place mostly every Monday and Thursday from 10:00 to 13:00!
-
 Free parking on the street, entrance from the street-side door, no.2. 
-
 Pushchairs can be left on the 1st floor.
 
 Participation fee 7 € (child + parent), another child of the same family +3€. You are all very welcome!
-
+It's also possible to buy 5xCARD that costs 25€! 
 
 Get the most out of your events by joining our Facebook page and mailing list!
