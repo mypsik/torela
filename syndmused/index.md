@@ -10,22 +10,6 @@ ru: /ru/events/
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
 
-**14.02 (10.00-13.00) - Sõbrapäeva mänguhommik + meisterdame!**
-Sõbrapäeval kutsume kokku kõik suured ja väikesed sõbrad, et mõnusalt koos aega veeta!
-Seekord meisterdame midagi väga vahvat! 
-Laual näksimist ja kohv!
-
-Kindlasti palume registreerida (tore@torela.ee või ürituse all "going"), kuna kohtade arv on piiratud. 
-
-**17.02 (10.00-13.00) - PANNKOOGIHOMMIK**
-Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
-Joogiks pakume vett, piima ja kohvi!
-
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
-
-
 **20.02.20 (10.00-13.00) - MÄNGUHOMMIK**
 Ootame kõiki mänguhommikule mängima ja juttu ajama! 
 Laual head-paremat ja kohv!  
@@ -86,6 +70,15 @@ Mängutuba asub 2.korrusel, fonolukult nr 2.
 Kohtumiseni!
 
 
+**05.03 (10.00-13.00) - PANNKOOGIHOMMIK**
+Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
+Joogiks pakume vett, piima ja kohvi!
+
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
+
+
 **09.03.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
 Mähkmed.eu tutvustab riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
 Loomulikult on kõik oodatud ka niisama mängima! 
@@ -94,6 +87,16 @@ Laual head-paremat ja kohv!
 Osalustasu: 5€, alla aastase lapsega või rasedana sissepääs TASUTA! 
 Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
+
+**16.03 (10.00-13.00) - PANNKOOGIHOMMIK**
+Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
+Joogiks pakume vett, piima ja kohvi!
+
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
+
 
 **Märtsist PEREKOOLI vestlusringiga mänguhommikud ja -õhtud!**
 Üritus toimub 6 korda - teisipäeviti 18.00-20.00 ja kolmapäeviti 11.00-13.00. 
