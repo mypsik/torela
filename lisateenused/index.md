@@ -134,7 +134,7 @@ ru: /ru/services/
 
    Klassikalised krõbedad retrovahvlid.
   
-   Koostis: 82% Eesti või, turumunad, roosuhkur, vanillisuhkur, kaneel, täispiim (3,8%- 4,2%), nisujahu ja täisteranisujahu. 
+   Koostis: 82% Eesti või, talumunad, roosuhkur, vanillisuhkur, kaneel, täispiim (3,8%- 4,2%), nisujahu ja täisteranisujahu. 
   
   **10tk - 8€**
   
