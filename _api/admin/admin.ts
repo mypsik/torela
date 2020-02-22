@@ -59,7 +59,7 @@ export default function admin(db: Db): Router {
   })
 
   admin.get('/stats.json', async (req, res) => {
-    const from = req.query.from || today()
+    const from = req.query.from || undefined
     res.json(await bookingService.stats(from))
   })
 
