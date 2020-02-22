@@ -26,6 +26,10 @@ export function statsView(stats: Stats, from: string) {
           <td>${Math.round(stats.totalServices / stats.totalBookings * 100) / 100}</td>
         </tr>
         <tr>
+          <th>Lisateenused</th>
+          ${bars(Object.values(stats.services), Object.keys(stats.services))}
+        </tr>
+        <tr>
           <th>Broneeringuid kuus</th>
           ${bars(stats.months, monthNames)}
         </tr>

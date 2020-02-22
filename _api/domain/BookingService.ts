@@ -70,7 +70,12 @@ export default class BookingService {
     await this.data.find(query).forEach((b: Booking) => {
       if (!b.publicEvent) {
         stats.totalBookings++
-        if (b.additionalServices) stats.totalServices += (b.additionalServices.length || 0)
+        if (b.additionalServices) {
+          stats.totalServices += (b.additionalServices.length || 0)
+          for (const s of b.additionalServices) {
+            stats.services[s.name] = (stats.services[s.name] || 0) + 1
+          }
+        }
 
         const ua = b.userAgent || ''
         if (ua.includes('Edge')) stats.browsers.Edge++
@@ -84,7 +89,7 @@ export default class BookingService {
         stats.months[date.getMonth()]++
         const weekday = date.getDay() - 1
         stats.weekdays[weekday < 0 ? 6 : weekday]++
-        if (stats.times[b.time]) stats.times[b.time]++; else stats.times[b.time] = 1
+        stats.times[b.time] = (stats.times[b.time] || 0) + 1
 
         const bookingDate = new Date(b.createdAt)
         stats.bookingHours[bookingDate.getHours()]++
@@ -110,6 +115,7 @@ export class Stats {
   totalBookings = 0
   totalEvents = 0
   totalServices = 0
+  services = {}
   months = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   weekdays = [0, 0, 0, 0, 0, 0, 0]
   times = {}
