@@ -73,6 +73,7 @@ export function statsView(stats: Stats, from: string, until?: string) {
       
       .bars .bar {
         min-width: 3em;
+        max-width: 6em;
         margin-right: 0.5em;
         text-align: center;
         position: relative;
@@ -84,7 +85,10 @@ export function statsView(stats: Stats, from: string, until?: string) {
         bottom: 0;
         left: 0;
         right: 0;
-        z-index: -1;        
+      }
+      
+      .bars .bar :not(.height) {
+        z-index: 1;
       }
     </style>
   `)
@@ -100,9 +104,9 @@ function bars(values, names?) {
   <td class="bars">
     ${values.map((v, i) => `
       <div class="bar">
-        <div class="height" style="height: ${v / max * 100}%"></div>
         <div class="value">${v}</div>
         <div class="title">${wrap(names[i])}</div>
+        <div class="height" style="height: ${v / max * 100}%"></div>
       </div>
     `).join('')}
   </td>

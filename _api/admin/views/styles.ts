@@ -15,7 +15,7 @@ export const styles = `<style>
   }
   
   tbody tr:hover { 
-    background-color: #f5f5f5; 
+    background-color: rgba(240,240,240,0.5); 
   }
   
   td > button {
