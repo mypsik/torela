@@ -9,11 +9,10 @@ body {
   max-width: 1160px;
   padding: 0 1rem 1rem;
   margin: 0 auto;
-  background: #064c27;
+  background-color: #064c27;
   background-position: center top;
   background-repeat: no-repeat;
   background-image: url(/img/taust-mets-1.png);
-  background-image: url(/img/taust-mets-1.png), linear-gradient(#aee0f2 550px, #064c27 1000px);
 }
 
 h1, h2 {
@@ -331,6 +330,12 @@ main > #services > :not(h2) {
     margin-top: 0;
     width: 100%;
     height: 300px;
+  }
+}
+
+@media screen and (min-width: 1118px) {
+  body {
+    background-size: 100%;
   }
 }
 
