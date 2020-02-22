@@ -4,7 +4,7 @@ export function html(title: string, body: string) {
 
 export function e(s?: string) {
   if (!s) return ''
-  return s.replace('<', '&lt;').replace('\'', '&apos;').replace('"', '&quot;')
+  return s.replace(/</g, '&lt;').replace(/'/g, '&apos;').replace(/"/g, '&quot;')
 }
 
 export function d(date?: Date|string|number) {
