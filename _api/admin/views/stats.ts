@@ -30,15 +30,7 @@ export function statsView(stats: Stats, from: string, until?: string) {
         </tr>
         <tr>
           <th>Keeled</th>
-          ${bars(stats.langs)}
-        </tr>
-        <tr>
-          <th>Lisateenuseid broneeringu kohta</th>
-          <td>${Math.round(stats.totalServices / stats.totalBookings * 100) / 100}</td>
-        </tr>
-        <tr>
-          <th>Lisateenused</th>
-          ${bars(stats.services)}
+          ${bars(stats.langs, undefined, true)}
         </tr>
         <tr>
           <th>Laste vanused</th>
@@ -54,11 +46,23 @@ export function statsView(stats: Stats, from: string, until?: string) {
         </tr>
         <tr>
           <th>Broneeringute ajad</th>
-          ${bars(stats.times)}
+          ${bars(stats.times, undefined, true)}
+        </tr>
+        <tr>
+          <th>Broneeringute tegemise tunnid</th>
+          ${bars(stats.bookingHours)}
         </tr>
         <tr>
           <th>Brauserid</th>
           ${bars(stats.browsers)}
+        </tr>
+        <tr>
+          <th>Lisateenuseid broneeringu kohta</th>
+          <td>${Math.round(stats.totalServices / stats.totalBookings * 100) / 100}</td>
+        </tr>
+        <tr>
+          <th>Lisateenused</th>
+          ${bars(stats.services)}
         </tr>
       </tbody>
     </table>
@@ -69,6 +73,10 @@ export function statsView(stats: Stats, from: string, until?: string) {
     
       th {
         width: 300px;
+      }
+      
+      tr {
+        margin-bottom: 2em;
       }
     
       .bars {
@@ -99,9 +107,10 @@ export function statsView(stats: Stats, from: string, until?: string) {
   `)
 }
 
-function bars(values, names?) {
+function bars(values, names?, sort = false) {
   if (!names) {
-    names = Object.keys(values).sort()
+    names = Object.keys(values)
+    if (sort) names = names.sort()
     values = names.map(n => values[n])
   }
   const max = values.reduce((r, m) => Math.max(r, m), 0)
