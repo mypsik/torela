@@ -31,11 +31,13 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
         ${bookings.map(b => `
         <form action="/admin/bookings/${b._id}" method="post">
           <tr class="${b.publicEvent ? 'public' : ''}">
-            <td width="80" nowrap>${iso2eu(b.date)}</td>
-            <td width="50">
-              ${b.time} ${b.correctedTime ? '<b>(' + b.correctedTime + ')</b>' : ''}
+            <td width="80">
+              <div style="white-space: nowrap">${iso2eu(b.date)}</div>
               <button title="${b.publicEvent ? 'Tee tavaliseks broneeringuks' : 'Tee sündmuseks'}" name="publicEvent" value="${!b.publicEvent}">S</button>
               <button title="Lisa sündmuse link (nt Facebook)" name="externalUrl" value="${e(b.externalUrl)}" onclick="this.value = prompt('URL', this.value) || ''; return !!this.value">L</button>
+            </td>
+            <td width="50">
+              ${b.time} ${b.correctedTime ? '<b>(' + b.correctedTime + ')</b>' : ''}
               <button title="Korrigeeri aega" name="correctedTime" value="${e(b.correctedTime || b.time)}" onclick="this.value = prompt('Korrigeeritud aeg', this.value) || ''; return !!this.value">✎</button>
             </td>
             <td width="20">${b.lang}</td>
