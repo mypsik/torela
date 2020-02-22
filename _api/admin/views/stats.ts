@@ -14,7 +14,7 @@ export function statsView(stats: Stats, from: string) {
     <table>
       <tbody>
         <tr>
-          <th width="300">Kokku sündmusi</th>
+          <th>Kokku sündmusi</th>
           <td>${stats.totalEvents}</td>
         </tr>
         <tr>
@@ -52,6 +52,10 @@ export function statsView(stats: Stats, from: string) {
       </tbody>
     </table>
     <style>
+      th {
+        width: 300px;
+      }
+    
       .bars {
         display: flex;
       }
