@@ -48,8 +48,9 @@ export default class BookingService {
       time: b.time,
       correctedTime: b.correctedTime,
       until: b.until,
+      childName: b.childName,
       publicEvent: b.publicEvent,
-      childName: b.childName
+      externalUrl: b.externalUrl
     };
   }
 
