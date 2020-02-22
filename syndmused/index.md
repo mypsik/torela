@@ -7,9 +7,26 @@ en: /en/events/
 ru: /ru/events/
 ---
 
-**MÄNGUHOMMIKUD JA -ÕHTUD**
+Tavaliste sündmuste osalustasu on 7€ (laps+vanem), pere järgmine laps +3€. Kohapeal saab tasuda ainult sularahas!
 
-**25.02 (10.00-13.00) - VASTLAPÄEVA MÄNGUHOMMIK IMBI POTTERIGA - KOHAD TÄIS**
+Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
+
+Mängutuba asub 2. korrusel. Sisenemiseks valige **2** ukse juures. Kärusid saab jätta 1. korrusele.
+
+ * **Pannkoogihommik** toimub iga kuu esimesel neljapäeval ja kolmandal esmaspäeval!
+ * **Riidest mähkmete tutvustamine** toimub iga kuu teisel esmaspäeval!
+ 
+Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](https://www.facebook.com/Torelamangutuba/events/) ja meililistiga! 
+
+### 5X KAART - HIND 25€
+
+<img alt="5x kaart" src="5x-kaart.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
+
+Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja vaid 7€ maksva ürituste korral.
+
+# JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
+
+### 25.02 (10.00-13.00) - VASTLAPÄEVA MÄNGUHOMMIK IMBI POTTERIGA - KOHAD TÄIS
 Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
 Tegevus hakkab pihta 10.15 ja kestab ~30-45 minutit!
 Mänguhommikule ootame seekord pigem alla 3-aastaseid lapsi, 3+ vanustele toimub 26.02 mänguõhtu!
@@ -21,7 +38,7 @@ Kindlasti palume registreerida, kuna kohtade arv on piiratud!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
 
 
-**26.02 (18.00-20.00) - VASTLAPÄEVA MÄNGUõHTU IMBI POTTERIGA**
+### 26.02 (18.00-20.00) - VASTLAPÄEVA MÄNGUõHTU IMBI POTTERIGA
 Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
 Tegevus hakkab pihta 18.15 ja kestab ~30-45 minutit!
 Mänguõhtule ootame pigem 3+ vanuseid lapsi, alla 3-aastastele on 25.02 mänguhommik. 
@@ -33,7 +50,7 @@ Kindlasti palume registreerida, kuna kohtade arv on piiratud!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
 
 
-**27.02.20 (10.00-13.00) - MÄNGUHOMMIK**
+### 27.02.20 (10.00-13.00) - MÄNGUHOMMIK
 Ootame kõiki mänguhommikule mängima ja juttu ajama! 
 Laual head-paremat ja kohv!  
 
@@ -42,7 +59,7 @@ Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 
-**27.02 (18.30-20.30) - LÕDVESTUSÕHTU EMADELE**
+### 27.02 (18.30-20.30) - LÕDVESTUSÕHTU EMADELE
 
 Räägime iseendaks olemisest emarollis, kuidas enda jaoks luua tasakaalu ning kuidas läbi kerguse ja rõõmu olla mõnus partner ja hea ema. Räägime, kuidas emana olla hoolitsevalt laisk ning kuidas märgata oma lapse olemust väljaspool lapseks olemise piire. 
 
@@ -61,7 +78,7 @@ Mängutuba asub 2.korrusel, fonolukult nr 2.
 Kohtumiseni!
 
 
-**05.03 (10.00-13.00) - PANNKOOGIHOMMIK**
+### 05.03 (10.00-13.00) - PANNKOOGIHOMMIK
 Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
 Joogiks pakume vett, piima ja kohvi!
 
@@ -70,7 +87,7 @@ Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
 
-**09.03.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine**
+### 09.03.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine
 Mähkmed.eu tutvustab riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
 Loomulikult on kõik oodatud ka niisama mängima! 
 Laual head-paremat ja kohv! 
@@ -80,7 +97,7 @@ Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 
-**13.03 (11.00-13.00) - LOOVTEGEMISED** 
+### 13.03 (11.00-13.00) - LOOVTEGEMISED 
 Huviring LOOVTEGEMISED
 1,5-3-aastastele
 REEDETI
@@ -89,7 +106,7 @@ Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 3
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 
-**16.03 (10.00-13.00) - PANNKOOGIHOMMIK**
+### 16.03 (10.00-13.00) - PANNKOOGIHOMMIK
 Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
 Joogiks pakume vett, piima ja kohvi!
 
@@ -98,7 +115,7 @@ Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
 
-**Märtsist PEREKOOLI vestlusringiga mänguhommikud ja -õhtud!**
+### Märtsist PEREKOOLI vestlusringiga mänguhommikud ja -õhtud!
 Üritus toimub 6 korda - teisipäeviti 18.00-20.00 ja kolmapäeviti 11.00-13.00. 
 
 <img alt="perekool" src="perekool.jpg" height="200">
@@ -159,20 +176,3 @@ Mida võib tunda laps, kes on saanud suureks õeks/vennaks?
 Kuidas emana jagada ressursse ja armastust, et kõik (sh sa ise), saaksid piisava osa?
 Kuidas ja kellelt küsida tuge, milliseid piire kehtestada?
 Mismoodi aidata lemmikloomadel muutustega kohaneda?
-
-
-ÜRITUSTELE PALUME REGISTREERIDA: tore@torela.ee, teavitus chat'i või "going" üritusele. 
-
-**PANNKOOGIHOMMIK TOIMUB IGA KUU ESIMESEL NELJAPÄEVAL JA KOLMANDAL ESMASPÄEVAL!**
-
-**RIIDEST MÄHKMETE TUTVUSTAMINE TOIMUB IGA KUU TEISEL ESMASPÄEVAL!**
-
-***
-
-**VÕIMALIK SOETADA ENDALE MÄNGUHOMMIKUTE JA -ÕHTUTE 5X KAART - HIND 25€.**
-
-Nimelise digitaalse kaardi saadame meilile. Kaart kehtib vaid 7€ maksva ürituste korral ja kehtib 3 kuud alates ostust.
-
-<img alt="5xkaart" src="5x-kaart.png" height="200">
-
-Kõige paremini olete sündmustega kursis, kui liitute meie Facebooki lehe ja meililistiga!

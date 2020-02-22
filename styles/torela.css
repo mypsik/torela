@@ -16,7 +16,7 @@ body {
   background-image: url(/img/taust-mets-1.png), linear-gradient(#aee0f2 550px, #064c27 1000px);
 }
 
-h1, h2, h3, h4 {
+h1, h2 {
   font-family: 'Amatic SC', cursive;
 }
 
