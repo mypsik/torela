@@ -81,7 +81,8 @@ export default class BookingService {
       totalServices: 0,
       months: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
       weekdays: [0, 0, 0, 0, 0, 0, 0],
-      times: {}
+      times: {},
+      bookingHours: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
 
     await this.data.find(query).forEach((b: Booking) => {
@@ -101,6 +102,9 @@ export default class BookingService {
         stats.months[date.getMonth()]++
         stats.weekdays[date.getDay()]++
         if (stats.times[b.time]) stats.times[b.time]++; else stats.times[b.time] = 1
+
+        const bookingDate = new Date(b.createdAt)
+        stats.bookingHours[bookingDate.getHours()]++
       }
       else stats.totalEvents++
     })
