@@ -102,9 +102,13 @@ function bars(values, names?) {
       <div class="bar">
         <div class="height" style="height: ${v / max * 100}%"></div>
         <div class="value">${v}</div>
-        <div class="title">${names[i]}</div>
+        <div class="title">${wrap(names[i])}</div>
       </div>
     `).join('')}
   </td>
   `
+
+  function wrap(name) {
+    return name.replace ? name.replace(/([A-Z])/g, ' $1') : name
+  }
 }
