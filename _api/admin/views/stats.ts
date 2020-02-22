@@ -30,7 +30,7 @@ export function statsView(stats: Stats, from: string, until?: string) {
         </tr>
         <tr>
           <th>Keeled</th>
-          ${bars(Object.values(stats.langs), Object.keys(stats.langs))}
+          ${bars(stats.langs)}
         </tr>
         <tr>
           <th>Lisateenuseid broneeringu kohta</th>
@@ -38,7 +38,7 @@ export function statsView(stats: Stats, from: string, until?: string) {
         </tr>
         <tr>
           <th>Lisateenused</th>
-          ${bars(Object.values(stats.services), Object.keys(stats.services))}
+          ${bars(stats.services)}
         </tr>
         <tr>
           <th>Broneeringuid kuus</th>
@@ -50,11 +50,11 @@ export function statsView(stats: Stats, from: string, until?: string) {
         </tr>
         <tr>
           <th>Broneeringute ajad</th>
-          ${bars(Object.values(stats.times), Object.keys(stats.times))}
+          ${bars(stats.times)}
         </tr>
         <tr>
           <th>Brauserid</th>
-          ${bars(Object.values(stats.browsers), Object.keys(stats.browsers))}
+          ${bars(stats.browsers)}
         </tr>
       </tbody>
     </table>
@@ -90,7 +90,11 @@ export function statsView(stats: Stats, from: string, until?: string) {
   `)
 }
 
-function bars(values, names) {
+function bars(values, names?) {
+  if (!names) {
+    names = Object.keys(values).sort()
+    values = names.map(n => values[n])
+  }
   const max = values.reduce((r, m) => Math.max(r, m), 0)
   return `
   <td class="bars">
