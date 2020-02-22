@@ -9,26 +9,7 @@ ru: /ru/events/
 
 **MÄNGUHOMMIKUD JA -ÕHTUD**
 
-
-**20.02.20 (10.00-13.00) - MÄNGUHOMMIK**
-Ootame kõiki mänguhommikule mängima ja juttu ajama! 
-Laual head-paremat ja kohv!  
-
-Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
-
-
-**21.02 (11.00-13.00) - LOOVTEGEMISED** 
-Huviring LOOVTEGEMISED
-1,5-3-aastastele
-REEDETI
-11.00-13.00
-Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
-
-
-**25.02 (10.00-13.00) - VASTLAPÄEVA MÄNGUHOMMIK IMBI POTTERIGA**
+**25.02 (10.00-13.00) - VASTLAPÄEVA MÄNGUHOMMIK IMBI POTTERIGA - KOHAD TÄIS**
 Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
 Tegevus hakkab pihta 10.15 ja kestab ~30-45 minutit!
 Mänguhommikule ootame seekord pigem alla 3-aastaseid lapsi, 3+ vanustele toimub 26.02 mänguõhtu!
@@ -50,6 +31,16 @@ Loomulikult saab tulla ka niisama mängima, kuid siis palume tulla ~19.00-ks.
 Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
 Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
+
+
+**27.02.20 (10.00-13.00) - MÄNGUHOMMIK**
+Ootame kõiki mänguhommikule mängima ja juttu ajama! 
+Laual head-paremat ja kohv!  
+
+Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
 
 **27.02 (18.30-20.30) - LÕDVESTUSÕHTU EMADELE**
 
@@ -86,6 +77,15 @@ Laual head-paremat ja kohv!
 
 Osalustasu: 5€, alla aastase lapsega või rasedana sissepääs TASUTA! 
 Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
+
+**13.03 (11.00-13.00) - LOOVTEGEMISED** 
+Huviring LOOVTEGEMISED
+1,5-3-aastastele
+REEDETI
+11.00-13.00
+Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 30-45 minutit ning siis saab Torelasse edasi mängima jääda! 
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 
