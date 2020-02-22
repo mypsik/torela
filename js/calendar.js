@@ -253,7 +253,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
         let event = events[i]
         if (dayNode.id < this.firstDay) continue
         if (event.weekendOnly && !dayNode.classList.contains('calendar-cell-weekend')) continue
-        const e = document.createElement('div')
+        const e = document.createElement('a')
         e.id = dayNode.id + ' ' + event.start
         e.dataset.date = dayNode.id
         e.dataset.time = event.start
@@ -272,7 +272,8 @@ function Calendar(id, lang, bookableEvents, firstDay) {
                           booking.correctedTime ? '' : booking.until) + ' ' + booking.childName
             if (booking.publicEvent) {
               e.classList.add('public')
-              e.onclick = function() {window.open(booking.externalUrl || (lang === 'et' ? '/syndmused/' : '/' + lang + '/events/'))}
+              e.href = booking.externalUrl || (lang === 'et' ? '/syndmused/' : '/' + lang + '/events/')
+              e.target = '_blank'
             }
           }
         }

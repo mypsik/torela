@@ -77,6 +77,8 @@ table.calendar tbody td {
 }
 
 .calendar .event {
+  display: block;
+  color: black;
   background-color: lightgreen;
   border-radius: 6px;
   font-size: 0.8em;
@@ -89,6 +91,7 @@ table.calendar tbody td {
 .calendar .event:hover {
   color: white;
   background-color: green;
+  text-decoration: none;
 }
 
 .calendar .event.loading {
