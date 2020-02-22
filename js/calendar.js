@@ -272,7 +272,7 @@ function Calendar(id, lang, bookableEvents, firstDay) {
                           booking.correctedTime ? '' : booking.until) + ' ' + booking.childName
             if (booking.publicEvent) {
               e.classList.add('public')
-              e.onclick = function() {location.href = booking.externalUrl || '/syndmused/'}
+              e.onclick = function() {window.open(booking.externalUrl || '/syndmused/')}
             }
           }
         }
