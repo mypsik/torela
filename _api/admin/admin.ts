@@ -58,5 +58,10 @@ export default function admin(db: Db): Router {
     res.redirect(req.header('referer'))
   })
 
+  admin.get('/stats.json', async (req, res) => {
+    const from = req.query.from || today()
+    res.json(await bookingService.stats(from))
+  })
+
   return admin
 }
