@@ -14,12 +14,16 @@ export function statsView(stats: Stats, from: string) {
     <table>
       <tbody>
         <tr>
-          <th>Kokku sündmusi</th>
+          <th width="300">Kokku sündmusi</th>
           <td>${stats.totalEvents}</td>
         </tr>
         <tr>
           <th>Kokku broneeringuid</th>
           <td>${stats.totalBookings}</td>
+        </tr>
+        <tr>
+          <th>Keeled</th>
+          ${bars(Object.values(stats.langs), Object.keys(stats.langs))}
         </tr>
         <tr>
           <th>Lisateenuseid broneeringu kohta</th>
