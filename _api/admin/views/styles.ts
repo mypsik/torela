@@ -1,4 +1,8 @@
 export const styles = `<style>
+  body {
+    font-family: sans-serif;
+  }
+
   th, td {
     position: relative; 
     text-align: left; 
