@@ -7,10 +7,10 @@ import ical from './ical'
 import mailer from './mailer'
 import BookingService from './domain/BookingService'
 import ContactService from './domain/ContactService'
-import Booking from './domain/Booking'
+import Booking, {Participation} from './domain/Booking'
 import Contact from './domain/Contact'
 
-require('express-async-errors');
+require('express-async-errors')
 
 const app = express()
 app.use(express.json())
@@ -63,6 +63,14 @@ mongoClient.connect().then(() => {
     const result = await bookingService.save(booking)
     mailer.sendBooking(booking)
     res.send(result.insertedId)
+  })
+
+  app.post('/api/bookings/:id', async (req, res) => {
+    const participation = getData(req) as Participation
+    await bookingService.addParticipation(req.params.id, participation)
+    const event = await bookingService.booking(req.params.id)
+    mailer.sendParticipation(event, participation)
+    res.send(req.params.id)
   })
 
   app.post('/api/contacts', async (req, res) => {

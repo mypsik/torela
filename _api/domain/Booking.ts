@@ -1,20 +1,27 @@
 import Auditable from './Auditable'
 
-export default interface Booking extends Auditable {
-  date: string
-  time: string
-  correctedTime?: string
-  until: string
+interface Registration extends Auditable {
   email: string
   phone: string
   childName: string
   childAge?: string
   parentName: string
   comments: string
+}
+
+export default interface Booking extends Registration {
+  date: string
+  time: string
+  correctedTime?: string
+  until: string
   payments?: Array<Payment>
   adminComments?: string
-  publicEvent?: boolean
   additionalServices?: Array<{name: string, description: string, price: number, count: number}>
+  publicEvent?: boolean
+  participations?: Array<Participation>
+}
+
+export interface Participation extends Registration {
 }
 
 export interface Payment {

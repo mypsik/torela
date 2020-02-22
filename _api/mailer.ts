@@ -1,7 +1,7 @@
 import * as nodemailer from 'nodemailer'
 import config from "./config"
 import Contact from './domain/Contact'
-import Booking from './domain/Booking'
+import Booking, {Participation} from './domain/Booking'
 import {additionalServices} from './admin/views/bookings'
 import {iso2eu} from './admin/views/utils'
 
@@ -12,19 +12,14 @@ const mailTransport = nodemailer.createTransport({
 
 export class Mailer {
   sendContact(contact: Contact) {
-    this.send({
-      from: `Torela <${config.fromEmail}>`,
-      to: config.adminEmail,
+    this.send(config.adminEmail, {
       subject: `Uus kontakt veebilehelt`,
       text: `${contact.email}\n\n` + JSON.stringify(contact)
     })
   }
 
   sendBooking(booking: Booking) {
-    this.send({
-      from: `Torela <${config.fromEmail}>`,
-      to: booking.email,
-      bcc: config.adminEmail,
+    this.send(booking.email,{
       subject: `Mängutuba broneeritud ${iso2eu(booking.date)} ${booking.time} - ${booking.until}`,
       text: `
       Aitäh, et broneerisite Torela mängutoa!
@@ -58,8 +53,41 @@ export class Mailer {
     
       Täiendavate küsimuste korral võtke julgesti ühendust!
       
-      Toredat pidu!
+      Toredat pidu!      
+      `
+    })
+  }
 
+  sendParticipation(event: Booking, participation: Participation) {
+    this.send(participation.email, {
+      subject: `${event.childName} ${iso2eu(event.date)} ${event.time}`,
+      text: `
+      Aitäh, et registreerisite Torela sündmusele!
+      
+      Ülevaade:
+      
+      Ürituse nimi: ${event.childName}
+      Lapse vanus: ${participation.childAge}
+      Lapsevanem: ${participation.parentName}
+      Keel: ${participation.lang}
+      Telefon: ${participation.phone}
+      Email: ${participation.email}
+      Lisainfo: ${participation.comments}
+      
+      Osalustasu ${config.bookingFee.amount}€ saab tasuda kontole või tuua sularahas. 
+      
+      Ülekande andmed:
+      Torela OÜ
+      IBAN: EE477700771003581431 (LHV)
+      Makse selgitusse palume märkida ürituse kuupäev, kellaaeg ja lapse nimi.
+      
+      Täiendavate küsimuste korral võtke julgesti ühendust!
+      `
+    })
+  }
+
+  private footer() {
+    return `
       Mirjam & Sirli
 
       e-post: tore@torela.ee
@@ -67,12 +95,17 @@ export class Mailer {
       koduleht: https://torela.ee/
       facebook: https://www.facebook.com/Torelamangutuba/
       instagram: @torelamangutuba      
-      `.replace(/^ {6}/gm, '')
-    })
+    `
   }
 
-  private send(mail) {
-    mailTransport.sendMail(mail, (error, info) => {
+  private send(email, mail) {
+    mailTransport.sendMail({
+      from: `Torela <${config.fromEmail}>`,
+      to: email,
+      bcc: config.adminEmail,
+      subject: mail.subject,
+      text: (mail.text + this.footer()).replace(/^ {6}/gm, '')
+    }, (error, info) => {
       if (error) console.error(error)
     })
   }

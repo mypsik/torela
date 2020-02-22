@@ -1,5 +1,5 @@
 import {Collection, Db, ObjectId} from 'mongodb';
-import Booking from './Booking';
+import Booking, {Participation} from './Booking'
 
 export default class BookingService {
   data: Collection<Booking>
@@ -35,6 +35,10 @@ export default class BookingService {
 
   update(id: string, fields: Booking): Promise<any> {
     return this.data.updateOne({_id: new ObjectId(id)}, {$set: fields})
+  }
+
+  addParticipation(id: string, participation: Participation) {
+    return this.data.updateOne({_id: new ObjectId(id)}, {$push: {participations: participation}})
   }
 
   toPublicMultiple(b: Booking): Partial<Booking> {
