@@ -75,17 +75,17 @@ export function statsView(stats: Stats, from: string, until?: string) {
         width: 300px;
       }
       
-      td, th {
-        padding-top: 1em;
-      }
-    
       .bars {
         display: flex;
       }
       
       .bars .bar {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
         min-width: 3em;
         max-width: 6em;
+        min-height: 3em;
         margin-right: 0.5em;
         text-align: center;
         position: relative;
