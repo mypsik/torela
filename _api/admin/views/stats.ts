@@ -1,24 +1,31 @@
 import {styles} from './styles'
 import {menu} from './menu'
-import {d, e, html, iso2eu} from './utils'
+import {html, today} from './utils'
 import {Stats} from '../../domain/BookingService'
 
 const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 const weekdayNames = ['E', 'T', 'K', 'N', 'R', 'L', 'P']
 
-export function statsView(stats: Stats, from: string) {
+export function statsView(stats: Stats, from: string, until?: string) {
   return html('Statistika', `${styles}${menu}
     <form onchange="this.submit()">
-      <h1>Statistika alates <input type="date" name="from" value="${from}"></h1>
+      <h1>
+        Statistika alates 
+        <input type="date" name="from" value="${from}">
+        <label>
+          <input type="checkbox" name="until" value="${today()}" ${until >= today() ? 'checked' : ''}>
+          Ainult juba toimunud
+        </label>
+      </h1>
     </form>
     <table>
       <tbody>
         <tr>
-          <th>Kokku sündmusi</th>
+          <th>Kokku sündmusi (public)</th>
           <td>${stats.totalEvents}</td>
         </tr>
         <tr>
-          <th>Kokku broneeringuid</th>
+          <th>Kokku broneeringuid (private)</th>
           <td>${stats.totalBookings}</td>
         </tr>
         <tr>
@@ -52,6 +59,10 @@ export function statsView(stats: Stats, from: string) {
       </tbody>
     </table>
     <style>
+      h1 label {
+        font-size: 1rem;
+      }
+    
       th {
         width: 300px;
       }

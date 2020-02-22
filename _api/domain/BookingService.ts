@@ -62,8 +62,8 @@ export default class BookingService {
     };
   }
 
-  async stats(from?: string): Promise<Stats> {
-    const query = from && {date: {$gte: from}}
+  async stats(from?: string, until?: string): Promise<Stats> {
+    const query = {date: {$gte: from, $lte: until}}
 
     const stats = new Stats()
 

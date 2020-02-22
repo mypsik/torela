@@ -61,12 +61,14 @@ export default function admin(db: Db): Router {
 
   admin.get('/stats.json', async (req, res) => {
     const from = req.query.from || undefined
-    res.json(await bookingService.stats(from))
+    const until = req.query.until || undefined
+    res.json(await bookingService.stats(from, until))
   })
 
   admin.get('/stats', async (req, res) => {
     const from = req.query.from || '2019-01-01'
-    res.send(statsView(await bookingService.stats(from), from))
+    const until = req.query.until || undefined
+    res.send(statsView(await bookingService.stats(from, until), from, until))
   })
 
   return admin

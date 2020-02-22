@@ -2,6 +2,10 @@ export const styles = `<style>
   body {
     font-family: sans-serif;
   }
+  
+  h1 > * {
+    vertical-align: middle;
+  }
 
   th, td {
     position: relative; 
