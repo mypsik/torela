@@ -82,7 +82,8 @@ export default class BookingService {
 
         const date = new Date(b.date)
         stats.months[date.getMonth()]++
-        stats.weekdays[date.getDay()]++
+        const weekday = date.getDay() - 1
+        stats.weekdays[weekday < 0 ? 6 : weekday]++
         if (stats.times[b.time]) stats.times[b.time]++; else stats.times[b.time] = 1
 
         const bookingDate = new Date(b.createdAt)
