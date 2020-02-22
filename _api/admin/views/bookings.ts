@@ -35,7 +35,8 @@ export function bookingsView(bookings: Array<Booking>, from: string) {
             <td width="50">
               ${b.time} ${b.correctedTime ? '<b>(' + b.correctedTime + ')</b>' : ''}
               <button title="${b.publicEvent ? 'Tee tavaliseks broneeringuks' : 'Tee sündmuseks'}" name="publicEvent" value="${!b.publicEvent}">S</button>
-              <button title="Korrigeeri aega" name="correctedTime" value="${b.correctedTime || b.time}" onclick="this.value = prompt('Korrigeeritud aeg', this.value) || ''; return !!this.value">✎</button>
+              <button title="Lisa sündmuse link (nt Facebook)" name="externalUrl" value="${e(b.externalUrl)}" onclick="this.value = prompt('URL', this.value) || ''; return !!this.value">L</button>
+              <button title="Korrigeeri aega" name="correctedTime" value="${e(b.correctedTime || b.time)}" onclick="this.value = prompt('Korrigeeritud aeg', this.value) || ''; return !!this.value">✎</button>
             </td>
             <td width="20">${b.lang}</td>
             <td>

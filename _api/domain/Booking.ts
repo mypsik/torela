@@ -18,6 +18,7 @@ export default interface Booking extends Registration {
   adminComments?: string
   additionalServices?: Array<{name: string, description: string, price: number, count: number}>
   publicEvent?: boolean
+  externalUrl?: string
   participations?: Array<Participation>
 }
 
