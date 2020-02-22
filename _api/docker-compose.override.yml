@@ -1,0 +1,18 @@
+version: '3.1'
+
+services:
+  mongo:
+    ports:
+    - 27017:27017
+
+  torela:
+    ports:
+    - 5000:5000
+
+  mongo-express:
+    image: mongo-express
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: torela
+      ME_CONFIG_MONGODB_ADMINPASSWORD: ${PASSWORD}

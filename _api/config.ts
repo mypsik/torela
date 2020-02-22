@@ -1,6 +1,6 @@
 export default {
   port: 5000,
-  mongoHost: process.env.MONGO_HOST || 'mongo',
+  mongoHost: process.env.MONGO_HOST || 'localhost',
   allowedCorsHost: '*',
   fromEmail: 'torela@torela.ee',
   adminEmail: 'torelamangutuba@gmail.com',

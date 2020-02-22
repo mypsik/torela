@@ -1,0 +1,18 @@
+version: '3.1'
+
+services:
+  mongo:
+    restart: always
+    volumes:
+      - /var/lib/mongodb-torela:/data/db
+      - /var/lib/mongodb-torela-configdb:/data/configdb
+
+  torela:
+    restart: always
+    networks:
+      - proxy
+      - default
+
+networks:
+  proxy:
+    external: true
