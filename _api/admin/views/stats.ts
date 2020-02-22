@@ -89,6 +89,7 @@ export function statsView(stats: Stats, from: string, until?: string) {
       
       .bars .bar :not(.height) {
         z-index: 1;
+        position: relative;
       }
     </style>
   `)
