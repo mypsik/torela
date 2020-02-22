@@ -97,6 +97,7 @@ export default class BookingService {
         stats.bookingHours[bookingDate.getHours()]++
 
         stats.langs[b.lang] = (stats.langs[b.lang] || 0) + 1
+        stats.ages[b.childAge] = (stats.ages[b.childAge] || 0) + 1
       }
       else stats.totalEvents++
     })
@@ -124,5 +125,6 @@ export class Stats {
   weekdays = [0, 0, 0, 0, 0, 0, 0]
   times = {}
   bookingHours = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ages = {}
   langs = {}
 }

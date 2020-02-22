@@ -41,6 +41,10 @@ export function statsView(stats: Stats, from: string, until?: string) {
           ${bars(stats.services)}
         </tr>
         <tr>
+          <th>Laste vanused</th>
+          ${bars(stats.ages)}
+        </tr>
+        <tr>
           <th>Broneeringuid kuus</th>
           ${bars(stats.months, monthNames)}
         </tr>
