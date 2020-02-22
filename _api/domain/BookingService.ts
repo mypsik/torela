@@ -62,28 +62,10 @@ export default class BookingService {
     };
   }
 
-  async stats(from?: string) {
+  async stats(from?: string): Promise<Stats> {
     const query = from && {date: {$gte: from}}
 
-    const stats = {
-      browsers: {
-        Firefox: 0,
-        Chrome: 0,
-        ChromeMobile: 0,
-        Safari: 0,
-        SafariMobile: 0,
-        IE: 0,
-        Edge: 0,
-        Other: 0
-      },
-      totalBookings: 0,
-      totalEvents: 0,
-      totalServices: 0,
-      months: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      weekdays: [0, 0, 0, 0, 0, 0, 0],
-      times: {},
-      bookingHours: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-    }
+    const stats = new Stats()
 
     await this.data.find(query).forEach((b: Booking) => {
       if (!b.publicEvent) {
@@ -111,4 +93,24 @@ export default class BookingService {
 
     return stats
   }
+}
+
+export class Stats {
+  browsers = {
+    Firefox: 0,
+    Chrome: 0,
+    ChromeMobile: 0,
+    Safari: 0,
+    SafariMobile: 0,
+    IE: 0,
+    Edge: 0,
+    Other: 0
+  }
+  totalBookings = 0
+  totalEvents = 0
+  totalServices = 0
+  months = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  weekdays = [0, 0, 0, 0, 0, 0, 0]
+  times = {}
+  bookingHours = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 }

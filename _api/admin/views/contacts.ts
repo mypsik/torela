@@ -4,7 +4,7 @@ import {menu} from './menu'
 import {d, e, html, iso2eu} from './utils'
 
 export function contactsView(contacts: Array<Contact>) {
-  return html('Contacts', `${styles}${menu}
+  return html('Kontaktid', `${styles}${menu}
     <h1>Kontaktid</h1>
     <table>
       <thead>

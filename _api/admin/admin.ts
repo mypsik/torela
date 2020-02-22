@@ -8,6 +8,7 @@ import {menu} from './views/menu'
 import {contactsView} from './views/contacts'
 import {bookingsView} from './views/bookings'
 import {today} from './views/utils'
+import {statsView} from './views/stats'
 
 export default function admin(db: Db): Router {
   const admin = Router()
@@ -61,6 +62,11 @@ export default function admin(db: Db): Router {
   admin.get('/stats.json', async (req, res) => {
     const from = req.query.from || undefined
     res.json(await bookingService.stats(from))
+  })
+
+  admin.get('/stats', async (req, res) => {
+    const from = req.query.from || '2019-01-01'
+    res.send(statsView(await bookingService.stats(from), from))
   })
 
   return admin
