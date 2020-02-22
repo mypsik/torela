@@ -75,8 +75,8 @@ export function statsView(stats: Stats, from: string, until?: string) {
         width: 300px;
       }
       
-      tr {
-        margin-bottom: 2em;
+      td, th {
+        padding-top: 1em;
       }
     
       .bars {
