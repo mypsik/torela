@@ -27,17 +27,6 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-### 26.02 (18.00-20.00) - VASTLAPÄEVA MÄNGUõHTU IMBI POTTERIGA
-Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
-Tegevus hakkab pihta 18.15 ja kestab ~30-45 minutit!
-Mänguõhtule ootame pigem 3+ vanuseid lapsi, alla 3-aastastele on 25.02 mänguhommik. 
-
-Loomulikult saab tulla ka niisama mängima, kuid siis palume tulla ~19.00-ks. 
-
-Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
-Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
-
 
 ### 27.02.20 (10.00-13.00) - MÄNGUHOMMIK
 Ootame kõiki mänguhommikule mängima ja juttu ajama! 
@@ -103,6 +92,15 @@ Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
 
+
+### 09.04 (10.00-13.00) - TIBUPÜHA MÄNGUHOMMIK IMBI POTTERIGA
+Tähistame kevadpühi! Laulame, tantsime ja värvime mune! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
+Tegevus hakkab pihta 10.15 ja kestab ~30-45 minutit!
+Loomulikult saab tulla ka niisama mängima, kuid siis palume tulla ~11.00-ks. 
+
+Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
+Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
 
 ### Märtsist PEREKOOLI vestlusringiga mänguhommikud ja -õhtud!
 Üritus toimub 6 korda - teisipäeviti 18.00-20.00 ja kolmapäeviti 11.00-13.00. 
