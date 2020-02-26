@@ -238,7 +238,8 @@ ru: /ru/services/
 
 ## PEOJUHT - al 150€+km {#partyAnimator}
 
-  Peojuht Merli Rosar, Merros Stuudiost aitab teha sünnipäevad kordumatuks! 
+  Merros Stuudio vahvad peojuhid aitavad teha sünnipäevad kordumatuks! 
+  Merli Hirbaum ise on väikese beebiga kodune ning peojuhina ei osale. 
   Valikus on mitmed kostümeeritud tegelaskujud ja programmid pikkusega 1-1,5h.
 
   Tegelaskujud: Rapuntsel, Pipi Pikksukk, Mereröövel, Indiaanlane, Lumivalgeke, Lotte, Jänku Juss, Nõiatüdruk, Haldjas, Printsess, Frozen Anna, Frozen Elsa, Detektiiv, Minni Hiir, Professor Siiri, Ükssarvik, Päkapikk, Troll Poppy, Vaiana. 
