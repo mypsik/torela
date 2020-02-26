@@ -26,11 +26,6 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 
 # Upcoming events
 
-### 25.02 (10.00-13.00) - Shrove Tuesday / play-morning with Imbi Potter
-Let's Celebrate Shrove Tuesday! We sing and dance with Imbi Potter!
-We'll offer you snacks and coffee!
-Participation fee 10 € (child + parent), another child of the same family +5€.
-
 
 ### 26.02 (18.00-20.00) - Shrove Tuesday / play-night with Imbi Potter
 Let's Celebrate Shrove Tuesday! We sing and dance with Imbi Potter!
