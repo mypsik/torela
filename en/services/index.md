@@ -85,8 +85,8 @@ Party guests can watch the movie from the private link on the internet.
    <img alt="Sajajalgne" src="IMG_9034.jpg" height="150">
 
 
-## ANIMATOR - Merli Rosar - 150€+km / 1-1,5h {#partyAnimator}
-  Animator Merli Rosar from Merros Studio makes evry party unforgettable! There are several costumed characters and programs in the range of 1-1.5h.
+## ANIMATOR - 150€+km / 1-1,5h {#partyAnimator}
+  Merros Studio makes every party unforgettable! There are several costumed characters and programs in the range of 1-1.5h.
 
   Characters: Rapunzel, Pippi Longstocking, Pirate, Native American Indian, Snow White, Lotte, Bunny Juss, Witch Girl, Fairy, Princess, Frozen Anna, Frozen Elsa, Detective, Minnie Mouse, Professor Siiri, Unicorn, Dwarf, Troll Poppy, Vaiana.
 
