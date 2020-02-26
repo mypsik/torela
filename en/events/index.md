@@ -27,12 +27,6 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 # Upcoming events
 
 
-### 26.02 (18.00-20.00) - Shrove Tuesday / play-night with Imbi Potter
-Let's Celebrate Shrove Tuesday! We sing and dance with Imbi Potter!
-We'll offer you snacks and coffee!
-Participation fee 10 € (child + parent), another child of the same family +5€.
-
-
 ### 27.02 (10.00-13.00) - Playmorning
 You are welcome to the play-morning!
 There are tasty snacks and coffee on the table! 
@@ -77,4 +71,10 @@ Participation fee 10 € (child + parent), another child of the same family +5�
 ### 16.03 (10.00-13.00) - Pancake-morning
 Eat as much pancakes as you can! We'll have pancake-mountains!
 Participation fee 7 € (child + parent), another child of the same family +3€.
+
+
+### 09.04 (10.00-13.00) - Easter-playmorning with Imbi Potter
+We'll sing, dance and decorate eggs with Imbi Potter!
+We'll offer you snacks and coffee!
+Participation fee is 10 € (child + parent), another child of the same family +5€.
 
