@@ -26,17 +26,6 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
-### 25.02 (10.00-13.00) - VASTLAPÄEVA MÄNGUHOMMIK IMBI POTTERIGA - KOHAD TÄIS
-Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
-Tegevus hakkab pihta 10.15 ja kestab ~30-45 minutit!
-Mänguhommikule ootame seekord pigem alla 3-aastaseid lapsi, 3+ vanustele toimub 26.02 mänguõhtu!
-
-Loomulikult ootame ka niisama mängima, kuid siis palume tulla veidi hiljem, ~11.00-ks. 
-
-Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
-Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
-
 
 ### 26.02 (18.00-20.00) - VASTLAPÄEVA MÄNGUõHTU IMBI POTTERIGA
 Tähistame vastlapäeva! Räägime traditsioonidest, sööme vastlakukleid, meisterdame ning loomulikult laulame ja tantsime! Mänguhommikut aitab läbi viia meie tore sõber Imbi Potter! 
