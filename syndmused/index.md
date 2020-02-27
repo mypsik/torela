@@ -26,13 +26,13 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
-### 02.03.20 (10.00-13.00) - MÄNGUHOMMIK
-Ootame kõiki mänguhommikule mängima ja juttu ajama! 
-Laual head-paremat ja kohv!  
+### 02.03.20 (10.00-13.00) - VAHVLIHOMMIK
+Seekord pakume mänguhommikul nii retrovahvleid kui ka mõnusaid pehmeid belgia vahvleid! Kindlasti serveerime neid ka nii nagu seda tehti presidendi vastuvõtul Roosiaias!
 
 Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
 Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
 
 ### 05.03 (10.00-13.00) - PANNKOOGIHOMMIK
 Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
@@ -53,8 +53,8 @@ Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 
-### 12.03.20 (10.00-13.00) - MÄNGUHOMMIK
-Ootame kõiki mänguhommikule mängima ja juttu ajama! 
+### 12.03.20 (10.00-13.00) - PUDRUHOMMIK
+Ootame kõiki mänguhommikule mängima ja putru sööma! 
 Laual head-paremat ja kohv!  
 
 Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
@@ -71,6 +71,7 @@ Juhendatud tegevus on valmis seatud kell 11.00. Sõltuvalt lastest kestab tund 3
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
 
+
 ### 16.03 (10.00-13.00) - PANNKOOGIHOMMIK
 Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
 Joogiks pakume vett, piima ja kohvi!
@@ -78,6 +79,14 @@ Joogiks pakume vett, piima ja kohvi!
 Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
 Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
+
+
+### 19.03 (10.00-13.00) - MÄNGUHOMMIK
+Ootame kõiki mänguhommikule! Laual head-paremat näksimiseks ning kohv-tee!
+
+Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going".
 
 
 ### 09.04 (10.00-13.00) - TIBUPÜHA MÄNGUHOMMIK IMBI POTTERIGA
