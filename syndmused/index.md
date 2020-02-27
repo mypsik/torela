@@ -26,35 +26,13 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
-
-
-### 27.02.20 (10.00-13.00) - MÄNGUHOMMIK
+### 02.03.20 (10.00-13.00) - MÄNGUHOMMIK
 Ootame kõiki mänguhommikule mängima ja juttu ajama! 
 Laual head-paremat ja kohv!  
 
 Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
 Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
-
-
-### 27.02 (18.30-20.30) - LÕDVESTUSÕHTU EMADELE
-
-Räägime iseendaks olemisest emarollis, kuidas enda jaoks luua tasakaalu ning kuidas läbi kerguse ja rõõmu olla mõnus partner ja hea ema. Räägime, kuidas emana olla hoolitsevalt laisk ning kuidas märgata oma lapse olemust väljaspool lapseks olemise piire. 
-
-Saad kuulata ja jagada, mõtiskleda ja lihtsalt mõnusalt aega veeta.
-
-Õhtu lõpetame maandava ja lõdvestava meditatsiooniga, et lihtsalt hea oleks olla. 
-
-Õhtut viib läbi doula ja harmoonilise vanemluse nõustaja Ingrid Õun. 
-www.facebook.com/IngridOunDoula
-
-Osalustasu on 15€
-Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
-Koha broneerimiseks kirjuta tore@torela.ee või ingrid.un@gmail.com või pannes Facebookis üritusele "going". 
-
-Mängutuba asub 2.korrusel, fonolukult nr 2. 
-Kohtumiseni!
-
 
 ### 05.03 (10.00-13.00) - PANNKOOGIHOMMIK
 Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
@@ -71,6 +49,15 @@ Loomulikult on kõik oodatud ka niisama mängima!
 Laual head-paremat ja kohv! 
 
 Osalustasu: 5€, alla aastase lapsega või rasedana sissepääs TASUTA! 
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
+
+### 12.03.20 (10.00-13.00) - MÄNGUHOMMIK
+Ootame kõiki mänguhommikule mängima ja juttu ajama! 
+Laual head-paremat ja kohv!  
+
+Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
 Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
