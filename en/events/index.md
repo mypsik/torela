@@ -27,19 +27,6 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 # Upcoming events
 
 
-### 27.02 (10.00-13.00) - Playmorning
-You are welcome to the play-morning!
-There are tasty snacks and coffee on the table! 
-
-Participation fee is 7 € (child + parent), another child of the same family +3€.
-
-
-### 27.02 (18.30-20.30) - Relaxation Evening for moms
-We're going to have very nice kids free relaxion evening for moms! We'll do some meditation, talk about evryday life and drink some tea. 
-
-Participation fee is 15 €.
-
-
 ### 02.03 (10.00-13.00) - Waffle-playmorning
 Eat as much waffles as you can! We'll do oldschool waffles and also soft belgian waffles.
 There are different toppings included! 
@@ -71,6 +58,13 @@ Participation fee 10 € (child + parent), another child of the same family +5�
 ### 16.03 (10.00-13.00) - Pancake-morning
 Eat as much pancakes as you can! We'll have pancake-mountains!
 Participation fee 7 € (child + parent), another child of the same family +3€.
+
+
+### 19.03 (10.00-13.00) - Playmorning
+You are welcome to the play-morning!
+There are tasty snacks and coffee on the table! 
+
+Participation fee is 7 € (child + parent), another child of the same family +3€.
 
 
 ### 09.04 (10.00-13.00) - Easter-playmorning with Imbi Potter
