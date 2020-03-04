@@ -27,12 +27,6 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 # Upcoming events
 
 
-### 02.03 (10.00-13.00) - Waffle-playmorning
-Eat as much waffles as you can! We'll do oldschool waffles and also soft belgian waffles.
-There are different toppings included! 
-Participation fee 7 € (child + parent), another child of the same family +3€.
-
-
 ### 05.03 (10.00-13.00) - Pancake-playmorning
 Eat as much pancakes as you can! We'll have pancake-mountains!
 Participation fee 7 € (child + parent), another child of the same family +3€.
