@@ -26,13 +26,6 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
-### 02.03.20 (10.00-13.00) - VAHVLIHOMMIK
-Seekord pakume mänguhommikul nii retrovahvleid kui ka mõnusaid pehmeid belgia vahvleid! Kindlasti serveerime neid ka nii nagu seda tehti presidendi vastuvõtul Roosiaias!
-
-Osalustasu: 7€ (laps+vanem, pere järgmine laps+3€) 
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
-
 
 ### 05.03 (10.00-13.00) - PANNKOOGIHOMMIK
 Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
