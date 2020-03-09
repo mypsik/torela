@@ -27,16 +27,6 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 # Upcoming events
 
 
-### 05.03 (10.00-13.00) - Pancake-playmorning
-Eat as much pancakes as you can! We'll have pancake-mountains!
-Participation fee 7 € (child + parent), another child of the same family +3€.
-
-
-### 09.03 (10.00-13.00) - Play-morning + MÄHKMED.EU diapers
-This monday our play-morning is especially special because we introduce cloth diapers! All those interested in reusable diapers are very welcome to see the different types of diapers and manufacturers. 
-Entry is 5€, with a child under 1y is FREE!
-
-
 ### 12.03 (10.00-13.00) - Porridge-playmorning
 We'll serve tasty porridge with different toppings! 
 Participation fee 7 € (child + parent), another child of the same family +3€.
@@ -44,7 +34,7 @@ Participation fee 7 € (child + parent), another child of the same family +3€
 
 ### 13.03 (11.00-13.00) - Creativity playmorning
 Every friday at 11 a.m we have artclass for small children. We paint, touch and discover different materials and techniques.
-Suitable for 1,5-3 years old children. 
+Suitable for ~1,5-3 years old children. 
 We'll offer you snacks and coffee!
 Participation fee 10 € (child + parent), another child of the same family +5€.
 
@@ -57,12 +47,34 @@ Participation fee 7 € (child + parent), another child of the same family +3€
 ### 19.03 (10.00-13.00) - Playmorning
 You are welcome to the play-morning!
 There are tasty snacks and coffee on the table! 
-
 Participation fee is 7 € (child + parent), another child of the same family +3€.
+
+
+### 23.03 (10.00-13.00) - Playmorning
+You are welcome to the play-morning!
+There are tasty snacks and coffee on the table! 
+Participation fee is 7 € (child + parent), another child of the same family +3€.
+
+
+### 30.03 (10.00-13.00) - Playmorning
+You are welcome to the play-morning!
+There are tasty snacks and coffee on the table! 
+Participation fee is 7 € (child + parent), another child of the same family +3€.
+
+
+### 26.03 (10.00-13.00) - Playmorning
+You are welcome to the play-morning!
+There are tasty snacks and coffee on the table! 
+Participation fee is 7 € (child + parent), another child of the same family +3€.
+
 
 
 ### 09.04 (10.00-13.00) - Easter-playmorning with Imbi Potter
 We'll sing, dance and decorate eggs with Imbi Potter!
 We'll offer you snacks and coffee!
 Participation fee is 10 € (child + parent), another child of the same family +5€.
+
+### 13.04 (10.00-13.00) - Play-morning + MÄHKMED.EU diapers
+This monday our play-morning is especially special because we introduce cloth diapers! All those interested in reusable diapers are very welcome to see the different types of diapers and manufacturers. 
+Entry is 5€, with a child under 1y is FREE!
 
