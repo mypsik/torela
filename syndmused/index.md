@@ -27,21 +27,11 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-### 05.03 (10.00-13.00) - PANNKOOGIHOMMIK
-Laual suured hunnikud maitsvaid pannkooke ja erinevaid moose-määrdeid. Valikus on kahed pannkoogid - vähese suhkruga "tavalised" pannkoogid ja suhkruta kaerajahu-banaanipannkoogid!
-Joogiks pakume vett, piima ja kohvi!
+## 11.03.20 (11.00-13.00) - Perekooli vestlusring + mänguhommik
+1.TEEMA "Rasedusaegsete füüsiliste muutustega toimetulek"
 
-Osalustasu 7€ (laps+vanem, pere järgmine laps +3€)
-Kohapeal saab tasuda ainult sularahas!
-Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going". 
-
-
-### 09.03.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine
-Mähkmed.eu tutvustab riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
-Loomulikult on kõik oodatud ka niisama mängima! 
-Laual head-paremat ja kohv! 
-
-Osalustasu: 5€, alla aastase lapsega või rasedana sissepääs TASUTA! 
+Pileti hind 12 EUR/kord või 60 EUR/6 korda.
+Grupi miinimumsuurus: 6 inimest. 
 Kohapeal saab tasuda ainult sularahas!
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
 
@@ -91,6 +81,17 @@ Osalustasu: 10€ (laps+vanem, +5€ pere järgmine laps)
 Kindlasti palume registreerida, kuna kohtade arv on piiratud! 
 Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going" - kohtade arv on PIIRATUD!
 
+
+### 13.04.20 (10.00-13.00) - MÄNGUHOMMIK + riidest mähkmete tutvustamine
+Mähkmed.eu tutvustab riidest mähkmeid! Kõik riidest mähkmete huvilised on väga oodatud tutvuma erinevate mähkmete liikide ja tootjate toodanguga. 
+Loomulikult on kõik oodatud ka niisama mängima! 
+Laual head-paremat ja kohv! 
+
+Osalustasu: 5€, alla aastase lapsega või rasedana sissepääs TASUTA! 
+Kohapeal saab tasuda ainult sularahas!
+Palume registreerida: tore@torela.ee või pannes Facebookis üritusele "going"!
+
+
 ### Märtsist PEREKOOLI vestlusringiga mänguhommikud ja -õhtud!
 Üritus toimub 6 korda - teisipäeviti 18.00-20.00 ja kolmapäeviti 11.00-13.00. 
 
@@ -105,7 +106,7 @@ Grupi miinimumsuurus: 6 inimest.
 
 Juhendaja Daisi Kuuse: Mind on alati köitnud naiselikud teemad ja lummanud see salapärane jõud, mis pealtnäha nii õrnades kehades peitub. See on andnud mulle inspiratsiooni kirjutada artikleid ja pakkuda loenguid naistelt naistele. Hetkel omandan haridust doula ehk pere- ja sünnitoetajana, et toetada naisi nende elu kõige kaunimal  ja emotsionaalsemal ajal raseduse plaaneerimise algusest kuni tundliku sünnitusjärgse perioodi lõpuni. 
 
-1.	Rasedusaegsete füüsiliste muutustega toimetulek. 10.03, 11.03. 
+1.	Rasedusaegsete füüsiliste muutustega toimetulek. 11.03. 
 
 Leiame vastused järgmistele küsimustele:
 Millised on peamised füüsilised muutused raseduse ajal?
@@ -113,7 +114,7 @@ Kuidas enda enesetunnet parandada, et olla särav rase?
 Kuidas toitumisega konkreetseid vaevusi leevendada ja mitme eest siis ikkagi süüa?
 Millised on kõige lihtsamad kodused harjutused enesetunde parandamiseks?
 
-2.	Rasedusaegsete emotsionaalsete muutustega toimetulek. 17.03, 18.03.
+2.	Rasedusaegsete emotsionaalsete muutustega toimetulek. 18.03.
 
 Leiame vastused järgmistele küsimustele:
 Millised on peamised emotsionaalsed muutused raseduse ajal?
@@ -121,14 +122,14 @@ Kuidas ema emotsionaalne seisund mõjutab veel sündimata beebit?
 Kuidas oma emotsioone toitumise ja eluviiside muutmise abil tasakaalustada?
 Milliste koduste harjutustega end rahuliku ja õnnelikuna hoida?
 
-3.	Loote sünnieelne õpetamine, lootega suhtlemine. Loote areng 24.03, 25.03
+3.	Loote sünnieelne õpetamine, lootega suhtlemine. Loote areng. 25.03
 
 Leiame vastused järgmistele küsimustele:
 Millist stimulatsiooni kõhubeebi tajub?
 Mida räägivad uuringud loote sünnieelse õppimise kohta?
 Kuidas aidata oma kõhubeebi arengule kaasa?
 
-4.	Vaagnapõhjalihaste treening. 31.03, 01.04.
+4.	Vaagnapõhjalihaste treening. 01.04.
 
 Leiame vastused järgmistele küsimustele:
 Millist rolli mängivad vaagnapõhjalihased füüsilise tervise ja sünnituse seisukohalt?
@@ -137,7 +138,7 @@ Millal on õige aeg treeninguga alustamiseks?
 Kuidas vaagnapõhjalihaseid õigesti treenida, millised treeningvahendid valida?
 Mida veel “alumise korruse” heaks enne sünnitust teha?
 
-5.	Intiimsus partneriga raseduse ajal ja pärast sünnitust. 07.04, 08.04
+5.	Intiimsus partneriga raseduse ajal ja pärast sünnitust. 08.04
 
 Leiame vastused järgmistele küsimustele:
 Millised muutused toimuvad peresuhete dünaamikas pärast lapsevanemaks saamist?
@@ -145,7 +146,7 @@ Kas suguelu raseduse ajal on ohutu ja milliste seisundite puhul ettevaatlik olla
 Millised on naiste ja meeste levinuimad hirmud?
 Kuidas lihtsate vahenditega muuta suhet lähedasemaks?
 
-6.	Esiklapse kohanemine uues rollis.  14.04, 15.04
+6.	Esiklapse kohanemine uues rollis.  15.04
 
 Leiame vastused järgmistele küsimustele:
 Mida võib tunda laps, kes on saanud suureks õeks/vennaks?
