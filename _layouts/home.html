@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<video muted autoplay loop controls width="640" src="/img/intro3.mp4"></video>
+<video muted loop controls width="640" height="360" src="/img/intro3.mp4"></video>
 
 <div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/et_EE/sdk.js#xfbml=1&version=v3.2&appId=207997096039685&autoLogAppEvents=1"></script>
@@ -37,5 +37,6 @@ layout: default
     })
     var video = $('video')
     video.attr('src', video.attr('src') + '#t=' + Math.round((Math.random() * 140)))
+    video.on('canplay', function() { this.play() })
   })
 </script>
