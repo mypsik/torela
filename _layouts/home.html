@@ -35,5 +35,7 @@ layout: default
       new API().saveContact({email: $('#email', form).val(), lang: '{{page.lang}}'})
         .then(function () {form.slideUp()})
     })
+    var video = $('video')
+    video.attr('src', video.attr('src') + '#t=' + Math.round((Math.random() * 140)))
   })
 </script>
