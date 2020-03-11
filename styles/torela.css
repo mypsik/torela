@@ -149,18 +149,20 @@ main > blockquote {
   position: absolute;
   top: 3rem;
   right: 2rem;
-  margin: 0 0 1rem;
+  margin: 0 0 1.5rem;
   color: darkcyan;
 }
 
 main > blockquote::before {
   content: '☞ ❝ ';
+  font-size: 140%;
   color: grey;
 }
 
 main > blockquote::after {
   content: ' ❞';
   color: grey;
+  font-size: 140%;
 }
 
 body > footer .icon {
@@ -336,6 +338,11 @@ main > #services > :not(h2) {
 @media screen and (min-width: 1118px) {
   body {
     background-size: 100%;
+  }
+
+  main > blockquote {
+    margin-left: 8rem;
+    text-align: right;
   }
 }
 
