@@ -1,6 +1,4 @@
 function API(url) {
-  url = url || 'https://torela.codeborne.com'
-  
   window.onerror = function (message, source, lineno, colno, error) {
     $.get({url: url + '/api/error/js?details=' + encodeURIComponent(message + ':' + source + ':' + lineno + ':' + colno + ':' + error + ':' + error && error.stack), global: false})
   }

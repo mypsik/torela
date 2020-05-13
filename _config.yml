@@ -1,5 +1,6 @@
 name: Torela
 url: https://torela.ee
+api: https://torela.codeborne.com
 permalink: /:year/:month/:title.html
 ga: UA-134441911-1
 email: tore@torela.ee

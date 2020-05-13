@@ -67,7 +67,7 @@ layout: default
 
   var today = new Date().toISOString().replace(/T.*/, '')
   var calendar = new Calendar('calendar-wrap', '{{page.lang}}', bookableEvents, today)
-  var api = new API()
+  var api = new API('{{ site.api }}')
   api.bookings().then(function (bookings) {calendar.setBookings(bookings)})
 
   var bookingDialog = new BookingDialog('.booking-dialog', api, '{{page.lang}}')

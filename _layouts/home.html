@@ -32,7 +32,7 @@ layout: default
   $(function() {
     var form = $('#subscribe').on('submit', function(e) {
       e.preventDefault()
-      new API().saveContact({email: $('#email', form).val(), lang: '{{page.lang}}'})
+      new API('{{ site.api }}').saveContact({email: $('#email', form).val(), lang: '{{page.lang}}'})
         .then(function () {form.slideUp()})
     })
     var video = $('video')

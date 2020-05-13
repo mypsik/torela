@@ -1,7 +1,7 @@
 (function invitation() {
   window.onhashchange = invitation
 
-  var api = new API()
+  var api = new API('{{ site.api }}')
   var friendNameEl = $('#friendName')
 
   var id = location.hash.substring(1)
