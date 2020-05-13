@@ -91,8 +91,11 @@ function BookingDialog(selector, api, lang) {
 
   this.success = function() {
     this.close()
-    alert(this.msg.success)
-    location.reload()
+    const msg = this.msg.success
+    setTimeout(function() {
+      alert(msg)
+      location.reload()
+    }, 100)
   }
 
   this.init()
