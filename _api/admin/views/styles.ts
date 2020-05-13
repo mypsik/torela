@@ -6,6 +6,11 @@ export const styles = `<style>
   h1 > * {
     vertical-align: middle;
   }
+  
+  h1 > label {
+    font-size: 1rem;
+    font-weight: normal;
+  }
 
   th, td {
     position: relative; 

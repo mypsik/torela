@@ -40,7 +40,8 @@ export default function admin(db: Db): Router {
 
   admin.get('/bookings', async (req, res) => {
     const from = req.query.from || today()
-    res.send(bookingsView(await bookingService.bookings(from), from))
+    const cancelled = req.query.cancelled === 'true'
+    res.send(bookingsView(await bookingService.bookings(from, cancelled), from, cancelled))
   })
 
   admin.post('/bookings/:id', async (req, res) => {

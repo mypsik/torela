@@ -10,8 +10,8 @@ export default class BookingService {
     this.deletedData = db.collection('bookingsDeleted')
   }
 
-  bookings(from?: string): Promise<Array<Booking>> {
-    const query = from && {date: {$gte: from}}
+  bookings(from?: string, cancelled?: boolean): Promise<Array<Booking>> {
+    const query = from && {date: {$gte: from}, cancelled: cancelled || undefined}
     return this.data.find(query).sort({date: 1, time: 1}).toArray()
   }
 

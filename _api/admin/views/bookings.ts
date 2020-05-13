@@ -4,10 +4,17 @@ import {menu} from './menu'
 import {d, e, html, iso2eu} from './utils'
 import config from '../../config'
 
-export function bookingsView(bookings: Array<Booking>, from: string) {
+export function bookingsView(bookings: Array<Booking>, from: string, cancelled?: boolean) {
   return html('Bookings', `${styles}${menu}
     <form onchange="this.submit()">
-      <h1>Broneeringud alates <input type="date" name="from" value="${from}"></h1>
+      <h1>
+        Broneeringud alates 
+        <input type="date" name="from" value="${from}">
+        <label>
+          <input type="checkbox" name="cancelled" value="true" ${cancelled ? 'checked' : ''}>
+          Tühistatud
+        </label>
+      </h1>
     </form>
     <table>
       <thead>
