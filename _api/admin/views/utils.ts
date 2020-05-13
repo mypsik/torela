@@ -14,7 +14,7 @@ export function d(date?: Date|string|number) {
 }
 
 export function iso2eu(isoDate: string) {
-  const parts = isoDate.split('-', 3)
+  const parts = isoDate.replace(/T.*/, '').split('-', 3)
   return parts[2] + '.' + parts[1] + '.' + parts[0]
 }
 

@@ -70,8 +70,8 @@ export function bookingsView(bookings: Array<Booking>, from: string, cancelled?:
             </td>
             <td>
               ${cancelled ?
-                `<button name="deleteBooking" value="true" onclick="return confirm('Kustutada ${e(b.childName)}?')">❌</button>` :
-                `<button name="cancelBooking" onclick="this.value = prompt('${e(b.childName)} tühistamise põhjus') || ''; return !!this.value">❌</button>`
+                `Tühistatud ${iso2eu(b.cancelledAt)}: ${e(b.cancelReason)} <button name="deleteBooking" title="Kustutada" value="true" onclick="return confirm('Kustutada ${e(b.childName)}?')">❌</button>` :
+                `<button name="cancelBooking" title="Tühistada" onclick="this.value = prompt('${e(b.childName)} tühistamise põhjus') || ''; return !!this.value">❌</button>`
               }
             </td>
           </tr>
