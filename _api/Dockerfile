@@ -1,8 +1,8 @@
 FROM node:10-alpine as build
 WORKDIR /api
 
-COPY package.json /api/
-RUN npm install
+COPY package.json package-lock.json /api/
+RUN npm ci
 
 COPY . /api
 RUN npm test
