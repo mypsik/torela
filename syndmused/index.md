@@ -27,7 +27,8 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 💚 Tähelepanu 💚
-TORELA SULETUD 1.MAINI! 
+TORELA ON HETKEL ERIOLUKORRA TÕTTU SULETUD!
+Avame esimesel võimalusel!
 
 Eriolukorra tõttu on mängutuba Kohustuslikus korras suletud. Kahjuks kuni 1.maini ei toimu meil ühtegi mänguhommikut ega ka sünnipäeva.  
 
