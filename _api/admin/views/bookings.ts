@@ -31,7 +31,7 @@ export function bookingsView(bookings: Array<Booking>, from: string, cancelled?:
           <th>Lisateenused</th>
           <th>Lisatud</th>
           <th>Makstud</th>
-          <th></th>
+          <th>${cancelled ? 'Tühistatud' : ''}</th>
         </tr>
       </thead>
       <tbody>
@@ -70,7 +70,7 @@ export function bookingsView(bookings: Array<Booking>, from: string, cancelled?:
             </td>
             <td>
               ${cancelled ?
-                `Tühistatud ${iso2eu(b.cancelledAt)}: ${e(b.cancelReason)} <button name="deleteBooking" title="Kustutada" value="true" onclick="return confirm('Kustutada ${e(b.childName)}?')">❌</button>` :
+                `${iso2eu(b.cancelledAt)}: ${e(b.cancelReason)} <button name="deleteBooking" title="Kustutada" value="true" onclick="return confirm('Kustutada ${e(b.childName)}?')">❌</button>` :
                 `<button name="cancelBooking" title="Tühistada" onclick="this.value = prompt('${e(b.childName)} tühistamise põhjus') || ''; return !!this.value">❌</button>`
               }
             </td>
