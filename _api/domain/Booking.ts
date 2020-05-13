@@ -7,7 +7,8 @@ interface Registration extends Auditable {
   childAge?: string
   parentName: string
   comments: string
-  cancelled?: boolean
+  cancelledAt?: string
+  cancelReason?: string
 }
 
 export default interface Booking extends Registration {

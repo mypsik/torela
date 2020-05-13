@@ -1,4 +1,4 @@
-import {Collection, Db, ObjectId} from 'mongodb';
+import {Collection, Db, FilterQuery, ObjectId} from 'mongodb'
 import Booking, {Participation} from './Booking'
 
 export default class BookingService {
@@ -11,7 +11,8 @@ export default class BookingService {
   }
 
   bookings(from?: string, cancelled?: boolean): Promise<Array<Booking>> {
-    const query = from && {date: {$gte: from}, cancelled: cancelled || undefined}
+    const query = from ? {date: {$gte: from}} : {} as FilterQuery<Booking>
+    query.cancelledAt = cancelled ? {$ne: null} : null
     return this.data.find(query).sort({date: 1, time: 1}).toArray()
   }
 
