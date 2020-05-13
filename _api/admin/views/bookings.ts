@@ -69,7 +69,10 @@ export function bookingsView(bookings: Array<Booking>, from: string, cancelled?:
               <button name="paymentAmount" onclick="this.value = prompt('Summa', '${config.bookingFee.amount}') || ''; return !!parseFloat(this.value)">+€</button>
             </td>
             <td>
-              <button name="deleteBooking" value="true" onclick="return confirm('Kustutada ${e(b.childName)}?')">❌</button>
+              ${cancelled ?
+                `<button name="deleteBooking" value="true" onclick="return confirm('Kustutada ${e(b.childName)}?')">❌</button>` :
+                `<button name="cancelBooking" onclick="this.value = prompt('${e(b.childName)} tühistamise põhjus') || ''; return !!this.value">❌</button>`
+              }
             </td>
           </tr>
         </form>

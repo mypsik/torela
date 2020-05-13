@@ -45,11 +45,14 @@ export default function admin(db: Db): Router {
   })
 
   admin.post('/bookings/:id', async (req, res) => {
-    const fields = req.body;
+    const fields = req.body
+    if (fields.cancelBooking) {
+      await bookingService.cancel(req.params.id, fields.cancelBooking)
+    }
     if (fields.deleteBooking === 'true') {
       await bookingService.delete(req.params.id)
     }
-    if (fields.paymentAmount) {
+    else if (fields.paymentAmount) {
       await bookingService.addPayment(req.params.id, parseFloat(req.body.paymentAmount))
     }
     else {

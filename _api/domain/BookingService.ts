@@ -24,6 +24,10 @@ export default class BookingService {
     return this.data.insertOne(booking);
   }
 
+  async cancel(id: string, cancelReason: string): Promise<any> {
+    return this.update(id, {cancelledAt: new Date().toISOString(), cancelReason})
+  }
+
   async delete(id: string): Promise<any> {
     const booking = await this.booking(id)
     await this.deletedData.insertOne(booking)
@@ -34,7 +38,7 @@ export default class BookingService {
     return this.data.updateOne({_id: new ObjectId(id)}, {$push: {payments: {amount, dateTime: new Date()}}})
   }
 
-  update(id: string, fields: Booking): Promise<any> {
+  update(id: string, fields: Partial<Booking>): Promise<any> {
     return this.data.updateOne({_id: new ObjectId(id)}, {$set: fields})
   }
 
