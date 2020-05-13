@@ -1,4 +1,4 @@
-FROM node:10-alpine as build
+FROM node:12-alpine as build
 WORKDIR /api
 
 COPY package.json package-lock.json /api/
@@ -9,13 +9,13 @@ RUN npm test
 RUN npm run build-api
 
 
-FROM node:10-alpine
+FROM node:12-alpine
 WORKDIR /api
 
 ENV TZ=Europe/Tallinn
 RUN apk add tzdata
 
-COPY package.json /api/
+COPY package.json package-lock.json /api/
 RUN npm install --production
 
 COPY --from=build /api/build /api
