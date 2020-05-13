@@ -75,7 +75,8 @@ export default class BookingService {
     const stats = new Stats()
 
     await this.data.find(query).forEach((b: Booking) => {
-      if (!b.publicEvent) {
+      if (b.cancelledAt) stats.totalCancelled++
+      else if (!b.publicEvent) {
         stats.totalBookings++
         if (b.additionalServices) {
           stats.totalServices += (b.additionalServices.length || 0)
@@ -126,6 +127,7 @@ export class Stats {
   }
   totalBookings = 0
   totalEvents = 0
+  totalCancelled = 0
   totalServices = 0
   services = {}
   months = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

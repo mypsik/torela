@@ -29,6 +29,10 @@ export function statsView(stats: Stats, from: string, until?: string) {
           <td>${stats.totalBookings}</td>
         </tr>
         <tr>
+          <th>Tüistatud</th>
+          <td>${stats.totalCancelled}</td>
+        </tr>
+        <tr>
           <th>Keeled</th>
           ${bars(stats.langs, undefined, true)}
         </tr>
