@@ -23,8 +23,8 @@
     "@types/jest": "^24.0.21",
     "@types/mongodb": "^3.3.8",
     "@types/node": "^11.15.2",
-    "jest": "^24.9.0",
-    "ts-jest": "^24.1.0",
-    "typescript": "^3.6.4"
+    "jest": "^26.0.1",
+    "ts-jest": "^25.5.1",
+    "typescript": "^3.9.2"
   }
 }
