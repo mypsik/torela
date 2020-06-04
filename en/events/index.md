@@ -14,7 +14,6 @@ Please register to event by either writing to [{{ site.email | replace: '@', '$'
 Playroom is on the 2nd floor. Dial **2** by the outside door to enter. 
 
  * **Pancake morning** takes place on first Thursday and third Wednesday of each month!
- * **Reusable diapers introduction** takes place on seccond Monday of each month!
 
 Joining our [Facebook page](https://www.facebook.com/Torelamangutuba/events/) is the easiest way to follow our events! 
 
@@ -25,5 +24,3 @@ Joining our [Facebook page](https://www.facebook.com/Torelamangutuba/events/) is
 Named digital card will be sent to your email. The card is valid for 3 months and can be used at regular 7€ events only.
 
 # Upcoming events
-
-SORRY WE ARE CLOSED DUE TO CORONA VIRUS OUTBREAKT AT LEAST UNTIL 1ST OF MAY! 
