@@ -14,7 +14,6 @@ Tavaliste sündmuste osalustasu on 7€ (laps+vanem), pere järgmine laps +3€.
 Mängutuba asub 2. korrusel. Sisenemiseks valige **2** ukse juures. Kärusid saab jätta 1. korrusele.
 
  * **Pannkoogihommik** toimub iga kuu esimesel neljapäeval ja kolmandal esmaspäeval!
- * **Riidest mähkmete tutvustamine** toimub iga kuu teisel esmaspäeval!
  
 Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](https://www.facebook.com/Torelamangutuba/events/) ja meililistiga! 
 
@@ -26,11 +25,3 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
-💚 Tähelepanu 💚
-TORELA ON HETKEL ERIOLUKORRA TÕTTU SULETUD!
-Avame esimesel võimalusel!
-
-Eriolukorra tõttu on mängutuba Kohustuslikus korras suletud. Kahjuks kuni 1.maini ei toimu meil ühtegi mänguhommikut ega ka sünnipäeva.  
-
-Püsige terved ja peatse kohtumiseni! 😊
-Mirjam & Sirli
