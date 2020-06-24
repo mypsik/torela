@@ -25,3 +25,15 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
+**29.06 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+**02.07 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+
+
