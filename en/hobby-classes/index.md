@@ -16,9 +16,5 @@ FRIDAY - 11.00-12.00
 35€/month
 
 
-**PHOTO AND PICTURES - 5-8 years old kids**
-TUESDAY - 16.00-17.00
-35€/month
-
 
 
