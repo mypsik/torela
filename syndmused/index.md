@@ -24,13 +24,15 @@ Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](htt
 Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja vaid 7€ maksva ürituste korral.
 
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
+JUULIKUUS ON MÄNGUHOMMIKUTE SISSEPÄÄS 5€!
+*Välja arvatud pannkoogihommikud ja eriüritused*
 
 **29.06 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**02.07 - Mänguhommik**
+**02.07 - Pannkoogihommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
