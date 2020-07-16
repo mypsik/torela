@@ -13,7 +13,7 @@ Tavaliste sündmuste osalustasu on 7€ (laps+vanem), pere järgmine laps +3€.
 
 Mängutuba asub 2. korrusel. Sisenemiseks valige **2** ukse juures. Kärusid saab jätta 1. korrusele.
 
- * **Pannkoogihommik** toimub iga kuu esimesel neljapäeval ja kolmandal esmaspäeval!
+ * **Pannkoogihommik** toimub 2x kuus, tavaliselt iga kuu esimesel neljapäeval ja kolmandal esmaspäeval!
  
 Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](https://www.facebook.com/Torelamangutuba/events/) ja meililistiga! 
 
@@ -27,12 +27,17 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 JUULIKUUS ON MÄNGUHOMMIKUTE SISSEPÄÄS 5€!
 *Välja arvatud pannkoogihommikud ja eriüritused*
 
-**29.06 - Mänguhommik**
+**20.07 - Pannkoogihommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**02.07 - Pannkoogihommik**
+**23.07 - Mänguhommik**
+10.00-13.00
+Sissepääs: 5€ (laps+vanem), +2€ (pere teine laps)
+
+
+**13.08 - Pannkoogihommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
