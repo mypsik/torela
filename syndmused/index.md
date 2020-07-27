@@ -27,14 +27,21 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 JUULIKUUS ON MÄNGUHOMMIKUTE SISSEPÄÄS 5€!
 *Välja arvatud pannkoogihommikud ja eriüritused*
 
-**20.07 - Pannkoogihommik**
+
+
+**30.07 - Mänguhommik**
+10.00-13.00
+Sissepääs: 5€ (laps+vanem), +2€ (pere teine laps)
+
+
+**03.08 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**23.07 - Mänguhommik**
+**06.08 - Mänguhommik**
 10.00-13.00
-Sissepääs: 5€ (laps+vanem), +2€ (pere teine laps)
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 **13.08 - Pannkoogihommik**
