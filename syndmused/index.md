@@ -35,6 +35,19 @@ Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
+**18.08 - Beebimassaaži kursus**
+10:30-12:00
+Kursusele on oodatud emad, isad ning beebid vanuses 0-12 elukuud ning väga on oodatud ka lapseootel emad. 
+
+Kursuse hind ette tasudes 25  eurot eurot sisaldab materjale.
+Bronneerigu tasu on 8 eurot, mis ei kuulu tagastamisele.
+
+Tasumiseks saad teha ülekande 
+OÜ Quito 
+LHV pank EE307700771001758622
+Selgitus: Tallinna kursus 
+Tasumine kohapeal ja alates esmaspäevast 17.08  40 eurot
+
 
 
 
