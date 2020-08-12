@@ -26,14 +26,16 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-**06.08 - Mänguhommik**
-10.00-13.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
 
 **13.08 - Pannkoogihommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+**17.08 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
 
 **18.08 - Beebimassaaži kursus**
 10:30-12:00
@@ -49,5 +51,8 @@ Selgitus: Tallinna kursus
 Tasumine kohapeal ja alates esmaspäevast 17.08  40 eurot
 
 
+**20.08 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
