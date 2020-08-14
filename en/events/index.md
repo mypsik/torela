@@ -13,7 +13,7 @@ Please register to event by either writing to [{{ site.email | replace: '@', '$'
 
 Playroom is on the 2nd floor. Dial **2** by the outside door to enter. 
 
- * **Pancake morning** takes place on first Thursday and third Wednesday of each month!
+ * **Pancake morning** takes place on first Thursday and third Monday of each month!
 
 Joining our [Facebook page](https://www.facebook.com/Torelamangutuba/events/) is the easiest way to follow our events! 
 
@@ -25,21 +25,23 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 
 # Upcoming events
 
-**6.08 - Playmorning**
+**17.08 - Playmorning**
+
+10.00-13.00
+There are tasty snacks and coffee on the table! 
+Participation fee 7 € (child + parent, next child of the family + 3 €).
+
+**18.08 - Baby massage workshop**
+
+
+**20.08 - Playmorning**
 
 10.00-13.00
 There are tasty snacks and coffee on the table! 
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**10.08 - Playmorning**
-
-10.00-13.00
-There are tasty snacks and coffee on the table! 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
-
-**13.08 - Pancake-Playmorning**
+**03.09 - Pancake-Playmorning**
 
 10.00-13.00
 There are a lot of pancakes, eat as much as you can!
