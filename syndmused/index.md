@@ -27,11 +27,6 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 
 
-**13.08 - Pannkoogihommik**
-10.00-13.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
 **17.08 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
@@ -54,5 +49,13 @@ Tasumine kohapeal ja alates esmaspäevast 17.08  40 eurot
 **20.08 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+	
+**26.08 - Vestlusring - Näputoiduga alustamine**
+10.30
+Osalemispanus on 12€. Tasumine kohapeal sularahas või pangaülekandega Torela OÜ kontole EE477700771003581431.
+Vestlusring kestab orienteeruvalt 1,5h. 
+Palume eelnevalt registreerida tore@torela.ee või kirjutada meile facebooki kaudu. Kohtade arv on piiratud.
+
 
 
