@@ -25,16 +25,8 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 
 # Upcoming events
 
-**17.08 - Playmorning**
 
-10.00-13.00
-There are tasty snacks and coffee on the table! 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
-**18.08 - Baby massage workshop**
-
-
-**20.08 - Playmorning**
+**31.08 - Playmorning**
 
 10.00-13.00
 There are tasty snacks and coffee on the table! 
@@ -42,6 +34,32 @@ Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
 **03.09 - Pancake-Playmorning**
+
+10.00-13.00
+There are a lot of pancakes, eat as much as you can!
+Participation fee 7 € (child + parent, next child of the family + 3 €).
+
+**07.09 - Playmorning**
+
+10.00-13.00
+There are tasty snacks and coffee on the table! 
+Participation fee 7 € (child + parent, next child of the family + 3 €).
+
+
+**09.09 - Workshop Babys sleep**
+
+15.30
+Participation fee 10 € 
+
+
+**10.09 - Playmorning**
+
+10.00-13.00
+There are tasty snacks and coffee on the table! 
+Participation fee 7 € (child + parent, next child of the family + 3 €).
+
+
+**21.09 - Pancake-Playmorning**
 
 10.00-13.00
 There are a lot of pancakes, eat as much as you can!
