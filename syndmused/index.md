@@ -26,14 +26,18 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-**31.08 - Mänguhommik**
-10.00-13.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
 
 **03.09 - Pannkoogihommik**
 10.00-13.00
 Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani suhruvabad pannkoogid! 
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+**07.09 - Mänguhommik - teeme KÜPSISEID**
+10.00-13.00
+Seekord küpsetame lastega koos küpsiseid! 
+Kaasa võib võtta põlle ja vahetusriided. 
+
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
