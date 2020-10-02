@@ -23,15 +23,34 @@ Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](htt
 
 Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja vaid 7€ maksva ürituste korral.
 
+
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-**17.09 - Mänguhommik**
+**05.10 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**21.09 - Pannkoogihommik**
+
+**08.10 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+
+**12.10 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+
+**15.10 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+**19.10 - Pannkoogihommik**
 10.00-13.00
 Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani suhruvabad pannkoogid! 
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
@@ -42,7 +61,7 @@ Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**30.09 - Vestlusring - Lapse seksuaalsus - keha, tunded ja turvalisus**
+**EDASI LÜKATUD - Vestlusring - Lapse seksuaalsus - keha, tunded ja turvalisus**
 Vestlusringi tuleb läbi viima Õnne Liv Valberg.
 Teemad:
 - Mis on lapse seksuaalsus ja kuidas see väljendub?
@@ -53,7 +72,7 @@ Osalemispanus 10€.
 Palume tulekust teada anda kirjutades tore@torela.ee või facebooki kaudu. Kohtade arv on piiratud.
 
 
-**Vestlusring - Beebide uni - edasi lükatud**
+**EDASI LÜKATUD - Vestlusring - Beebide uni**
 Vestlusringi viib läbi Õnne Liv Valberg, kes räägib beebide unest. 
 Kõik, kellel mure tihti ärkava beebiga või soov une kohta rohkem teada saada, olete väga oodatud! 
 
