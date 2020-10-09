@@ -26,13 +26,6 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 # Upcoming events
 
 
-**08.10 - Playmorning**
-
-10.00-13.00
-There are tasty snacks and coffee on the table! 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
-
 **12.10 - Playmorning**
 
 10.00-13.00
