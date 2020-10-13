@@ -10,6 +10,10 @@ const mailTransport = nodemailer.createTransport({
   port: 25
 })
 
+const paymentDetails = `
+    Torela OÜ
+    IBAN: EE477700771003581431 (LHV)`
+
 export class Mailer {
   sendContact(contact: Contact) {
     this.send(config.adminEmail, {
@@ -20,8 +24,40 @@ export class Mailer {
 
   sendBooking(booking: Booking) {
     this.send(booking.email,{
-      subject: `Mängutuba broneeritud ${iso2eu(booking.date)} ${booking.time} - ${booking.until}`,
-      text: `
+      subject: (booking.lang == 'en' ? `Playroom booked` : `Mängutuba broneeritud`) +
+        `${iso2eu(booking.date)} ${booking.time} - ${booking.until}`,
+      text: booking.lang == 'en' ? `
+      Thanks for booking Torela playroom!
+      
+      Child/event name: ${booking.childName}
+      Child age: ${booking.childAge}
+      Parent: ${booking.parentName}
+      Phone: ${booking.phone}
+      Email: ${booking.email}
+      Comments: ${booking.comments}
+      Additional services: 
+        ${additionalServices(booking).join(',\n  ')}
+        
+      Booking fee ${config.bookingFee.amount}€ has to be paid in ${config.bookingFee.days} days.
+      If fee has not arrived, we would have to cancel the booking. 
+      
+      Please make a bank transfer to:
+      ${paymentDetails}
+      Specify event date, time and child's name as details.
+      
+      The outstanding amount has to be transferred either before the event takes place or in cash on arrival.
+
+      Take a look at additional services that we offer: https://torela.ee/lisateenused/ 
+
+      Here is an invitation link that you can share with your friends:
+      https://torela.ee/kutse/#${booking._id.toString()}
+      (You can send it as a link, print or save as PDF).
+    
+      Don't hesitate to ask questions if you need to!
+      
+      Have a great party!  
+      
+      ` : /* Estonian below */ `
       Aitäh, et broneerisite Torela mängutoa!
       
       Broneeringu ülevaade:
@@ -40,8 +76,7 @@ export class Mailer {
       Kui ülekanne ei ole tähtaegselt laekunud, siis broneering tühistatakse.
       
       Ülekande andmed:
-      Torela OÜ
-      IBAN: EE477700771003581431 (LHV)
+      ${paymentDetails}
       Makse selgitusse palume märkida ürituse kuupäev, kellaaeg ja lapse nimi.
       
       Ülejäänud summa saab tasuda ülekandega enne ürituse toimumist või sularahas kohapeal.
@@ -78,8 +113,7 @@ export class Mailer {
       Osalustasu ${config.bookingFee.amount}€ saab tasuda kontole või tuua sularahas. 
       
       Ülekande andmed:
-      Torela OÜ
-      IBAN: EE477700771003581431 (LHV)
+      ${paymentDetails}
       Makse selgitusse palume märkida ürituse kuupäev, kellaaeg ja lapse nimi.
       
       Täiendavate küsimuste korral võtke julgesti ühendust!
@@ -91,9 +125,9 @@ export class Mailer {
     return `
       Mirjam & Sirli
 
-      e-post: tore@torela.ee
+      tore@torela.ee
       tel: 5695 5722 / 5908 1914
-      koduleht: https://torela.ee/
+      https://torela.ee/
       facebook: https://www.facebook.com/Torelamangutuba/
       instagram: @torelamangutuba      
     `
