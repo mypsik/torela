@@ -10,9 +10,7 @@ const mailTransport = nodemailer.createTransport({
   port: 25
 })
 
-const paymentDetails = `
-    Torela OÜ
-    IBAN: EE477700771003581431 (LHV)`
+const paymentDetails = `Torela OÜ, LHV IBAN: EE477700771003581431`
 
 export class Mailer {
   sendContact(contact: Contact) {
@@ -25,7 +23,7 @@ export class Mailer {
   sendBooking(booking: Booking) {
     this.send(booking.email,{
       subject: (booking.lang == 'en' ? `Playroom booked` : `Mängutuba broneeritud`) +
-        `${iso2eu(booking.date)} ${booking.time} - ${booking.until}`,
+        ` ${iso2eu(booking.date)} ${booking.time} - ${booking.until}`,
       text: booking.lang == 'en' ? `
       Thanks for booking Torela playroom!
       
