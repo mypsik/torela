@@ -6,6 +6,7 @@ priority: 1.0
 en: /en/prices/
 ru: /ru/prices/
 ---
+**PARIMA HINNAGA MÄNGUTUBA!**
 
 E-R 10.00-13.00 ja 14.00-17.00 - 75€/3h
 
@@ -16,7 +17,7 @@ L-P 10.00-21.00 - 130€/3h
 *Riigipühadel kehtib nädalavahetuse hind.
 Kohapeal saab maksta ainult sularahas!
 
-**VIIMASE HETKE BRONEERIJDA SOODUSTUS - 72H ENNE PIDU**
+**VIIMASE HETKE BRONEERIJA SOODUSTUS - 72H ENNE PIDU**
 **72h** enne peo algust broneerides pakume soodustust **-25%**
 Lisada broneerimisel sooduskood: **VIIMANEHETK**
 Peo tühistamise korral tagastame soovijatele broneerimistasu! (*kehtib ainult uutele broneeringutele!)
