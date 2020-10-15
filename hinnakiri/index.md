@@ -7,6 +7,7 @@ en: /en/prices/
 ru: /ru/prices/
 ---
 **PARIMA HINNAGA MÄNGUTUBA!**
+
 UUS HINNAKIRI AASTAKS 2020, kehtib alates 14.10.20.
 Hinnad kehtivad uutele broneeringutele! 
 
