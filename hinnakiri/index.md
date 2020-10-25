@@ -20,10 +20,6 @@ L-P 10.00-21.00 - 130€/3h
 *Riigipühadel kehtib nädalavahetuse hind.
 Kohapeal saab maksta ainult sularahas!
 
-**VIIMASE HETKE BRONEERIJA SOODUSTUS - 72H ENNE PIDU**
-**72h** enne peo algust broneerides pakume soodustust **-25%**
-Lisada broneerimisel sooduskood: **VIIMANEHETK**
-Peo tühistamise korral tagastame soovijatele broneerimistasu! (*kehtib ainult uutele broneeringutele!)
 
 
 **VARAJASE BRONEERIJA SOODUSTUS:**
