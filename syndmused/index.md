@@ -27,49 +27,24 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-**12.10 - Mänguhommik**
+**26.10 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-
-**15.10 - Mänguhommik**
+**29.10 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**19.10 - Pannkoogihommik**
-10.00-13.00
-Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani suhruvabad pannkoogid! 
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
-**24.09 - Mänguhommik**
+**02.11 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**EDASI LÜKATUD - Vestlusring - Lapse seksuaalsus - keha, tunded ja turvalisus**
-Vestlusringi tuleb läbi viima Õnne Liv Valberg.
-Teemad:
-- Mis on lapse seksuaalsus ja kuidas see väljendub?
-- Koolieeliku seksuaalne areng
-- Olulised teemakäsitlused koolieelses eas
-
-Osalemispanus 10€. 
-Palume tulekust teada anda kirjutades tore@torela.ee või facebooki kaudu. Kohtade arv on piiratud.
-
-
-**EDASI LÜKATUD - Vestlusring - Beebide uni**
-Vestlusringi viib läbi Õnne Liv Valberg, kes räägib beebide unest. 
-Kõik, kellel mure tihti ärkava beebiga või soov une kohta rohkem teada saada, olete väga oodatud! 
-
-Käsitletavad teemad: 
-*beebi une eripärad
-*kogu perele sobiva päevakava kujundamine
-*öö- ja päevauni
-*leebed unekooli meetodid
-
-Osaluspanus 10€. Tasuda saab kohapeal sularahas või ülekandega Torela OÜ kontole EE477700771003581431.
+**05.11 - Pannkoogihommik**
+10.00-13.00
+Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
