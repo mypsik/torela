@@ -51,7 +51,7 @@ The real hit of children's birthdays. The cotton candy is ready in 60 seconds, a
 
   <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150">
 
-## PHOTOGRAPHER - Helen Tulp - 135 € / ~2,5h {#photographer}
+## PHOTOGRAPHER - Helen Tulp - 155 € / ~2h {#photographer}
   Here you can see her portfolio: [Helen Tulp](https://www.helentulp.com/){:target="_blank"}
 
   Helen Tulp will capture the true emotions of a child's birthday!
@@ -60,6 +60,8 @@ The real hit of children's birthdays. The cotton candy is ready in 60 seconds, a
 
    <img alt="Fotograaf" src="DSCF7438.jpg" height="150"> 
    <img alt="Fotograaf1" src="DSCF8013.jpg" height="150">
+
+The price is only for birthday parties! For special event please ask price offer.
 
 ## VIDEOGRAPHER - Marge Prints - 300 € / 3h {#videographer}
   Here you can see her portfolio: [Kuulid Muuvid](http://kuulidmuuvid.ee/){:target="_blank"}
