@@ -13,11 +13,13 @@ Hinnad kehtivad uutele broneeringutele!
 
 E-R 10.00-13.00 ja 14.00-17.00 - 75€/3h
 
-E-R 18.00-21.00 - 105€/3h
+E-R 18.00-21.00 - 105€/3h **
 
 L-P 10.00-21.00 - 130€/3h
 
 *Riigipühadel kehtib nädalavahetuse hind.
+** Soovijad saavad nädala sees õhtuti pidu pidada 4 tundi! Seda juhul, kui enne pole teisi pidusid!
+
 Kohapeal saab maksta ainult sularahas!
 
 
