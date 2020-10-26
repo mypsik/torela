@@ -28,7 +28,7 @@ priority: 1.0
 
 Torela on uus ja põnev mängutuba Põhja-Tallinnas, Telliskivi ja Ristiku tänava ristmikul, Kalamaja ja Pelgulinna vahel. Telliskivi Loomelinnaku vahetus läheduses.
 
-**Saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel ning sügisest saab osa võtta põnevatest huviringidest.** 
+**Saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel!** 
 
 Mängutoas on tegevust 0-8 aastastel lastel. Mängutoas toimub üks pidu korraga.
 
@@ -43,11 +43,15 @@ Emale ja beebile on privaatne ruum imetamiseks ja mähkimiseks.
 Üleriiete jaoks on eraldi garderoob.
 Mängutoas on 2 tualettruumi.
 
-**Mida lapsed saavad teha?**
+**Mis teeb Torela eriliseks?**
+Hoiame Torelal kindlat stiili! Torela on rohelistes toonides ning kõik mänguasjad on loomade ning loodusega seotud! 
+
+
+**Mida lapsed meil teha saavad?**
 
 Torela mänguasjad on lapsesõbralikud ja soodustavad lapse arengut. Lapsed saavad kasutada nii oma loovust kui ka tugevdada musklit.
-Mängutoas saab hullata kahekorruselises mängumajas, milles on 4 tuba: diskotuba, pehme pesa, klotsituba ja mänguköök. Ronida saab mööda seina, sõita ringi autodega, mängida kuulimänguga, liugu lasta, pallimeres hullata.
-Lapsed saavad ehitada pehmetest klotsidest kindluseid ja mängida legodega. Saab joonistada kriitidega, luua mägesid liitreaalsuse liivakastis, visata palle korvi, ehitada autorada ja palju muud põnevat. 
+Mängutoas saab hullata kahekorruselises mängumajas, milles on 4 tuba: diskotuba, pehme pesa, kostüümituba ja mänguköök. Ronida saab mööda seina, sõita ringi autodega, mängida kuulimänguga, liugu lasta ja pallimeres hullata.
+Mängimiseks on ka suur laud lego duplodega. Saab joonistada kriitidega, luua mägesid liitreaalsuse liivakastis, visata palle korvi, ehitada autorada ja palju muud põnevat. 
 
 **Mis on köögis olemas?**
 
