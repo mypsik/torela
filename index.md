@@ -44,6 +44,7 @@ Emale ja beebile on privaatne ruum imetamiseks ja mähkimiseks.
 Mängutoas on 2 tualettruumi.
 
 **Mis teeb Torela eriliseks?**
+
 Hoiame Torelal kindlat stiili! Torela on rohelistes toonides ning kõik mänguasjad on loomade ning loodusega seotud! 
 
 
