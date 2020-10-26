@@ -184,15 +184,7 @@ const additionalServices = {
       ru: 'Накрытый стол, от',
       price: 36,
       // priceUnit: 'person',
-      // requestCount: true
-    },
-    kalamajaGastro: {
-      en: 'Kalamaja Gastro, from',
-      et: 'Kalamaja Gastro, alates',
-      ru: 'Каламая Гастро, от',
-      price: 95,
-      // priceUnit: 'person',
-      // requestCount: true
+      // requestCount: tru
     },
     retroWaffels: {
       en: 'Retro waffels',
