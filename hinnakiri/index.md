@@ -18,6 +18,7 @@ E-R 18.00-21.00 - 105€/3h **
 L-P 10.00-21.00 - 130€/3h
 
 *Riigipühadel kehtib nädalavahetuse hind.
+
 ** Soovijad saavad nädala sees õhtuti pidu pidada 4 tundi! Seda juhul, kui enne pole teisi pidusid!
 
 Kohapeal saab maksta ainult sularahas!
