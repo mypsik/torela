@@ -121,14 +121,6 @@ ru: /ru/services/
   
   30-le - 204€
 
-## CATERING Kalamaja Gastro {#kalamajaGastro}
-
-  Kalamaja Gastro pakub laste sünnipäevadeks maitsvat toitu! Valikus on nii valmismenüüd kui võimalus ise toiduvalik teha. Torela klientidele kehtib 10% soodustus! :)
-
-  Tellimuse täpsustused saate esitada mängutoa broneerimisel lisainfosse või e-posti teel tore@torela.ee.
-
-  <img alt="Catering1" src="catering-1.png">
-  <img alt="Catering2" src="catering-2.png">
 
 ## RETROVAHVLID - 8€/10tk {#retroWaffels}
 
@@ -192,7 +184,7 @@ ru: /ru/services/
    
    <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150"> 
 
-## FOTOGRAAF - 135€/~2h {#photographer}
+## FOTOGRAAF - 145€/~2h {#photographer}
   Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõik ehedad emotsioonid ja parimad hetked!
   Tema portfoolioga saab tutvuda siin: [helentulp.com](https://www.helentulp.com/){:target="_blank"}
 
@@ -220,7 +212,7 @@ ru: /ru/services/
   <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="150">
   
   
-## PUTUKAPROGRAMM - Mattias Turovski - 150€/45min {#bugsShow}
+## PUTUKAPROGRAMM - Mattias Turovski - 160€/45min {#bugsShow}
 
   Põneva ja erilise programmi raames tutvustatakse nelja erinevat looma - hiidtigu, prussakat, raagritsikat ning 
   hiidtuhatjalaga. 
