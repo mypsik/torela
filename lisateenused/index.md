@@ -192,11 +192,12 @@ ru: /ru/services/
   Pildistab nii üldist mänguhoogu, portreesid ja soovikorral ka perepilte ning grupipilte fotoseina juures. 
   Kui vanematel on erisoove, siis arvestab nendega alati. Ühest sünnipäevapeost valmib digialbum ~200 pildiga. 
   Pildid valmivad nädalaga ja albumile ligipääs saadetakse privaatse lingina, kust on võimalik pildid alla laadida või otse sõpradega jagada.
+  NB! Antud hind kehtib sünnipäeva pildistamisel! Eriürituste pildistamiseks küsida pakkumist!
+
 
    <img alt="Fotograaf" src="DSCF7438.jpg" height="150"> 
    <img alt="Fotograaf1" src="DSCF8013.jpg" height="150"> 
   
-   Antud hind kehtib sünnipäeva pildistamisel! Eriürituste pildistamiseks küsida pakkumist!
 
 ## VIDEOGRAAF - 300€/3h {#videographer}
 
