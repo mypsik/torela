@@ -40,7 +40,7 @@ ru: /ru/services/
   <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="200"> 
   
 
-## ÕHUPALLILOOMAD - 70€/1h {#balloonAnimals}
+## ÕHUPALLILOOMAD - 80€/1h {#balloonAnimals}
 
   Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
 
@@ -184,7 +184,7 @@ ru: /ru/services/
    
    <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150"> 
 
-## FOTOGRAAF - 155€/~2h {#photographer}
+## FOTOGRAAF - 145€/~2h {#photographer}
   Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõik ehedad emotsioonid ja parimad hetked!
   Tema portfoolioga saab tutvuda siin: [helentulp.com](https://www.helentulp.com/){:target="_blank"}
 
