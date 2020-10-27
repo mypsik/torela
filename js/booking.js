@@ -225,7 +225,7 @@ const additionalServices = {
       en: 'Photographer',
       et: 'Fotograaf',
       ru: 'Фотограф',
-      price: 135,
+      price: 145,
       priceUnit: ''
     },
     videographer: {
@@ -251,7 +251,7 @@ const additionalServices = {
       en: 'Balloon Animals',
       et: 'Õhupalliloomad',
       ru: 'Животные из воздушных шаров',
-      price: 70,
+      price: 80,
       priceUnit: '1h'
     },
     partyAnimator: {
@@ -279,7 +279,7 @@ const additionalServices = {
       en: 'Bugs program',
       et: 'Putukaprogramm',
       ru: 'Программа с насекомыми',
-      price: 150,
+      price: 160,
       priceUnit: '45min'
     },
   },
