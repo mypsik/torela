@@ -184,7 +184,7 @@ ru: /ru/services/
    
    <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150"> 
 
-## FOTOGRAAF - 145€/~2h {#photographer}
+## FOTOGRAAF - 155€/~2h {#photographer}
   Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõik ehedad emotsioonid ja parimad hetked!
   Tema portfoolioga saab tutvuda siin: [helentulp.com](https://www.helentulp.com/){:target="_blank"}
 
