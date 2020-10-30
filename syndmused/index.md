@@ -26,11 +26,15 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
+
 **NOVEMBRIS mänguhommikud 4x nädalas!! 
 TEISIPÄEVAL - 10.00-12.00
 KOLMAPÄEVAL - 10.00-13.00
 NELJAPÄEVAL - 10.00-13.00
 REEDEL - 10.00-13.00**
+
+
+<img alt="novembermanguhommik" src="novembermanguhommik.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
 
 
 **02.11 - Mänguhommik**
