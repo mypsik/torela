@@ -34,7 +34,13 @@ NELJAPÄEVAL - 10.00-13.00
 REEDEL - 10.00-13.00**
 
 
+
+
+
 <img alt="novembermanguhommik" src="novembermanguhommik.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
+
+
+
 
 
 **02.11 - Mänguhommik**
