@@ -26,10 +26,11 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
-
-**29.10 - Mänguhommik**
-10.00-13.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+**NOVEMBRIS mänguhommikud 4x nädalas!! 
+TEISIPÄEVAL - 10.00-12.00
+KOLMAPÄEVAL - 10.00-13.00
+NELJAPÄEVAL - 10.00-13.00
+REEDEL - 10.00-13.00**
 
 
 **02.11 - Mänguhommik**
@@ -37,9 +38,24 @@ Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
+**03.11 - Mänguhommik**
+10.00-12.00
+Sissepääs: 5€ (laps+vanem), +3€ (pere teine laps)
+
+
+**04.11 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
 **05.11 - Pannkoogihommik**
 10.00-13.00
 Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+**06.11 - Mänguhommik**
+10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
