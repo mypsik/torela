@@ -25,24 +25,46 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 
 # Upcoming events
 
-
-**29.10 - Playmorning**
-
-10.00-13.00
-There are tasty snacks and coffee on the table! 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
-
-
-**02.11 - Playmorning**
-
-10.00-13.00
-There are tasty snacks and coffee on the table! 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
+Now we have playmornings 4 times per week!
 
 **05.11 - Pancake-Playmorning**
 
 10.00-13.00
 There are a lot of pancakes, eat as much as you can!
+Participation fee 7 € (child + parent, next child of the family + 3 €).
+
+
+**06.11 - Playmorning**
+
+10.00-13.00
+There are tasty snacks and coffee on the table! 
+Participation fee 7 € (child + parent, next child of the family + 3 €).
+
+
+**10.11 - Playmorning**
+
+10.00-13.00
+There are tasty snacks and coffee on the table! 
+Participation fee 7 € (child + parent, next child of the family + 3 €).
+
+
+**11.11 - Playmorning**
+
+10.00-13.00
+There are tasty snacks and coffee on the table! 
+Participation fee 7 € (child + parent, next child of the family + 3 €).
+
+
+**12.11 - Playmorning full of LIVE-music!**
+
+10.00-13.00
+Lovely Jane is coming to visit us and she'll play and sing!
+There are tasty snacks and coffee on the table! 
+Participation fee 10 € (child + parent, next child of the family + 5 €).
+
+
+**13.11 - Playmorning**
+
+10.00-13.00
+There are tasty snacks and coffee on the table! 
 Participation fee 7 € (child + parent, next child of the family + 3 €).
