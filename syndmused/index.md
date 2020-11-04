@@ -41,18 +41,6 @@ REEDEL - 10.00-13.00**
 
 
 
-
-
-**02.11 - Mänguhommik**
-10.00-13.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
-**03.11 - Mänguhommik**
-10.00-12.00
-Sissepääs: 5€ (laps+vanem), +3€ (pere teine laps)
-
-
 **04.11 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
@@ -65,6 +53,28 @@ Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 **06.11 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+**10.11 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+**11.11 - Mänguhommik**
+10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+
+**12.11 - Mänguhommik täis muusikat!**
+Külas Jane!
+10.00-13.00
+Sissepääs: 10€ (laps+vanem), +5€ (pere teine laps)
+
+
+**13.11 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
