@@ -43,7 +43,7 @@ REEDEL - 10.00-13.00**
 
 **10.11 - Mänguhommik**
 10.00-12.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+Sissepääs: 5€ (laps+vanem), +2€ (pere teine laps)
 
 
 **11.11 - Mänguhommik**
