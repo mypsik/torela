@@ -13,7 +13,7 @@ Tavaliste sündmuste osalustasu on 7€ (laps+vanem), pere järgmine laps +3€.
 
 Mängutuba asub 2. korrusel. Sisenemiseks valige **2** ukse juures. Kärusid saab jätta 1. korrusele.
 
- * **Pannkoogihommik** toimub 2x kuus, tavaliselt iga kuu esimesel neljapäeval ja kolmandal esmaspäeval!
+ * **Pannkoogihommik** toimub 2x kuus, tavaliselt iga kuu esimesel neljapäeval ja kolmandal kolmapäeval!
  
 Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](https://www.facebook.com/Torelamangutuba/events/) ja meililistiga! 
 
@@ -41,24 +41,8 @@ REEDEL - 10.00-13.00**
 
 
 
-**04.11 - Mänguhommik**
-10.00-13.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
-**05.11 - Pannkoogihommik**
-10.00-13.00
-Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
-**06.11 - Mänguhommik**
-10.00-13.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
 **10.11 - Mänguhommik**
-10.00-13.00
+10.00-12.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
@@ -68,7 +52,7 @@ Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 
-**12.11 - Mänguhommik täis muusikat!**
+**12.11 - Muusikaline mänguhommik Janega!**
 Külas Jane!
 10.00-13.00
 Sissepääs: 10€ (laps+vanem), +5€ (pere teine laps)
@@ -76,6 +60,12 @@ Sissepääs: 10€ (laps+vanem), +5€ (pere teine laps)
 
 **13.11 - Mänguhommik**
 10.00-13.00
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+**18.11 - Pannkoogihommik**
+10.00-13.00
+Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
