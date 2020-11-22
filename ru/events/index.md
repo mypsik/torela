@@ -21,17 +21,9 @@ et: /syndmused/
 
 Именную дигитальную карту пришлём по электронной почте. Карта действует 3 месяца и только на мероприятиях за 7€.
 
-
-
-
 # Следующие мероприятия
 
-
-
-
-
-<img alt="novemberrus" src="novemberrus.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
-
+<img alt="novemberrus" src="novemberrus.png" height="200" style="float: right; margin-top: 0em; margin-left: 1em">
 
 
 **24.11 - Утренняя игра!**
