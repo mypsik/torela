@@ -24,6 +24,9 @@ et: /syndmused/
 # Следующие мероприятия
 
 
+<img alt="november" src="november.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
+
+
 
 **24.11 - Утренняя игра!**
 10.00-12.00
