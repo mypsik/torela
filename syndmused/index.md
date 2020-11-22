@@ -41,7 +41,7 @@ REEDEL - 10.00-13.00
 
 
 
-<img alt="novembermanguhommik" src="novembermanguhommik.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
+<img alt="november" src="november.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
 
 
 
