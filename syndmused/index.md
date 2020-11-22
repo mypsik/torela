@@ -27,11 +27,15 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-**NOVEMBRIS mänguhommikud 4x nädalas!! 
+**NOVEMBRIS mänguhommikud 4x nädalas!!**
+
 TEISIPÄEVAL - 10.00-12.00
+
 KOLMAPÄEVAL - 10.00-13.00
+
 NELJAPÄEVAL - 10.00-13.00
-REEDEL - 10.00-13.00**
+
+REEDEL - 10.00-13.00
 
 
 
@@ -41,29 +45,29 @@ REEDEL - 10.00-13.00**
 
 
 
-**10.11 - Mänguhommik**
-10.00-12.00
-Sissepääs: 5€ (laps+vanem), +2€ (pere teine laps)
+**24.11 - Mänguhommik**
+10.00-12.00 - 2h
+SOODUSHIND: 5€ (laps+vanem), +2€ (pere teine laps)
 
 
-**11.11 - Mänguhommik**
+**25.11 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 
-**12.11 - Muusikaline mänguhommik Janega!**
+**26.11 - Muusikaline mänguhommik Janega!**
 Külas Jane!
 10.00-13.00
 Sissepääs: 10€ (laps+vanem), +5€ (pere teine laps)
 
 
-**13.11 - Mänguhommik**
+**27.11 - Mänguhommik**
 10.00-13.00
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**18.11 - Pannkoogihommik**
+**03.12 - Pannkoogihommik**
 10.00-13.00
 Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
