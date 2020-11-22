@@ -24,7 +24,7 @@ et: /syndmused/
 # Следующие мероприятия
 
 
-<img alt="november" src="november.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
+<img alt="novemberrus" src="novemberrus.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
 
 
 
