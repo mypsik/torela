@@ -19,7 +19,7 @@ Joining our [Facebook page](https://www.facebook.com/Torelamangutuba/events/) is
 
 ### 5X CARD FOR 25€
 
-<img alt="5x card" src="../../syndmused/5x-kaart.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
+<img alt="5x card" src="../../syndmused/5x-kaart.png" height="200">
 
 Named digital card will be sent to your email. The card is valid for 3 months and can be used at regular 7€ events only.
 
@@ -29,29 +29,28 @@ Now we have playmornings 4 times per week!
 
 
 
-**10.11 - Playmorning**
-
-10.00-12.00
-There are tasty snacks and coffee on the table! 
-Participation fee 5 € (child + parent, next child of the family + 2 €).
-
-
-**11.11 - Playmorning**
+**24.11 - Playmorning**
 
 10.00-13.00
 There are tasty snacks and coffee on the table! 
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**12.11 - Playmorning full of LIVE-music!**
+**25.11 - Playmorning**
 
 10.00-13.00
-Lovely Jane is coming to visit us and she'll play and sing!
 There are tasty snacks and coffee on the table! 
-Participation fee 10 € (child + parent, next child of the family + 5 €).
+Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**13.11 - Playmorning**
+**26.11 - Playmorning**
+
+10.00-13.00
+There are tasty snacks and coffee on the table! 
+Participation fee 7 € (child + parent, next child of the family + 3 €).
+
+
+**27.11 - Playmorning**
 
 10.00-13.00
 There are tasty snacks and coffee on the table! 
@@ -59,7 +58,7 @@ Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
 
-**18.11 - Pancake-Playmorning**
+**03.12 - Pancake-Playmorning**
 
 10.00-13.00
 There are a lot of pancakes, eat as much as you can!
