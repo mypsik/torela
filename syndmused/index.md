@@ -19,7 +19,7 @@ Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](htt
 
 ### 5X KAART - HIND 25€
 
-<img alt="5x kaart" src="5x-kaart.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
+<img alt="5x kaart" src="5x-kaart.png" height="200">
 
 Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja vaid 7€ maksva ürituste korral.
 
@@ -29,6 +29,8 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 **NOVEMBRIS mänguhommikud 4x nädalas!!**
 
+<img alt="november" src="november.png" height="300" style="float: right; margin-top: 0em; margin-left: 1em">
+
 TEISIPÄEVAL - 10.00-12.00
 
 KOLMAPÄEVAL - 10.00-13.00
@@ -36,13 +38,6 @@ KOLMAPÄEVAL - 10.00-13.00
 NELJAPÄEVAL - 10.00-13.00
 
 REEDEL - 10.00-13.00
-
-
-
-
-
-<img alt="november" src="november.png" height="200" style="float: right; margin-top: -5em; margin-left: 1em">
-
 
 
 **24.11 - Mänguhommik**
