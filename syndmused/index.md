@@ -66,7 +66,8 @@ Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 **03.12 - Jõulupildistamine**
-<img alt="pildistamine" src="pildistamine.png" height="300" style="float: right; margin-top: -6em; margin-left: 1em">
+
+<img alt="pildistamine" src="pildistamine.png" height="300" >
 
 10.00-13.00
 Külla tuleb Helen Tulp, kes teeb kõikidest vahvad jõulupildid! 
