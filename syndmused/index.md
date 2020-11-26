@@ -70,9 +70,11 @@ Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 **03.12 - Jõulupildistamine**
 10.00-13.00
-Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+Külla tuleb Helen Tulp, kes teeb kõikidest vahvad jõulupildid! 
+Detsembrikuus on Torela jõuluselt kaunistatud ning pildistamise päeval on beebituppa üles seatud armas fotonurk! 
+Helen Tulp teeb peredest ja lastest toredad kvaliteetsed pildid!
 
+Sissepääs: 25€
 
 
 **Pannkoogihommik**
