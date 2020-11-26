@@ -51,24 +51,23 @@ Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 
-**01.12 - Mänguhommik + meisterdame jõuluehteid**
+**01.12 - Mänguhommik + küpsetame piparkooke**
 10.00-12.00 - 2h
-Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
-Teeme kuuseehteid!
-Laual head-paremat näksimiseks ning kohv-tee! 
-Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
-
-**02.12 - Mänguhommik + küpsetame piparkooke**
-10.00-13.00
 Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
 Küpsetame piparkooke!
 Laual head-paremat näksimiseks ning kohv-tee! 
 Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
+**02.12 - Pannkoogihommik**
+10.00-13.00
+Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
 **03.12 - Jõulupildistamine**
+<img alt="pildistamine" src="pildistamine.png" height="300" style="float: right; margin-top: -6em; margin-left: 1em">
+
 10.00-13.00
 Külla tuleb Helen Tulp, kes teeb kõikidest vahvad jõulupildid! 
 Detsembrikuus on Torela jõuluselt kaunistatud ning pildistamise päeval on beebituppa üles seatud armas fotonurk! 
@@ -77,10 +76,13 @@ Helen Tulp teeb peredest ja lastest toredad kvaliteetsed pildid!
 Sissepääs: 25€
 
 
-**Pannkoogihommik**
+**04.12 - Mänguhommik + smuutid**
 10.00-13.00
-Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
+Pakume smuutisid, väikest snäkki ja kohvi-teed!
+Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
 
 
 
