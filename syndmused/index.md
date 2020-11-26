@@ -40,31 +40,49 @@ NELJAPÄEVAL - 10.00-13.00
 REEDEL - 10.00-13.00
 
 
-**24.11 - Mänguhommik**
+
+
+**27.11 - Mänguhommik + Smuutid**
+10.00-13.00
+Esimest korda pakume mänguhommikul tervislikke smuutisid! 
+Laual ka veidi muud väiksemat näksi ja kondlasti ei puudu ka kohv!
+
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+
+**01.12 - Mänguhommik + meisterdame jõuluehteid**
 10.00-12.00 - 2h
-SOODUSHIND: 5€ (laps+vanem), +2€ (pere teine laps)
+Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
+Teeme kuuseehteid!
+Laual head-paremat näksimiseks ning kohv-tee! 
+Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**25.11 - Mänguhommik**
+
+**02.12 - Mänguhommik + küpsetame piparkooke**
 10.00-13.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
+Küpsetame piparkooke!
+Laual head-paremat näksimiseks ning kohv-tee! 
+Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-
-**26.11 - Muusikaline mänguhommik Janega!**
-Külas Jane!
-10.00-13.00
-Sissepääs: 10€ (laps+vanem), +5€ (pere teine laps)
-
-
-**27.11 - Mänguhommik**
-10.00-13.00
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
-**03.12 - Pannkoogihommik**
+**03.12 - Jõulupildistamine**
 10.00-13.00
 Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+
+**Pannkoogihommik**
+10.00-13.00
+Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+
+
+
 
 
