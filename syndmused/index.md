@@ -42,14 +42,6 @@ REEDEL - 10.00-13.00
 
 
 
-**27.11 - Mänguhommik + Smuutid**
-10.00-13.00
-Esimest korda pakume mänguhommikul tervislikke smuutisid! 
-Laual ka veidi muud väiksemat näksi ja kondlasti ei puudu ka kohv!
-
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
 
 **01.12 - Mänguhommik + küpsetame piparkooke**
 10.00-12.00 - 2h
