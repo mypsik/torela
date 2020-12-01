@@ -43,14 +43,6 @@ REEDEL - 10.00-13.00
 
 
 
-**01.12 - Mänguhommik + küpsetame piparkooke**
-10.00-12.00 - 2h
-Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
-Küpsetame piparkooke!
-Laual head-paremat näksimiseks ning kohv-tee! 
-Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
 **02.12 - Pannkoogihommik**
 10.00-13.00
 Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
