@@ -27,7 +27,7 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-**NOVEMBRIS mänguhommikud 4x nädalas!!**
+**DETSEMBRIS mänguhommikud 4x nädalas!!**
 
 <img alt="november" src="november.png" height="300" style="float: right; margin-top: -6em; margin-left: 1em">
 
@@ -42,26 +42,32 @@ REEDEL - 10.00-13.00
 
 
 
+**08.12 - Mänguhommik**
+10.00-12.00
+Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
+Laual head-paremat näksimiseks ja kohvi-teed!
+Teisipäeviti on soodushind!
+Osalustasu: 5€ (laps+vanem), +2€ (pere teine laps)
 
-**02.12 - Pannkoogihommik**
+
+
+**09.12 - Mänguhommik + teeme piparkooke**
 10.00-13.00
-Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+Mänguhommikul küpsetame ja kaunistame piparkooke! Piparkoogid saab koju kaasa võtta! 
+Kes tahab, võib kaasa võtta enda põlle ja taignarulli ning karbikese piparkookide kaasavõtmiseks. 
+Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**03.12 - Jõulupildistamine**
 
-<img alt="pildistamine" src="pildistamine.png" height="300" >
-
+**10.12 - Mänguhommik + teeme jõuluehteid**
 10.00-13.00
-Külla tuleb Helen Tulp, kes teeb kõikidest vahvad jõulupildid! 
-Detsembrikuus on Torela jõuluselt kaunistatud ning pildistamise päeval on beebituppa üles seatud armas fotonurk! 
-Helen Tulp teeb peredest ja lastest toredad kvaliteetsed pildid!
-
-Sissepääs: 25€
+Mänguhommikul värvime jõuluehteid! Ehted saab koju kaasa võtta!
+Kaasa võib võtta igaks juhuks vahetusriided!
+Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-**04.12 - Mänguhommik + smuutid**
+
+**11.12 - Mänguhommik + smuutid**
 10.00-13.00
 Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
 Pakume smuutisid, väikest snäkki ja kohvi-teed!
@@ -69,7 +75,10 @@ Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 
-
+**16.12 - Pannkoogihommik**
+10.00-13.00
+Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 
