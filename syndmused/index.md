@@ -29,7 +29,7 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 **DETSEMBRIS mänguhommikud 4x nädalas!!**
 
-<img alt="november" src="november.png" height="300" style="float: right; margin-top: -6em; margin-left: 1em">
+<img alt="detsember" src="detsember.png" height="300" style="float: right; margin-top: -6em; margin-left: 1em">
 
 TEISIPÄEVAL - 10.00-12.00
 
