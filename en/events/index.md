@@ -29,16 +29,7 @@ Now we have playmornings 4 times per week!
 
 
 
-**08.12 Playmorning**
-
-10.00-12.0
-There are tasty snacks and coffee on the table! 
-On thuesday entrance is only 5€!
-Participation fee 5€ (child + parent, next child of the family + 2€).
-
-
-
-**09.12 - Playmorning + baking gingerbreads!**
+**14.12 - Playmorning + baking gingerbreads!**
 
 10.00-13.00
 We are baking and decorating gingerbreads!
@@ -47,23 +38,28 @@ There are tasty snacks and coffee on the table!
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**10.12 - Playmorning + making Christmas decorations!**
+**15.12 Playmorning - let's make a snowman!**
+
+10.00-12.00
+We are making snow and snowman!
+There are tasty snacks and coffee on the table! 
+On thuesday entrance is only 5€!
+Participation fee 5€ (child + parent, next child of the family + 2€).
+
+
+
+**17.12 - Pancake-Playmorning**
 
 10.00-13.00
-We're making christmas decorations! 
-There are tasty snacks and coffee on the table! 
+There are a lot of pancakes, eat as much as you can!
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**11.12 - Playmorning with smoothies**
+
+**18.12 - Playmorning with smoothies**
 
 10.00-13.00
 There are tasty smoothies, snacks and coffee on the table! 
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**16.12 - Pancake-Playmorning**
-
-10.00-13.00
-There are a lot of pancakes, eat as much as you can!
-Participation fee 7 € (child + parent, next child of the family + 3 €).
