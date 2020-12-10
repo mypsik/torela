@@ -41,24 +41,6 @@ REEDEL - 10.00-13.00
 
 
 
-
-**08.12 - Mänguhommik**
-10.00-12.00
-Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
-Laual head-paremat näksimiseks ja kohvi-teed!
-Teisipäeviti on soodushind!
-Osalustasu: 5€ (laps+vanem), +2€ (pere teine laps)
-
-
-
-**09.12 - Mänguhommik + teeme piparkooke**
-10.00-13.00
-Mänguhommikul küpsetame ja kaunistame piparkooke! Piparkoogid saab koju kaasa võtta! 
-Kes tahab, võib kaasa võtta enda põlle ja taignarulli ning karbikese piparkookide kaasavõtmiseks. 
-Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
-
 **10.12 - Mänguhommik + teeme jõuluehteid**
 10.00-13.00
 Mänguhommikul värvime jõuluehteid! Ehted saab koju kaasa võtta!
@@ -66,20 +48,33 @@ Kaasa võib võtta igaks juhuks vahetusriided!
 Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
-
-**11.12 - Mänguhommik + smuutid**
+**14.12 - Mänguhommik + teeme piparkooke**
 10.00-13.00
-Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
-Pakume smuutisid, väikest snäkki ja kohvi-teed!
+Mänguhommikul küpsetame ja kaunistame piparkooke! Piparkoogid saab koju kaasa võtta! 
+Kes tahab, võib kaasa võtta enda põlle ja taignarulli ning karbikese piparkookide kaasavõtmiseks. 
 Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
+**15.12 - Mänguhommik + teeme lumememme**
+10.00-12.00
+Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
+Laual head-paremat näksimiseks ja kohvi-teed!
+Teisipäeviti on soodushind!
+Osalustasu: 5€ (laps+vanem), +2€ (pere teine laps)
 
-**16.12 - Pannkoogihommik**
+
+**17.12 - Pannkoogihommik**
 10.00-13.00
 Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
+
+
+**18.12 - Mänguhommik + smuutid**
+10.00-13.00
+Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
+Pakume smuutisid, väikest snäkki ja kohvi-teed!
+Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 
