@@ -29,15 +29,6 @@ Now we have playmornings 4 times per week!
 
 
 
-**14.12 - Playmorning + baking gingerbreads!**
-
-10.00-13.00
-We are baking and decorating gingerbreads!
-You can take an apron and a rolling pin with you! 
-There are tasty snacks and coffee on the table! 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
-
 **15.12 Playmorning - let's make a snowman!**
 
 10.00-12.00
@@ -61,5 +52,6 @@ Participation fee 7 € (child + parent, next child of the family + 3 €).
 10.00-13.00
 There are tasty smoothies, snacks and coffee on the table! 
 Participation fee 7 € (child + parent, next child of the family + 3 €).
+
 
 
