@@ -41,20 +41,6 @@ REEDEL - 10.00-13.00
 
 
 
-**10.12 - Mänguhommik + teeme jõuluehteid**
-10.00-13.00
-Mänguhommikul värvime jõuluehteid! Ehted saab koju kaasa võtta!
-Kaasa võib võtta igaks juhuks vahetusriided!
-Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
-**14.12 - Mänguhommik + teeme piparkooke**
-10.00-13.00
-Mänguhommikul küpsetame ja kaunistame piparkooke! Piparkoogid saab koju kaasa võtta! 
-Kes tahab, võib kaasa võtta enda põlle ja taignarulli ning karbikese piparkookide kaasavõtmiseks. 
-Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
 **15.12 - Mänguhommik + teeme lumememme**
 10.00-12.00
 Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
