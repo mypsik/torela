@@ -41,6 +41,6 @@ REEDEL - 10.00-13.00
 
 
 
-**21-27.12.2020 puhkame!**
+**21-27.12.2020 mänguhommikuid ei toimu! Häid pühi!**
 
 
