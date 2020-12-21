@@ -41,27 +41,6 @@ REEDEL - 10.00-13.00
 
 
 
-**15.12 - Mänguhommik + teeme lumememme**
-10.00-12.00
-Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
-Laual head-paremat näksimiseks ja kohvi-teed!
-Teisipäeviti on soodushind!
-Osalustasu: 5€ (laps+vanem), +2€ (pere teine laps)
-
-
-**17.12 - Pannkoogihommik**
-10.00-13.00
-Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid! 
-Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
-
-**18.12 - Mänguhommik + smuutid**
-10.00-13.00
-Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
-Pakume smuutisid, väikest snäkki ja kohvi-teed!
-Osalustasu: 7€ (laps+vanem), +3€ (pere teine laps)
-
-
+**21-27.12.2020 puhkame!**
 
 
