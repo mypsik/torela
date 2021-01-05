@@ -23,12 +23,13 @@ et: /syndmused/
 
 # Следующие мероприятия
 
-<img alt="detsemberrus" src="detsemberrus.png" height="200" style="float: right; margin-top: 0em; margin-left: 1em">
+**Торела закрыта до 17 января!**
+
+<img alt="jaanuarrus" src="jaanuarrus.png" height="300">
 
 
 
 
-**21-27.12.2020 - На этой неделе у нас нет игр по утрам. С Рождеством!**
 
 
 
