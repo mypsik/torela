@@ -13,7 +13,7 @@ Please register to event by either writing to [{{ site.email | replace: '@', '$'
 
 Playroom is on the 2nd floor. Dial **2** by the outside door to enter. 
 
- * **Pancake morning** takes place on first Thursday and third Monday of each month!
+ * **Pancake morning** takes place on first Thursday and third Wednesday of each month!
 
 Joining our [Facebook page](https://www.facebook.com/Torelamangutuba/events/) is the easiest way to follow our events! 
 
@@ -26,6 +26,8 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 # Upcoming events
 
 **Due to COVID-19 Torela is closed until 17th of January!**
+
+<img alt="jaanuareng" src="jaanuareng.png" height="300">
 
 
 
