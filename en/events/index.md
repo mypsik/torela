@@ -25,8 +25,8 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 
 # Upcoming events
 
-Now we have playmornings 4 times per week!
+**Due to COVID-19 Torela is closed until 17th of January!**
 
-**21-27.12.2020 - This week we don't have any playmornings! Merry Christmas!**
+
 
 
