@@ -29,8 +29,8 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 
 **COVID-19 tõttu on Torela suletud kuni 17.jaanuarini! **
 
-<img alt="jaanuarest" src="jaanuarest.png" height="300" style="float: right; margin-top: -6em; margin-left: 1em">
 
+<img alt="jaanuarest" src="jaanuarest.png" height="300">
 
 
 
