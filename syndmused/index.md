@@ -27,20 +27,11 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-**DETSEMBRIS mänguhommikud 4x nädalas!!**
+**COVID-19 tõttu on Torela suletud kuni 17.jaanuarini! **
 
-<img alt="detsember" src="detsember.png" height="300" style="float: right; margin-top: -6em; margin-left: 1em">
-
-TEISIPÄEVAL - 10.00-12.00
-
-KOLMAPÄEVAL - 10.00-13.00
-
-NELJAPÄEVAL - 10.00-13.00
-
-REEDEL - 10.00-13.00
+<img alt="jaanuarest" src="jaanuarest.png" height="300" style="float: right; margin-top: -6em; margin-left: 1em">
 
 
 
-**21-27.12.2020 mänguhommikuid ei toimu! Häid pühi!**
 
 
