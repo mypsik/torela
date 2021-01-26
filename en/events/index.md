@@ -25,7 +25,7 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 
 # Upcoming events
 
-**Due to COVID-19 Torela is closed until 17th of January!**
+**Due to COVID-19 Torela is closed until 1st of February!**
 
 <img alt="jaanuareng" src="jaanuareng.png" height="300">
 
