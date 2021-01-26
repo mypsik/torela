@@ -23,7 +23,7 @@ et: /syndmused/
 
 # Следующие мероприятия
 
-**Торела закрыта до 17 января!**
+**Торела закрыта до 01.02.2021!**
 
 <img alt="jaanuarrus" src="jaanuarrus.png" height="300">
 
