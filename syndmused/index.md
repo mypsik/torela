@@ -27,11 +27,22 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-**COVID-19 tõttu on Torela suletud kuni 01.veebruarini! **
+**Torela on taas AVATUD
+!**
 
+**Mänguhommikud tavaliselt esmaspäevast-reedeni, 10.00-13.00**
 
-<img alt="jaanuarest" src="jaanuarest.png" height="300">
+8.02.21
+**Mänguhommik**
 
+9.02.21
+**Mänguhommik**
+
+10.02.21 
+**Pannkoogihommik**
+
+11.02.21
+**Mänguhommik**
 
 
 
