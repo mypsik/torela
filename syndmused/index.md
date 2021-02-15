@@ -27,22 +27,45 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
 
 
-**Torela on taas AVATUD
-!**
+**Torela on taas AVATUD!**
+**Mänguhommikud esmaspäevast-reedeni, 10.00-13.00**
 
-**Mänguhommikud tavaliselt esmaspäevast-reedeni, 10.00-13.00**
-
-8.02.21
+15.02.21
 **Mänguhommik**
+10.00-13.00
+Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
+Laual head-paremat näksimiseks ja kohvi-teed!
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
-9.02.21
+
+16.02.21
+**Vastlapäeva-Mänguhommik**
+10.00-13.00
+Pakume vastlakukleid ja teeme nööbivurri! 
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
+
+
+17.02.21
 **Mänguhommik**
+10.00-13.00
+Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
+Laual head-paremat näksimiseks ja kohvi-teed!
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
-10.02.21 
+
+18.02.21 
 **Pannkoogihommik**
+10.00-13.00
+Pakume pannkooke! Valikus on tavalised ja kaerajahu-banaani (ilma lisatud suhkruta) pannkoogid!
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
-11.02.21
+
+19.02.21
 **Mänguhommik**
+10.00-13.00
+Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
+Laual head-paremat näksimiseks ja kohvi-teed!
+Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
 
