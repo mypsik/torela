@@ -52,7 +52,7 @@ Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 **Vabariigi sünnipäeva mänguhommik**
 10.00-13.00
 Ootame kõiki suuri ja väikeseid sõpru meile mõnusat hommikut veetma!
-Laual on kiluvõileivad ja kohv-teed! :)
+Laual on kiluvõileivad ja kohv-tee! :)
 Sissepääs: 7€ (laps+vanem), +3€ (pere teine laps)
 
 
