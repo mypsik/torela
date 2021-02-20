@@ -141,7 +141,7 @@ ru: /ru/services/
   <img alt="Vahvlid" src="vahvlid.jpg" height="150">
   
  
- ## DONUTS - al 1,5€/tk {#donuts}
+## DONUTS - al 1,5€/tk {#donuts}
 
  Selleks, et sünnipäev veelgi paremini veerekeks, on meil maailma parimad donutsid!  Mei donutsid valmivad käsitööna ja spetsiaalselt just teie peoks. Lisaks tavavalikus olevatele kaunistustele, võtame vastu ka eritellimusi. Laste nimedega donutsid, üksksarvikud, jalgpall, Käpapatrull, printsessi temaatika - muudame kõik donutsisoovid reaalsuseks! NB! Erisoovidele ei kehti tavahind! Tordi asemel saab sünnipäeva lõpuks pakkuda donutsi-torni! 
     
