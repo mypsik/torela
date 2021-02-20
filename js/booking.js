@@ -293,14 +293,6 @@ const additionalServices = {
       ru: 'Пеобокс, от',
       price: 49,
       priceUnit: ''
-    },
-    balloons: {
-      en: 'Balloons, from',
-      et: 'Õhupallid, alates',
-      ru: 'Надувные шарики, от',
-      price: 1.5,
-      priceUnit: 'tk',
-      requestCount: true
     },   
     cakeTopperBanner: {
       en: 'Cake topper and banner, from',
