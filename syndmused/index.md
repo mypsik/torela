@@ -21,11 +21,12 @@ Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](htt
 
 <img alt="5x kaart" src="5x-kaart.png" height="200">
 
-*Hind 1 lapsega. Kahe lapsega 35€.
+***Hind kahe lapsega 35€.**
+
 Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja vaid 7€ maksva ürituste korral.
 
 
-# JÄRGMISED MÄNGUHOMMIKUD JA -ÕHTUD
+# JÄRGMISED MÄNGUHOMMIKUD
 
 
 **Torela on taas AVATUD!**
