@@ -8,8 +8,7 @@ ru: /ru/prices/
 ---
 **PARIMA HINNAGA MÄNGUTUBA!**
 
-UUS HINNAKIRI AASTAKS 2020, kehtib alates 14.10.20.
-Hinnad kehtivad uutele broneeringutele! 
+**SOODUSHIND KEHTIB VEEBRUARI LÕPUNI! Lisasoodustused/sooduskoodid ei kehti.** 
 
 E-R 10.00-13.00 ja 14.00-17.00 - **75€**/3h
 
