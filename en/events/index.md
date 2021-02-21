@@ -27,36 +27,32 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 
 **Torela is open!**
 
-**15.02 (10.00-13.00) - Playmorning**
+**22.02 (10.00-13.00) - Playmorning**
 There are tasty snacks and coffee on the table! 
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**16.02 (10.00-13.00) - Shrove Tuesday-Playmorning**
+**23.02 (10.00-13.00) - Playmorning**
 There are tasty buns and coffee on the table! 
-We are making button-spinner!
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**17.02 (10.00-13.00) - Playmorning**
-There are tasty snacks and coffee on the table! 
+**24.02 (10.00-13.00) - EV 103 - HAPPY BIRTHDAY ESTONIA! Playmorning**
+Estonian music aand estonian food!
+Also a lot of coffee on the table. 
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**18.02 (10.00-13.00) - Pancake-Playmorning**
+**25.02 (10.00-13.00) -Playmorning**
 There are a lot of pancakes, eat as much as you can!
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
-**17.02 (10.00-13.00) - Playmorning**
-There are tasty snacks and coffee on the table! 
+**26.02 (10.00-13.00) - Pancake-Playmorning**
+There are a lot of pancakes, eat as much as you can!
 Participation fee 7 € (child + parent, next child of the family + 3 €).
 
-**19.12 - Playmorning with smoothies**
 
-10.00-13.00
-There are tasty smoothies, snacks and coffee on the table! 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
 
 
 
