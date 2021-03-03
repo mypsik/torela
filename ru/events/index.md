@@ -24,7 +24,7 @@ et: /syndmused/
 
 # Следующие мероприятия
 
-<img alt="kinnirus" src="kinnirus.png" height="200">
+<img alt="kinnirus" src="kinnirus.png" height="350">
 
 
 
