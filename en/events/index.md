@@ -27,7 +27,7 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 
 **Torela is closed 3-28.03.21!**
 
-<img alt="kinnieng" src="kinnieng.png" height="200">
+<img alt="kinnieng" src="kinnieng.png" height="350">
 
 
 
