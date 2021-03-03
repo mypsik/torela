@@ -25,33 +25,9 @@ Named digital card will be sent to your email. The card is valid for 3 months an
 
 # Upcoming events
 
-**Torela is open!**
+**Torela is closed 3-28.03.21!**
 
-**22.02 (10.00-13.00) - Playmorning**
-There are tasty snacks and coffee on the table! 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
-
-**23.02 (10.00-13.00) - Playmorning**
-There are tasty buns and coffee on the table! 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
-
-**24.02 (10.00-13.00) - EV 103 - HAPPY BIRTHDAY ESTONIA! Playmorning**
-Estonian music aand estonian food!
-Also a lot of coffee on the table. 
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
-
-**25.02 (10.00-13.00) -Playmorning**
-There are a lot of pancakes, eat as much as you can!
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
-
-**26.02 (10.00-13.00) - Pancake-Playmorning**
-There are a lot of pancakes, eat as much as you can!
-Participation fee 7 € (child + parent, next child of the family + 3 €).
-
+<img alt="kinnieng" src="kinnieng.png" height="200">
 
 
 
