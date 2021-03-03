@@ -32,7 +32,7 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 **Torela on piirangute tõttu suletud 3-28.03.21!**
 
 
-<img alt="kinni" src="kinni.png" height="200">
+<img alt="kinni" src="kinni.png" height="300">
 
 
 
