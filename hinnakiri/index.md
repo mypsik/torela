@@ -6,19 +6,16 @@ priority: 1.0
 en: /en/prices/
 ru: /ru/prices/
 ---
-**PARIMA HINNAGA MÄNGUTUBA!**
 
-**SOODUSHIND KEHTIB VEEBRUARI LÕPUNI! Lisasoodustused/sooduskoodid ei kehti.** 
+**HINNAKIRI** 
 
-E-R 10.00-13.00 ja 14.00-17.00 - **75€**/3h
+E-R 10.00-13.00 ja 14.00-17.00 - **95€**/3h
 
-E-R 18.00-21.00 - **105€**/3h **
+E-R 18.00-21.00 - **130€**/3h 
 
-L-P 10.00-21.00 - **130€**/3h
+L-P 10.00-21.00 - **150€**/3h
 
 *Riigipühadel kehtib nädalavahetuse hind.
-
-** Soovijad saavad nädala sees õhtuti pidu pidada 4 tundi! Seda juhul, kui enne pole teisi pidusid!
 
 Kohapeal saab maksta ainult sularahas!
 
