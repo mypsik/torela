@@ -29,10 +29,10 @@ Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**Torela on piirangute tõttu suletud 3-28.03.21!**
+**Torela on piirangute tõttu suletud 3.03-11.04.21!**
 
 
-<img alt="kinni" src="kinni.png" height="350">
+<img alt="est" src="est.png" height="350">
 
 
 
