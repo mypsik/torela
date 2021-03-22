@@ -7,11 +7,11 @@ et: /hinnakiri/
 ru: /ru/prices/
 ---
 
-Mo-Fr, 10-13 -  75€ / 3h
+Mo-Fr, 10-13 -  95€ / 3h
 
-Mo-Fr, 18-21 - 105€ / 3h
+Mo-Fr, 18-21 - 130€ / 3h
 
-Sa-Su - 130€ / 3h
+Sa-Su - 150€ / 3h
 
 *Weekend rates apply for public holidays. On site you can pay only in cash!
 
