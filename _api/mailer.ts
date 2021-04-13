@@ -121,10 +121,10 @@ export class Mailer {
 
   private footer() {
     return `
-      Mirjam & Sirli
+      Mirjam
 
       tore@torela.ee
-      tel: 5695 5722 / 5908 1914
+      tel: 5695 5722
       https://torela.ee/
       facebook: https://www.facebook.com/Torelamangutuba/
       instagram: @torelamangutuba      
