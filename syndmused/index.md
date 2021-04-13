@@ -7,33 +7,37 @@ en: /en/events/
 ru: /ru/events/
 ---
 
+**Torela on piirangute tõttu suletud 3.03-25.04.21!**
+
+<img alt="kinni" src="kinni.png" height="350">
+
+Hoolimata praegusest keerulisest ajast, kui mängutoad on suletud, siis Torela aitab siiski laste sünnipäeva meeldejäävamaks teha! 💚 🙃
+Torela pakub uut ja huvitavat **VIRTUAALSET-SÜNNIPÄEVAPIDU**!
+Kõik "külalised" saavad enne peo algust nimelise üllatuspaki ning Torela aitab virtuaalpeo läbi viia!
+
+<img alt="virtuaalpidu" src="virtuaalpidu.png" height="350">
+
+
+
+### 5X KAART - HIND 25€
+**Piirangute lõpuni ERIPAKKUMINE 5=6!**
+Ostes 5x-kaardi enne piirangute lõppu, saad sama raha eest külastada Torelat 6 korda! Kaart hakkab kehtima esimesest külastusest ja kehtib 4 kuud! 
+Nimelise digitaalse kaardi saadame meilile. 
+
+<img alt="5=6kaart" src="5=6kaart.png" height="350">
+
+
+
+# JÄRGMISED MÄNGUHOMMIKUD
+
 Tavaliste sündmuste osalustasu on 7€ (laps+vanem), pere järgmine laps +3€. Kohapeal saab tasuda ainult sularahas!
 
 Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
 
 Mängutuba asub 2. korrusel. Sisenemiseks valige **2** fonolukult. Kärusid saab jätta 1. korrusele.
 
- * **Pannkoogihommik** toimub 2xkuus!
+**Pannkoogihommik** toimub 2xkuus!
  
 Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](https://www.facebook.com/Torelamangutuba/events/) ja meililistiga! 
-
-### 5X KAART - HIND 25€
-
-<img alt="5x kaart" src="5x-kaart.png" height="200">
-
-***Hind kahe lapsega 35€.**
-
-Nimelise digitaalse kaardi saadame meilile. Kaart kehtib 3 kuud alates ostust ja vaid 7€ maksva ürituste korral.
-
-
-# JÄRGMISED MÄNGUHOMMIKUD
-
-
-**Torela on piirangute tõttu suletud 3.03-11.04.21!**
-
-
-<img alt="est" src="est.png" height="350">
-
-
 
 
