@@ -15,7 +15,7 @@ Hoolimata praegusest keerulisest ajast, kui mängutoad on suletud, siis Torela a
 Torela pakub uut ja huvitavat **VIRTUAALSET-SÜNNIPÄEVAPIDU**!
 Kõik "külalised" saavad enne peo algust nimelise üllatuspaki ning Torela aitab virtuaalpeo läbi viia!
 
-<img alt="virtuaalpidu" src="virtuaalpidu.png" height="350">
+<img alt="virtuaalpidu" src="virtuaalpidu.png" height="450">
 
 
 
@@ -24,7 +24,7 @@ Kõik "külalised" saavad enne peo algust nimelise üllatuspaki ning Torela aita
 Ostes 5x-kaardi enne piirangute lõppu, saad sama raha eest külastada Torelat 6 korda! Kaart hakkab kehtima esimesest külastusest ja kehtib 4 kuud! 
 Nimelise digitaalse kaardi saadame meilile. 
 
-<img alt="5=6kaart" src="5=6kaart.png" height="350">
+<img alt="5=6kaart" src="5=6kaart.png" height="450">
 
 
 
