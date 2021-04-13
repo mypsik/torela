@@ -57,4 +57,4 @@ Kasutades mängumaale kuuluvaid nõusid, tuleb need ürituse lõpuks ära pesta.
 
 Visake kasutatud ühekordsed nõud ja muu tekkinud praht prügikasti.
 
-Probleemide ja küsimuste tekkimise korral palume helistada numbril 5695 5722 või 5908 1914.
+Probleemide ja küsimuste tekkimise korral palume helistada numbril 5695 5722.
