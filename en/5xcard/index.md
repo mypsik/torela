@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: 5-time discount card
+title: 5x discount card
 priority: 1.0
 ru: /ru/5xcard/
 et: /5xkaart/
