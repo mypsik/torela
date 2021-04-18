@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: et
-title: 5-и разовая скидочная карта
+title: 5-ти разовая скидочная карта
 priority: 1.0
 en: /en/5xcard/
 et: /5xkaart/
