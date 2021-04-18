@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: et
+lang: en
 title: 5-time discount card
 priority: 1.0
 ru: /ru/5xcard/
