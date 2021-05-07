@@ -7,9 +7,9 @@ en: /en/events/
 ru: /ru/events/
 ---
 
-**Torela on piirangute tõttu suletud 3.03-25.04.21!**
+**Torela on piirangute tõttu endiselt suletud! Avame loodetavasti mai keskel-lõpus!**
 
-<img alt="kinni" src="kinni.png" height="350">
+<img alt="kinniest" src="kinniest.png" height="350">
 
 Hoolimata praegusest keerulisest ajast, kui mängutoad on suletud, siis Torela aitab siiski laste sünnipäeva meeldejäävamaks teha! 💚 🙃
 Torela pakub uut ja huvitavat **VIRTUAALSET-SÜNNIPÄEVAPIDU**!
