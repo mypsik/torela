@@ -30,6 +30,9 @@ Nimelise digitaalse kaardi saadame meilile.
 
 # JÄRGMISED MÄNGUHOMMIKUD
 
+**31.05 - 10.00-13.00**
+Mänguhommik!
+
 Tavaliste sündmuste osalustasu on 7€ (laps+vanem), pere järgmine laps +3€. Kohapeal saab tasuda ainult sularahas!
 
 Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
