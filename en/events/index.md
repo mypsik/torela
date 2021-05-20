@@ -7,7 +7,7 @@ et: /syndmused/
 ru: /ru/events/
 ---
 # Upcoming events
-**31.01 Playmorning with a surprise!**
+**31.05 Playmorning with a surprise!**
 
 10.00-13.00
 There are tasty snacks and coffee on the table! 
