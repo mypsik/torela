@@ -18,4 +18,10 @@ export function iso2eu(isoDate: string) {
   return parts[2] + '.' + parts[1] + '.' + parts[0]
 }
 
+export function dow(isoDate: string) {
+  return dows[new Date(isoDate).getDay()]
+}
+
+const dows = ['P', 'E', 'T', 'K', 'N', 'R', 'L']
+
 export const today = () => d(new Date())
