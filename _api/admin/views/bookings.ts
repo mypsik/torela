@@ -22,6 +22,7 @@ export function bookingsView(bookings: Array<Booking>, from: string, cancelled?:
           <th>Päev</th>
           <th>Aeg</th>
           <th>Keel</th>
+          <th>Vastutaja</th>
           <th>Nimi</th>
           <th>Vanus</th>
           <th>Lapsevanem</th>
@@ -48,6 +49,10 @@ export function bookingsView(bookings: Array<Booking>, from: string, cancelled?:
               <button title="Korrigeeri aega" name="correctedTime" value="${e(b.correctedTime || b.time)}" onclick="this.value = prompt('Korrigeeritud aeg', this.value) || ''; return !!this.value">✎</button>
             </td>
             <td width="20">${b.lang}</td>
+            <td>
+              ${e(b.responsible)}
+              <button class="edit" name="responsible" value="${e(b.responsible)}" onclick="this.value = prompt('Vastutaja nimi', this.value) || ''; return !!this.value">✎</button>
+            </td>
             <td>
               ${e(b.childName)}
               <button class="edit" name="childName" value="${e(b.childName)}" onclick="this.value = prompt('Lapse/Sündmuse nimi', this.value) || ''; return !!this.value">✎</button>

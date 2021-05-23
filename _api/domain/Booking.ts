@@ -14,6 +14,7 @@ interface Registration extends Auditable {
 export default interface Booking extends Registration {
   date: string
   time: string
+  responsible: string,
   correctedTime?: string
   until: string
   payments?: Array<Payment>
