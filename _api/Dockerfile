@@ -9,7 +9,7 @@ RUN npm test
 RUN npm run build-api
 
 
-FROM node:14-alpine
+FROM node:16-alpine
 WORKDIR /api
 
 ENV TZ=Europe/Tallinn
