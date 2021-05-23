@@ -7,8 +7,9 @@ import ContactService from '../domain/ContactService'
 import {menu} from './views/menu'
 import {contactsView} from './views/contacts'
 import {bookingsView} from './views/bookings'
-import {today} from './views/utils'
+import {html, today} from './views/utils'
 import {statsView} from './views/stats'
+import {styles} from './views/styles'
 
 export default function admin(db: Db): Router {
   const admin = Router()
@@ -22,7 +23,7 @@ export default function admin(db: Db): Router {
   }))
 
   admin.get('/', (req, res) => {
-    res.send(menu)
+    res.send(html('Admin', styles + menu))
   })
 
   admin.get('/contacts.json', async (req, res) => {
