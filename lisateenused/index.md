@@ -122,8 +122,8 @@ ru: /ru/services/
   30-le - 204€
 
 
-## ÕIE limonaad - 3,5L / 17€ {#õielimonaad}
-[ÕIE koduleht](https://blossom.ee/]){:target="_blank"}
+## ÕIE limonaad - 3,5L / 18€ {#õielimonaad}
+[ÕIE koduleht](https://blossom.ee/){:target="_blank"}
 
 LOODUSLIKEST KOOSTISAINETEST JOOK
 Vähe suhkrut, palju head!  
