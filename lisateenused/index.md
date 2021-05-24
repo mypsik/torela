@@ -122,6 +122,20 @@ ru: /ru/services/
   30-le - 204€
 
 
+## ÕIE limonaad - 3,5L / 17€ {#õielimonaad}
+https://blossom.ee/
+
+LOODUSLIKEST KOOSTISAINETEST JOOK
+Vähe suhkrut, palju head!  
+
+  <img alt="limonaad" src="ÕIE kihisev angervaksajook 3,5 liitrit.jpg" height="150">
+
+Kihisev angervaksajook
+Angervaksaõitest valmistatud karastusjook, milles on vaid väheke suhkrut ja pisut mulle. Angervaks on pärit Eesti metsaservadest, raiesmikelt, kraavipervedelt. Õied on hoolikalt korjatud, kuivatatud ja sorteeritud, et jook valmiks vaid ilusatest õitest, sest vaid nii tuleb maitse tõeliselt kirgas ja puhas. Magustamiseks kasutame heledat rafineerimata suhkrut, mis annab joogile pisut särtsakama maitse ja säilitab angervaksa helekuldse värvi.
+
+Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunhape, süsihappegaas
+
+
 ## RETROVAHVLID - 8€/10tk {#retroWaffels}
 
    Klassikalised krõbedad retrovahvlid.
