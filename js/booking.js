@@ -190,7 +190,7 @@ const additionalServices = {
       en: 'Õie lemonade 3,5L',
       et: 'Õie limonaad 3,5L',
       ru: 'Лимонад 3,5Л',
-      price: 17,
+      price: 18,
       priceUnit: ''
     },
     retroWaffels: {
