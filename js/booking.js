@@ -186,6 +186,13 @@ const additionalServices = {
       // priceUnit: 'person',
       // requestCount: tru
     },
+    lemonade: {
+      en: 'Õie lemonade 3,5L',
+      et: 'Õie limonaad 3,5L',
+      ru: 'Лимонад 3,5Л',
+      price: 17,
+      priceUnit: ''
+    },
     retroWaffels: {
       en: 'Retro waffels',
       et: 'Retrovahvlid',
