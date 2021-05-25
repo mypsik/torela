@@ -12,7 +12,7 @@ ru: /ru/services/
   
   *Korduvkasutatavate nõude kasutamisel tuleb nõud ise puhtaks pesta. Kui soovite, et meie seda teeme, siis lisandub nõudepesu eest 15€. Nõudepesu pakume vaid õhtustele pidudele (18-21).
   
-  <img alt="Koristamine" src="koristamine.jpg" height="150"> 
+  <img alt="Koristamine" src="koristamine.jpg" height="250"> 
 
 ## KORDUVKASUTATAVAD NÕUD - TASUTA {#reusableTablewareFree}
   Kui hoolid loodusest ja soovid kokku hoida ühekordsete nõude ostu pealt, siis pakume kasutamiseks bambustaldrikuid- ja joogitopse, nisuõlekõrrest koogitaldrikuid ja metallist söögiriistu. Nõusid jagub 40 inimesele. 
@@ -36,8 +36,8 @@ ru: /ru/services/
 
   Glittertätoveeringud on lisaks 45€ tunnis ja kuni 12 last.
   
-  <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="200"> 
-  <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="200"> 
+  <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="250"> 
+  <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="250"> 
   
 
 ## ÕHUPALLILOOMAD - 80€/1h {#balloonAnimals}
@@ -47,9 +47,9 @@ ru: /ru/services/
   Pikkadest õhupallidest valmivad õhupallifiguurid panevad särama iga lapse silmad. Pidudel valmivad üldjuhul ühest kuni neljast pallist koosnevad kujundid.
   Õhupallimeisterdaja suudab teha üle 300 erineva disainiga õhupallifiguuri. Laske vabalt fantaasial lennata ja pange õhupallimeistri võimed proovile!
   
-  <img alt="Õhupalliloomad" src="ohupalliloomad1.JPG" height="150"> 
-  <img alt="Õhupalliloomad käed" src="ohupalliloomad2.jpg" height="150"> 
-  <img alt="Õhupalliloomad koer" src="ohupalliloomad3.jpg" height="150"> 
+  <img alt="Õhupalliloomad" src="ohupalliloomad1.JPG" height="250"> 
+  <img alt="Õhupalliloomad käed" src="ohupalliloomad2.jpg" height="250"> 
+  <img alt="Õhupalliloomad koer" src="ohupalliloomad3.jpg" height="250"> 
   
   Õhupalliloomadele lisaks saab tellida ka vesitätoveeringuid, igale lapsele 1 pilt. Vesitätoveeringute hind kokku 20€.
 
@@ -57,7 +57,7 @@ ru: /ru/services/
   Pildi kandmine nahale võtab aega kuni 1 minut. Valida on võimalik 500 erineva pildi seast. 
   Ei karda vett ega niiskust.
   
-  <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="150"> 
+  <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="250"> 
 
 ## TOIT PEOLAUALE - al 36€ {#torelaCatering}
 
@@ -128,7 +128,7 @@ ru: /ru/services/
 LOODUSLIKEST KOOSTISAINETEST JOOK
 Vähe suhkrut, palju head!  
 
-  <img alt="limonaad" src="ÕIE kihisev angervaksajook 3,5 liitrit.jpg" height="150">
+  <img alt="limonaad" src="ÕIE kihisev angervaksajook 3,5 liitrit.jpg" height="250">
 
 Kihisev angervaksajook
 Angervaksaõitest valmistatud karastusjook, milles on vaid väheke suhkrut ja pisut mulle. Angervaks on pärit Eesti metsaservadest, raiesmikelt, kraavipervedelt. Õied on hoolikalt korjatud, kuivatatud ja sorteeritud, et jook valmiks vaid ilusatest õitest, sest vaid nii tuleb maitse tõeliselt kirgas ja puhas. Magustamiseks kasutame heledat rafineerimata suhkrut, mis annab joogile pisut särtsakama maitse ja säilitab angervaksa helekuldse värvi.
@@ -152,7 +152,7 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   
   **50tk - 40€**
   
-  <img alt="Vahvlid" src="vahvlid.jpg" height="150">
+  <img alt="Vahvlid" src="vahvlid.jpg" height="250">
   
  
 ## DONUTS - al 1,5€/tk {#donuts}
@@ -169,9 +169,9 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   
   **10tk - 15€**
   
-  <img alt="Donuts" src="eesti_donuts4_list.jpg" height="150">
-  <img alt="Donuts1" src="4_orig.jpg" height="150">
-  <img alt="Donuts2" src="3_orig.jpg" height="150">
+  <img alt="Donuts" src="eesti_donuts4_list.jpg" height="250">
+  <img alt="Donuts1" src="4_orig.jpg" height="250">
+  <img alt="Donuts2" src="3_orig.jpg" height="250">
 
 
 ## PEOBOX - al 49€ {#peobox}
@@ -181,22 +181,22 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   [Täpsemad hinnad ja pakettide tutvustamised](https://peobox.ee/sunnipaevad/){:target="_blank"}
   
 
-  <img alt="Frozen" src="frozen.jpg" height="200"> 
-  <img alt="Peobox0" src="peobox0.jpg" height="200">
-  <img alt="Peobox1" src="peobox1.jpg" height="200">
-  <img alt="Kosmos" src="kosmosepidu.png" height="200"> 
+  <img alt="Frozen" src="frozen.jpg" height="250"> 
+  <img alt="Peobox0" src="peobox0.jpg" height="250">
+  <img alt="Peobox1" src="peobox1.jpg" height="250">
+  <img alt="Kosmos" src="kosmosepidu.png" height="250"> 
 
 
-## JÄÄTISEMASIN - 59€ {#icecreamMachine}
-  Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit. Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
+## JÄÄTISEMASIN - 69€ {#icecreamMachine}
+  Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit (või pooled vahvlid, pooled topsid). Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
-  <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="150"> 
+  <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="250"> 
 
 ## SUHKRUVATIMASIN - 55€ {#cottoncandy}
   Laste sünnipäevade tõeline hitt. Suhkruvatt valmib 60 sekundiga ja selle valmistamine on väga lihtne. Suhkru kulu 1 portsioni kohta 12-18 grammi. 
   Hinnas on: suhkruvatimasin, kuppel, suhkru dosaator, 1kg suhkrut, 50 puidust pulka. Võimalik saada värvilisi erinevate maitsetega suhkruid.
    
-   <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="150"> 
+   <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="250"> 
 
 ## FOTOGRAAF - 155€/~2h {#photographer}
   Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõik ehedad emotsioonid ja parimad hetked!
@@ -209,8 +209,8 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   NB! Antud hind kehtib sünnipäeva pildistamisel! Eriürituste pildistamiseks küsida pakkumist!
 
 
-   <img alt="Fotograaf" src="DSCF7438.jpg" height="150"> 
-   <img alt="Fotograaf1" src="DSCF8013.jpg" height="150"> 
+   <img alt="Fotograaf" src="DSCF7438.jpg" height="250"> 
+   <img alt="Fotograaf1" src="DSCF8013.jpg" height="250"> 
   
 
 ## VIDEOGRAAF - 300€/3h {#videographer}
@@ -225,7 +225,7 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   
   [www.kuulidmuuvid.ee](http://www.kuulidmuuvid.ee){:target="_blank"}
   
-  <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="150">
+  <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="250">
   
   
 ## PUTUKAPROGRAMM - Mattias Turovski - 160€/45min {#bugsShow}
@@ -238,10 +238,10 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   Programm loob eeldused selgrootute loomadega iseseisvaks tutvumiseks, suhtlemiseks ja käsitlemiseks, märksõnadega austus ja   hool. 
   Soovitatav laste vanus on 5+. 
 
-   <img alt="Tigu" src="ahhaattigu.JPG" height="150"> 
-   <img alt="Prussakas" src="blaberus prussakas.JPG" height="150">
-   <img alt="Prussakas1" src="DSC00123.JPG" height="150">
-   <img alt="Sajajalgne" src="IMG_9034.jpg" height="150">
+   <img alt="Tigu" src="ahhaattigu.JPG" height="250"> 
+   <img alt="Prussakas" src="blaberus prussakas.JPG" height="250">
+   <img alt="Prussakas1" src="DSC00123.JPG" height="250">
+   <img alt="Sajajalgne" src="IMG_9034.jpg" height="250">
    
 
 ## PEOJUHT - al 150€+km {#partyAnimator}
@@ -281,19 +281,19 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   
   Teadusetendus on 45-minutiline programm, mis on mõeldud vaatamiseks kuni 30-inimesele ja sobib suurepäraselt just laste sünnipäevadele. Etendus on sobilik kõigile alates neljandast eluaastast ning kava ja katsete seletused kohandatakse vastavalt laste vanusele. Teadusetenduse ajal on lapsed pigem publiku rollis ning esinejad viivad läbi lihtsaid, kuid lustakaid teaduskatseid, seletades katses toimuvat. Laste küsimused saavad vastused ning mõni julgem laps saab paarile katsele ise käed külge panna. Katsed peaksid olema lastele arusaadavad ja huvitavad ning enamasti koduste vahenditega tehtavad, et lastes kasvatada huvi teaduse vastu ja soovi korral saaksid koos vanematega katseid kodus korrata.
 
-  <img alt="Teadusteater" src="Teadusteater.jpg" height="150">
+  <img alt="Teadusteater" src="Teadusteater.jpg" height="250">
   
   **TEADUSTÖÖTUBA - 132€/45min**
   
   Teadustöötoas on lastel 45 minuti jooksul võimalus lahendada mõni lustakas teadusülesanne või meisterdada endale üks vinge teaduslik mänguasi. Iga ülesande juures on abiks esinejad, kes tagavad lastele kõik vajalikud vahendid ja juhtnöörid.  Ülesandeid aitavad lahendada teadatuntud füüsikaseadused, millele tähelepanu pööratakse ja mille mõju siis ka reaalelus näha saab. Teadustöötuba on hariv ja tööd täis ning sobilik lastele, kes ei soovi käed rüpes istuda ja tahavad midagi oma kätega ära teha. Teadustöötuba on sobilik lastele alates viiendast eluaastast ning gruppidele, mille suurus on kuni 20 last.
 
-  <img alt="Teadustöötuba" src="teadustootuba.png" height="150">
+  <img alt="Teadustöötuba" src="teadustootuba.png" height="250">
   
   **TEADUSSHOW - 270€/30min**
   
   Kolme Põrsakese teadusshow on tõeliselt vaatemänguline ja meeldejääv elamus. Lahvatama löövad mitmevärvilised leegid, välk ja pauk ning muinasjutulise udu sisse mattuv põrand. Kindlasti rikastab kogu teadusmaagiat ka väike huumor ning mõnus pooltund saab lõbusalt ja põnevalt sisustatud kõigil suurtel ja väikestel teadushuvilistel. Sobilik 7+ aastastele.
 
-  <img alt="Teadusshow" src="teadusshow.jpg" height="150">
+  <img alt="Teadusshow" src="teadusshow.jpg" height="250">
   
 ## MULLISHOW - al 80€/30min {#mullimeister}
 
@@ -319,7 +319,7 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   
   Broneerimiseks kirjutada info@mullimeister.ee.
 
-  <img alt="Mullishow" src="mullishow.jpg" height="150">
+  <img alt="Mullishow" src="mullishow.jpg" height="250">
   
   
 ## KOOGITOPPERID JA BÄNNERID - al 6€ {#cakeTopperBanner}
@@ -330,9 +330,9 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   
   Hind sisaldab nime ja numbrit. Pöördel on topper valge. Tellides võimalik valida erinevate värvitoonide vahel.
   
-  <img alt="Topper1" src="topper1.jpg" height="150">
-  <img alt="Topper2" src="topper2.jpeg" height="150">
-  <img alt="Glitter2" src="glitter2.jpg" height="150">
+  <img alt="Topper1" src="topper1.jpg" height="250">
+  <img alt="Topper2" src="topper2.jpeg" height="250">
+  <img alt="Glitter2" src="glitter2.jpg" height="250">
 
   BÄNNER - 1,5€ tähelipuke
   
@@ -340,11 +340,11 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   Tähed saab valida, kas matid, kergelt sätendavad või peegelefektiga. 
   Võimalik juurde tellida ka lapse nime ja vanusega lipukesed.
   
-  <img alt="Banner1" src="banner1.jpg" height="150">
-  <img alt="Banner2" src="banner2.jpg" height="150">
-  <img alt="Banner3" src="banner3.jpg" height="150">
-  <img alt="Värvivalik1" src="varvivalik1.jpg" height="150">
-  <img alt="Värvivalik2" src="varvivalik2.jpg" height="150">
-  <img alt="Värvivalik3" src="v2rvivalik3.jpg" height="150">
+  <img alt="Banner1" src="banner1.jpg" height="250">
+  <img alt="Banner2" src="banner2.jpg" height="250">
+  <img alt="Banner3" src="banner3.jpg" height="250">
+  <img alt="Värvivalik1" src="varvivalik1.jpg" height="250">
+  <img alt="Värvivalik2" src="varvivalik2.jpg" height="250">
+  <img alt="Värvivalik3" src="v2rvivalik3.jpg" height="250">
   <img alt="Glitter1" src="glitter1.jpg" height="150">
   
