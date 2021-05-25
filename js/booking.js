@@ -213,7 +213,7 @@ const additionalServices = {
       en: 'Icecream machine',
       et: 'Jäätisemasin',
       ru: 'Машина для изготовления мороженного',
-      price: 59,
+      price: 69,
       priceUnit: ''
     },
     cottoncandy: {
