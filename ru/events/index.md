@@ -24,7 +24,9 @@ et: /syndmused/
 
 # Следующие мероприятия
 
-<img alt="kinnirus" src="kinnirus.png" height="350">
+**10.06 - 10.00-13.00**
+
+
 
 
 
