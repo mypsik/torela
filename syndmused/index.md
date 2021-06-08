@@ -27,7 +27,7 @@ Tavaliste sündmuste osalustasu on 7€ (laps+vanem), pere järgmine laps +3€.
 ### 5X KAART - HIND 25€
 
 
-<img alt="5=6kaart" src="5=6kaart.png" height="450">
+<img alt="5xkaart" src="5x-kaart.png" height="450">
 
 
 
