@@ -193,7 +193,7 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="250"> 
  
  
- ## JÄÄTISE LISANDID - 9€ {#icecreamExtra}
+  **JÄÄTISE LISANDID + 9€**
   Jäätise kaunistuste komplekt: vahukommid, nonparellid, piimašokolaadi puiste ja tumedad krõbedad kakaoküpsise tükid. 
   Kaunistused on 180ml kaanega topsis. 
 
