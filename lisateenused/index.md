@@ -191,6 +191,15 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit (või pooled vahvlid, pooled topsid). Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
 
   <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="250"> 
+ 
+ 
+ ## JÄÄTISE LISANDID - 9€ {#icecreamExtra}
+  Jäätise kaunistuste komplekt: vahukommid, nonparellid, piimašokolaadi puiste ja tumedad krõbedad kakaoküpsise tükid. 
+  Kaunistused on 180ml kaanega topsis. 
+
+  <img alt="Jäätiselisandid" src="  Lisandid komplekt.jpg" height="250"> 
+
+  
 
 ## SUHKRUVATIMASIN - 55€ {#cottoncandy}
   Laste sünnipäevade tõeline hitt. Suhkruvatt valmib 60 sekundiga ja selle valmistamine on väga lihtne. Suhkru kulu 1 portsioni kohta 12-18 grammi. 
