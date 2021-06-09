@@ -221,15 +221,8 @@ const additionalServices = {
       et: 'Jäätise lisandid',
       ru: 'Украшения для мороженое',
       price: 9,
-      priceUnit: 'Kmp',
+      priceUnit: 'kmpl',
       requestCount: true
-    },
-    icecreamMachine: {
-      en: 'Icecream machine',
-      et: 'Jäätisemasin',
-      ru: 'Машина для изготовления мороженного',
-      price: 69,
-      priceUnit: ''
     },
     cottoncandy: {
       en: 'Cottoncandy machine',
