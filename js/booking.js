@@ -215,6 +215,21 @@ const additionalServices = {
       ru: 'Машина для изготовления мороженного',
       price: 69,
       priceUnit: ''
+    },   
+    icecreamExtra: {
+      en: 'IcecreamExtra',
+      et: 'Jäätise lisandid',
+      ru: 'Украшения для мороженое',
+      price: 9,
+      priceUnit: 'Kmp',
+      requestCount: true
+    },
+    icecreamMachine: {
+      en: 'Icecream machine',
+      et: 'Jäätisemasin',
+      ru: 'Машина для изготовления мороженного',
+      price: 69,
+      priceUnit: ''
     },
     cottoncandy: {
       en: 'Cottoncandy machine',
