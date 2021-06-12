@@ -41,7 +41,7 @@ export function bookingsView(bookings: Array<Booking>, from: string, cancelled?:
           <tr class="${b.publicEvent ? 'public' : ''}">
             <td width="80">
               <div style="white-space: nowrap">${iso2eu(b.date)} ${dow(b.date)}</div>
-              <button title="Muuda kuupäev" name="date" value="${e(b.date)}" onclick="this.value = prompt('Uus kuupäev, yyyy-mm-dd', this.value) || ''; return !!this.value">@</button>
+              <button title="Muuda kuupäev" name="date" value="${e(b.date)}" onclick="this.value = prompt('Uus kuupäev, yyyy-mm-dd', this.value) || ''; return !!this.value.match(/^\d{4}-\d{2}-\d{2}$/) || !!alert('Vale kuupäeva formaat')" style="left: 0">@</button>
               <button title="${b.publicEvent ? 'Tee tavaliseks broneeringuks' : 'Tee sündmuseks'}" name="publicEvent" value="${!b.publicEvent}">S</button>
               <button title="Lisa sündmuse link (nt Facebook)" name="externalUrl" value="${e(b.externalUrl)}" onclick="this.value = prompt('URL', this.value) || ''; return !!this.value">L</button>
             </td>
