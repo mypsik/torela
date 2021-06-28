@@ -178,20 +178,17 @@ const additionalServices = {
     en: 'Catering',
     et: 'Toitlustus',
     ru: 'Питание',
-   
-    },
     TarkCatering1: {
-      en: 'Catering Tasty 15per',
+      en: 'Catering Tasty for 15',
       et: 'Maitsev sünnipäevalaud 15-le',
-      ru: 'Питание 15',
-      price: 99,90,
+      ru: 'Вкусное Меню для 15',
+      price: 99.90,
       priceUnit: ''
-      
     },
     TarkCatering2: {
-      en: 'Catering Abundant 15per',
+      en: 'Catering Abundant for 15',
       et: 'Uhke sünnipäevalaud 15-le',
-      ru: 'Питание 15',
+      ru: 'Раскошное Меню для 15',
       price: 129,
       priceUnit: ''
       
