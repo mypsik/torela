@@ -178,13 +178,23 @@ const additionalServices = {
     en: 'Catering',
     et: 'Toitlustus',
     ru: 'Питание',
-    torelaCatering: {
-      en: 'Catering, from',
-      et: 'Toit peolauale, alates',
-      ru: 'Накрытый стол, от',
-      price: 36,
-      // priceUnit: 'person',
-      // requestCount: tru
+   
+    },
+    TarkCatering1: {
+      en: 'Catering Tasty 15per',
+      et: 'Maitsev sünnipäevalaud 15-le',
+      ru: 'Питание 15',
+      price: 99,90,
+      priceUnit: ''
+      
+    },
+    TarkCatering2: {
+      en: 'Catering Abundant 15per',
+      et: 'Uhke sünnipäevalaud 15-le',
+      ru: 'Питание 15',
+      price: 129,
+      priceUnit: ''
+      
     },
     lemonade: {
       en: 'Õie lemonade 3,5L',
