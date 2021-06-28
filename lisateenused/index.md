@@ -61,66 +61,29 @@ ru: /ru/services/
 
 ## TOIT PEOLAUALE - al 36€ {#torelaCatering}
 
-  Sünnipäevale tulles on peolaud hea ja paremaga kaetud! Mängutuba broneerides lisada salativalik ja inimeste arv lisainfosse või esitada soov **tore@torela.ee**.
-
-  **LIHTNE AMPS**
+  Sünnipäevale tulles on peolaud hea ja paremaga kaetud! 
   
-  Kartulisalat või makaronisalat, viineripirukad/singi-juusturullid, juurviljavaagen, popcorn ja kannujook.
+  **MAITSEV SÜNNIPÄEVALAUD 15-LE - 99,90€**
   
-  10-le - 36€
+  -Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla) 
+  -Kananagitsad kastmega (750 gr) 
+  -Mini viineripirukad 30 tk 
+  -Lavašikrõpsud hapukoore kastmega (1 vaagen/170g) 
+  -Kevadrullid kastmega 20 tk 
+  -Juurviljavaagen 1 kg 
   
-  15-le - 54€
+  <img alt="maitsev" src="maitsev.jpg" height="250"> 
   
-  20-le - 72€
+  **UHKE SÜNNIPÄEVALAUD 15-LE - 129€**
+  -Mini-burger kana šnitsliga, värske tomati-ja-hapu kurgiga 15tk
+  -Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla)
+  -Lavašikrõpsud hapukoore kastmega (1 vaagen/170g) 
+  -Viineripirukad 30 tk
+  -Kevadrullid kastmega 20 tk 
+  -Juurviljavaagen 1kg 
+  -Puuviljavaagen 1,5 kg
   
-  25-le - 90€
-  
-  30-le - 108€
-  
-  
-  **LASTE LEMMIKUD**
-  
-  Kartulisalat või makaronisalat, juurviljavaagen, puuviljavaagen, juustupulgad, popcorn, näkileivad, kamapallid, kõrsikud, Helluse jogurtid ja kannujook.
-  
-  10-le - 57€
-  
-  15-le - 86€
-  
-  20-le - 114€
-  
-  25-le - 143€
-  
-  30-le - 171€
-  
-  
-  **HEA SUUTÄIS**
-  
-  Kartuli-singisalat või makaroni-singisalat, viineripirukas/lihapirukas (pärmi-lehttaignast), täidetud munad, singirullid, juustuküpsised, juurviljavaagen, puuviljavaagen, popcorn ja mahl.
-  
-  10-le - 88€
-  
-  15-le - 132€
-  
-  20-le - 176€
-  
-  25-le - 220€
-  
-  30-le - 264€
-  
-  **MAITSEV TAIMNE**
-  
-  Vinegrett või vegan kartulisalat, juurviljavaagen, puuviljavaagen, vegan lavaširull, kikerherne-porgandipallid, popcorn ja mahl.
-  
-  10-le - 68€
-  
-  15-le - 102€
-  
-  20-le - 136€
-  
-  25-le - 170€
-  
-  30-le - 204€
-
+<img alt="uhke" src="uhke.jpg" height="250"> 
 
 ## ÕIE LIMONAAD - 3,5L / 18€ {#õielimonaad}
 [ÕIE koduleht](https://blossom.ee/){:target="_blank"}
