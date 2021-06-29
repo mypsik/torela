@@ -247,7 +247,7 @@ const additionalServices = {
       en: 'Photographer',
       et: 'Fotograaf',
       ru: 'Фотограф',
-      price: 145,
+      price: 155,
       priceUnit: ''
     },
     videographer: {
