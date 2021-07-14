@@ -8,12 +8,7 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**PANNKOOGIHOMMIK**
-**06.07 - 10.00-13.00**
-Pannkoogihommikul on laud kaetud pannkookidega! Kindlasti on laual ka suhkruvabad kaerajahu-banaanipannkoogid. Katteks marjad ja moosid!
-Sissepääs: 10€ (laps+vanem), +3€ järgmine laps
-
-**08.07 - Mänguhommik**
+**20.07 - Mänguhommik**
 Tule veeda lapsega mõnus hommik Torela mängutoas! Laual näksimist ning kohv/tee!
 Ootame!
 Sissepääs: 7€ (laps+vanem), +3€ järgmine laps
@@ -24,7 +19,7 @@ Kohapeal saab tasuda sularahas (või ülekandega)!
 
 Mängutuba asub 2. korrusel. Sisenemiseks valige fonolukult **2**. Kärud saab jätta 1. korrusele.
 
-**Pannkoogihommik** toimub 2xkuus!
+**Pannkoogihommik** toimub ~2xkuus!
  
 Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](https://www.facebook.com/Torelamangutuba/events/) ja meililistiga! 
 Tavaliste sündmuste osalustasu on 7€ (laps+vanem), pere järgmine laps +3€. 
