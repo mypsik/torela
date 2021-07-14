@@ -7,15 +7,15 @@ et: /syndmused/
 ru: /ru/events/
 ---
 # Upcoming events
-**10.06 - 10.00-13.00 Pancake morning** 
-Entrance is 10€!
+**20.07 - 10.00-13.00 Playmorning** 
+Entrance is 7€!
 
 Please register to event by either writing to [{{ site.email | replace: '@', '$'}}](mailto) or putting "Going" to the corresponding [Facebook event](https://www.facebook.com/pg/Torelamangutuba/events/).
 
 Playroom is on the 2nd floor. Dial **2** by the outside door to enter. 
 
 
- * **Pancake morning** takes place on first Thursday and third Wednesday of each month!
+ * **Pancake morning** are twice per month!
 
 Joining our [Facebook page](https://www.facebook.com/Torelamangutuba/events/) is the easiest way to follow our events! 
 
