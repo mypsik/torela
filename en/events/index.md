@@ -7,8 +7,13 @@ et: /syndmused/
 ru: /ru/events/
 ---
 # Upcoming events
-**20.07 - 10.00-13.00 Playmorning** 
+**23.08 - 10.00-13.00 Playmorning** 
 Entrance is 7€!
+
+**31.08 - 10.00-13.00 - Pancake-morning** 
+Entrance is 10€!
+
+
 
 Please register to event by either writing to [{{ site.email | replace: '@', '$'}}](mailto) or putting "Going" to the corresponding [Facebook event](https://www.facebook.com/pg/Torelamangutuba/events/).
 
