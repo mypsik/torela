@@ -178,18 +178,25 @@ const additionalServices = {
     en: 'Catering',
     et: 'Toitlustus',
     ru: 'Питание',
+    KookerPancakes: {
+      en: 'Kooker Pancakes for 5',
+      et: 'Kookeri pannkoogid 5-le',
+      ru: 'Блинчики Kooker для 5',
+      price: 60,
+      priceUnit: ''
+    },
     TarkCatering1: {
       en: 'Catering Tasty for 15',
       et: 'Maitsev sünnipäevalaud 15-le',
       ru: 'Вкусное Меню для 15',
-      price: 99.90,
-      priceUnit: ''
-    },
+      price: 104.90,
+      priceUnit: ''  
+    }, 
     TarkCatering2: {
       en: 'Catering Abundant for 15',
       et: 'Uhke sünnipäevalaud 15-le',
       ru: 'Раскошное Меню для 15',
-      price: 129,
+      price: 134,
       priceUnit: ''
       
     },
