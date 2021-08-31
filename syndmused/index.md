@@ -8,17 +8,21 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**23.08 - Mänguhommik**
+
+**02.09 - Mänguhommik**
 Tule veeda lapsega mõnus hommik Torela mängutoas! Laual näksimist ning kohv/tee!
 Ootame!
 Sissepääs: 7€ (laps+vanem), +3€ järgmine laps
 
 
-**31.08 - Pannkoogihommik**
+**09.09 - Pannkoogihommik**
 Laual suured pannkoogihunnikud ning kirju valik lisandeid! 
 Pannkoogipäev ei pea ainult pühapäeval olema! 
 
 Sissepääs: 10€ (laps+vanem), +3€ järgmine laps
+
+
+
 
 Kohapeal saab tasuda sularahas (või ülekandega)!
 
