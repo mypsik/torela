@@ -59,9 +59,35 @@ ru: /ru/services/
   
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="250"> 
 
-## TOIT PEOLAUALE - al 36€ {#torelaCatering}
+## TOIT PEOLAUALE - al 60€ {#torelaCatering}
 
   Sünnipäevale tulles on peolaud hea ja paremaga kaetud! 
+  
+  **KOOKER MINIPANNKOOGID - al 60€**
+  Vahva peolaud soolaste ja magusate minipannkookidega ning jookidega. Koogid ja lisandid on serveeritud armsates pruunides peokarpides. Karpidel on sisu kirjeldavad sildikesed. Lisaks kuuluvad komplekti tillukesed biomärgistusega lootsikud, kahvikesed ja salfad, et mõnus ja käepärane süüa oleks.
+
+  <img alt="Kooker" src="Kookeripeolaud.JPG" height="250">
+
+
+  Sünnipäevapakett 5-le külalisele
+Pakett sisaldab:
+**Soolased minipannkoogid**
+-Singi-juustutäidisega minipannkoogid 50 tk
+-Kana-paprikatäidisega minipannkoogid 50 tk
+Kastmed: tillikaste (100ml), tšillimajonees (100ml), küüslaugukaste (100ml)
+**Magusad minipannkoogid**
+-Minipannkoogid 100 tk
+Lisandid: vaarika toormoos (100ml), kondenspiim (100ml), Nutella (100ml), Maitsete Majaka soolakaramelli kaste (100ml),
+**Joogid**
+Rabarberilimps 3 pdl
+Õunalimps 2 pdl
+
+
+Paketi maksumus 5-le: 60€ 
+Paketi maksumus 10-le: 110€ 
+Paketi maksumus 15-le: 150€ 
+Paketi maksumus 20-le: 190€ 
+  
   
   **MAITSEV SÜNNIPÄEVALAUD 15-LE - 99,90€**
   
