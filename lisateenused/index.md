@@ -89,7 +89,7 @@ Paketi maksumus 15-le: 150€
 Paketi maksumus 20-le: 190€ 
   
   
-  **MAITSEV SÜNNIPÄEVALAUD 15-LE - 99,90€**
+  **MAITSEV SÜNNIPÄEVALAUD 15-LE - 104,90€**
   
   -Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla) 
   -Kananagitsad kastmega (750 gr) 
@@ -100,7 +100,7 @@ Paketi maksumus 20-le: 190€
   
   <img alt="maitsev" src="maitsev.jpg" height="250"> 
   
-  **UHKE SÜNNIPÄEVALAUD 15-LE - 129€**
+  **UHKE SÜNNIPÄEVALAUD 15-LE - 134€**
   -Mini-burger kana šnitsliga, värske tomati-ja-hapu kurgiga 15tk
   -Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla)
   -Lavašikrõpsud hapukoore kastmega (1 vaagen/170g) 
