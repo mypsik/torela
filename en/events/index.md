@@ -7,10 +7,9 @@ et: /syndmused/
 ru: /ru/events/
 ---
 # Upcoming events
-**02.09 - 10.00-13.00 Playmorning** 
-Entrance is 7€!
 
-**09.09 - 10.00-13.00 - Pancake-morning** 
+
+**16.09 - 10.00-13.00 - Pancake-morning** 
 Entrance is 10€!
 
 
