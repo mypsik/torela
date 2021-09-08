@@ -9,12 +9,7 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-
-**09.09 - Pannkoogihommik**
-Laual suured pannkoogihunnikud ning kirju valik lisandeid! 
-Pannkoogipäev ei pea ainult pühapäeval olema! 
-
-Sissepääs: 10€ (laps+vanem), +3€ järgmine laps
+Haiguse tõttu jääb pannkoogihommik ära! 
 
 
 
