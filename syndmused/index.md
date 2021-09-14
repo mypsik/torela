@@ -9,19 +9,33 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-Haiguse tõttu jääb pannkoogihommik ära! 
-
-
-
 **14.09 - Lauamängu-Mänguhommik**
 Mängime erinevaid lauamänge! Laual näksimist ning kohv/tee!
 Ootame!
 Sissepääs: 7€ (laps+vanem), +3€ järgmine laps
 
 
+**16.09 - Pannkoogihommik**
+Taas on käes pannkoogihommik! Laual vähemalt 2 erinevat sorti pannkooke, lisaks erinevad moosid ja marjad!
+Tulge sööma ja mängima! 
+Osaluspanus: 10€ (laps+vanem), +3€ pere järgmine laps
+
+
+**21.09 - Mänguhommik**
+Ootame Torelasse mängima! 
+Lauad head-paremat näksimiseks ning kohv!
+Osaluspanus: 7€ (laps+vanem), +3€ pere järgmine laps
+
+
+**23.09 - Mänguhommik**
+Ootame Torelasse mängima! 
+Lauad head-paremat näksimiseks ning kohv!
+Osaluspanus: 7€ (laps+vanem), +3€ pere järgmine laps
 
 
 Kohapeal saab tasuda sularahas (või ülekandega)!
+
+**NB! Kontrollime COVID-läbipõdemist / vaktsineerimispassi!**
 
 Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
 
