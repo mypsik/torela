@@ -9,8 +9,6 @@ ru: /ru/events/
 # Upcoming events
 
 
-**16.09 - 10.00-13.00 - Pancake-morning** 
-Entrance is 10€!
 
 
 
