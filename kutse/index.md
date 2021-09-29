@@ -16,4 +16,4 @@ title: Kutse
 
 #### Torela aadress: {{ site.address }}
 
-#### Lisainfo: [{{ site.email | replace: '@', '$'}}](mailto)  [torela.ee]({{site.url}})  [{{ site.phone1 }}](tel:+372 {{ site.phone1 }}) või [{{ site.phone2 }}](tel:+372 {{ site.phone2 }})
+#### Lisainfo: [{{ site.email | replace: '@', '$'}}](mailto)  [torela.ee]({{site.url}})  [{{ site.phone1 }}](tel:+372 {{ site.phone1 }}) 
