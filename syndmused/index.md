@@ -8,30 +8,28 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**7.10 (N) - MÄNGUHOMMIK**
-Ootame teid mänguhommikule mängima ja juttu ajama! Laud kaetud maitsva näksiga ning kohvi saab juua kasvõi 10 tassitäit!
-Osaluspanus: 7€ (laps+vanem), +3€ (pere järgmine laps)
 
-
-**12.10 (T) - MÄNGUHOMMIK VOOLIMISMASSIGA!**
-Ootame teid mänguhommikule! Seekord on mänguhommikul lisaks võimalik mängida ka loodusliku voolimismassiga! Lisaks on palju asju mustrite tegemiseks. 
-Laud kaetud maitsva näksiga ning kohvi saab juua kasvõi 10 tassitäit!
-Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
-
-
-**14.10 (N) - PANNKOOGIHOMMIK**
-Taas on käes pannkoogihommik! Laual palju pannkooke ning erinevaid lisandeid. 
-Ootame teid kõiki sööma, mängima ja juttu ajama!
-Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
-
-
-**19.10 (T) - MÄNGUHOMMIK + MEISTERDAME PUTUKA RAKVERE TEATRISSE**
+**26.10 (T) - MÄNGUHOMMIK + MEISTERDAME PUTUKA RAKVERE TEATRISSE**
 Ootame teid mänguhommikule mängima ja juttu ajama! 
 Mänguhommikul tahaks lastega valmi meisterdada ühe vahva Torela putuka, kelle saadaks elama Rakvere Teatri putukahotelli!
 (https://lasteekraan.err.ee/1608347021/rakvere-teater-avab-putukahotelli-koik-isendid-on-oodatud)
 
 Laud kaetud loomulikul maitsva näksiga ning kohvi/teed saab ka!
 Osaluspanus: 7€ (laps+vanem), +3€ (pere järgmine laps)
+
+
+**04.11 (N) - PANNKOOGIHOMMIK**
+Taas on käes pannkoogihommik! Laual palju pannkooke ning erinevaid lisandeid. 
+Ootame teid kõiki sööma, mängima ja juttu ajama!
+Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
+
+
+
+**09.11 (T) - MÄNGUHOMMIK VOOLIMISMASSIGA!**
+Ootame teid mänguhommikule! Seekord on mänguhommikul lisaks võimalik mängida ka loodusliku voolimismassiga! Lisaks on palju asju mustrite tegemiseks. 
+Laud kaetud maitsva näksiga ning kohvi saab juua kasvõi 10 tassitäit!
+Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
+
 
 
 
