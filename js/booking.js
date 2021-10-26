@@ -68,7 +68,7 @@ function BookingDialog(selector, api, lang) {
     this.dialog.find(':input').each(function(i, input) {
       if (input.name) {
         if (input.type === 'checkbox') {
-          if (input.checked && input.name !== 'terms') {
+          if (input.checked && input.name !== 'terms' && input.name !== 'mailConsent') {
             const service = additionalServices[input.dataset.category][input.name]
             const countInput = $(input).closest('label').find('input[type=number]')
             booking.additionalServices.push({
@@ -87,6 +87,9 @@ function BookingDialog(selector, api, lang) {
       }
     })
     api.book(booking).then(this.success.bind(this))
+    if (this.dialog.find('[name=mailConsent]').is(':checked')) {
+      api.saveContact({email: booking.email, lang: booking.lang})
+    }
   }
 
   this.success = function() {
@@ -110,6 +113,7 @@ const bookingMessages = {
     email: 'Email',
     phone: 'Phone',
     terms: 'Agree with <a href="/en/rules/" target="_blank">house rules</a>',
+    mailConsent: 'Join Torela mailing list',
     comments: 'Comments/Discount code',
     services: '<a href="/en/services/" target="_blank">Additional services</a>',
     count: 'How many?',
@@ -123,6 +127,7 @@ const bookingMessages = {
     email: 'E-post',
     phone: 'Telefon',
     terms: 'Olen nõus mängutoa <a href="/kodukord/" target="_blank">kodukorraga</a>',
+    mailConsent: 'Soovin liituda Torela meililistiga',
     comments: 'Lisainfo/Sooduskood',
     services: '<a href="/lisateenused/" target="_blank">Lisateenused</a>',
     person: 'inimene',
@@ -137,7 +142,8 @@ const bookingMessages = {
     parentName: 'Полное имя родителя',
     email: 'E-mail',
     phone: 'Телефон',
-    terms: 'Соглашаюсь соблюдать <a href="/en/rules/" target="_blank">правила игровой комнаты</a>',
+    terms: 'Соглашаюсь соблюдать <a href="/ru/rules/" target="_blank">правила игровой комнаты</a>',
+    mailConsent: 'Добавить меня в список рассылки Торела',
     comments: 'Комментарии/промо-код',
     services: '<a href="/ru/services/" target="_blank">Дополнительные услуги</a>',
     person: 'человек',
