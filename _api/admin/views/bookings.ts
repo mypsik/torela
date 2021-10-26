@@ -4,6 +4,8 @@ import {menu} from './menu'
 import {d, dow, e, html, iso2eu} from './utils'
 import config from '../../config'
 
+const validTimes = ['10:00', '14:00', '18:00']
+
 export function bookingsView(bookings: Array<Booking>, from: string, cancelled?: boolean) {
   return html('Bookings', `${styles}${menu}
     <form onchange="this.submit()">
@@ -47,7 +49,8 @@ export function bookingsView(bookings: Array<Booking>, from: string, cancelled?:
             </td>
             <td width="50">
               ${b.time} ${b.correctedTime ? '<b>(' + b.correctedTime + ')</b>' : ''}
-              <button title="Korrigeeri aega" name="correctedTime" value="${e(b.correctedTime || b.time)}" onclick="this.value = prompt('Korrigeeritud aeg', this.value) || ''; return !!this.value">✎</button>
+              <button title="Muuda aeg" name="time" value="${e(b.time)}" onclick="this.value = prompt('Uus aeg, ' + validTimes.join(', '), this.value) || ''; return validTimes.includes(this.value) || !!alert('Vale aeg')" style="left: 0">@</button>
+              <button title="Korrigeeri aeg (+/-)" name="correctedTime" value="${e(b.correctedTime || b.time)}" onclick="this.value = prompt('Korrigeeritud aeg', this.value) || ''; return !!this.value">✎</button>
             </td>
             <td width="20">${b.lang}</td>
             <td>
