@@ -18,23 +18,11 @@ layout: default
 {% endfor %}
 </div>
 
-<form id="subscribe" class="block">
-  <label for="email">Liitu meie uudiskirjaga!</label>
-  <div class="form-row">
-    <input id="email" name="email" type="email" placeholder="E-post" required>
-    <button>Liitu</button>
-  </div>
-  <small>Spämmkirju ei saada! </small>
-</form>
-
 <script src="/js/api.js"></script>
+{% include subscribe.html %}
+
 <script>
   $(function() {
-    var form = $('#subscribe').on('submit', function(e) {
-      e.preventDefault()
-      new API('{{ site.api }}').saveContact({email: $('#email', form).val(), lang: '{{page.lang}}'})
-        .then(function () {form.slideUp()})
-    })
     var video = $('video')
     video.attr('src', video.attr('src') + '#t=' + Math.round((Math.random() * 140)))
     video.on('canplay', function() { this.play() })

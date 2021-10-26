@@ -1,0 +1,18 @@
+<form id="subscribe" class="block">
+  <label for="email">Liitu meie uudiskirjaga!</label>
+  <div class="form-row">
+    <input id="email" name="email" type="email" placeholder="E-post" required>
+    <button>Liitu</button>
+  </div>
+  <small>Spämmkirju ei saada!</small>
+</form>
+
+<script>
+  $(function() {
+    var form = $('#subscribe').on('submit', function(e) {
+      e.preventDefault()
+      new API('{{ site.api }}').saveContact({email: $('#email', form).val(), lang: '{{page.lang}}'})
+        .then(function () {form.slideUp()})
+    })
+  })
+</script>
