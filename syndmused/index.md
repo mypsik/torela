@@ -9,15 +9,6 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**26.10 (T) - MÄNGUHOMMIK + MEISTERDAME PUTUKA RAKVERE TEATRISSE**
-Ootame teid mänguhommikule mängima ja juttu ajama! 
-Mänguhommikul tahaks lastega valmi meisterdada ühe vahva Torela putuka, kelle saadaks elama Rakvere Teatri putukahotelli!
-(https://lasteekraan.err.ee/1608347021/rakvere-teater-avab-putukahotelli-koik-isendid-on-oodatud)
-
-Laud kaetud loomulikul maitsva näksiga ning kohvi/teed saab ka!
-Osaluspanus: 7€ (laps+vanem), +3€ (pere järgmine laps)
-
-
 **04.11 (N) - PANNKOOGIHOMMIK**
 Taas on käes pannkoogihommik! Laual palju pannkooke ning erinevaid lisandeid. 
 Ootame teid kõiki sööma, mängima ja juttu ajama!
