@@ -13,6 +13,4 @@ Selleks kanna **25€** Torela OÜ kontole **EE477700771003581431** (LHV) ja pan
 
 Ilma kaardita [tavamänguhommiku](/syndmused/) külastuse hind on 7€.
 
-**Piirangute lõpuni** ostetud kaart kehtib **6 korda**. Toeta Torelat sellel raskel ajal!
-
 ![kaart](/syndmused/5x-kaart.png "Kaardi näidis")
