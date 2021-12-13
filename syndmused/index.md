@@ -9,17 +9,20 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**04.11 (N) - PANNKOOGIHOMMIK**
-Taas on käes pannkoogihommik! Laual palju pannkooke ning erinevaid lisandeid. 
+**14.12 (T) - MÄNGUHOMMIK + TEEME ISE VOOLIMISMASSI**
+Külvi õpetab tegema looduslikku voolimismassi! Lisaks on palju asju mustrite tegemiseks. 
+Laual head-paremat näksimiseks ning kohv! 
 Ootame teid kõiki sööma, mängima ja juttu ajama!
 Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
 
 
 
-**09.11 (T) - MÄNGUHOMMIK VOOLIMISMASSIGA!**
-Ootame teid mänguhommikule! Seekord on mänguhommikul lisaks võimalik mängida ka loodusliku voolimismassiga! Lisaks on palju asju mustrite tegemiseks. 
-Laud kaetud maitsva näksiga ning kohvi saab juua kasvõi 10 tassitäit!
-Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
+**15.12 (K) - MUUSIKALINE MÄNGUHOMMIK**
+Laulu-tantsu mänguhommik! Juhendatud laulutund hakkab ~10.30 ning kestab ~30 minutit. 
+Eelkõige suunatud kuni 3-aastastele lastele ning osavõtt koos lapsevanemaga. 
+
+Laual head-paremat näksimiseks ning kohv! \
+Osaluspanus: 12€ (laps+vanem), +3€ (pere järgmine laps)
 
 
 
