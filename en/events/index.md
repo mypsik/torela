@@ -9,7 +9,13 @@ ru: /ru/events/
 # Upcoming events
 
 
+**14.12 - Play-dough playmorning**
+10€
 
+**15.12 - Musical playmorning**
+We sing and dance! Teacher starts ~10.30 and class is ~30min. After that you can just play :)
+The class is good for children until 3y and parents need to participate.
+12€
 
 
 Please register to event by either writing to [{{ site.email | replace: '@', '$'}}](mailto) or putting "Going" to the corresponding [Facebook event](https://www.facebook.com/pg/Torelamangutuba/events/).
