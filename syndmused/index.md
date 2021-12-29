@@ -9,22 +9,11 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**14.12 (T) - MÄNGUHOMMIK + TEEME ISE VOOLIMISMASSI**
-Külvi õpetab tegema looduslikku voolimismassi! Lisaks on palju asju mustrite tegemiseks. 
+**30.12 (N) - MÄNGUHOMMIK + TEEME LINDUDELE MAIUSPALA**
+Ootame teid mänguhommikule! Teeme lastega linnukestele söömiseks vahvaid maiuspalu ning vaatleme erinevaid linde!
 Laual head-paremat näksimiseks ning kohv! 
 Ootame teid kõiki sööma, mängima ja juttu ajama!
 Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
-
-
-
-**15.12 (K) - MUUSIKALINE MÄNGUHOMMIK**
-Laulu-tantsu mänguhommik! Juhendatud laulutund hakkab ~10.30 ning kestab ~30 minutit. 
-Eelkõige suunatud kuni 3-aastastele lastele ning osavõtt koos lapsevanemaga. 
-
-Laual head-paremat näksimiseks ning kohv! \
-Osaluspanus: 12€ (laps+vanem), +3€ (pere järgmine laps)
-
-
 
 
 Kohapeal saab tasuda sularahas (või ülekandega)!
