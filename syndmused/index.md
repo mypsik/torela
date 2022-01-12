@@ -9,9 +9,10 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**30.12 (N) - MÄNGUHOMMIK + TEEME LINDUDELE MAIUSPALA**
-Ootame teid mänguhommikule! Teeme lastega linnukestele söömiseks vahvaid maiuspalu ning vaatleme erinevaid linde!
-Laual head-paremat näksimiseks ning kohv! 
+**13.01.2022 (N) - PANNKOOGIHOMMIK**
+Ootame teid mänguhommikule!
+Pakume pannkooke! Laual vähemalt 2 sorti pannkooke ning lisaks erinevaid katteid!
+Kindlasti ei puudu ka kohv!
 Ootame teid kõiki sööma, mängima ja juttu ajama!
 Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
 
