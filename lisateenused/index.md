@@ -188,6 +188,15 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
 
   <img alt="Jäätiselisandid" src="  Lisandid komplekt.jpg" height="250"> 
 
+
+## POPCORNIMASIN - 69€ {#popcornMachine}
+  Kui lapsed muud sünnipäevapeol ei söö, siis popcorni söövad kindlasti!! Rendi peoks lahe popcornimasin, nii on lastel võimalus maitsva näksi valmimist ise vaadata! 
+  Popkorni masina rent + 1 kg popkorni maisi+ 10 popkorni topsi. 1kg popkorni maisist valmib ca 30 topsi popkorni
+
+Lisapopkorn 500 gr 2,50€
+Lisatopsid 10tk 4,00€
+
+  <img alt="Popcornimasin" src="popcornimasin.jpg" height="250"> 
   
 
 ## SUHKRUVATIMASIN - 55€ {#cottoncandy}
