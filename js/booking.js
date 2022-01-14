@@ -244,6 +244,20 @@ const additionalServices = {
       priceUnit: 'kmpl',
       requestCount: true
     },
+    popcornMachine: {
+      en: 'Popcorn machine',
+      et: 'Popcornimasin',
+      ru: 'Машина для попкорн',
+      price: 69,
+      priceUnit: ''
+    },
+    icecreampopcornMachine: {
+      en: 'Icecream+Popcorn machine',
+      et: 'Jäätise- ja popcornimasin',
+      ru: 'Машина для изготовления мороженного и попкорн',
+      price: 109,
+      priceUnit: ''
+    },
     cottoncandy: {
       en: 'Cottoncandy machine',
       et: 'Suhkruvatimasin',
@@ -316,6 +330,13 @@ const additionalServices = {
       ru: 'Программа с насекомыми',
       price: 160,
       priceUnit: '45min'
+    },
+    bubbleShow: {
+      en: 'Bubble Show, from',
+      et: 'Mullishow, alates',
+      ru: 'Мыльное шоу, от',
+      price: 100,
+      priceUnit: '10min'
     },
   },
   decorations: {
