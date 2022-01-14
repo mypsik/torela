@@ -304,13 +304,11 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   Kõik lapsed saavad kingituseks õhupallidest kujukese (1-4 õhupallist: loomad, lilled, mõõgad, mütsid jne).
 
   
-  Mulli-show (ei sisalda õhupalle) **30min/80€**
+  Mulli-show (ei sisalda õhupalle) **30min/100€**
   
-  Mulli-show + õhupallid	1-20 last	**1h/100€**
-  
-  Mulli-show + õhupallid	21-35 last	**1-1.5h/115€**
-  
-  Mulli-show + õhupallid PREMIUM*	**1-1.5h/125€**
+  Mulli-show + õhupallid	1-20 last	**1h/125€**
+    
+  Mulli-show + õhupallid PREMIUM*	**1-1.5h/135€**
 
 
   *Pärast Mullimeistri etteastet saavad kõik lapsed ise suuri mulle puhuda.
