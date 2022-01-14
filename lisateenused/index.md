@@ -196,8 +196,18 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
 Lisapopkorn 500 gr 2,50€
 Lisatopsid 10tk 4,00€
 
-  <img alt="Popcornimasin" src="popcornimasin.jpg" height="250"> 
+  <img alt="icecream" src="popcornimasin.jpg" height="250"> 
+
+
+## JÄÄTISE- JA POPCORNIMASIN - 109€ {#icecreampopcornMachine}
+  Kaks masinat korraga! Sünnipä€valaps saab pakkuda oma külalistele nii soolast kui ka magusat näksi!
+  Pakett sisaldab popkornimasina renti (1kg popkorni+10 topsi) ja jäätisemasina renti (4 l vanilje jäätise segu + 40 vahvlit).
+  1kg popkornimaisist valmib ca 30 topsi popkorni.
   
+  Lisapopkorn 500 gr 2,50€.
+  Lisatopsid 10tk 4,00€
+
+  <img alt="icecreampopcorn" src="icecreampopcorn.jpg" height="250"> 
 
 ## SUHKRUVATIMASIN - 55€ {#cottoncandy}
   Laste sünnipäevade tõeline hitt. Suhkruvatt valmib 60 sekundiga ja selle valmistamine on väga lihtne. Suhkru kulu 1 portsioni kohta 12-18 grammi. 
