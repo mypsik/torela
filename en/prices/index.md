@@ -7,9 +7,11 @@ et: /hinnakiri/
 ru: /ru/prices/
 ---
 
-Mo-Fr, 10-13 -  110€ / 3h
+Mo-Fr, 10-13 and 14-17 -  110€ / 3h
 
-Mo-Fr, 18-21 - 150€ / 3h
+Mo-Th, 18-21 - 140€ / 3h
+
+Fri, 18-21 - 165€ / 3h
 
 Sa-Su - 165€ / 3h
 
