@@ -363,3 +363,66 @@ Lisatopsid 10tk 4,00€
   <img alt="Värvivalik3" src="v2rvivalik3.jpg" height="250">
   <img alt="Glitter1" src="glitter1.jpg" height="150">
   
+  
+## ÕHUPALLID - al 26€ {#balloons}
+
+  Õhupallid teevad alati laste tuju heaks! Õhupallid kaunistavad Torela peoruumi ning jäävad kodus veel pikaks ajaks pidu meenutama!
+  Meil on pakkuda koostöös Peoboxiga 10 erinevat paketti!
+  Õhupallide värvid saab klient ise valida.
+  Numbripallide värvivalik: hõbe, kuldne, must, heleroosa, helesinine, kuldneroosa. 
+  Hind sisaldab ka transporti!
+
+
+ 
+ 
+  **ÕHUPALLIKOMBO 5 latekspalli + 1 fooliumpall - 26€**
+    
+  
+  **ÕHUPALLIKOMBO 7 latekspalli + 1 fooliumpall - 30€**
+  
+  <img alt="pallikombo_7+1.jpg" src="pallikombo_7+1.jpg" height="250">
+  
+  
+   **ÕHUPALLIKOMBO 9 latekspalli - 29€**
+  
+  <img alt="pallikombo9.jpg" src="pallikombo9.jpg" height="250">
+  
+  
+  **ÕHUPALLIKOMBO 9 latekspalli + 1 fooliumpall - 34€**
+  
+  <img alt="pallikombo_9+1.jpg" src="pallikombo_9+1.jpg" height="250">
+  
+  
+  **ÕHUPALLIKOMBO 9 latekspalli + 1 suur numbripall - 41€**
+  
+  <img alt="pallikombo_9+1n.jpg" src="pallikombo_9+1n.jpg" height="250">
+  
+ 
+  **ÕHUPALLIKOMBO 9 latekspalli + 1 fooliumpall + 1 suurt numbripalli - 46€**
+  
+  <img alt="pallikombo_9+1+1.jpg" src="pallikombo_9+1+1.jpg" height="250">
+ 
+ 
+  **ÕHUPALLIKOMBO 9 latekspalli + 1 fooliumpall + 2 suurt numbripalli - 57€**
+  
+  <img alt="pallikombo_9+1+2.jpg" src="pallikombo_9+1+2.jpg" height="250">
+  
+  
+  **ÕHUPALLIKAAR 2,5M - 43€**
+  
+  <img alt="pallikaar_2,5m.jpg" src="pallikaar_2,5m.jpg" height="250">
+  
+  
+   **ÕHUPALLIKAAR 5M - 73€**
+  
+  <img alt="pallikaar_5m.jpg" src="pallikaar_5m.jpg" height="250">
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
