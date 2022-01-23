@@ -405,7 +405,7 @@ Lisatopsid 10tk 4,00€
  
   **ÕHUPALLIKOMBO 9 latekspalli + 1 fooliumpall + 2 suurt numbripalli - 57€**
   
-  <img alt="pallikombo_9+1+2.jpg" src="pallikombo_9+1+2.jpg" height="250">
+  <img alt="pallikobo_9+1+2n.jpg" src="pallikobo_9+1+2n.jpg" height="250">
   
   
   **ÕHUPALLIKAAR 2,5M - 43€**
