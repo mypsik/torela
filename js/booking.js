@@ -356,6 +356,13 @@ const additionalServices = {
       ru: 'Торт Топпер и баннер, от',
       price: 6,
       priceUnit: ''
+    },   
+    balloons: {
+      en: 'Balloons, from',
+      et: 'Õhupallid, alates',
+      ru: 'Надувные шары, от',
+      price: 26,
+      priceUnit: ''
     },
   },
 }
