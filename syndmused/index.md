@@ -9,10 +9,9 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**13.01.2022 (N) - PANNKOOGIHOMMIK**
+**15.02.2022 (T) - MÄNGUHOMMIK - TEEME VOOLIMISMASSI**
 Ootame teid mänguhommikule!
-Pakume pannkooke! Laual vähemalt 2 sorti pannkooke ning lisaks erinevaid katteid!
-Kindlasti ei puudu ka kohv!
+Laual head-paremat näksimiseks ning kohv!
 Ootame teid kõiki sööma, mängima ja juttu ajama!
 Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
 
