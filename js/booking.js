@@ -193,16 +193,16 @@ const additionalServices = {
     },
     TarkCatering1: {
       en: 'Catering Tasty for 15',
-      et: 'Maitsev sünnipäevalaud 15-le',
+      et: 'Taskukohane pakett 15-le',
       ru: 'Вкусное Меню для 15',
-      price: 104.90,
+      price: 119,
       priceUnit: ''  
     }, 
     TarkCatering2: {
       en: 'Catering Abundant for 15',
-      et: 'Uhke sünnipäevalaud 15-le',
+      et: 'Laste pakett 15-le',
       ru: 'Раскошное Меню для 15',
-      price: 134,
+      price: 149,
       priceUnit: ''
       
     },
@@ -233,7 +233,7 @@ const additionalServices = {
       en: 'Icecream machine',
       et: 'Jäätisemasin',
       ru: 'Машина для изготовления мороженного',
-      price: 69,
+      price: 59,
       priceUnit: ''
     },   
     icecreamExtra: {
@@ -300,7 +300,7 @@ const additionalServices = {
       en: 'Balloon Animals',
       et: 'Õhupalliloomad',
       ru: 'Животные из воздушных шаров',
-      price: 80,
+      price: 85,
       priceUnit: '1h'
     },
     partyAnimator: {
