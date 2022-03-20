@@ -40,7 +40,7 @@ ru: /ru/services/
   <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="250"> 
   
 
-## ÕHUPALLILOOMAD - 80€/1h {#balloonAnimals}
+## ÕHUPALLILOOMAD - 85€/1h {#balloonAnimals}
 
   Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
 
@@ -89,7 +89,7 @@ Paketi maksumus 15-le: 150€
 Paketi maksumus 20-le: 190€ 
   
   
-  **MAITSEV SÜNNIPÄEVALAUD 15-LE - 104,90€**
+  **TASKUKOHANE PAKETT 15-LE - 119€**
   
   -Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla) 
   -Kananagitsad kastmega (750 gr) 
@@ -100,7 +100,7 @@ Paketi maksumus 20-le: 190€
   
   <img alt="maitsev" src="maitsev.jpg" height="250"> 
   
-  **UHKE SÜNNIPÄEVALAUD 15-LE - 134€**
+  **LASTE PAKETT 15-LE - 149€**
   -Mini-burger kana šnitsliga, värske tomati-ja-hapu kurgiga 15tk
   -Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla)
   -Lavašikrõpsud hapukoore kastmega (1 vaagen/170g) 
@@ -176,8 +176,15 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   <img alt="Kosmos" src="kosmosepidu.png" height="250"> 
 
 
-## JÄÄTISEMASIN - 69€ {#icecreamMachine}
+## JÄÄTISEMASIN - 59€ {#icecreamMachine}
   Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit (või pooled vahvlid, pooled topsid). Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
+  
+  Ühe jäätisemasina rent - 59€		
+  Kahe jäätisemasina rent (kaks maitset) - 89€		
+  
+  Ühe jäätisemasina rent kõrghooajal (mai, juuni, juuli)- 69€		
+  Kahe jäätisemasina rent kõrghooajal (kaks maitset) - 109€		
+		
 
   <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="250"> 
  
