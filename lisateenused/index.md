@@ -321,7 +321,7 @@ Lapsed tutvuvad labori ohutusreeglitega. Õpime tundma aluseid ja happeid ning a
 Osalejate arv: kuni 12
 Hind lapsevanemale / peo korraldajale: <6 in 15€/in ; 7-12 in 12€/in
 
-  <img alt="Teadustund" src="teadustund.jpg" height="250">
+  <img alt="Teadustund" src="teadustund1024_1.jpg" height="250">
 
   
 ## MULLISHOW - al 125€/40min {#mullimeister}
