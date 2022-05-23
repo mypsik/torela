@@ -299,43 +299,41 @@ Lisatopsid 10tk 4,00€
   <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="250">
   
   
-## KOLM PÕRSAKEST - al 132€ {#scienceTheater}
+## TEADUSTEATER- al 110€ {#scienceTheater}
 
-  **TEADUSTEATER - 132€/45min.**
+  **TEADUSTEATER - 110€/45min.**
   
-  Teadusetendus on 45-minutiline programm, mis on mõeldud vaatamiseks kuni 30-inimesele ja sobib suurepäraselt just laste sünnipäevadele. Etendus on sobilik kõigile alates neljandast eluaastast ning kava ja katsete seletused kohandatakse vastavalt laste vanusele. Teadusetenduse ajal on lapsed pigem publiku rollis ning esinejad viivad läbi lihtsaid, kuid lustakaid teaduskatseid, seletades katses toimuvat. Laste küsimused saavad vastused ning mõni julgem laps saab paarile katsele ise käed külge panna. Katsed peaksid olema lastele arusaadavad ja huvitavad ning enamasti koduste vahenditega tehtavad, et lastes kasvatada huvi teaduse vastu ja soovi korral saaksid koos vanematega katseid kodus korrata.
+  Koosneb erinevates katsetest, sealhulgas huvitavad värvimängud, teadusmaagia ja kuivjää võlud. Lapsed saavad tutvust teha nii füüsika- kui ka keemiaseadustega ja seda muidugi väga lihtsas ja lapsesõbralikus võtmes.
 
-  <img alt="Teadusteater" src="Teadusteater.jpg" height="250">
+Kuulajate arvu maksimum puudub!
   
-  **TEADUSTÖÖTUBA - 132€/45min**
+  **LIMA TÖÖTUBA - 12€/in€/45min**
   
-  Teadustöötoas on lastel 45 minuti jooksul võimalus lahendada mõni lustakas teadusülesanne või meisterdada endale üks vinge teaduslik mänguasi. Iga ülesande juures on abiks esinejad, kes tagavad lastele kõik vajalikud vahendid ja juhtnöörid.  Ülesandeid aitavad lahendada teadatuntud füüsikaseadused, millele tähelepanu pööratakse ja mille mõju siis ka reaalelus näha saab. Teadustöötuba on hariv ja tööd täis ning sobilik lastele, kes ei soovi käed rüpes istuda ja tahavad midagi oma kätega ära teha. Teadustöötuba on sobilik lastele alates viiendast eluaastast ning gruppidele, mille suurus on kuni 20 last.
+Lapsed saavad meisterdada kaks erinevat lima ja neid erinevate sädeluste ja elementidega kaunistada. Lapsed saavad limad endale. Lisaks saavad lapsed kohapeal mängida poolvedela limaga.
 
-  <img alt="Teadustöötuba" src="teadustootuba.png" height="250">
+Osalejate arv: kuni 12
+Hind lapsevanemale / peo korraldajale: <6 in 15€/in ; 7-12 in 12€/in
+
+  **KEEMIA TÖÖTUBA - 12€/in€/45min**
   
-  **TEADUSSHOW - 270€/30min**
-  
-  Kolme Põrsakese teadusshow on tõeliselt vaatemänguline ja meeldejääv elamus. Lahvatama löövad mitmevärvilised leegid, välk ja pauk ning muinasjutulise udu sisse mattuv põrand. Kindlasti rikastab kogu teadusmaagiat ka väike huumor ning mõnus pooltund saab lõbusalt ja põnevalt sisustatud kõigil suurtel ja väikestel teadushuvilistel. Sobilik 7+ aastastele.
+Lapsed tutvuvad labori ohutusreeglitega. Õpime tundma aluseid ja happeid ning ainete tihedusi. Lisaks saab iga laps teha oma vulkaani ja laavalambi.
 
-  <img alt="Teadusshow" src="teadusshow.jpg" height="250">
-  
-## MULLISHOW - al 80€/30min {#mullimeister}
+Osalejate arv: kuni 12
+Hind lapsevanemale / peo korraldajale: <6 in 15€/in ; 7-12 in 12€/in
 
-  Mullimeister (http://mullimeister.ee) toob sünnipäevale elevust! Show sisaldab trikke seebimullidega (erineva suurusega mullid, mullilohed, mullitorud, mulli batuut, mulli akvaarium jne).
-
-  „Inimene seebimullis” - kõik lapsed võlutakse mulli sisse.
-
-  Suured seebimullid 20-30min + õhupallide kujundamine 30-60min.
-
-  Kõik lapsed saavad kingituseks õhupallidest kujukese (1-4 õhupallist: loomad, lilled, mõõgad, mütsid jne).
+  <img alt="Teadustund" src="teadustund.jpg" height="250">
 
   
-  Mulli-show (ei sisalda õhupalle) **30min/100€**
+## MULLISHOW - al 125€/40min {#mullimeister}
+
+  Mullimeister (http://mullimeister.ee) toob sünnipäevale elevust! Show sisaldab trikke seebimullidega (erineva suurusega mullid, mullilohed, mullitorud, mullibatuut, mulliakvaarium jne).
+
   
-  Mulli-show + õhupallid	1-20 last	**1h/125€**
+  Mulli-show (ei sisalda õhupalle) **40min/125€**
+  
+  Mulli-show + õhupallid 1-1,5h	1-20 last	**1h+/150€**
     
-  Mulli-show + õhupallid PREMIUM*	**1-1.5h/135€**
-
+  Mulli-show + õhupallid PREMIUM*	**1.5h/175€**
 
   *Pärast Mullimeistri etteastet saavad kõik lapsed ise suuri mulle puhuda.
   
