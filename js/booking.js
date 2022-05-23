@@ -319,9 +319,9 @@ const additionalServices = {
     },
     scienceTheater: {
       en: 'Science theater, from',
-      et: 'Kolm põrsakest teadusteater, alates',
+      et: 'Teadusteater, alates',
       ru: 'Научный театр, от',
-      price: 132,
+      price: 110,
       priceUnit: '45min'
     },
     bugsShow: {
@@ -335,8 +335,8 @@ const additionalServices = {
       en: 'Bubble Show, from',
       et: 'Mullishow, alates',
       ru: 'Мыльное шоу, от',
-      price: 100,
-      priceUnit: '10min'
+      price: 125,
+      priceUnit: '40min'
     },
   },
   decorations: {
