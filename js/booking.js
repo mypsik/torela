@@ -188,7 +188,7 @@ const additionalServices = {
       en: 'Kooker Pancakes for 5',
       et: 'Kookeri pannkoogid 5-le',
       ru: 'Блинчики Kooker для 5',
-      price: 60,
+      price: 70,
       priceUnit: ''
     },
     TarkCatering1: {
