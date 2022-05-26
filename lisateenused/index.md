@@ -59,11 +59,11 @@ ru: /ru/services/
   
   <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="250"> 
 
-## TOIT PEOLAUALE - al 60€ {#torelaCatering}
+## TOIT PEOLAUALE - al 70€ {#torelaCatering}
 
   Sünnipäevale tulles on peolaud hea ja paremaga kaetud! 
   
-  **KOOKER MINIPANNKOOGID - al 60€**
+  **KOOKER MINIPANNKOOGID - al 70€**
   Vahva peolaud soolaste ja magusate minipannkookidega ning jookidega. Koogid ja lisandid on serveeritud armsates pruunides peokarpides. Karpidel on sisu kirjeldavad sildikesed. Lisaks kuuluvad komplekti tillukesed biomärgistusega lootsikud, kahvikesed ja salfad, et mõnus ja käepärane süüa oleks.
 
   <img alt="Kooker" src="Kookeripeolaud.JPG" height="250">
@@ -73,21 +73,22 @@ ru: /ru/services/
 Pakett sisaldab:
 **Soolased minipannkoogid**
 -Singi-juustutäidisega minipannkoogid 50 tk
--Kana-paprikatäidisega minipannkoogid 50 tk
-Kastmed: tillikaste (100ml), tšillimajonees (100ml), küüslaugukaste (100ml)
+-Kana-paprikatäidisega minipannkoogid 25 tk
+Kastmed: tšillimajonees (100ml), küüslaugukaste (150ml)
 **Magusad minipannkoogid**
--Minipannkoogid 100 tk
-Lisandid: vaarika toormoos (100ml), kondenspiim (100ml), Nutella (100ml), Maitsete Majaka soolakaramelli kaste (100ml),
+-Minipannkoogid 75 tk
+Lisandid: vaarika toormoos (150ml), kondenspiim (150ml), Nutella (150ml), Maitsete Majaka soolakaramelli kaste (150ml),
 **Joogid**
 Rabarberilimps 3 pdl
 Õunalimps 2 pdl
 
 
-Paketi maksumus 5-le: 60€ 
+Paketi maksumus 5-le: 70€ 
 Paketi maksumus 10-le: 110€ 
-Paketi maksumus 15-le: 150€ 
-Paketi maksumus 20-le: 190€ 
+Paketi maksumus 15-le: 165€ 
+Paketi maksumus 20-le: 210€ 
   
+
   
   **TASKUKOHANE PAKETT 15-LE - 119€**
   
