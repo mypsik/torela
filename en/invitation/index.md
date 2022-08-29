@@ -8,7 +8,7 @@ title: Kutse
 
 ## Dear friend<span id="friendName"></span>!
 
-### Please come to my birthday party to Torela playroom
+### <span id="message">Please come to my birthday party to Torela playroom</span>
 
 ### <b id="childName">_____________</b> on <b id="date">__________</b> at <b id="time">_____</b>
 

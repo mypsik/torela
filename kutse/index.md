@@ -8,11 +8,11 @@ title: Kutse
 
 ## Hea sõber<span id="friendName"></span>!
 
-### Palun tule minu sünnipäevale Torela Mängutuppa
+### <span id="message">Palun tule minu sünnipäevale Torela Mängutuppa</span>
 
 ### Kutsub <b id="childName">_____________</b> <b id="date">__________</b> kell <b id="time">_____</b>
 
-### <span id="parentName"></span> [_________](tel:) [{{site.email}}](mailto:) 
+### <span id="parentName"></span> [_________](tel:) [{{site.email}}](mailto:)
 
 #### Torela aadress: {{ site.address }}
 
