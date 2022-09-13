@@ -9,23 +9,20 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**15.02.2022 (T) - MÄNGUHOMMIK - TEEME VOOLIMISMASSI**
+**15.09.2022 (T) - MÄNGUHOMMIK**
 Ootame teid mänguhommikule!
 Laual head-paremat näksimiseks ning kohv!
 Ootame teid kõiki sööma, mängima ja juttu ajama!
-Osaluspanus: 10€ (laps+vanem), +3€ (pere järgmine laps)
+Osaluspanus: 7€ (laps+vanem), 12€ (lapsed+vanem)
 
-
-Kohapeal saab tasuda sularahas (või ülekandega)!
-
-**NB! Kontrollime COVID-läbipõdemist / vaktsineerimispassi!**
+Kohapeal saab tasuda sularahas või ülekandega!
 
 Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
 
 Mängutuba asub 2. korrusel. Sisenemiseks valige fonolukult **2**. Kärud saab jätta 1. korrusele.
  
 Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](https://www.facebook.com/Torelamangutuba/events/) ja meililistiga! 
-Tavaliste sündmuste osalustasu on 7€ (laps+vanem), pere järgmine laps +3€. 
+Tavaliste sündmuste osalustasu on 7€ (laps+vanem), 12€ (lapsed+vanem). 
 
 
 ### 5X KAART - HIND 25€
