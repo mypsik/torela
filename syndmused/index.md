@@ -9,7 +9,7 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**15.09.2022 (T) - MÄNGUHOMMIK**
+**15.09.2022 (N) - MÄNGUHOMMIK**
 Ootame teid mänguhommikule!
 Laual head-paremat näksimiseks ning kohv!
 Ootame teid kõiki sööma, mängima ja juttu ajama!
@@ -23,6 +23,13 @@ Mängutuba asub 2. korrusel. Sisenemiseks valige fonolukult **2**. Kärud saab j
  
 Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](https://www.facebook.com/Torelamangutuba/events/) ja meililistiga! 
 Tavaliste sündmuste osalustasu on 7€ (laps+vanem), 12€ (lapsed+vanem). 
+
+
+**20.09.2022 (T) - PANNKOOGIHOMMIK**
+Ootame teid pannkoogihommikule!
+Laual kuhjaga erinevaid pannkooke ja mitmeid moose-määrdeid. Pakume ka kohvi-teed!
+Ootame teid kõiki sööma, mängima ja juttu ajama!
+Osaluspanus: 10€ (laps+vanem), 15€ (lapsed+vanem)
 
 
 ### 5X KAART - HIND 25€
