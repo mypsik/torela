@@ -9,9 +9,16 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**8.12.2022 (N) - MEISTERDAMISE MÄNGUHOMMIK + UUE KELGU TUTVUSTAMINE**
-Ootame teid mänguhommikule! Seekord meisterdame lastega vahvaid jõulukaunistusi! 
-Vaadata ja katsuda saab ka uut nimelist kelku!
+**17.01.2023 (T) - MÄNGUHOMMIK + TEEME VOOLIMISMASSI**
+Ootame teid mänguhommikule! Seekord teeme taas Külviga looduslikku voolimismassi - värvime ja lõhnastame eeterlike õlidega! 
+
+Laual head-paremat näksimiseks ning kohv!
+Ootame teid kõiki sööma, mängima ja juttu ajama!
+Osaluspanus: 10€ (laps+vanem), 15€ (lapsed+vanem)
+
+
+**27.01.2023 (T) - MÄNGUHOMMIK + TEEME HUULEPALSAMIT**
+Ootame teid mänguhommikule! Seekord teeme Külviga looduslike eeterlike õlidega huulepalsamit.
 
 Laual head-paremat näksimiseks ning kohv!
 Ootame teid kõiki sööma, mängima ja juttu ajama!
