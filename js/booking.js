@@ -293,7 +293,14 @@ const additionalServices = {
       en: 'Face painting',
       et: 'Näomaalingud',
       ru: 'Крашенье лиц',
-      price: 50,
+      price: 60,
+      priceUnit: '1h'
+    },
+    glitterTattoos: {
+      en: 'Glitter Tattoos',
+      et: 'Glittertätoveeringud',
+      ru: 'Блестящие Татуировки',
+      price: 60,
       priceUnit: '1h'
     },
     balloonAnimals: {
