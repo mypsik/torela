@@ -93,7 +93,7 @@ Paketi maksumus 20-le: 210€
   **TASKUKOHANE PAKETT 15-LE - 119€**
   
   -Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla) 
-  -Kananagitsad kastmega (750 gr) 
+  -Kananagitsad kastmega (650 gr) 
   -Mini viineripirukad 30 tk 
   -Lavašikrõpsud hapukoore kastmega (1 vaagen/170g) 
   -Kevadrullid kastmega 20 tk 
