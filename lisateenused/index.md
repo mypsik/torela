@@ -24,7 +24,7 @@ ru: /ru/services/
   <img alt="Nõud" src="n6ud-1.jpg" height="250">
   
 
-## NÄOMAALINGUD - 50€/1h {#facePainting}
+## NÄOMAALINGUD - 60€/1h {#facePainting}
 
   Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
 
@@ -33,11 +33,21 @@ ru: /ru/services/
   1. hästi lihtsaid ja väikseid -15 nägu tunnis
   2. keskmisi 8-10 nägu tunnis
   3. suuri ja keerukamaid 5-7 nägu tunnis
-
-  Glittertätoveeringud on lisaks 45€ tunnis ja kuni 12 last.
   
+  Lisaks saab teha ka vesitätoveeringuid - 30€/30min. 
+
   <img alt="Näomaaling Jänes" src="naomaaling1.jpg" height="250"> 
   <img alt="Näomaaling Ükssarvik" src="naomaaling2.jpg" height="250"> 
+  <img alt="Näomaaling Vikerkaar" src="naomaaling3.jpg" height="250"> 
+
+
+## GLITTERTÄTOVEERINGUD - 60€/1h {#glitterTatoo}
+
+  Glittertätoveeringuid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
+  Tunnis jõuab teha ~12 last. 
+  
+  Lisaks saab teha ka vesitätoveeringuid - 30€/30min. 
+
   
 
 ## ÕHUPALLILOOMAD - 85€/1h {#balloonAnimals}
