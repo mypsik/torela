@@ -97,29 +97,18 @@ Paketi maksumus 5-le: 70€
 Paketi maksumus 10-le: 110€ 
 Paketi maksumus 15-le: 165€ 
 Paketi maksumus 20-le: 210€ 
-  
 
   
-  **TASKUKOHANE PAKETT 15-LE - 119€**
-  
-  -Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla) 
-  -Kananagitsad kastmega (650 gr) 
-  -Mini viineripirukad 30 tk 
-  -Lavašikrõpsud hapukoore kastmega (1 vaagen/170g) 
-  -Kevadrullid kastmega 20 tk 
-  -Juurviljavaagen 1 kg 
-  
-  <img alt="maitsev" src="maitsev.jpg" height="250"> 
-  
-  **LASTE PAKETT 15-LE - 149€**
-  -Mini-burger kana šnitsliga, värske tomati-ja-hapu kurgiga 15tk
-  -Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla)
-  -Lavašikrõpsud hapukoore kastmega (1 vaagen/170g) 
-  -Viineripirukad 30 tk
-  -Kevadrullid kastmega 20 tk 
-  -Juurviljavaagen 1kg 
-  -Puuviljavaagen 1,5 kg
-  
+  **MÕMMI PAKETT 15-LE - 175€**
+  -Sisaldada: 
+	-Mini-burger kanašnitsliga, värske tomati-ja-hapu kurgiga 15tk
+	-Tortilla valik 1.2 kg (Singi tortilla, Tuunikala tortilla, Lumekrabiliha tortilla)
+	-Lavašikrõpsud hapukoore kastmega (1 vaagen/170g)
+	-Viineripirukad 30 tk
+	-Kevadrullid kastmega 30 tk
+	-Juurviljavaagen 1kg
+	-Puuviljavaagen 1,5 kg 
+	
 <img alt="uhke" src="uhke.jpg" height="250"> 
 
 ## ÕIE LIMONAAD - 3,5L / 18€ {#õielimonaad}
