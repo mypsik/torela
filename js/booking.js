@@ -190,19 +190,13 @@ const additionalServices = {
       ru: 'Блинчики Kooker для 5',
       price: 70,
       priceUnit: ''
-    },
-    TarkCatering1: {
-      en: 'Catering Tasty for 15',
-      et: 'Taskukohane pakett 15-le',
-      ru: 'Вкусное Меню для 15',
-      price: 119,
-      priceUnit: ''  
+  
     }, 
-    TarkCatering2: {
-      en: 'Catering Abundant for 15',
-      et: 'Laste pakett 15-le',
-      ru: 'Раскошное Меню для 15',
-      price: 149,
+    TarkCatering1: {
+      en: 'Catering "Teddybear" for 15',
+      et: 'Mõmmi pakett 15-le',
+      ru: 'Мишка Меню для 15',
+      price: 175,
       priceUnit: ''
       
     },
