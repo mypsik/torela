@@ -110,6 +110,10 @@ Paketi maksumus 20-le: 210€
 	-Puuviljavaagen 1,5 kg 
 	
 <img alt="uhke" src="uhke.jpg" height="250"> 
+<img alt="tarkcatering" src="tark1.jpg" height="250"> 
+<img alt="toitlustus" src="tark2.jpg" height="250"> 
+<img alt="tarkcatering" src="tark3.jpg" height="250"> 
+
 
 ## ÕIE LIMONAAD - 3,5L / 18€ {#õielimonaad}
 [ÕIE koduleht](https://blossom.ee/){:target="_blank"}
