@@ -9,21 +9,13 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**17.01.2023 (T) - MÄNGUHOMMIK + TEEME VOOLIMISMASSI**
-Ootame teid mänguhommikule! Seekord teeme taas Külviga looduslikku voolimismassi - värvime ja lõhnastame eeterlike õlidega! 
+**21.03.2023 (T) - LOLALA HOMMIKUKONTSERT**
+Külla tuleb teist korda Lolala Muusikamaa looja Anna Kuchinsky, kes elavate pillide saatel esineb meile Lolala parimate lauludega nagu “Jänku laul”, “Kõdilaul”, “Vihmapiisad”, “Ku-ku” ja “Värvilaul”. Kontserdil saab tantsida, laulda ning tutvuda ja mängida erinevate pillidega.
 
-Laual head-paremat näksimiseks ning kohv!
+Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
 Ootame teid kõiki sööma, mängima ja juttu ajama!
-Osaluspanus: 10€ (laps+vanem), 15€ (lapsed+vanem)
 
-
-**27.01.2023 (T) - MÄNGUHOMMIK + TEEME HUULEPALSAMIT**
-Ootame teid mänguhommikule! Seekord teeme Külviga looduslike eeterlike õlidega huulepalsamit.
-
-Laual head-paremat näksimiseks ning kohv!
-Ootame teid kõiki sööma, mängima ja juttu ajama!
-Osaluspanus: 10€ (laps+vanem), 15€ (lapsed+vanem)
-
+Osaluspanus: 15€ (laps+vanem), +5€ järgmine laps.
 
 Kohapeal saab tasuda sularahas või ülekandega!
 
