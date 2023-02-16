@@ -181,9 +181,11 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
 
 
 ## JÄÄTISEMASIN - 59€ {#icecreamMachine}
-  Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 40 pehmet jäätist. Kaasa tuleb jäätis ja 40 vahvlit (või pooled vahvlid, pooled topsid). Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
+  Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 30 pehmet jäätist. Kaasa tuleb jäätis ja 30 vahvlit (või pooled vahvlid, pooled topsid). Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
   
-  Ühe jäätisemasina rent - 59€		
+  Ühe jäätisemasina rent, 30tk - 59€	
+  Ühe jäätisemasina rent, 40tk - 69€	
+
   Kahe jäätisemasina rent (kaks maitset) - 89€		
   
   Ühe jäätisemasina rent kõrghooajal (mai, juuni, juuli)- 69€		
