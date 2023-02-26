@@ -8,6 +8,12 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
+**28.02.2023 (T) - MÄNGUHOMMIK**
+Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
+Ootame teid kõiki sööma, mängima ja juttu ajama!
+
+Osaluspanus: 7€ (laps+vanem), +3€ järgmine laps.
+
 
 **21.03.2023 (T) - LOLALA HOMMIKUKONTSERT**
 Külla tuleb teist korda Lolala Muusikamaa looja Anna Kuchinsky, kes elavate pillide saatel esineb meile Lolala parimate lauludega nagu “Jänku laul”, “Kõdilaul”, “Vihmapiisad”, “Ku-ku” ja “Värvilaul”. Kontserdil saab tantsida, laulda ning tutvuda ja mängida erinevate pillidega.
