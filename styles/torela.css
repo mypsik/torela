@@ -261,7 +261,7 @@ input:not([type=checkbox]):not([type=radio]), textarea {
   outline-offset: 1px;
 }
 
-.partner {
+.partners a {
   width: 100px;
   height: 100px;
   background-size: contain;
