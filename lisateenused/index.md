@@ -115,6 +115,58 @@ Paketi maksumus 20-le: 210€
 <img alt="tarkcatering" src="tark3.jpg" height="250"> 
 
 
+## TERVISLIKUD SNÄKID FRUITFUNKT - al 41€ {#tFruitFunk}
+
+*Peppa pakk 20-le:
+
+10x Fruitstick XXL maasika 20g
+10x Fruitstick XXL õuna 20g
+20x või 40x Peppa Happybag 16g
+40x või 60x Peppa Multibag minipakk 10g
+
+Paki hinnaks vastavalt siis kas väiksem või suurem kogus happybage ja multibag minipakke:
+Väiksem 41€
+Suurem 63€
+
+ 
+
+**Paw Patrol pakk 20-le - 41€**
+
+20x Paw Patrol schoolbar 20g
+20x või 40x Paw Patrol Happybag 16g
+40x või 60x Paw Patrol Multibag minipakk 10g
+
+Paki hinnaks vastavalt siis kas väiksem või suurem kogus happybage ja multibag minipakke:
+Väiksem 41€
+Suurem 63€
+
+ 
+
+**Unicorn pakk 20-le - 41€**
+
+20x Unicorn schoolbar 20g
+20x või 40x Unicorn Happybag 16g
+40x või 60x Unicorn Multibag minipakk 10g
+
+Paki hinnaks vastavalt siis kas väiksem või suurem kogus happybage ja multibag minipakke:
+Väiksem 41€
+Suurem 63€
+
+ 
+
+**Fruitfunk pakk 20-le - 47€**
+
+20x Fruitstick XXL maasika 20g
+20x Fruitstick XXL õuna 20g
+20x Fruithearts 16g
+40x või 80x Multibag õuna-maasika ja­/või banaani-virsiku minipakk 10g
+
+
+Paki hinnaks vastavalt siis kas väiksem või suurem kogus multibag minipakke:
+Väiksem 47€
+Suurem 62€
+
+
 ## ÕIE LIMONAAD - 3,5L / 18€ {#õielimonaad}
 [ÕIE koduleht](https://blossom.ee/){:target="_blank"}
 
