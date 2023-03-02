@@ -198,7 +198,13 @@ const additionalServices = {
       ru: 'Мишка Меню для 15',
       price: 175,
       priceUnit: ''
-      
+    },
+    FruitFunk: {
+      en: 'Healthy snacks for 20',
+      et: 'Tervislikud näksid 20-le',
+      ru: 'Здоровые закуски для 20 ',
+      price: 41,
+      priceUnit: '' 
     },
     lemonade: {
       en: 'Õie lemonade 3,5L',
@@ -329,8 +335,8 @@ const additionalServices = {
       en: 'Bugs program',
       et: 'Putukaprogramm',
       ru: 'Программа с насекомыми',
-      price: 160,
-      priceUnit: '45min'
+      price: 120,
+      priceUnit: '1h'
     },
     bubbleShow: {
       en: 'Bubble Show, from',
