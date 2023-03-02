@@ -115,7 +115,7 @@ Paketi maksumus 20-le: 210€
 <img alt="tarkcatering" src="tark3.jpg" height="250"> 
 
 
-## TERVISLIKUD SNÄKID FRUITFUNKT - al 41€ {#tFruitFunk}
+## TERVISLIKUD SNÄKID FRUITFUNKT - al 41€ {#FruitFunk}
 
 Fruitfunk on:
 
