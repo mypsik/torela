@@ -328,14 +328,14 @@ Lisatopsid 10tk 4,00€
   
   Soovitatav laste vanus on 5+. 
 
-   <img alt="Loodusluup1" src="Loodusluup1.JPG" height="250">
-   <img alt="Loodusluup2" src="Loodusluup2.JPG" height="250">
-   <img alt="Loodusluup3" src="Loodusluup3.JPG" height="250">
-   <img alt="Loodusluup4" src="Loodusluup4.JPG" height="250">
-   <img alt="Loodusluup5" src="Loodusluup5.JPG" height="250">
-   <img alt="Loodusluup6" src="Loodusluup6.JPG" height="250">
-   <img alt="Loodusluup7" src="Loodusluup7.JPG" height="250">
-   <img alt="Loodusluup8" src="Loodusluup8.JPG" height="250">
+   <img alt="Loodusluup1" src="Loodusluup1.jpg" height="250">
+   <img alt="Loodusluup2" src="Loodusluup2.jpg" height="250">
+   <img alt="Loodusluup3" src="Loodusluup3.jpg" height="250">
+   <img alt="Loodusluup4" src="Loodusluup4.jpg" height="250">
+   <img alt="Loodusluup5" src="Loodusluup5.jpg" height="250">
+   <img alt="Loodusluup6" src="Loodusluup6.jpg" height="250">
+   <img alt="Loodusluup7" src="Loodusluup7.jpg" height="250">
+   <img alt="Loodusluup8" src="Loodusluup8.jpg" height="250">
    
 
 ## PEOJUHT - al 150€+km {#partyAnimator}
