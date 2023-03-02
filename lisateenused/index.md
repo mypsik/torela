@@ -117,6 +117,15 @@ Paketi maksumus 20-le: 210€
 
 ## TERVISLIKUD SNÄKID FRUITFUNKT - al 41€ {#tFruitFunk}
 
+Fruitfunk on:
+
+	-Valmistatud värsketest puuviljadest või puuviljast & paisutatud riisist
+	-Ilma lisatud suhkru ja ilma kunstlike aineteta
+	-Vegan ja Halal
+	-Gluteenivaba ja Laktoosivaba
+	-Kiudaineterikas ja madala glükeemilise indeksiga
+	-Laste poolt armastatud ja lastevanemate poolt heaks kiidetud
+
 **Peppa pakk 20-le - 41€**
 
 * 10x Fruitstick XXL maasika 20g
@@ -198,94 +207,7 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   **50tk - 40€**
   
   <img alt="Vahvlid" src="vahvlid.jpg" height="250">
-  
-## Fruit Funk laste tervislik snäkikomplekt - 41€/20tk {#FruitFunk}
 
-   Fruitfunk on:
-
-	-Valmistatud värsketest puuviljadest või puuviljast & paisutatud riisist
-	-Ilma lisatud suhkru ja ilma kunstlike aineteta
-	-Vegan ja Halal
-	-Gluteenivaba ja Laktoosivaba
-	-Kiudaineterikas ja madala glükeemilise indeksiga
-	-Laste poolt armastatud ja lastevanemate poolt heaks kiidetud
-	
-*Peppa pakk 20-le:
-
-10x Fruitstick XXL maasika 20g
-
-10x Fruitstick XXL õuna 20g
-
-20x või 40x Peppa Happybag 16g
-
-40x või 60x Peppa Multibag minipakk 10g
-
- 
-
-Paki hinnaks vastavalt siis kas väiksem või suurem kogus happybage ja multibag minipakke:
-
-Väiksem 41€
-
-Suurem 63€
-
-  <img alt="Peppa" src="peppa.jpg" height="250">
-  
-
-*Paw Patrol pakk 20-le:
-
-20x Paw Patrol schoolbar 20g
-
-20x või 40x Paw Patrol Happybag 16g
-
-40x või 60x Paw Patrol Multibag minipakk 10g
-
- 
-
-Paki hinnaks vastavalt siis kas väiksem või suurem kogus happybage ja multibag minipakke:
-
-Väiksem 41€
-
-Suurem 63€
-
-   <img alt="PawPatrol" src="PawPatrol.jpg" height="250">
-   
-
-*Unicorn pakk 20-le:
-
-20x Unicorn schoolbar 20g
-
-20x või 40x Unicorn Happybag 16g
-
-40x või 60x Unicorn Multibag minipakk 10g
-
- 
-
-Paki hinnaks vastavalt siis kas väiksem või suurem kogus happybage ja multibag minipakke:
-
-Väiksem 41€
-Suurem 63€
-
-  <img alt="Unicorn" src="Unicorn.jpg" height="250">
- 
-
-*Fruitfunk pakk 20-le:
-
-20x Fruitstick XXL maasika 20g
-
-20x Fruitstick XXL õuna 20g
-
-20x Fruithearts 16g
-
-40x või 80x Multibag õuna-maasika ja­/või banaani-virsiku minipakk 10g
-
-
-Paki hinnaks vastavalt siis kas väiksem või suurem kogus multibag minipakke:
-
-Väiksem 48€
-Suurem 62€
-
-  
-  <img alt="Fruitfunk" src="Fruitfunk.jpg" height="250">
   
  
 ## DONUTS - al 1,5€/tk {#donuts}
