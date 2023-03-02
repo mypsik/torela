@@ -119,12 +119,12 @@ Paketi maksumus 20-le: 210€
 
 Fruitfunk on:
 
-	-Valmistatud värsketest puuviljadest või puuviljast & paisutatud riisist
-	-Ilma lisatud suhkru ja ilma kunstlike aineteta
-	-Vegan ja Halal
-	-Gluteenivaba ja Laktoosivaba
-	-Kiudaineterikas ja madala glükeemilise indeksiga
-	-Laste poolt armastatud ja lastevanemate poolt heaks kiidetud
+* Valmistatud värsketest puuviljadest või puuviljast & paisutatud riisist
+* Ilma lisatud suhkru ja ilma kunstlike aineteta
+* Vegan ja Halal
+* Gluteenivaba ja Laktoosivaba
+* Kiudaineterikas ja madala glükeemilise indeksiga
+* Laste poolt armastatud ja lastevanemate poolt heaks kiidetud
 
 **Peppa pakk 20-le - 41€**
 
