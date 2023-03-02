@@ -137,7 +137,8 @@ Paki hinnaks vastavalt siis kas väiksem või suurem kogus happybage ja multibag
 * Väiksem 41€
 * Suurem 63€
 
- 
+ <img alt="Peppa" src="Peppa.jpg" height="250"> 
+
 
 **Paw Patrol pakk 20-le - 41€**
 
