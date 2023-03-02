@@ -150,7 +150,7 @@ Paki hinnaks vastavalt siis kas väiksem või suurem kogus happybage ja multibag
 * Väiksem 41€
 * Suurem 63€
 
- 
+ <img alt="pawpatrol" src="pawpatrol.jpg" height="250"> 
 
 **Unicorn pakk 20-le - 41€**
 
