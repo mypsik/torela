@@ -398,20 +398,21 @@ Lisatopsid 10tk 4,00€
   <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="250">
   
   
-## PUTUKAPROGRAMM - Mattias Turovski - 160€/45min {#bugsShow}
+## PUTUKAPROGRAMM - 120€/60min {#bugsShow}
 
-  Põneva ja erilise programmi raames tutvustatakse nelja erinevat looma - hiidtigu, prussakat, raagritsikat ning 
-  hiidtuhatjalaga. 
+  Meie putukate programm võimaldab luua putukatega lähedast kontakti turvalises keskkonnas. Programmis on kesksel kohal elusate eksootiliste putukate 	  vaatlemine ning soovi korral ka kätte võtmine. Lisaks uuritakse värvikirevaid ja kummalisi prepareeritud putukaid läbi klaasi ja binokulaari suurenduse. Kõige selle käigus tutvutakse putukate välimuslike ja käitumuslike iseärasustega. Programmi eesmärk on luua lastes empaatia ja parem mõistmine neist endast nii erineva eluvormi suhtes. Meie eesmärk on inspireerida last end ümbritsevat rohkem märkama ja uurima.
   
-  Esitlusel vaadatakse nende pilte, elupaiku ja tutvustatakse ökoloogiat. Lapsed saavad tutvuda loomadega  vahetult - **loomad liiguvad käest kätte**!
   
-  Programm loob eeldused selgrootute loomadega iseseisvaks tutvumiseks, suhtlemiseks ja käsitlemiseks, märksõnadega austus ja   hool. 
   Soovitatav laste vanus on 5+. 
 
-   <img alt="Tigu" src="ahhaattigu.JPG" height="250"> 
-   <img alt="Prussakas" src="blaberus prussakas.JPG" height="250">
-   <img alt="Prussakas1" src="DSC00123.JPG" height="250">
-   <img alt="Sajajalgne" src="IMG_9034.jpg" height="250">
+   <img alt="Loodusluup1" src="Loodusluup1.JPG" height="250">
+   <img alt="Loodusluup2" src="Loodusluup2.JPG" height="250">
+   <img alt="Loodusluup3" src="Loodusluup3.JPG" height="250">
+   <img alt="Loodusluup4" src="Loodusluup4.JPG" height="250">
+   <img alt="Loodusluup5" src="Loodusluup5.JPG" height="250">
+   <img alt="Loodusluup6" src="Loodusluup6.JPG" height="250">
+   <img alt="Loodusluup7" src="Loodusluup7.JPG" height="250">
+   <img alt="Loodusluup8" src="Loodusluup8.JPG" height="250">
    
 
 ## PEOJUHT - al 150€+km {#partyAnimator}
