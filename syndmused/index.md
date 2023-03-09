@@ -8,11 +8,11 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**28.02.2023 (T) - MÄNGUHOMMIK**
+**14.03.2023 (T) - MÄNGUHOMMIK - ISTUTAME SEEMNEID**
 Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
-Ootame teid kõiki sööma, mängima ja juttu ajama!
+Istutame seemneid ja teeme murumehikesi. Kõik enda loodu saab koju kaasa võtta! 
 
-Osaluspanus: 7€ (laps+vanem), +3€ järgmine laps.
+Osaluspanus: 10€ (laps+vanem), +5€ järgmine laps.
 
 
 **21.03.2023 (T) - LOLALA HOMMIKUKONTSERT**
@@ -22,6 +22,13 @@ Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
 Ootame teid kõiki sööma, mängima ja juttu ajama!
 
 Osaluspanus: 15€ (laps+vanem), +5€ järgmine laps.
+
+
+**23.03.2023 (N) - MÄNGUHOMMIK**
+Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
+Ootame kõiki mängima ja juttu ajama!
+
+Osaluspanus: 10€ (laps+vanem), +5€ järgmine laps.
 
 Kohapeal saab tasuda sularahas või ülekandega!
 
