@@ -8,29 +8,21 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**14.03.2023 (T) - MÄNGUHOMMIK - ISTUTAME SEEMNEID**
+**06.04.2023 (N) - MUNADEPÜHA MÄNGUHOMMIK**
+Meisterdame, värvime mune, otsime mune! 
+Vahva ja eriline mänguhommik!
+
 Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
 Istutame seemneid ja teeme murumehikesi. Kõik enda loodu saab koju kaasa võtta! 
 
 Osaluspanus: 10€ (laps+vanem), +5€ järgmine laps.
 
 
-**21.03.2023 (T) - LOLALA HOMMIKUKONTSERT**
-Külla tuleb teist korda Lolala Muusikamaa looja Anna Kuchinsky, kes elavate pillide saatel esineb meile Lolala parimate lauludega nagu “Jänku laul”, “Kõdilaul”, “Vihmapiisad”, “Ku-ku” ja “Värvilaul”. Kontserdil saab tantsida, laulda ning tutvuda ja mängida erinevate pillidega.
-
-Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
-Ootame teid kõiki sööma, mängima ja juttu ajama!
-
-Osaluspanus: 15€ (laps+vanem), +5€ järgmine laps.
+**05.05.2023 (R) - TORELA 4.SÜNNIPÄEV**
+Aasta kõige erilisem mänguhommik! Tähistame Torela sünnipäeva!
+Lastele mitmeid üllatusi! Kindlasti saab "sünnipäeva magusat" ja õhupalle!
 
 
-**23.03.2023 (N) - MÄNGUHOMMIK**
-Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
-Ootame kõiki mängima ja juttu ajama!
-
-Osaluspanus: 10€ (laps+vanem), +5€ järgmine laps.
-
-Kohapeal saab tasuda sularahas või ülekandega!
 
 Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
 
