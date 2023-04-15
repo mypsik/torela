@@ -243,11 +243,15 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   <img alt="Kosmos" src="kosmosepidu.png" height="250"> 
 
 
-## JÄÄTISEMASIN - 59€ {#icecreamMachine}
-  Pehme jäätisemasin valmistab 1 tunni ja 15 minutiga 30 pehmet jäätist. Kaasa tuleb jäätis ja 30 vahvlit (või pooled vahvlid, pooled topsid). Lapsed saavad endale ise jäätist serveerida. Maitsed on hetkel vanilje ja šokolaad, võimalik on teha ka teisi maitseid. 
+## JÄÄTISEMASIN - al 59€ {#icecreamMachine}
+  Pehme jäätise masinaga saab külalistele pakkuda mõnusat jäätist! Lapsed saavad endale ka ise jäätist serveerida! 
+  Enim tellitud maitsed on vanilje ja šokolaad. 
   
-  Ühe jäätisemasina rent, 30tk - 59€	
-  Ühe jäätisemasina rent, 40tk - 69€
+  *Jäätisemasina rent koos 30 vahvlijäätise ja ühe topsi kaunistustega (minivahukommid) 59€.
+  *Jäätisemasina rent koos 40 vahvlijäätise ja ühe topsi kaunistustega (minivahukommid) 69€.
+  *Jäätisemasina rent koos 50 vahvlijäätise ja ühe topsi kaunistustega (minivahukommid) 79€
+  
+ 
   
   Valikus on ka uusi ja väga põnevaid maitseid: 
   * Roosa nätsukomm (G)
@@ -264,11 +268,7 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
 	
 
     <img alt="maitsed" src="maitsed.jpg" height="250"> 
-
-  Kahe jäätisemasina rent (kaks maitset) - 89€		
-  
-  Ühe jäätisemasina rent kõrghooajal (mai, juuni, juuli)- 69€		
-  Kahe jäätisemasina rent kõrghooajal (kaks maitset) - 109€		
+		
 		
 
   <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="250"> 
@@ -277,9 +277,9 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
  
  
   **JÄÄTISE LISANDID + 9€**
-  Jäätise kaunistuste komplekt: vahukommid, nonparellid, piimašokolaadi puiste ja tumedad krõbedad kakaoküpsise tükid. 
+  Jäätise kaunistuste komplekt: minivahukommid, minišokolaadinööbid, röstitud šokolaadiküpsise puru ja nonparellid. 
   Kaunistused on 180ml kaanega topsis. 
-
+  
   <img alt="Jäätiselisandid" src="  Lisandid komplekt.jpg" height="250"> 
 
 
