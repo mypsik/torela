@@ -356,7 +356,7 @@ Lisatopsid 10tk 4,00€
    <img alt="Loodusluup8" src="Loodusluup8.jpg" height="250">
    
 
-## PEOJUHT - al 150€+km {#partyAnimator}
+## PEOJUHT - al 180€ {#partyAnimator}
 
   Merros Stuudio vahvad peojuhid aitavad teha sünnipäevad kordumatuks! 
   Merli Hirbaum ise on väikese beebiga kodune ning peojuhina ei osale. 
