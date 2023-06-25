@@ -8,28 +8,7 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**04.05.2023 (N) - MÄNGUHOMMIK**
-Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
-Osaluspanus: 7€ (laps+vanem), +3€ järgmine laps.
-
-
-**05.05.2023 (R) - TORELA 4.SÜNNIPÄEV**
-Aasta kõige erilisem mänguhommik! Tähistame Torela sünnipäeva!
-10.00-11.30 NÄOMAALINGUD
-11.30 LOLALA KONTSERT
-
-Pakume Jätmani jäätist!
-
-Osaluspanus: 15€ pere
-
-**09.05.2023 (T) - MÄNGUHOMMIK**
-Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
-Osaluspanus: 7€ (laps+vanem), +3€ järgmine laps.
-
-**11.05.2023 (N) - MÄNGUHOMMIK**
-Laual head-paremat näksimiseks ning vanematele pakume kohvi-teed!
-Osaluspanus: 7€ (laps+vanem), +3€ järgmine laps.
-
+**SUVEL ON MÄNGUHOMMIKUID VÄHEM**
 
 Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
 
