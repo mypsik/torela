@@ -8,7 +8,26 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**SUVEL ON MÄNGUHOMMIKUID VÄHEM**
+**17.08 (N) - MÄNGUHOMMIK**
+Ootame teid mänguhommikule! 
+Laual mõnus näks ning pakume kohvi!
+
+Osaluspanus: 7€/laps+vanem (järgmine laps +3€)
+
+**29.08 (T) - MÄNGUHOMMIK**
+Ootame teid mänguhommikule! 
+Laual mõnus näks ning pakume kohvi!
+
+Osaluspanus: 7€/laps+vanem (järgmine laps +3€)
+
+
+**05.09 (T) - SÜGISHOOAJA AVAPIDU**
+Ootame teid mänguhommikule! 
+Imalisi näomaalinguid teeb Ursula!
+
+Laual mõnus näks ning pakume kohvi!
+
+Osaluspanus: 15€
 
 Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
 
