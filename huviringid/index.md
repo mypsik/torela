@@ -8,5 +8,5 @@ ru: /ru/hobby-classes/
 ---
 
 **Hetkel regulaarseid huvitegevusi EI TOIMU**
-Mänguhommikute infot leiate Facebooki lehelt: [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
+Mänguhommikute info leiate Facebooki lehelt: [FB üritused](https://www.facebook.com/pg/Torelamangutuba/events/).
 
