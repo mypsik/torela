@@ -24,7 +24,7 @@ ru: /ru/services/
   <img alt="Nõud" src="n6ud-1.jpg" height="250">
   
 
-## NÄOMAALINGUD - 60€/1h {#facePainting}
+## NÄOMAALINGUD - 70€/1h {#facePainting}
 
   Näomaalinguid teeb Grimmikooli õppejõud ja rahvusvahelise näomaaligute konkursi võitja Ursula Otsing. 
 
