@@ -50,7 +50,7 @@ ru: /ru/services/
 
   
 
-## ÕHUPALLILOOMAD - 85€/1h {#balloonAnimals}
+## ÕHUPALLILOOMAD - 95€/1h {#balloonAnimals}
 
   Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
 
@@ -61,7 +61,7 @@ ru: /ru/services/
   <img alt="Õhupalliloomad käed" src="ohupalliloomad2.jpg" height="250"> 
   <img alt="Õhupalliloomad koer" src="ohupalliloomad3.jpg" height="250"> 
   
-  Õhupalliloomadele lisaks saab tellida ka vesitätoveeringuid, igale lapsele 1 pilt. Vesitätoveeringute hind kokku 20€.
+  Õhupalliloomadele lisaks saab tellida ka vesitätoveeringuid, igale lapsele 1 pilt. Vesitätoveeringute hind kokku 30€.
 
   Vesitätoveeringud ehk vesipildid mis kantakse käele või jalale püsivad mitmeid päevi, isegi kuni üks nädal. 
   Pildi kandmine nahale võtab aega kuni 1 minut. Valida on võimalik 500 erineva pildi seast. 
