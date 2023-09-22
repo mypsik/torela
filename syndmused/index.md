@@ -8,13 +8,13 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**05.09 (T) - SÜGISHOOAJA AVAPIDU**
-Ootame teid mänguhommikule! 
-Imalisi näomaalinguid teeb Ursula! Ursula alustab 10.00. 
-Meelika teeb lastele ägedaid õhupalliloomi Meelika alustab 11.00. 
+**03.10 (T) - LASTEASJADE POP-UP POOD**
+Torelas on ennast sisse seadnud lasteasjade pop-up pood! 
+Lapsed saavad mängida ning vanemad saavad rahulikult erinevaid riideid ja huvitavaid tooteid vaadata! 
+Kohal on: Foxi talveriiete outlet pood, uus jätkusuutlik kodumaine bränd Kioko, Nupu, Lelud.ee, Elliott Store jt
 
 Laual mõnus näks ning pakume kohvi!
-Osaluspanus: 15€
+Sissepääs TASUTA!
 
 **10.10 (T) 18.00-20.30 - MÄNGUÕHTU JA TÖÖTUBA "Ovaalne dekoratiivalus"**
 Ootame teid mänguõhtule!
