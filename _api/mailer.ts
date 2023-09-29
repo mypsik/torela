@@ -80,6 +80,10 @@ export class Mailer {
       Ülejäänud summa saab tasuda ülekandega enne ürituse toimumist või sularahas kohapeal.
       
       Meil on pakkuda ka väga palju vahvaid lisateenuseid: https://torela.ee/lisateenused/ 
+      Meie kõige uuem koostööpartner Boom Tordid pakub väga erilisi torte! Tortidega saab tutvuda siin: https://shorturl.at/motOT 
+      Tort tuuakse soovitud päevaks Torelasse kohale! Lihtne ja mugav!
+      Torte saab tellida siit: https://shorturl.at/cfBHZ ning sisestades koodi "TORELA" tellimuse lõppu koos sündmuse kuupäeva ja kellaajaga, 
+      saate *5€* allahindlust!
 
       Siin on ettevalmistatud kutse sõpradele saatmiseks:
       https://torela.ee/kutse/#${booking._id.toString()}
