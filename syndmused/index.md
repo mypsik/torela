@@ -8,20 +8,11 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**03.10 (T) - LASTEASJADE POP-UP POOD**
-Torelas on ennast sisse seadnud lasteasjade pop-up pood! 
-Lapsed saavad mängida ning vanemad saavad rahulikult erinevaid riideid ja huvitavaid tooteid vaadata! 
-Kohal on: Foxi talveriiete outlet pood, uus jätkusuutlik kodumaine bränd Kioko, Nupu, Lelud.ee, Elliott Store jt
-
+**03.11 (R) - MÄNGUHOMMIK - SENSOORNE MÖLL**
+Ootame teid väga erilisele mänguhommikule! Põrandale tehtud erinevate anumate ja lusikatega ala, kus laps saab lasta oma loovuse valla! 
 Laual mõnus näks ning pakume kohvi!
-Sissepääs TASUTA!
 
-**10.10 (T) 18.00-20.30 - MÄNGUÕHTU JA TÖÖTUBA "Ovaalne dekoratiivalus"**
-Ootame teid mänguõhtule!
-Lapsed saavad mängida ning vanemad saavad juttu ajada ja teha ise Decorami juhendamisel jesmoniidist ovaalse aluse!
-Laual muidugi mõnus näks ja kohv-tee!
-
-Osaluspanus: 40€ (sisaldab ÜHTE osalejat ja tema lapsi)
+Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
 
 
 **10.11 (N) 10.00-13.00 - MUUSIKALINE MÄNGUHOMMIK**
