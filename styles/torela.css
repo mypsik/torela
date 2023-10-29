@@ -322,8 +322,9 @@ main > #services > :not(h2) {
   aspect-ratio: 1.2;
   border: none;
   position: absolute;
-  right: 0;
-  top: 0;
+  right: 100px;
+  top: 10px;
+  z-index: 10;
 }
 
 @media screen and (max-width: 900px) {
@@ -344,6 +345,7 @@ main > #services > :not(h2) {
 
   .brandimpact {
     top: 70px;
+    right: 0;
   }
 }
 
@@ -358,7 +360,7 @@ main > #services > :not(h2) {
   }
 
   .brandimpact {
-    left: auto;
+    right: 10px;
   }
 }
 
