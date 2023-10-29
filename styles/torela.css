@@ -318,6 +318,14 @@ main > #services > :not(h2) {
   display: block;
 }
 
+.brandimpact {
+  aspect-ratio: 1.2;
+  border: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
 @media screen and (max-width: 900px) {
   .block {
     padding: 1rem;
@@ -333,6 +341,10 @@ main > #services > :not(h2) {
     width: 100%;
     height: 300px;
   }
+
+  .brandimpact {
+    top: 70px;
+  }
 }
 
 @media screen and (min-width: 1118px) {
@@ -343,6 +355,10 @@ main > #services > :not(h2) {
   main > blockquote {
     margin-left: 8rem;
     text-align: right;
+  }
+
+  .brandimpact {
+    left: auto;
   }
 }
 
