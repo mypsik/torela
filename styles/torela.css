@@ -88,6 +88,8 @@ nav a.active {
   top: 1rem;
   right: 0;
   font-weight: bold;
+  display: flex;
+  align-items: center;
 }
 
 .book-now {
@@ -319,12 +321,11 @@ main > #services > :not(h2) {
 }
 
 .brandimpact {
+  height: 80px;
   aspect-ratio: 1.2;
   border: none;
-  position: absolute;
-  right: 100px;
-  top: 10px;
   z-index: 10;
+  margin-left: 10px;
 }
 
 @media screen and (max-width: 900px) {
@@ -342,11 +343,6 @@ main > #services > :not(h2) {
     width: 100%;
     height: 300px;
   }
-
-  .brandimpact {
-    top: 70px;
-    right: 0;
-  }
 }
 
 @media screen and (min-width: 1118px) {
@@ -357,10 +353,6 @@ main > #services > :not(h2) {
   main > blockquote {
     margin-left: 8rem;
     text-align: right;
-  }
-
-  .brandimpact {
-    right: 10px;
   }
 }
 

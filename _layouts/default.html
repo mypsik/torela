@@ -1,7 +1,6 @@
 ---
 layout: base
 ---
-<iframe src="https://brandimpact.org/widget/brand/torela?lang={{ page.lang }}" height="100" class="brandimpact"></iframe>
 <header>
   <a href="{%if page.lang == 'et'%}/{%else%}/{{ page.lang }}{%endif%}">
     <img src="/img/logo.png" class="logo" alt="Torela mängumaa">
@@ -19,6 +18,7 @@ layout: base
     <span class="lang">
       <a href="{% if page.en %}{{page.en}}{%else%}/en/{%endif%}" hreflang="en">EN</a>
       <a href="{% if page.ru %}{{page.ru}}{%else%}/ru/{%endif%}" hreflang="ru">RU</a>
+      <iframe src="https://brandimpact.org/widget/brand/torela?lang={{ page.lang }}" class="brandimpact"></iframe>
     </span>
   </nav>
   <a href="/hinnakiri/#calendar" class="book-now button">Broneeri nüüd</a>
@@ -36,6 +36,7 @@ layout: base
     <span class="lang">
       <a href="{% if page.et %}{{page.et}}{%else%}/{%endif%}" hreflang="et">EE</a>
       <a href="{% if page.ru %}{{page.ru}}{%else%}/ru/{%endif%}" hreflang="ru">RU</a>
+      <iframe src="https://brandimpact.org/widget/brand/torela?lang={{ page.lang }}" class="brandimpact"></iframe>
     </span>
   </nav>
   <a href="/en/prices/#calendar" class="book-now button">Book now</a>
@@ -53,6 +54,7 @@ layout: base
     <span class="lang">
       <a href="{% if page.et %}{{page.et}}{%else%}/{%endif%}" hreflang="et">EE</a>
       <a href="{% if page.en %}{{page.en}}{%else%}/en/{%endif%}" hreflang="en">EN</a>
+      <iframe src="https://brandimpact.org/widget/brand/torela?lang={{ page.lang }}" class="brandimpact"></iframe>
     </span>
   </nav>
   <a href="/ru/prices/#calendar" class="book-now button">Бронировать</a>
