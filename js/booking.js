@@ -188,7 +188,7 @@ const additionalServices = {
       en: 'Kooker Pancakes',
       et: 'Kookeri pannkoogid',
       ru: 'Блинчики Kooker',
-      price:,
+      price: '-15%',
       priceUnit: ''
   
     }, 
