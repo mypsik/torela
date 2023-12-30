@@ -8,40 +8,18 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**06.11 (E) - MÄNGUHOMMIK - SENSOORNE MÖLL**
+**09.01 (T) - PANNKOOGIHOMMIK**
+Suurepärane võimalus suhelda, mängidsa ja pannkooke süüa!
+Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
+
+
+**11.01 (N) - MÄNGUHOMMIK - SENSOORNE MÖLL**
 Ootame teid väga erilisele mänguhommikule! Põrandale tehtud erinevate anumate ja lusikatega ala, kus laps saab lasta oma loovuse valla! 
 Laual mõnus näks ning pakume kohvi!
 
 Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
 
 
-**10.11 (R) 10.00-13.00 - LOLALA HOMMIKUKONTSERT**
-Ootame teid väga erilisele Lolala hommikukontsertile!
-Laual mõnus näks ning pakume kohvi!
-
-Osaluspanus: 15€ (laps+vanem), +5€ iga järgmine laps
-
-
-**11.12 (E) 10.00-13.00 - JÕULUPILDISTAMINE JA MÄNGUHOMMIK**
-Taas toiumub Torelas mõnus jõuluteemaline fotosessioon! 
-Kohal on meie armastatud Helen Tulp!
-Pildistamine kestab ~2 tundi. 
-Kohtade arv väga piiratud. 
-
-Laual mõnus näks ning pakume kohvi!
-
-Osaluspanus: 33€ pere
-
-
-**12.12 (T) 18.00-20.00 - JÕULUPILDISTAMINE JA MÄNGUÕHTU**
-Taas toiumub Torelas mõnus jõuluteemaline fotosessioon! 
-Kohal on meie armastatud Helen Tulp!
-
-Kohtade arv väga piiratud. 
-
-Laual mõnus näks ning pakume kohvi!
-
-Osaluspanus: 33€ pere
 
 
 
