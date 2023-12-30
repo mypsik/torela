@@ -29,10 +29,11 @@ function BookingDialog(selector, api, lang) {
       for (let key in category) {
         if (key.length === 2) continue
         const service = category[key]
-        const priceUnitText = service.priceUnit ? ' / ' + (this.msg[service.priceUnit] || service.priceUnit) : ''
+        const priceUnitText = (typeof service.price == 'number' ? '€' : '') +
+          (service.priceUnit ? ' / ' + (this.msg[service.priceUnit] || service.priceUnit) : '')
         const el = $('<label>' +
           '<input type="checkbox" name="' + key + '" data-category="' + categoryKey + '"> ' +
-          '<span>' + service[lang] + ' <a class="info" href="/lisateenused/#' + key + '" target="_blank" title="Info">i</a> <i class="price">' + service.price + ('€' + priceUnitText + '</i></span>' +
+          '<span>' + service[lang] + ' <a class="info" href="/lisateenused/#' + key + '" target="_blank" title="Info">i</a> <i class="price">' + service.price + priceUnitText + '</i></span>' +
         '</label>').appendTo(catEl)
         if (service.requestCount)
           el.append('<input type="number" min="0" max="100" placeholder="' + this.msg['count'] + '">')
