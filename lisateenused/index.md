@@ -73,30 +73,11 @@ ru: /ru/services/
 
   Sünnipäevale tulles on peolaud hea ja paremaga kaetud! 
   
-  **KOOKER MINIPANNKOOGID - al 70€**
-  Vahva peolaud soolaste ja magusate minipannkookidega ning jookidega. Koogid ja lisandid on serveeritud armsates pruunides peokarpides. Karpidel on sisu kirjeldavad sildikesed. Lisaks kuuluvad komplekti tillukesed biomärgistusega lootsikud, kahvikesed ja salfad, et mõnus ja käepärane süüa oleks.
-
-  <img alt="Kooker" src="Kookeripeolaud.JPG" height="250">
-
-
-  Sünnipäevapakett 5-le külalisele
-Pakett sisaldab:
-**Soolased minipannkoogid**
--Singi-juustutäidisega minipannkoogid 50 tk
--Kana-paprikatäidisega minipannkoogid 25 tk
-Kastmed: tšillimajonees (100ml), küüslaugukaste (150ml)
-**Magusad minipannkoogid**
--Minipannkoogid 75 tk
-Lisandid: vaarika toormoos (150ml), kondenspiim (150ml), Nutella (150ml), Maitsete Majaka soolakaramelli kaste (150ml),
-**Joogid**
-Rabarberilimps 3 pdl
-Õunalimps 2 pdl
-
-
-Paketi maksumus 5-le: 70€ 
-Paketi maksumus 10-le: 110€ 
-Paketi maksumus 15-le: 165€ 
-Paketi maksumus 20-le: 210€ 
+  **KOOKER MINIPANNKOOGID**
+  Vahva peolaud soolaste ja magusate minipannkookidega ning jookidega!
+  Torela annab sooduskoodi, millega saab pannkoogid Torelasse osavamalt kohale tellida!
+  
+  <img alt="Kooker" src="Kookerminipannkoogid8467.jpg" height="250">
 
   
   **MÕMMI PAKETT 15-LE - 175€**
