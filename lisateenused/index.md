@@ -191,25 +191,6 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   <img alt="Vahvlid" src="vahvlid.jpg" height="250">
 
   
- 
-## DONUTS - al 1,5€/tk {#donuts}
-
-   Selleks, et sünnipäev veelgi paremini veerekeks, on meil maailma parimad donutsid!  Mei donutsid valmivad käsitööna ja spetsiaalselt just teie peoks. Lisaks tavavalikus olevatele kaunistustele, võtame vastu ka eritellimusi. Laste nimedega donutsid, üksksarvikud, jalgpall, Käpapatrull, printsessi temaatika - muudame kõik donutsisoovid reaalsuseks! NB! Erisoovidele ei kehti tavahind! Tordi asemel saab sünnipäeva lõpuks pakkuda donutsi-torni! 
-    
-  **1tk - 2€**
-  
-  **4tk - 7€**
-  
-  **6tk - 10€**
-  
-  **8tk - 13€**
-  
-  **10tk - 15€**
-  
-  <img alt="Donuts" src="eesti_donuts4_list.jpg" height="250">
-  <img alt="Donuts1" src="4_orig.jpg" height="250">
-  <img alt="Donuts2" src="3_orig.jpg" height="250">
-
 
 ## PEOBOX - al 49€ {#peobox}
   Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
