@@ -185,10 +185,10 @@ const additionalServices = {
     et: 'Toitlustus',
     ru: 'Питание',
     KookerPancakes: {
-      en: 'Kooker Pancakes for 5',
-      et: 'Kookeri pannkoogid 5-le',
-      ru: 'Блинчики Kooker для 5',
-      price: 70,
+      en: 'Kooker Pancakes',
+      et: 'Kookeri pannkoogid',
+      ru: 'Блинчики Kooker',
+      price:,
       priceUnit: ''
   
     }, 
@@ -218,14 +218,6 @@ const additionalServices = {
       et: 'Retrovahvlid',
       ru: 'Ретро вафли',
       price: 0.8,
-      priceUnit: 'tk',
-      requestCount: true
-    },   
-    donuts: {
-      en: 'Donuts',
-      et: 'Sõõrikud',
-      ru: 'Пончики',
-      price: 2,
       priceUnit: 'tk',
       requestCount: true
     },
