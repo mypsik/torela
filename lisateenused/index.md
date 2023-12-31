@@ -236,7 +236,11 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   <img alt="Jäätisemasin" src="jaatisemasin.jpg" height="250"> 
   <img alt="Plakat" src="Plakat.jpg" height="250"> 
 
- 
+ VEGAN:
+ Veganit saab 40 kaupa (69€)
+* Vanill
+* Õuna sorbett (soovitan serveerida topsist)
+* Maasika sorbett
  
   **JÄÄTISE LISANDID + 9€**
   Jäätise kaunistuste komplekt: minivahukommid, minišokolaadinööbid, röstitud šokolaadiküpsise puru ja nonparellid. 
