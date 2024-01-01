@@ -13,7 +13,7 @@ Suurepärane võimalus suhelda, mängidsa ja pannkooke süüa!
 Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
 
 
-**11.01 (N) - MÄNGUHOMMIK - SENSOORNE MÖLL**
+**16.01 (T) - MÄNGUHOMMIK - SENSOORNE MÖLL**
 Ootame teid väga erilisele mänguhommikule! Põrandale tehtud erinevate anumate ja lusikatega ala, kus laps saab lasta oma loovuse valla! 
 Laual mõnus näks ning pakume kohvi!
 
