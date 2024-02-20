@@ -8,9 +8,19 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**25.01 (N) - MÄNGUHOMMIK**
-Suurepärane võimalus suhelda, mängidsa ja pannkooke süüa!
-Osaluspanus: 7€ (vanem+laps), +3€ (järgmised lapsed)
+**22.02 (N) - MÄNGUHOMMIK - SENSOORNE MÖLL**
+Ootame teid mänguhommikule! Lastele on valmis pandud mõnus sensoorne ala, kus lapsed saavad erinevate lusikate, kausside ja topsidega enamasti söödava kraamiga mängida! 
+Laual mõnus näks ning pakume kohvi!
+Soovi korral kaasa vahetusriided. 
+Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
+
+
+**29.02 (N) - MÄNGUHOMMIK - VÄRVIDEGA KUNSTIHOMMIK**
+Ootame teid mänguhommikule! 
+Lastele on valmis pandud mõnus sensoorne värvidega ala, kus lapsed saavad näpuvärvide ja abivahenditega kunsti teha!
+Laual mõnus näks ning pakume kohvi!
+Kaasa vahetusriided. 
+Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
 
 
 **26.01 (R) - MÄNGUHOMMIK - KÜLAS BALTIC BLOCKS**
@@ -18,15 +28,6 @@ Ootame teid mänguhommikule! Külla tuleb Baltic Blocks, kes tutvustab uudseid m
 Laual mõnus näks ning pakume kohvi!
 
 Osaluspanus: 7€ (vanem+laps), +3€ (järgmised lapsed)
-
-
-**13.02 (T) - VASTAPÄEVA MÄNGUHOMMIK**
-Suurepärane võimalus suhelda, mängida ja vastlakukleid süüa!
-Pakume vastlakukleid ja äkki ka hernesuppi! Kohvi saab ka!
-Lastega meisterdame!
-Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
-
-
 
 
 
