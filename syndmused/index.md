@@ -8,12 +8,6 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**22.02 (N) - MÄNGUHOMMIK - SENSOORNE MÖLL**
-Ootame teid mänguhommikule! Lastele on valmis pandud mõnus sensoorne ala, kus lapsed saavad erinevate lusikate, kausside ja topsidega enamasti söödava kraamiga mängida! 
-Laual mõnus näks ning pakume kohvi!
-Soovi korral kaasa vahetusriided. 
-Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
-
 
 **29.02 (N) - MÄNGUHOMMIK - VÄRVIDEGA KUNSTIHOMMIK**
 Ootame teid mänguhommikule! 
@@ -23,7 +17,18 @@ Kaasa vahetusriided.
 Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
 
 
-**26.01 (R) - MÄNGUHOMMIK - KÜLAS BALTIC BLOCKS**
+**05.03 (T) - MÄNGUHOMMIK - SENSOORNE MÖLL**
+Ootame teid mänguhommikule! Lastele on valmis pandud mõnus sensoorne ala, kus lapsed saavad erinevate lusikate, kausside ja topsidega enamasti söödava kraamiga mängida! 
+Laual mõnus näks ning pakume kohvi!
+Soovi korral kaasa vahetusriided. 
+Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
+
+**26.03 (T) - MÄNGUHOMMIK - MUUSIKALINE-MUINASJUTUHOMMIK**
+Ootame teid väga erilisele mänguhommikule! 
+Laual mõnus näks ning pakume kohvi!
+Osaluspanus: x€ (vanem+laps), +x€ (järgmised lapsed)
+
+** MÄRTS - MÄNGUHOMMIK - KÜLAS BALTIC BLOCKS**
 Ootame teid mänguhommikule! Külla tuleb Baltic Blocks, kes tutvustab uudseid magneetilisi ehitusklotse, mille abil saavad lapsed veelgi rohkem oma fantaasiat lendu lasta!
 Laual mõnus näks ning pakume kohvi!
 
