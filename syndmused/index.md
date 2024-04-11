@@ -19,7 +19,8 @@ Ootame teid mänguhommikule!
 Laual mõnus näks ning pakume kohvi!
 
 Tavaliste sündmuste osalustasu on 7€ (laps+vanem), 12€ (lapsed+vanem). 
-Kindlasti küsige ka [Stampy.Guru](https://stampy.guru/)) digitempleid! 
+
+Kindlasti küsige ka [Stampy.Guru](https://stampy.guru/) digitempleid! 
 5x Torelat külastate, on 6.kord TASUTA!!
 
 Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
