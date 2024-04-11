@@ -9,40 +9,24 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**29.02 (N) - MÄNGUHOMMIK - VÄRVIDEGA KUNSTIHOMMIK**
+**16.04 (T) - MÄNGUHOMMIK**
 Ootame teid mänguhommikule! 
-Lastele on valmis pandud mõnus sensoorne värvidega ala, kus lapsed saavad näpuvärvide ja abivahenditega kunsti teha!
 Laual mõnus näks ning pakume kohvi!
-Kaasa vahetusriided. 
-Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
+Osaluspanus: 7€ (vanem+laps), 10€ (lastega)
 
-
-**05.03 (T) - MÄNGUHOMMIK - SENSOORNE MÖLL**
-Ootame teid mänguhommikule! Lastele on valmis pandud mõnus sensoorne ala, kus lapsed saavad erinevate lusikate, kausside ja topsidega enamasti söödava kraamiga mängida! 
-Laual mõnus näks ning pakume kohvi!
-Soovi korral kaasa vahetusriided. 
-Osaluspanus: 10€ (vanem+laps), +5€ (järgmised lapsed)
-
-**26.03 (T) - MÄNGUHOMMIK - MUUSIKALINE-MUINASJUTUHOMMIK**
-Ootame teid väga erilisele mänguhommikule! 
-Laual mõnus näks ning pakume kohvi!
-Osaluspanus: x€ (vanem+laps), +x€ (järgmised lapsed)
-
-** MÄRTS - MÄNGUHOMMIK - KÜLAS BALTIC BLOCKS**
-Ootame teid mänguhommikule! Külla tuleb Baltic Blocks, kes tutvustab uudseid magneetilisi ehitusklotse, mille abil saavad lapsed veelgi rohkem oma fantaasiat lendu lasta!
+**30.04 (T) - MÄNGUHOMMIK**
+Ootame teid mänguhommikule! 
 Laual mõnus näks ning pakume kohvi!
 
-Osaluspanus: 7€ (vanem+laps), +3€ (järgmised lapsed)
-
-
+Tavaliste sündmuste osalustasu on 7€ (laps+vanem), 12€ (lapsed+vanem). 
+Kindlasti küsige ka [Stampy.Guru](https://stampy.guru/)) digitempleid! 
+5x Torelat külastate, on 6.kord TASUTA!!
 
 Üritustele palume registreerida: [{{ site.email | replace: '@', '$'}}](mailto), teavitus chat'i või "Going" [FB üritusele](https://www.facebook.com/pg/Torelamangutuba/events/).
 
 Mängutuba asub 2. korrusel. Sisenemiseks valige fonolukult **2**. Kärud saab jätta 1. korrusele.
  
 Kõige paremini olete sündmustega kursis, kui liitute meie [Facebooki lehe](https://www.facebook.com/Torelamangutuba/events/) ja meililistiga! 
-Tavaliste sündmuste osalustasu on 7€ (laps+vanem), 12€ (lapsed+vanem). 
-
 
 
 ### 5X KAART - HIND 25€
