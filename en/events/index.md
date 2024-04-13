@@ -9,11 +9,13 @@ ru: /ru/events/
 # Upcoming events
 
 
-**11.12 (10.00-13.00) - Christmas-photoshoot playmorning**
-33€
+**16.04 (10.00-13.00) - Playmorning**
 
-**12.12 (18.00-20.00) - Christmas-photoshoot playevening**
-33€
+**30.04 (10.00-13.00) - Playmorning**
+
+**06.05 (10.00-13.00) - Torela 5th birthday party!**
+
+
 
 
 Please register to event by either writing to [{{ site.email | replace: '@', '$'}}](mailto) or putting "Going" to the corresponding [Facebook event](https://www.facebook.com/pg/Torelamangutuba/events/).
