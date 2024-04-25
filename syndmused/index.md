@@ -16,7 +16,7 @@ Kohal on Sirena ja Milda, kes tutvustavad oma vahvaid templirulle ja voolimismas
 Laual mõnus näks ning pakume kohvi!
 Tavaliste sündmuste osalustasu on 10€ (laps+vanem), 15€ (lapsed+vanem). 
 
-**06.05 (T) - SÜNNIPÄEVAPIDU**
+**06.05 (E) - SÜNNIPÄEVAPIDU**
 Ootame teid Torela sünnipäevale!
 Torela saab 5-aastaseks ning ootame kõiki seda tähistama!
 Ursula teeb näomaalinguid 10.00-11.30. 
