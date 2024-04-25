@@ -8,13 +8,12 @@ ru: /ru/events/
 ---
 # Upcoming events
 
-
-**16.04 (10.00-13.00) - Playmorning**
-
 **30.04 (10.00-13.00) - Playmorning**
+With Milda anda Sirena! We're playing with playdough!
+10€ (child with one parent), 15€ children with parents
 
 **06.05 (10.00-13.00) - Torela 5th birthday party!**
-
+5€ the whole family
 
 
 
