@@ -67,7 +67,7 @@ ru: /ru/services/
   Pildi kandmine nahale võtab aega kuni 1 minut. Valida on võimalik 500 erineva pildi seast. 
   Ei karda vett ega niiskust.
   
-  <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="250"> 
+  <img alt="Vesitätoveeringud" src="vesitatoveering1.jpg" height="250">  
 
 ## TOIT PEOLAUALE - al 70€ {#torelaCatering}
 
@@ -467,21 +467,33 @@ Hind lapsevanemale / peo korraldajale: <6 in 15€/in ; 7-12 in 12€/in
   <img alt="pallikobo_9+1+2n.jpg" src="pallikobo_9+1+2n.jpg" height="250">
   
   
-  **ÕHUPALLIKAAR 2,5M - 43€**
-  
-  <img alt="pallikaar_2,5m.jpg" src="pallikaar_2,5m.jpg" height="250">
-  
-  
-   **ÕHUPALLIKAAR 5M - 73€**
-  
-  <img alt="pallikaar_5m.jpg" src="pallikaar_5m.jpg" height="250">
-  
-  
-  
+ ## ÕHUPALLIDEST DEKORATSIOON - alates 38€ {#balloonDecoration}
+Villika Events teeb lapse peo eriliseks oma ilusate õhupallidest dekoratsioonidega! 
+Peo lõpus saab kaunistuse koju viia
 
+1) Õhupalli vanik karuga - 2 meetrit, hind 38€
+2) Džungli teemaline poolkaar - 2 meetrit (valikus ahv/zebra/leopard), hind 48€
+3) Roosa vanik lipsuga - 1.7 meetrit, hind 38€
+4) Merineitsi saba - 2.7 meetrit, hind 48€
   
+  <img alt="Õhupalli vanik karuga" src="Karu.jpg" height="250"> 
+  <img alt="Džungel zebra poolkaar" src="Džungel_zebra.jpg" height="250"> 
+  <img alt="Džungel ahv poolkaar" src="Džungel_ahv.jpg" height="250">
+  <img alt="Džungel leopard poolkaar" src="Džungel_leopard.jpg" height="250"> 
+  <img alt="Roosa vanik lipsuga" src="Roosa_lips.jpg" height="250"> 
+  <img alt="Merineitsi saba" src="Merineitsi.jpg" height="250"> 
+
+ ## PINATA - alates 22€ {#pinata}
+Telli sünnipäevale vahva pinata! 
+Pinata on täidetud kas õhupallikeste või konfetidega. 
+Kaasas pulk ja riputamiseks nöör. 
+Kommid ei kuulu hinna sisse ja pinata tuleks kommidega ise täita. 
+Pinata tuuakse peo alguseks kohale. 
+
+1) Väike 22€ (mahutab 1,5-2kg komme)
+2) Keksmine 37€ (mahutab 2,5+kg komme)
   
-  
-  
-  
-  
+  <img alt="Pinata, Paw Patrol" src="Pinata, Paw Patrol.jpg" height="250"> 
+  <img alt="Pinata, Kiisu" src="Kiisu pinata.jpg" height="250"> 
+  <img alt="Pinata, Laama" src="Laama pinata.jpg" height="250"> 
+     
