@@ -363,6 +363,20 @@ const additionalServices = {
       ru: 'Надувные шары, от',
       price: 26,
       priceUnit: ''
+    },   
+    balloon decoration: {
+      en: 'Balloon decoration, from',
+      et: 'Õhupallidest dekoratsioon, alates',
+      ru: 'Украшение воздушными шарами, от',
+      price: 38,
+      priceUnit: ''  
+      },   
+    Pinata: {
+      en: 'Pinata, from',
+      et: 'Pinata, alates',
+      ru: 'Пиньята, от',
+      price: 20,
+      priceUnit: ''
     },
   },
 }
