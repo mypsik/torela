@@ -370,7 +370,7 @@ const additionalServices = {
       ru: 'Украшение воздушными шарами, от',
       price: 38,
       priceUnit: ''  
-      },   
+    },   
     Pinata: {
       en: 'Pinata, from',
       et: 'Pinata, alates',
