@@ -471,10 +471,10 @@ Hind lapsevanemale / peo korraldajale: <6 in 15€/in ; 7-12 in 12€/in
 Villika Events teeb lapse peo eriliseks oma ilusate õhupallidest dekoratsioonidega! 
 Peo lõpus saab kaunistuse koju viia
 
-1) Õhupalli vanik karuga - 2 meetrit, hind 38€
-2) Džungli teemaline poolkaar - 2 meetrit (valikus ahv/zebra/leopard), hind 48€
-3) Roosa vanik lipsuga - 1.7 meetrit, hind 38€
-4) Merineitsi saba - 2.7 meetrit, hind 48€
+1. Õhupalli vanik karuga - 2 meetrit, hind 38€
+2. Džungli teemaline poolkaar - 2 meetrit (valikus ahv/zebra/leopard), hind 48€
+3. Roosa vanik lipsuga - 1.7 meetrit, hind 38€
+4. Merineitsi saba - 2.7 meetrit, hind 48€
   
   <img alt="Õhupalli vanik karuga" src="Karu.jpg" height="250"> 
   <img alt="Džungel zebra poolkaar" src="Džungel_zebra.jpg" height="250"> 
@@ -490,8 +490,8 @@ Kaasas pulk ja riputamiseks nöör.
 Kommid ei kuulu hinna sisse ja pinata tuleks kommidega ise täita. 
 Pinata tuuakse peo alguseks kohale. 
 
-1) Väike 22€ (mahutab 1,5-2kg komme)
-2) Keksmine 37€ (mahutab 2,5+kg komme)
+1. Väike 22€ (mahutab 1,5-2kg komme)
+2. Keksmine 37€ (mahutab 2,5+kg komme)
   
   <img alt="Pinata, Paw Patrol" src="Pinata, Paw Patrol.jpg" height="250"> 
   <img alt="Pinata, Kiisu" src="Kiisu pinata.jpg" height="250"> 
