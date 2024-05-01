@@ -364,7 +364,7 @@ const additionalServices = {
       price: 26,
       priceUnit: ''
     },   
-    balloon decoration: {
+    balloonDecoration: {
       en: 'Balloon decoration, from',
       et: 'Õhupallidest dekoratsioon, alates',
       ru: 'Украшение воздушными шарами, от',
