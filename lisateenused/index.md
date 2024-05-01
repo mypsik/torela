@@ -467,7 +467,7 @@ Hind lapsevanemale / peo korraldajale: <6 in 15€/in ; 7-12 in 12€/in
   <img alt="pallikobo_9+1+2n.jpg" src="pallikobo_9+1+2n.jpg" height="250">
   
   
- ## ÕHUPALLIDEST DEKORATSIOON - alates 38€ {#balloonDecoration}
+## ÕHUPALLIDEST DEKORATSIOON - alates 38€ {#balloonDecoration}
 Villika Events teeb lapse peo eriliseks oma ilusate õhupallidest dekoratsioonidega! 
 Peo lõpus saab kaunistuse koju viia
 
@@ -483,7 +483,7 @@ Peo lõpus saab kaunistuse koju viia
   <img alt="Roosa vanik lipsuga" src="Roosa_lips.jpg" height="250"> 
   <img alt="Merineitsi saba" src="Merineitsi.jpg" height="250"> 
 
- ## PINATA - alates 22€ {#pinata}
+## PINATA - alates 22€ {#pinata}
 Telli sünnipäevale vahva pinata! 
 Pinata on täidetud kas õhupallikeste või konfetidega. 
 Kaasas pulk ja riputamiseks nöör. 
