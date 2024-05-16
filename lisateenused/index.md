@@ -468,7 +468,7 @@ Hind lapsevanemale / peo korraldajale: <6 in 15€/in ; 7-12 in 12€/in
   
   
 ## ÕHUPALLIDEST DEKORATSIOON - alates 38€ {#balloonDecoration}
-Villika Events teeb lapse peo eriliseks oma ilusate õhupallidest dekoratsioonidega! 
+Villikka Events teeb lapse peo eriliseks oma ilusate õhupallidest dekoratsioonidega! 
 Peo lõpus saab kaunistuse koju viia
 
 1. Õhupalli vanik karuga - 2 meetrit, hind 38€
