@@ -9,19 +9,14 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**30.04 (T) - MÄNGUHOMMIK SIRENA JA MILDAGA**
+**18.06 (T) - MÄNGUHOMMIK - TEEME KUMMIKOMME**
 Ootame teid mänguhommikule! 
-Kohal on Sirena ja Milda, kes tutvustavad oma vahvaid templirulle ja voolimismasse!
+Lõbu Laialt teeb lastega kummikommide meisterdamise hommiku! 
 
 Laual mõnus näks ning pakume kohvi!
-Tavaliste sündmuste osalustasu on 10€ (laps+vanem), 15€ (lapsed+vanem). 
+Tavaliste sündmuste osalustasu on 15€ (laps+vanem), 20€ (lapsed+vanem). 
 
-**06.05 (E) - SÜNNIPÄEVAPIDU**
-Ootame teid Torela sünnipäevale!
-Torela saab 5-aastaseks ning ootame kõiki seda tähistama!
-Ursula teeb näomaalinguid 10.00-11.30. 
 
-Osaluspanus: kogu pere - 5€
 
 Kindlasti küsige ka [Stampy.Guru](https://stampy.guru/) digitempleid! 
 5x Torelat külastate, on 6.kord TASUTA!!
