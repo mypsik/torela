@@ -9,12 +9,12 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**18.06 (T) - MÄNGUHOMMIK - TEEME KUMMIKOMME**
+**04.07 (N) - MÄNGUHOMMIK - SENSOORNE MÖLL - TAIMED**
 Ootame teid mänguhommikule! 
-Lõbu Laialt teeb lastega kummikommide meisterdamise hommiku! 
+Lastele on valmis pandud sensoorne mänguala taimedega. 
 
 Laual mõnus näks ning pakume kohvi!
-Tavaliste sündmuste osalustasu on 15€ (laps+vanem), 20€ (lapsed+vanem). 
+Tavaliste sündmuste osalustasu on 10€ (laps+vanem), 15€ (lapsed+vanem). 
 
 
 
