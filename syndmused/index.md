@@ -9,9 +9,10 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**04.07 (N) - MÄNGUHOMMIK - SENSOORNE MÖLL - TAIMED**
+**16.07 (T) - MÄNGUHOMMIK - DINOSAURUSTEGA MÄNGUHOMMIK**
 Ootame teid mänguhommikule! 
-Lastele on valmis pandud sensoorne mänguala taimedega. 
+Lastele on valmis pandud sensoorne mänguala dinosaurustega. 
+Saab ka meisterdada, voolida, värvida! 
 
 Laual mõnus näks ning pakume kohvi!
 Tavaliste sündmuste osalustasu on 10€ (laps+vanem), 15€ (lapsed+vanem). 
