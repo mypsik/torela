@@ -1,4 +1,4 @@
-FROM node:16-alpine as build
+FROM node:20-alpine as build
 WORKDIR /api
 
 COPY package.json package-lock.json /api/
@@ -9,7 +9,7 @@ RUN npm test
 RUN npm run build-api
 
 
-FROM node:16-alpine
+FROM node:20-alpine
 WORKDIR /api
 
 ENV TZ=Europe/Tallinn
