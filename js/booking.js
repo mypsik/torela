@@ -314,7 +314,7 @@ const additionalServices = {
       en: 'Magician',
       et: 'Mustkunstnik',
       ru: 'Фокусник',
-      price: 115,
+      price: 125,
       priceUnit: '30min'
     },
     scienceTheater: {
