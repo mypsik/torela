@@ -377,7 +377,7 @@ Lisatopsid 10tk 4,00€
   <img alt="Pipi Pikksukk" src="pipi-pikksukk.jpg" height="250">
 
 
-## MUSTKUNSTNIK - 115€/30min {#magician}
+## MUSTKUNSTNIK - 125€/30min {#magician}
 
   Mustkunstnik Richard Samarüütel lisab laste sünnipäevadele maagiat ja unustamatuid trikke.
 
