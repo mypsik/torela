@@ -9,22 +9,6 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**08.10 (T) - Titi-Riti laulu- ja mänguhommik**
-Ootame teid Titi-Riti laulu- ja mänguhommikule! 🥳🥳
-Lauluring alustab ~10.30 ja kestab orienteeruvalt 30 minutit.
-Enne ja pärast lauluringi saavad lapsed ka mängutoas mängida!
-Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
-
-Titi-Riti lauluring toimub regulaarselt teisipäeviti (v.a kuu esimese teisipäeva asemel toimub kolmapäeval).
-
-**10.10 (N) - MÄNGUHOMMIK - DINOSAURUSTEGA MÄNGUHOMMIK**
-Ootame teid mänguhommikule! 
-Lastele on valmis pandud sensoorne mänguala dinosaurustega. 
-Saab ka meisterdada ja värvida! 
-
-Laual mõnus näks ning pakume kohvi!
-Osalustasu on 10€ (laps+vanem), 15€ (lapsed+vanem). 
-
 **15.10 (T) - Titi-Riti laulu- ja mänguhommik**
 Ootame teid Titi-Riti laulu- ja mänguhommikule! 🥳🥳
 Lauluring alustab ~10.30 ja kestab orienteeruvalt 30 minutit.
@@ -66,12 +50,54 @@ ERIPROGRAMM!!
 Laual mõnus näks ning pakume kohvi!
 
 
-**02.12 (E) 18.00 - JÕULUETENDUS**
-Jõuluetendus
+**14.11 (N) - MÄNGUHOMMIK UNENÕUSTAJAGA**
+Tule oma lapsega mängima ja saad samal ajal võimaluse unenõustajalt Uneliiva Livialt uneprobleemide osas nõu küsida. Kui vestluse käigus selgub, et abi oleks pikemaks perioodiks vaja, saad nõustamisteenuse broneerida soodushinnaga (-10%).
+Uneliiva Livia aitab:
+◦ Päevakava optimeerida
+◦ Beebi või lapse rahulikumalt uinuma
+◦ Rinnast võõrutamise teekonnal
+
+Osalustasu 15€ (laps+vanem)
+Kohapeal saab tasuda ainult sularahas!
+KOHTADE ARV PIIRATUD!
 
 
-**06.12 (R) 12.00 - JÕULUETENDUS**
-Jõuluetendus
+**02.12 (E) 18.00 - JÕULUETENDUS "Päkapikk päästab jõulud"**
+Etendus "Päkapikk päästab jõulud"
+
+Südantsoojendav ja seiklusterohke jõululugu tüdrukust, kes leiab end jõuluõhtul üksinda kodus. Väike tüdruk on murest murtud ja tunneb end üksikuna. Kuid siis ilmub ootamatult appi päkapikk, kelle ülesandeks on päästa jõulud ja tuua tagasi rõõm ja naer. Koos astuvad nad imelisele teekonnale, et taastada jõulude maagia ning meenutada, et armastus ja hoolivus on alati meie lähedal, isegi siis, kui me seda esmapilgul ei näe.
+Etendus on täis soojust, sõprust ja muidugi jõuluvõlusid, mis liigutavad nii suuri kui väikeseid pealtvaatajaid
+
+Lisainfo:
+Etendus on kahe näitlejaga - Merli ja Mariliga
+Pikkus 30 min
+Sobilik alates 3-eluaastast!
+
+Pilet:
+Laps - 9€
+Täiskasvanu - 11€
+KOHTADE ARV ON PIIRATUD!
+Pileti soetamiseks kirjutada: tore@torela.ee ja teha ülekanne: Torela OÜ EE477700771003581431
+Selgituseks: kuupäev ja laste/täiskasvanute arv
+
+
+**06.12 (R) 11.00 - JÕULUETENDUS "Päkapikk päästab jõulud"**
+Etendus "Päkapikk päästab jõulud"
+
+Südantsoojendav ja seiklusterohke jõululugu tüdrukust, kes leiab end jõuluõhtul üksinda kodus. Väike tüdruk on murest murtud ja tunneb end üksikuna. Kuid siis ilmub ootamatult appi päkapikk, kelle ülesandeks on päästa jõulud ja tuua tagasi rõõm ja naer. Koos astuvad nad imelisele teekonnale, et taastada jõulude maagia ning meenutada, et armastus ja hoolivus on alati meie lähedal, isegi siis, kui me seda esmapilgul ei näe.
+Etendus on täis soojust, sõprust ja muidugi jõuluvõlusid, mis liigutavad nii suuri kui väikeseid pealtvaatajaid
+
+Lisainfo:
+Etendus on kahe näitlejaga - Merli ja Mariliga
+Pikkus 30 min
+Sobilik alates 3-eluaastast!
+
+Pilet:
+Laps - 9€
+Täiskasvanu - 11€
+KOHTADE ARV ON PIIRATUD!
+Pileti soetamiseks kirjutada: tore@torela.ee ja teha ülekanne: Torela OÜ EE477700771003581431
+Selgituseks: kuupäev ja laste/täiskasvanute arv
 
 
 
