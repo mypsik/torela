@@ -76,10 +76,10 @@ ru: /ru/services/
   **LINDA MAITSED SUUPISTED**
   LINDA MAITSED CATERING pakub imeilusaid suupisteid! Valik on suur ja kindlasti leiab igaüks endale midgai meelepärast!    
  
-  <img alt="suur suupistevaagen" src="suur suupistevaagen.png" height="250">
-  <img alt="juustuvaagen" src="Juustuvaagen.png" height="250">
-  <img alt="dipivaagen" src="Dipivaagen.png" height="250">
-  <img alt="magusa vaagen" src="Magusa vaagen.png" height="250">
+  <img alt="suur suupistevaagen" src="suur suupistevaagen.png" height="350">
+  <img alt="juustuvaagen" src="Juustuvaagen.png" height="350">
+  <img alt="dipivaagen" src="Dipivaagen.png" height="350">
+  <img alt="magusa vaagen" src="Magusa vaagen.png" height="350">
 
   
   
