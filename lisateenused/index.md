@@ -73,40 +73,14 @@ ru: /ru/services/
 
   Sünnipäevale tulles on peolaud hea ja paremaga kaetud! 
 
-  **MAITSED KARBIS**
-  LINDA MAITSED CATERING pakub imeilusaid suupiste karpe. Valik on suur ja kindlasti leiab igaüks just endale üritusele  
-  sobiva. 
-  
-  MERE MAITSED KARBIS (4KG) (145€ + KM)
-  Erinevad juurviljad koos soolalõhe, suitsulõhe, india pähkli-basiiliku pesto, quacamole, forellimarja, baguette saia ning 
-  ürdi-toorjuustuga.
-  
-  <img alt="meremaitsed" src="meremaitsed.jpg" height="250">
+  **LINDA MAITSED SUUPISTED**
+  LINDA MAITSED CATERING pakub imeilusaid suupisteid! Valik on suur ja kindlasti leiab igaüks endale midgai meelepärast!    
+ 
+  <img alt="suur suupistevaagen" src="suur suupistevaagen.png" height="250">
+  <img alt="juustuvaagen" src="Juustuvaagen.png" height="250">
+  <img alt="dipivaagen" src="Dipivaagen.png" height="250">
+  <img alt="magusa vaagen" src="Magusa vaagen.png" height="250">
 
-
-  MAGUSAD MAITSED KARBIS (4KG) (135€ + KM)
-  Puuviljavaagen koos nutella, kondenspiima, maapähklivõi ja vaarikamoosiga. Lisaks šokolaadiküpsised, rummipallid ning 
-  blondie koogi ampsud.
-  
-  <img alt="magusadmaitsed" src="magusadmaitsed.jpg" height="250">
-
-
-  VÄRVILISED MAITSED KARBIS (4KG) (120€ + KM)
-  Erinevad puu- ja juurviljad koos peedihummuse, india pähkli-basiiliku pesto, ürdi-toorjuustu, murakamoosi, prosciutto 
-  singi, salaami rooside, valiku juustude ning leivalistega.
-  
-  <img alt="värvilisedmaitsed" src="värvilisedmaitsed.jpg" height="250">
-
-  EESTI MAITSED KARBIS (4KG) (105€ + KM)
-  Erinevad juurviljad koos peedihummuse, munavõi, vürtsikilu, kartulisalati, musta leiva ning hapukurgiga.
-  
-  <img alt="eestimaitsed" src="eestimaitsed.jpg" height="250">
-
-
-  VEGAN MAITSED KARBIS (4KG) (85€ + KM)
-  Erinevad puu- ja juurviljad koos peedi-, kikerhernehummuse ning leivalistega.
-  
-  <img alt="veganmaitsed" src="veganmaitsed.jpg" height="250">
   
   
   **KOOKER MINIPANNKOOGID**
