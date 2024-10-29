@@ -8,34 +8,6 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-
-**15.10 (T) - Titi-Riti laulu- ja mänguhommik**
-Ootame teid Titi-Riti laulu- ja mänguhommikule! 🥳🥳
-Lauluring alustab ~10.30 ja kestab orienteeruvalt 30 minutit.
-Enne ja pärast lauluringi saavad lapsed ka mängutoas mängida!
-Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
-
-Titi-Riti lauluring toimub regulaarselt teisipäeviti (v.a kuu esimese teisipäeva asemel toimub kolmapäeval).
-
-**17.10 (N) - MÄNGUHOMMIK**
-Ootame teid mänguhommikule! 
-Laual mõnus näks ning pakume kohvi!
-Osalustasu on 7€ (laps+vanem), 10€ (lapsed+vanem). 
-
-
-**22.10 (T) - Titi-Riti laulu- ja mänguhommik**
-Ootame teid Titi-Riti laulu- ja mänguhommikule! 🥳🥳
-Lauluring alustab ~10.30 ja kestab orienteeruvalt 30 minutit.
-Enne ja pärast lauluringi saavad lapsed ka mängutoas mängida!
-Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
-
-Titi-Riti lauluring toimub regulaarselt teisipäeviti (v.a kuu esimese teisipäeva asemel toimub kolmapäeval).
-
-**24.10 (N) - MÄNGUHOMMIK**
-Ootame teid mänguhommikule! 
-Laual mõnus näks ning pakume kohvi!
-Osalustasu on 7€ (laps+vanem), 10€ (lapsed+vanem). 
-
 **29.10 (T) - Titi-Riti laulu- ja mänguhommik**
 Ootame teid Titi-Riti laulu- ja mänguhommikule! 🥳🥳
 Lauluring alustab ~10.30 ja kestab orienteeruvalt 30 minutit.
@@ -45,9 +17,29 @@ Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
 Titi-Riti lauluring toimub regulaarselt teisipäeviti (v.a kuu esimese teisipäeva asemel toimub kolmapäeval).
 
 **30.10 (K) - HALLOWEENI-MÄNGUHOMMIK**
-Ootame teid halloweeni-mänguhommikule! 
-ERIPROGRAMM!!
+Ootame teid halloweeni-mänguhommikule! Tulge kohale kostüümides! 
+
+-näomaalingud! 
+-õhupallid!
+-Disko!
+-Meisterdamine
 Laual mõnus näks ning pakume kohvi!
+10€ - (laps+vanem) ja 15€ -  (lapsed+vanem)
+
+
+**06.11 (K) - Titi-Riti laulu- ja mänguhommik**
+Ootame teid Titi-Riti laulu- ja mänguhommikule! 🥳🥳
+Lauluring alustab ~10.30 ja kestab orienteeruvalt 30 minutit.
+Enne ja pärast lauluringi saavad lapsed ka mängutoas mängida!
+Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
+
+Titi-Riti lauluring toimub regulaarselt teisipäeviti (v.a kuu esimese teisipäeva asemel toimub kolmapäeval).
+
+
+**24.10 (N) - MÄNGUHOMMIK**
+Ootame teid mänguhommikule! 
+Laual mõnus näks ning pakume kohvi!
+Osalustasu on 7€ (laps+vanem), 10€ (lapsed+vanem). 
 
 
 **14.11 (N) - MÄNGUHOMMIK UNENÕUSTAJAGA**
@@ -60,6 +52,18 @@ Uneliiva Livia aitab:
 Osalustasu 15€ (laps+vanem)
 Kohapeal saab tasuda ainult sularahas!
 KOHTADE ARV PIIRATUD!
+
+
+**02.12 (E) 10.00 - 13.00 - MÄNGUHOMMIK + JÕULUPILDISTAMINE**
+Mänguhommikul on kohal meie kõige lemmikum fotograaf Helen Tulp, kes teeb spetsiaalselt pildistamiseks loodud jõulunurgas kõigist armsaid pilte!
+Pildid saab fotograafilt digitaalsel kujul hiljem alla laadida.
+Pildistamine hakkab 10.30 ja kestab ~2 tundi.
+Mängida ja juttu ajada saab 13.00-ni!
+
+Registreerimiseks kirjutage meile tore@torela.ee ja koha kinnitamiseks ootame ülekannet Torela OÜ kontole EE477700771003581431.
+
+KOHTADE ARV ON PIIRATUD!
+Osalemispanus pere kohta on 36€.
 
 
 **02.12 (E) 18.00 - JÕULUETENDUS "Päkapikk päästab jõulud"**
@@ -81,6 +85,17 @@ Pileti soetamiseks kirjutada: tore@torela.ee ja teha ülekanne: Torela OÜ EE477
 Selgituseks: kuupäev ja laste/täiskasvanute arv
 
 
+**04.12 (E) 18.00 - 20.30 - MÄNGUÕHTU + JÕULUPILDISTAMINE**
+Mänguhommikul on kohal meie kõige lemmikum fotograaf Helen Tulp, kes teeb spetsiaalselt pildistamiseks loodud jõulunurgas kõigist armsaid pilte!
+Pildid saab fotograafilt digitaalsel kujul hiljem alla laadida.
+Pildistamine hakkab 18.00 ja kestab ~2 tundi.
+Mängida ja juttu ajada saab 20.30-ni!
+
+Registreerimiseks kirjutage meile tore@torela.ee ja koha kinnitamiseks ootame ülekannet Torela OÜ kontole EE477700771003581431.
+
+KOHTADE ARV ON PIIRATUD!
+Osalemispanus pere kohta on 36€.
+
 **06.12 (R) 11.00 - JÕULUETENDUS "Päkapikk päästab jõulud"**
 Etendus "Päkapikk päästab jõulud"
 
@@ -98,7 +113,6 @@ Täiskasvanu - 11€
 KOHTADE ARV ON PIIRATUD!
 Pileti soetamiseks kirjutada: tore@torela.ee ja teha ülekanne: Torela OÜ EE477700771003581431
 Selgituseks: kuupäev ja laste/täiskasvanute arv
-
 
 
 Tavaliste sündmuste osalustasu on 10€ (laps+vanem), 15€ (lapsed+vanem).
