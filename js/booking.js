@@ -222,6 +222,13 @@ const additionalServices = {
       priceUnit: 'tk',
       requestCount: true
     },
+    BoomCakes: {
+      en: 'Boom cake',
+      et: 'Boom tort',
+      ru: 'Бум торт',
+      price: 35,
+      priceUnit: ''
+    },
     icecreamMachine: {
       en: 'Icecream machine',
       et: 'Jäätisemasin',
