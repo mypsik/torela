@@ -200,19 +200,22 @@ Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunh
   
   <img alt="Vahvlid" src="vahvlid.jpg" height="250">
 
-  
 
-## PEOBOX - al 49€ {#peobox}
-  Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
-  
-  MUGAV. KIIRE. KESKKONNASÄÄSTLIK.
-  [Täpsemad hinnad ja pakettide tutvustamised](https://peobox.ee/sunnipaevad/){:target="_blank"}
-  
 
-  <img alt="Frozen" src="frozen.jpg" height="250"> 
-  <img alt="Peobox0" src="peobox0.jpg" height="250">
-  <img alt="Peobox1" src="peobox1.jpg" height="250">
-  <img alt="Kosmos" src="kosmosepidu.png" height="250"> 
+## BOOM TORDID - al 35€ {#boomcakes}
+
+Eesti kõige erilisemad tordid lapse sünnipäevaks! 
+Haara haamer ja proovi tordi sees peituvad üllatused kätte saada!
+Tort tuleb ette tellida vähemalt 48h. 
+Tort tuuakse peo alguseks kohale! 
+
+
+  <img alt="auto" src="boom-auto.png" height="350">
+  <img alt="dino" src="boom-dino.png" height="350">
+  <img alt="panda" src="boom-panda.png" height="350">
+  <img alt="vikerkaar" src="boom-vikerkaar.png" height="350"> 
+
+
 
 
 ## JÄÄTISEMASIN - al 59€ {#icecreamMachine}
@@ -284,6 +287,19 @@ Lisatopsid 10tk 4,00€
   Hinnas on: suhkruvatimasin, kuppel, suhkru dosaator, 1kg suhkrut, 50 puidust pulka. Võimalik saada värvilisi erinevate maitsetega suhkruid.
    
    <img alt="Suhkruvatimasin" src="suhkruvatimasin.jpeg" height="250"> 
+
+
+## PEOBOX - al 49€ {#peobox}
+  Peobox on renditav peokomplekt, mille abil saad katta laua ja dekoreerida temaatiliselt peokoha. 
+  
+  MUGAV. KIIRE. KESKKONNASÄÄSTLIK.
+  [Täpsemad hinnad ja pakettide tutvustamised](https://peobox.ee/sunnipaevad/){:target="_blank"}
+  
+
+  <img alt="Frozen" src="frozen.jpg" height="250"> 
+  <img alt="Peobox0" src="peobox0.jpg" height="250">
+  <img alt="Peobox1" src="peobox1.jpg" height="250">
+  <img alt="Kosmos" src="kosmosepidu.png" height="250"> 
 
 ## FOTOGRAAF - 155€/~2h {#photographer}
   Meie fotograafiks on väga tore Helen Tulp, kes jäädvustab lapse sünnipäeva kõik ehedad emotsioonid ja parimad hetked!
