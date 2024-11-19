@@ -8,26 +8,8 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**29.10 (T) - Titi-Riti laulu- ja mänguhommik**
-Ootame teid Titi-Riti laulu- ja mänguhommikule! 🥳🥳
-Lauluring alustab ~10.30 ja kestab orienteeruvalt 30 minutit.
-Enne ja pärast lauluringi saavad lapsed ka mängutoas mängida!
-Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
 
-Titi-Riti lauluring toimub regulaarselt teisipäeviti (v.a kuu esimese teisipäeva asemel toimub kolmapäeval).
-
-**30.10 (K) - HALLOWEENI-MÄNGUHOMMIK**
-Ootame teid halloweeni-mänguhommikule! Tulge kohale kostüümides! 
-
--näomaalingud! 
--õhupallid!
--Disko!
--Meisterdamine
-Laual mõnus näks ning pakume kohvi!
-10€ - (laps+vanem) ja 15€ -  (lapsed+vanem)
-
-
-**06.11 (K) - Titi-Riti laulu- ja mänguhommik**
+**26.11 (T) - Titi-Riti laulu- ja mänguhommik**
 Ootame teid Titi-Riti laulu- ja mänguhommikule! 🥳🥳
 Lauluring alustab ~10.30 ja kestab orienteeruvalt 30 minutit.
 Enne ja pärast lauluringi saavad lapsed ka mängutoas mängida!
@@ -36,22 +18,15 @@ Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
 Titi-Riti lauluring toimub regulaarselt teisipäeviti (v.a kuu esimese teisipäeva asemel toimub kolmapäeval).
 
 
-**24.10 (N) - MÄNGUHOMMIK**
-Ootame teid mänguhommikule! 
-Laual mõnus näks ning pakume kohvi!
-Osalustasu on 7€ (laps+vanem), 10€ (lapsed+vanem). 
+**29.11 (R) - SENSOORNE MÖLL - LUMI JA JÄÄ**
+Ootame teid sensoorsele mänguhommikule! 🥳🥳
+Valmis on pandud sensoorne mänguala - teemaks lumi ja jää!
+Laud kaetud näksiga ja lapsevanematele piiramatu kogus kohvi! 
 
+Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
 
-**14.11 (N) - MÄNGUHOMMIK UNENÕUSTAJAGA**
-Tule oma lapsega mängima ja saad samal ajal võimaluse unenõustajalt Uneliiva Livialt uneprobleemide osas nõu küsida. Kui vestluse käigus selgub, et abi oleks pikemaks perioodiks vaja, saad nõustamisteenuse broneerida soodushinnaga (-10%).
-Uneliiva Livia aitab:
-◦ Päevakava optimeerida
-◦ Beebi või lapse rahulikumalt uinuma
-◦ Rinnast võõrutamise teekonnal
+Titi-Riti lauluring toimub regulaarselt teisipäeviti (v.a kuu esimese teisipäeva asemel toimub kolmapäeval).
 
-Osalustasu 15€ (laps+vanem)
-Kohapeal saab tasuda ainult sularahas!
-KOHTADE ARV PIIRATUD!
 
 
 **02.12 (E) 10.00 - 13.00 - MÄNGUHOMMIK + JÕULUPILDISTAMINE**
