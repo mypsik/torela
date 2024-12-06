@@ -335,7 +335,7 @@ const additionalServices = {
       en: 'Bugs program',
       et: 'Putukaprogramm',
       ru: 'Программа с насекомыми',
-      price: 120,
+      price: 140,
       priceUnit: '1h'
     },
     bubbleShow: {
