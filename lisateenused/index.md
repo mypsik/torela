@@ -331,7 +331,7 @@ Lisatopsid 10tk 4,00€
   <img alt="Fotograaf" src="Mina-kaameraga.jpg" height="250">
   
   
-## PUTUKAPROGRAMM - 120€/60min {#bugsShow}
+## PUTUKAPROGRAMM - 140€/60min {#bugsShow}
 
   Meie putukate programm võimaldab luua putukatega lähedast kontakti turvalises keskkonnas. Programmis on kesksel kohal elusate eksootiliste putukate 	  vaatlemine ning soovi korral ka kätte võtmine. Lisaks uuritakse värvikirevaid ja kummalisi prepareeritud putukaid läbi klaasi ja binokulaari suurenduse. Kõige selle käigus tutvutakse putukate välimuslike ja käitumuslike iseärasustega. Programmi eesmärk on luua lastes empaatia ja parem mõistmine neist endast nii erineva eluvormi suhtes. Meie eesmärk on inspireerida last end ümbritsevat rohkem märkama ja uurima.
   
