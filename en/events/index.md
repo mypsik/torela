@@ -8,14 +8,6 @@ ru: /ru/events/
 ---
 # Upcoming events
 
-**30.04 (10.00-13.00) - Playmorning**
-With Milda anda Sirena! We're playing with playdough!
-10€ (child with one parent), 15€ children with parents
-
-**06.05 (10.00-13.00) - Torela 5th birthday party!**
-5€ the whole family
-
-
 
 Please register to event by either writing to [{{ site.email | replace: '@', '$'}}](mailto) or putting "Going" to the corresponding [Facebook event](https://www.facebook.com/pg/Torelamangutuba/events/).
 
