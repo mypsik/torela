@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <script type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.net/delivery/autoblocking/29e00251f2a6c.js" data-cmp-host="a.delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="16"></script>
   <link rel="canonical" href="{{ site.url }}{{ page.url | remove:'index.html' }}">
   {%if page.et %}<link rel="alternate" href="{{ site.url }}{{ page.et }}" hreflang="et">{%endif%}
   {%if page.en %}<link rel="alternate" href="{{ site.url }}{{ page.en }}" hreflang="en">{%endif%}
@@ -44,6 +43,11 @@
     function gtag(){dataLayer.push(arguments)}
     gtag('js', new Date())
     gtag('config', 'AW-736939968')
+    gtag('consent', 'default', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied'
+    })
 
     function gtag_report_conversion(url) {
       var callback = function(){window.location = url}
