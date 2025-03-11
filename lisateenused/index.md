@@ -209,6 +209,8 @@ Haara haamer ja proovi tordi sees peituvad üllatused kätte saada!
 Tort tuleb ette tellida vähemalt 48h. 
 Tort tuuakse peo alguseks kohale! 
 
+Alates 10.03.25 - broneerides peo, mis toimub nädala sees esmaspäevast neljapäevani, saate soovi korral basic BOOM panda tordi TASUTA*! (Lisad lisatasu eest!)
+
 
   <img alt="auto" src="boom-auto.png" height="350">
   <img alt="dino" src="boom-dino.png" height="350">
