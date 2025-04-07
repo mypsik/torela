@@ -9,14 +9,7 @@ ru: /ru/events/
 # JÄRGMISED MÄNGUHOMMIKUD
 
 
-**TEISIPÄEVITI 2025 - Titi-Riti laulu- ja mänguhommik**
-Ootame teid Titi-Riti laulu- ja mänguhommikule! 🥳🥳
-Lauluring alustab ~10.30 ja kestab orienteeruvalt 30 minutit.
-Enne ja pärast lauluringi saavad lapsed ka mängutoas mängida!
-Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
-
-Titi-Riti lauluring toimub regulaarselt teisipäeviti (v.a kuu esimese teisipäeva asemel toimub kolmapäeval).
-
+**MÄNGUHOMMIKUD**
 
 Tavaliste sündmuste osalustasu on 7€ (laps+vanem), 10€ (lapsed+vanem).
 Kindlasti küsige ka [Stampy.Guru](https://stampy.guru/) digitempleid! 
