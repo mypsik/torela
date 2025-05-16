@@ -8,6 +8,10 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
+**20.05.25 - (T) MÄNGUHOMMIK**
+Ootame teid mänguhommikule! 🥳🥳
+Laud kaetud hea-paremaga ning loomulikult pakume ka kohvi-teed.
+Osalustasu: 7€ (1 laps+vanem) / 10€ (lapsed+vanem)
 
 **MÄNGUHOMMIKUD**
 
