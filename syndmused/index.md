@@ -8,10 +8,10 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**20.05.25 - (T) MÄNGUHOMMIK**
+**05.06.25 - (N) SENSOORNE MÄNGUHOMMIK DINOSAURUSTEGA**
 Ootame teid mänguhommikule! 🥳🥳
 Laud kaetud hea-paremaga ning loomulikult pakume ka kohvi-teed.
-Osalustasu: 7€ (1 laps+vanem) / 10€ (lapsed+vanem)
+Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
 
 **MÄNGUHOMMIKUD**
 
