@@ -125,10 +125,10 @@ export class Mailer {
 
   private footer() {
     return `
-      Mirjam
+      Terje
 
       tore@torela.ee
-      tel: 5695 5722
+      tel: 5661 1711
       https://torela.ee/
       facebook: https://www.facebook.com/Torelamangutuba/
       instagram: @torelamangutuba      

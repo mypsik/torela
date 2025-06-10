@@ -7,9 +7,7 @@ en: /en/contact/
 et: /kontakt/
 ---
 
-Mirjam: [{{ site.phone1 }}](tel:+372 {{ site.phone1 }})
-
-Sirli: [{{ site.phone2 }}](tel:+372 {{ site.phone2 }})
+Terje: [{{ site.phone }}](tel:+372 {{ site.phone }})
 
 [{{ site.email | replace: '@', '$'}}](mailto)
 

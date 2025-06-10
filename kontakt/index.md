@@ -7,7 +7,7 @@ en: /en/contact/
 ru: /ru/contact/
 ---
 
-Mirjam: [{{ site.phone2 }}](tel:+372 {{ site.phone2 }})
+Terje: [{{ site.phone }}](tel:+372 {{ site.phone }})
 
 E-post: [{{ site.email | replace: '@', '$'}}](mailto)
 
