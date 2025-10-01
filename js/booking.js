@@ -218,7 +218,7 @@ const additionalServices = {
       en: 'Retro waffels',
       et: 'Retrovahvlid',
       ru: 'Ретро вафли',
-      price: 0.8,
+      price: 1.2,
       priceUnit: 'tk',
       requestCount: true
     },
@@ -307,7 +307,7 @@ const additionalServices = {
       en: 'Balloon Animals',
       et: 'Õhupalliloomad',
       ru: 'Животные из воздушных шаров',
-      price: 95,
+      price: 105,
       priceUnit: '1h'
     },
     partyAnimator: {
