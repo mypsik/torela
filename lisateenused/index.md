@@ -50,7 +50,7 @@ ru: /ru/services/
 
   
 
-## ÕHUPALLILOOMAD - 95€/1h {#balloonAnimals}
+## ÕHUPALLILOOMAD - 105€/1h {#balloonAnimals}
 
   Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
 
