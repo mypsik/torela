@@ -182,21 +182,15 @@ Angervaksaõitest valmistatud karastusjook, milles on vaid väheke suhkrut ja pi
 Koostis: vesi, angervaksasiirup (vesi, angervaks, rafineerimata suhkur), sidrunhape, süsihappegaas
 
 
-## RETROVAHVLID - 8€/10tk {#retroWaffels}
+## RETROVAHVLID - 12€/10tk {#retroWaffels}
 
    Klassikalised krõbedad retrovahvlid.
   
    Koostis: 82% Eesti või, talumunad, roosuhkur, vanillisuhkur, kaneel, täispiim (3,8%- 4,2%), nisujahu ja täisteranisujahu. 
   
-  **10tk - 8€**
+  **1tk - 1,2€**
   
-  **20tk - 16€**
-  
-  **30tk - 24€**
-  
-  **40tk - 32€**
-  
-  **50tk - 40€**
+
   
   <img alt="Vahvlid" src="vahvlid.jpg" height="250">
 
