@@ -2,14 +2,19 @@ services:
   mongo:
     restart: always
     volumes:
-      - /var/lib/mongodb-torela:/data/db
-      - /var/lib/mongodb-torela-configdb:/data/configdb
+      - ./mongodb:/data/db
+      - ./configdb:/data/configdb
 
   torela:
     restart: always
     networks:
       - proxy
       - default
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.myapp.rule=Host(`api.torela.ee`)"
+      - "traefik.http.routers.myapp.entrypoints=websecure"
+      - "traefik.http.routers.myapp.tls.certresolver=letsencrypt"
 
 networks:
   proxy:
