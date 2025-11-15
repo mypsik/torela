@@ -12,9 +12,9 @@ services:
       - default
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.myapp.rule=Host(`api.torela.ee`)"
-      - "traefik.http.routers.myapp.entrypoints=websecure"
-      - "traefik.http.routers.myapp.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.torela.rule=Host(`api.torela.ee`)"
+      - "traefik.http.routers.torela.entrypoints=websecure"
+      - "traefik.http.routers.torela.tls.certresolver=letsencrypt"
 
 networks:
   proxy:
