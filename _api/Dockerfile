@@ -1,4 +1,4 @@
-FROM node:20-alpine as build
+FROM node:20-alpine AS build
 WORKDIR /api
 
 COPY package.json package-lock.json /api/
@@ -16,7 +16,7 @@ ENV TZ=Europe/Tallinn
 RUN apk add tzdata
 
 COPY package.json package-lock.json /api/
-RUN npm install --production
+RUN npm install --omit=dev
 
 COPY --from=build /api/build /api
 

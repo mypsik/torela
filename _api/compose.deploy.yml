@@ -11,10 +11,8 @@ services:
       - proxy
       - default
     labels:
-      - "traefik.enable=true"
-      - "traefik.http.routers.torela.rule=Host(`api.torela.ee`)"
-      - "traefik.http.routers.torela.entrypoints=websecure"
-      - "traefik.http.routers.torela.tls.certresolver=letsencrypt"
+      - caddy=api.torela.ee
+      - caddy.reverse_proxy={{upstreams 5000}}
 
 networks:
   proxy:
