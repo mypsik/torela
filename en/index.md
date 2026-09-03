@@ -9,7 +9,9 @@ et: /
 ru: /ru/
 ---
 
-Torela is a new and exciting playroom in Põhja-Tallinn, between Kalamaja and Pelgulinna.
+Torela was a new and exciting playroom in Põhja-Tallinn, between Kalamaja and Pelgulinna.
+
+UNFORTUNATELY TORELA HAS CLOSED PERMANENTLY. IT WAS NICE TO SERVE YOU FOR MANY YEARS.
 
 You can celebrate children birthdays, come play morning playtime and join us in theme-nights.
 
