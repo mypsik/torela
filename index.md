@@ -27,6 +27,7 @@ priority: 1.0
 
 
 Torela oli uus ja põnev mängutuba Põhja-Tallinnas, Telliskivi ja Ristiku tänava ristmikul, Kalamaja ja Pelgulinna vahel. Telliskivi Loomelinnaku vahetus läheduses.
+
 KAHJUKS TORELA ON NÜÜD KINNI, TORE OLI TEILE KASUKS!
 
 **Saab tähistada sünnipäevi, lustida mänguhommikutel ja teemaõhtutel!** 
